@@ -1,0 +1,70 @@
+{
+  "id": 1310339477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18093,56.87292,24.18093,56.87292",
+    "geom:latitude":56.87292,
+    "geom:longitude":24.18093,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"800870.0",
+    "gn:asciiname":"Plavniekkalns",
+    "gn:country_code":"LV",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864722,
+    "gn:latitude":56.87292,
+    "gn:longitude":24.18093,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"P\u013cavniekkalns",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plyavniyek-Kalns",
+        "P\u013cavniekkalns"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864722
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"389fe8788d42877eb9b248cec3b462a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310339477,
+            "region_id":85685999
+        }
+    ],
+    "wof:id":1310339477,
+    "wof:lastmodified":1537663243,
+    "wof:name":"Plavniekkalns",
+    "wof:parent_id":85685999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18093,
+    56.87291999999999,
+    24.18093,
+    56.87291999999999
+],
+  "geometry": {"coordinates":[24.18093,56.87291999999999],"type":"Point"}
+}

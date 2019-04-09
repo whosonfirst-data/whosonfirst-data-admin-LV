@@ -1,0 +1,77 @@
+{
+  "id": 1310167417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.31603,56.59844,26.31603,56.59844",
+    "geom:latitude":56.59844,
+    "geom:longitude":26.31603,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700276.0",
+    "gn:asciiname":"Raksala",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456321,
+    "gn:latitude":56.59844,
+    "gn:longitude":26.31603,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Raksala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Raksala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043a\u0441\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Raksalas",
+        "Raksala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456321
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"920a5cd0efdfc3a1079a18cc61759baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310167417,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1310167417,
+    "wof:lastmodified":1537663078,
+    "wof:name":"Raksala",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.31603,
+    56.59844,
+    26.31603,
+    56.59844
+],
+  "geometry": {"coordinates":[26.31603,56.59844],"type":"Point"}
+}

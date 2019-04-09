@@ -1,0 +1,66 @@
+{
+  "id": 1193046621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.40639,56.92583,24.40639,56.92583",
+    "geom:latitude":56.92583,
+    "geom:longitude":24.40639,
+    "gn:admin1_code":"D2",
+    "gn:admin2_code":"809600.0",
+    "gn:asciiname":"Daktermuiza",
+    "gn:country_code":"LV",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460461,
+    "gn:latitude":56.92583,
+    "gn:longitude":24.40639,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Daktermui\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460461
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a183e1953c4aaa0c6c3b17afcbcc9fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193046621,
+            "region_id":85686033
+        }
+    ],
+    "wof:id":1193046621,
+    "wof:lastmodified":1536370243,
+    "wof:name":"Daktermuiza",
+    "wof:parent_id":85686033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.40639,
+    56.92583000000001,
+    24.40639,
+    56.92583000000001
+],
+  "geometry": {"coordinates":[24.40639,56.92583000000001],"type":"Point"}
+}

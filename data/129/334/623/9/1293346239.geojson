@@ -1,0 +1,70 @@
+{
+  "id": 1293346239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.05714,56.5815,27.05714,56.5815",
+    "geom:latitude":56.5815,
+    "geom:longitude":27.05714,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780286.0",
+    "gn:asciiname":"Piertniki",
+    "gn:country_code":"LV",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456674,
+    "gn:latitude":56.5815,
+    "gn:longitude":27.05714,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Piertn\u012bki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piertn\u012bki",
+        "Pirtnieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456674
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"dde3d05d981626c6886d4b3767b8149b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293346239,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1293346239,
+    "wof:lastmodified":1537663086,
+    "wof:name":"Piertniki",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.05714,
+    56.5815,
+    27.05714,
+    56.5815
+],
+  "geometry": {"coordinates":[27.05714,56.5815],"type":"Point"}
+}

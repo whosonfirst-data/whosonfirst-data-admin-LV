@@ -1,0 +1,76 @@
+{
+  "id": 1343888789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48859,56.65358,26.48859,56.65358",
+    "geom:latitude":56.65358,
+    "geom:longitude":26.48859,
+    "gn:admin1_code":"E1",
+    "gn:admin2_code":"701878.0",
+    "gn:asciiname":"Silagals",
+    "gn:country_code":"LV",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455699,
+    "gn:latitude":56.65358,
+    "gn:longitude":26.48859,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Silagals",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Silagals"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043b\u0430\u0433\u0430\u043b\u0441"
+    ],
+    "name:und_x_variant":[
+        "Silagali",
+        "Silagals"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455699
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b3773f61712102e6d7e8ea73a003a079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343888789,
+            "region_id":85686051
+        }
+    ],
+    "wof:id":1343888789,
+    "wof:lastmodified":1537663059,
+    "wof:name":"Silagals",
+    "wof:parent_id":85686051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48859,
+    56.65358000000001,
+    26.48859,
+    56.65358000000001
+],
+  "geometry": {"coordinates":[26.48859,56.65358000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226579379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27031,57.56237,22.27031,57.56237",
+    "geom:latitude":57.56237,
+    "geom:longitude":22.27031,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"885150.0",
+    "gn:asciiname":"Oste",
+    "gn:country_code":"LV",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457013,
+    "gn:latitude":57.56237,
+    "gn:longitude":22.27031,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Oste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457013
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"9eaede3c0e24896d25871ae91ab08ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226579379,
+            "region_id":85686221
+        }
+    ],
+    "wof:id":1226579379,
+    "wof:lastmodified":1536951530,
+    "wof:name":"Oste",
+    "wof:parent_id":85686221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27031,
+    57.56237,
+    22.27031,
+    57.56237
+],
+  "geometry": {"coordinates":[22.27031,57.56237],"type":"Point"}
+}

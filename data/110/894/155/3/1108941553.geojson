@@ -1,0 +1,64 @@
+{
+  "id": 1108941553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2661737861,56.8669303576,24.2661737861,56.8669303576",
+    "geom:latitude":56.86693,
+    "geom:longitude":24.266174,
+    "iso:country":"LV",
+    "lbl:latitude":56.86693,
+    "lbl:longitude":24.266174,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:lav_x_preferred":[
+        "D\u0101rzi\u0146i"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751789,
+        85633279,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LV",
+    "wof:created":1491362496,
+    "wof:geomhash":"e206644125b02bb952ab7445376e1f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751789,
+            "neighbourhood_id":1108941553,
+            "region_id":85686065
+        }
+    ],
+    "wof:id":1108941553,
+    "wof:lastmodified":1497292360,
+    "wof:name":"Darzini",
+    "wof:parent_id":101751789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26617378609508,
+    56.86693035761571,
+    24.26617378609508,
+    56.86693035761571
+],
+  "geometry": {"coordinates":[24.26617378609508,56.86693035761571],"type":"Point"}
+}

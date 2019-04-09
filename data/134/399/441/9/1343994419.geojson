@@ -1,0 +1,72 @@
+{
+  "id": 1343994419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.42386,56.31473,26.42386,56.31473",
+    "geom:latitude":56.31473,
+    "geom:longitude":26.42386,
+    "gn:admin1_code":"90",
+    "gn:admin2_code":"761282.0",
+    "gn:asciiname":"Promi",
+    "gn:country_code":"LV",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456488,
+    "gn:latitude":56.31473,
+    "gn:longitude":26.42386,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Promi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Promi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u043c\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456488
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0337c3702bd115c9e1b162c52f223028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343994419,
+            "region_id":85685943
+        }
+    ],
+    "wof:id":1343994419,
+    "wof:lastmodified":1537663081,
+    "wof:name":"Promi",
+    "wof:parent_id":85685943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.42386,
+    56.31473,
+    26.42386,
+    56.31473
+],
+  "geometry": {"coordinates":[26.42386,56.31473],"type":"Point"}
+}

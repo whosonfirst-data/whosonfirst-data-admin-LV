@@ -1,0 +1,73 @@
+{
+  "id": 1309785899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.87459,56.56301,23.87459,56.56301",
+    "geom:latitude":56.56301,
+    "geom:longitude":23.87459,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540256.0",
+    "gn:asciiname":"Dzirnieki",
+    "gn:country_code":"LV",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460085,
+    "gn:latitude":56.56301,
+    "gn:longitude":23.87459,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Dzirnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Franksesava",
+        "Frank-Sesavas Mui\u017ea",
+        "Dzirniyeki",
+        "Frank-Sesavas",
+        "Dzirnieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460085
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3407baf3ba6e11c9aed8307c9af1315f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1309785899,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1309785899,
+    "wof:lastmodified":1537663194,
+    "wof:name":"Dzirnieki",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.87459,
+    56.56301,
+    23.87459,
+    56.56301
+],
+  "geometry": {"coordinates":[23.87459,56.56301],"type":"Point"}
+}

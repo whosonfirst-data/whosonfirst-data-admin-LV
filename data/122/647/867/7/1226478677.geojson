@@ -1,0 +1,71 @@
+{
+  "id": 1226478677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.05757,57.01165,27.05757,57.01165",
+    "geom:latitude":57.01165,
+    "geom:longitude":27.05757,
+    "gn:admin1_code":"B7",
+    "gn:admin2_code":"387574.0",
+    "gn:asciiname":"Daudzine",
+    "gn:country_code":"LV",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460424,
+    "gn:latitude":57.01165,
+    "gn:longitude":27.05757,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Daudzine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vecdaudzene",
+        "Daudzene",
+        "Daudzine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460424
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f05f71ddfa3d0fcf260753ee7ddb558b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226478677,
+            "region_id":85686185
+        }
+    ],
+    "wof:id":1226478677,
+    "wof:lastmodified":1537663203,
+    "wof:name":"Daudzine",
+    "wof:parent_id":85686185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.05757,
+    57.01165,
+    27.05757,
+    57.01165
+],
+  "geometry": {"coordinates":[27.05757,57.01165],"type":"Point"}
+}

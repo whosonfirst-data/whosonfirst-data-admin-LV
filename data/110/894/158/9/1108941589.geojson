@@ -1,0 +1,64 @@
+{
+  "id": 1108941589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6048766089,56.9466300607,23.6048766089,56.9466300607",
+    "geom:latitude":56.94663,
+    "geom:longitude":23.604877,
+    "iso:country":"LV",
+    "lbl:latitude":56.94663,
+    "lbl:longitude":23.604877,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:lav_x_preferred":[
+        "Burk\u0101nciems"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751787,
+        85633279,
+        85686031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LV",
+    "wof:created":1491362527,
+    "wof:geomhash":"65d91edd74ff9f054b46721f02df177a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751787,
+            "neighbourhood_id":1108941589,
+            "region_id":85686031
+        }
+    ],
+    "wof:id":1108941589,
+    "wof:lastmodified":1497292360,
+    "wof:name":"Burkanciems",
+    "wof:parent_id":101751787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60487660887946,
+    56.94663006068055,
+    23.60487660887946,
+    56.94663006068055
+],
+  "geometry": {"coordinates":[23.60487660887946,56.94663006068055],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209846311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.66444,56.69862,27.66444,56.69862",
+    "geom:latitude":56.69862,
+    "geom:longitude":27.66444,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"681072.0",
+    "gn:asciiname":"Latvisu Stiglova",
+    "gn:country_code":"LV",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458257,
+    "gn:latitude":56.69862,
+    "gn:longitude":27.66444,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Latv\u012b\u0161u Stiglova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Styglovo",
+        "Stiglovo",
+        "Liyel-Stiglava",
+        "Stiglava",
+        "Stiglova",
+        "Latvie\u0161u Stiglava",
+        "Latv\u012b\u0161u Stiglova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458257
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"8d894927a7aeb06a5db536dbc390face",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1209846311,
+            "region_id":85686139
+        }
+    ],
+    "wof:id":1209846311,
+    "wof:lastmodified":1537663137,
+    "wof:name":"Latvisu Stiglova",
+    "wof:parent_id":85686139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.66444000000001,
+    56.69862,
+    27.66444000000001,
+    56.69862
+],
+  "geometry": {"coordinates":[27.66444000000001,56.69862],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242904565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.24675,56.32656,25.24675,56.32656",
+    "geom:latitude":56.32656,
+    "geom:longitude":25.24675,
+    "gn:admin1_code":"98",
+    "gn:admin2_code":"327196.0",
+    "gn:asciiname":"Zalve",
+    "gn:country_code":"LV",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453970,
+    "gn:latitude":56.32656,
+    "gn:longitude":25.24675,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Zalve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Liel-Zalve",
+        "Liyelzalve",
+        "Liel-Zalves Mui\u017ea",
+        "Lielzalve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453970
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"cdc3a33a70974329f57a1f063ed13f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1242904565,
+            "region_id":85685863
+        }
+    ],
+    "wof:id":1242904565,
+    "wof:lastmodified":1537663007,
+    "wof:name":"Zalve",
+    "wof:parent_id":85685863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.24675,
+    56.32656,
+    25.24675,
+    56.32656
+],
+  "geometry": {"coordinates":[25.24675,56.32656],"type":"Point"}
+}

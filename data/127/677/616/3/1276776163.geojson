@@ -1,0 +1,77 @@
+{
+  "id": 1276776163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.77711,57.35903,26.77711,57.35903",
+    "geom:latitude":57.35903,
+    "geom:longitude":26.77711,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"360294.0",
+    "gn:asciiname":"Zeltini",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453913,
+    "gn:latitude":57.35903,
+    "gn:longitude":26.77711,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Zelti\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zelti\u0146i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0442\u0438\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Myza Zeltyni",
+        "Zelti\u0146i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453913
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ebc85561d355453774be539b40e10768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276776163,
+            "region_id":85686279
+        }
+    ],
+    "wof:id":1276776163,
+    "wof:lastmodified":1537663005,
+    "wof:name":"Zeltini",
+    "wof:parent_id":85686279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.77711,
+    57.35903,
+    26.77711,
+    57.35903
+],
+  "geometry": {"coordinates":[26.77711,57.35903],"type":"Point"}
+}

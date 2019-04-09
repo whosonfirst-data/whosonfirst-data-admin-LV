@@ -1,0 +1,71 @@
+{
+  "id": 1343797069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.00754,55.97852,26.00754,55.97852",
+    "geom:latitude":55.97852,
+    "geom:longitude":26.00754,
+    "gn:admin1_code":"69",
+    "gn:admin2_code":"440856.0",
+    "gn:asciiname":"Lavide",
+    "gn:country_code":"LV",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458202,
+    "gn:latitude":55.97852,
+    "gn:longitude":26.00754,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Lavide",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lavides Mui\u017ea",
+        "Myza Lavides",
+        "Lavide"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458202
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e8c6448f321e732c18f4ecbcf74e2ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343797069,
+            "region_id":85685815
+        }
+    ],
+    "wof:id":1343797069,
+    "wof:lastmodified":1537663135,
+    "wof:name":"Lavide",
+    "wof:parent_id":85685815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.00754,
+    55.97852,
+    26.00754,
+    55.97852
+],
+  "geometry": {"coordinates":[26.00754,55.97852],"type":"Point"}
+}

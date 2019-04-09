@@ -1,0 +1,78 @@
+{
+  "id": 1343695649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03106,57.37065,25.03106,57.37065",
+    "geom:latitude":57.37065,
+    "geom:longitude":25.03106,
+    "gn:admin1_code":"A4",
+    "gn:admin2_code":"427580.0",
+    "gn:asciiname":"Stalbe",
+    "gn:country_code":"LV",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":455293,
+    "gn:latitude":57.37065,
+    "gn:longitude":25.03106,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Stalbe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stalbe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043b\u0431\u0435"
+    ],
+    "name:und_x_variant":[
+        "Myza Stalbe",
+        "Stalbes Mui\u017ea",
+        "Stalbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455293,
+        "wk:page":"Stalbe"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"330cfa8ed54c2fb86e64feeec194cbc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343695649,
+            "region_id":85686215
+        }
+    ],
+    "wof:id":1343695649,
+    "wof:lastmodified":1537663047,
+    "wof:name":"Stalbe",
+    "wof:parent_id":85686215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03106,
+    57.37065,
+    25.03106,
+    57.37065
+],
+  "geometry": {"coordinates":[25.03106,57.37065],"type":"Point"}
+}

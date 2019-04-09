@@ -1,0 +1,70 @@
+{
+  "id": 1326753239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.64638,57.13037,25.64638,57.13037",
+    "geom:latitude":57.13037,
+    "geom:longitude":25.64638,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lode",
+    "gn:country_code":"LV",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457833,
+    "gn:latitude":57.13037,
+    "gn:longitude":25.64638,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Lode",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Lodes",
+        "Lodes Mui\u017ea",
+        "Lode"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457833
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1ab09b3546200bb533227baf040ffd7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326753239,
+            "region_id":85686189
+        }
+    ],
+    "wof:id":1326753239,
+    "wof:lastmodified":1537663123,
+    "wof:name":"Lode",
+    "wof:parent_id":85686189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.64638,
+    57.13036999999999,
+    25.64638,
+    57.13036999999999
+],
+  "geometry": {"coordinates":[25.64638,57.13036999999999],"type":"Point"}
+}

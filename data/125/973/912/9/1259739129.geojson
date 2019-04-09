@@ -1,0 +1,72 @@
+{
+  "id": 1259739129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.99907,56.40911,26.99907,56.40911",
+    "geom:latitude":56.40911,
+    "geom:longitude":26.99907,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780288.0",
+    "gn:asciiname":"Kruki",
+    "gn:country_code":"LV",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458537,
+    "gn:latitude":56.40911,
+    "gn:longitude":26.99907,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Kruki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kruki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458537
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f2bfe1aae3329a0956673798cb84d555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259739129,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1259739129,
+    "wof:lastmodified":1537663144,
+    "wof:name":"Kruki",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.99907,
+    56.40911,
+    26.99907,
+    56.40911
+],
+  "geometry": {"coordinates":[26.99907,56.40911],"type":"Point"}
+}

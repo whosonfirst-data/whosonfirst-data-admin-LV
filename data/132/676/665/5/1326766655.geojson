@@ -1,0 +1,77 @@
+{
+  "id": 1326766655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7189,56.74645,27.7189,56.74645",
+    "geom:latitude":56.74645,
+    "geom:longitude":27.7189,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"681068.0",
+    "gn:asciiname":"Rudinova",
+    "gn:country_code":"LV",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456033,
+    "gn:latitude":56.74645,
+    "gn:longitude":27.7189,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Rudi\u0146ova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rudi\u0146eva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0434\u0438\u043d\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rudeneva",
+        "Rudi\u0146eva",
+        "Rudi\u0146ova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456033
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"cd5f177e96f670449e5f47c3757db932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326766655,
+            "region_id":85686139
+        }
+    ],
+    "wof:id":1326766655,
+    "wof:lastmodified":1537663068,
+    "wof:name":"Rudinova",
+    "wof:parent_id":85686139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7189,
+    56.74645,
+    27.7189,
+    56.74645
+],
+  "geometry": {"coordinates":[27.7189,56.74645],"type":"Point"}
+}

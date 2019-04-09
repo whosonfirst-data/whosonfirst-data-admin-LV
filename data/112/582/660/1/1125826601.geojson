@@ -1,0 +1,80 @@
+{
+  "id": 1125826601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.025943,56.547987,21.025943,56.547987",
+    "geom:latitude":56.547987,
+    "geom:longitude":21.025943,
+    "gn:gn_country":null,
+    "iso:country":"LV",
+    "lbl:latitude":56.547987,
+    "lbl:longitude":21.025943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tosmare",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Liep\u0105ja",
+    "qs_pg:photos":150,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":150,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089071,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":855713,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Liep\u0105ja",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":855713,
+        "qs_pg:id":1089071
+    },
+    "wof:country":"LV",
+    "wof:created":1497292304,
+    "wof:geomhash":"a44ddef222eb7f9ca5cf5e9468a4119a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125826601,
+            "region_id":85685799
+        }
+    ],
+    "wof:id":1125826601,
+    "wof:lastmodified":1509394432,
+    "wof:name":"Tosmare",
+    "wof:parent_id":85685799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.025943,
+    56.547987,
+    21.025943,
+    56.547987
+],
+  "geometry": {"coordinates":[21.025943,56.547987],"type":"Point"}
+}

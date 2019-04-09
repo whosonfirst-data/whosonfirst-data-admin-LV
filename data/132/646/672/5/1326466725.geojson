@@ -1,0 +1,66 @@
+{
+  "id": 1326466725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60261,57.71245,25.60261,57.71245",
+    "geom:latitude":57.71245,
+    "geom:longitude":25.60261,
+    "gn:admin1_code":"52",
+    "gn:admin2_code":"967154.0",
+    "gn:asciiname":"Kempeni",
+    "gn:country_code":"LV",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7602833,
+    "gn:latitude":57.71245,
+    "gn:longitude":25.60261,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"\u0136emp\u0113ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602833
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"2361c9a4ea720cc77e82e3b92caf4198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326466725,
+            "region_id":85686283
+        }
+    ],
+    "wof:id":1326466725,
+    "wof:lastmodified":1537075213,
+    "wof:name":"Kempeni",
+    "wof:parent_id":85686283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60261,
+    57.71245,
+    25.60261,
+    57.71245
+],
+  "geometry": {"coordinates":[25.60261,57.71245],"type":"Point"}
+}

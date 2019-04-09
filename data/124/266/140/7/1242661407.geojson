@@ -1,0 +1,70 @@
+{
+  "id": 1242661407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97065,56.54993,25.97065,56.54993",
+    "geom:latitude":56.54993,
+    "geom:longitude":25.97065,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Alunani",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461523,
+    "gn:latitude":56.54993,
+    "gn:longitude":25.97065,
+    "gn:modification_date":"2010-10-28",
+    "gn:name":"Alun\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alunany",
+        "Alun\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461523
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"34a464edba568ed73d1ca6defbd0ac21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1242661407,
+            "region_id":85685991
+        }
+    ],
+    "wof:id":1242661407,
+    "wof:lastmodified":1537663235,
+    "wof:name":"Alunani",
+    "wof:parent_id":85685991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97065,
+    56.54993,
+    25.97065,
+    56.54993
+],
+  "geometry": {"coordinates":[25.97065,56.54993],"type":"Point"}
+}

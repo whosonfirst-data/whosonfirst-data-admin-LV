@@ -1,0 +1,80 @@
+{
+  "id": 1260317969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.20095,57.52542,26.20095,57.52542",
+    "geom:latitude":57.52542,
+    "geom:longitude":26.20095,
+    "gn:admin1_code":"D1",
+    "gn:admin2_code":"941658.0",
+    "gn:asciiname":"Aumeisteri",
+    "gn:country_code":"LV",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461300,
+    "gn:latitude":57.52542,
+    "gn:longitude":26.20095,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Aumeisteri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aumeisteri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0443\u043c\u0435\u0439\u0441\u0442\u0435\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Myza Aumeistera",
+        "Aumeistera Mui\u017ea",
+        "Aumeistera",
+        "Aumeisteris",
+        "Aumeisteri",
+        "Cirga\u013ci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461300
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3a75a6963b8e89bc1e28826a4c78209e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260317969,
+            "region_id":85686249
+        }
+    ],
+    "wof:id":1260317969,
+    "wof:lastmodified":1537663226,
+    "wof:name":"Aumeisteri",
+    "wof:parent_id":85686249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20095,
+    57.52542,
+    26.20095,
+    57.52542
+],
+  "geometry": {"coordinates":[26.20095,57.52542],"type":"Point"}
+}

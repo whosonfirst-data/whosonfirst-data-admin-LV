@@ -1,0 +1,76 @@
+{
+  "id": 1242912065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8875,56.11793,25.8875,56.11793",
+    "geom:latitude":56.11793,
+    "geom:longitude":25.8875,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"560844.0",
+    "gn:asciiname":"Asare",
+    "gn:country_code":"LV",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461372,
+    "gn:latitude":56.11793,
+    "gn:longitude":25.8875,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Asare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Asare"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0430\u0440\u0435"
+    ],
+    "name:und_x_variant":[
+        "Myza Assern",
+        "Asare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461372
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"56f6b2367b812a737d74737099ed9a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1242912065,
+            "region_id":85685819
+        }
+    ],
+    "wof:id":1242912065,
+    "wof:lastmodified":1537663230,
+    "wof:name":"Asare",
+    "wof:parent_id":85685819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8875,
+    56.11793,
+    25.8875,
+    56.11793
+],
+  "geometry": {"coordinates":[25.8875,56.11793],"type":"Point"}
+}

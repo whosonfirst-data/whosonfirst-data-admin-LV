@@ -1,0 +1,75 @@
+{
+  "id": 1243211249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.89455,57.22844,22.89455,57.22844",
+    "geom:latitude":57.22844,
+    "geom:longitude":22.89455,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"880270.0",
+    "gn:asciiname":"Fridrikmuiza",
+    "gn:country_code":"LV",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459933,
+    "gn:latitude":57.22844,
+    "gn:longitude":22.89455,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Fridri\u0137mui\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pridri\u0137i",
+        "Fridri\u0137i",
+        "Fridrichmui\u017ea",
+        "Fridrikhmuyzha",
+        "Fridri\u0137i Pusmui\u017eas Centrs",
+        "Fridrihmui\u017ea",
+        "Fridri\u0137mui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459933
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"dec4ebebe9bd2c37a9f19ed79161144b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243211249,
+            "region_id":85686157
+        }
+    ],
+    "wof:id":1243211249,
+    "wof:lastmodified":1537663190,
+    "wof:name":"Fridrikmuiza",
+    "wof:parent_id":85686157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.89455,
+    57.22844,
+    22.89455,
+    57.22844
+],
+  "geometry": {"coordinates":[22.89455,57.22844],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209013521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.56102,57.32465,27.56102,57.32465",
+    "geom:latitude":57.32465,
+    "geom:longitude":27.56102,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"360268.0",
+    "gn:asciiname":"Sils",
+    "gn:country_code":"LV",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455626,
+    "gn:latitude":57.32465,
+    "gn:longitude":27.56102,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Sils",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455626
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b43b54a59ba60d01acbe356088ac8284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209013521
+        }
+    ],
+    "wof:id":1209013521,
+    "wof:lastmodified":1536300369,
+    "wof:name":"Sils",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.561020000000006,
+    57.32465,
+    27.561020000000006,
+    57.32465
+],
+  "geometry": {"coordinates":[27.56102000000001,57.32465],"type":"Point"}
+}

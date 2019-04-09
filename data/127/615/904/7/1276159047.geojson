@@ -1,0 +1,72 @@
+{
+  "id": 1276159047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36771,57.41403,22.36771,57.41403",
+    "geom:latitude":57.41403,
+    "geom:longitude":22.36771,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"885150.0",
+    "gn:asciiname":"Vadzere",
+    "gn:country_code":"LV",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454623,
+    "gn:latitude":57.41403,
+    "gn:longitude":22.36771,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"V\u0101dzere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Silavkas",
+        "V\u0101dzeres Ciems",
+        "V\u0101dzeres",
+        "V\u0101dzere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454623
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"7ae3a514942ff759ba10d3a9ba1a336f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276159047,
+            "region_id":85686221
+        }
+    ],
+    "wof:id":1276159047,
+    "wof:lastmodified":1537663031,
+    "wof:name":"Vadzere",
+    "wof:parent_id":85686221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36771,
+    57.41403,
+    22.36771,
+    57.41403
+],
+  "geometry": {"coordinates":[22.36771,57.41403],"type":"Point"}
+}

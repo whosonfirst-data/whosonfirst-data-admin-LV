@@ -1,0 +1,71 @@
+{
+  "id": 1243104351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.72885,57.04184,27.72885,57.04184",
+    "geom:latitude":57.04184,
+    "geom:longitude":27.72885,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"381682.0",
+    "gn:asciiname":"Ancipova",
+    "gn:country_code":"LV",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461502,
+    "gn:latitude":57.04184,
+    "gn:longitude":27.72885,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"An\u010dipova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antypava",
+        "Antipava",
+        "An\u010dipova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461502
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"dc5dd74255dd70b23c61ae6f3504c11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243104351,
+            "region_id":85686251
+        }
+    ],
+    "wof:id":1243104351,
+    "wof:lastmodified":1537663234,
+    "wof:name":"Ancipova",
+    "wof:parent_id":85686251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72885,
+    57.04184,
+    27.72885,
+    57.04184
+],
+  "geometry": {"coordinates":[27.72885,57.04184],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360180561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9734,56.58426,25.9734,56.58426",
+    "geom:latitude":56.58426,
+    "geom:longitude":25.9734,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Balgalvji",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461219,
+    "gn:latitude":56.58426,
+    "gn:longitude":25.9734,
+    "gn:modification_date":"2010-10-28",
+    "gn:name":"Balgalvji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baltgalvji",
+        "Balga\u013ci",
+        "Bolgalvi",
+        "Balgaln",
+        "Balgalvji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461219
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b94c10304efb482bbae81f8f75c357db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360180561,
+            "region_id":85685991
+        }
+    ],
+    "wof:id":1360180561,
+    "wof:lastmodified":1537663224,
+    "wof:name":"Balgalvji",
+    "wof:parent_id":85685991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9734,
+    56.58426,
+    25.9734,
+    56.58426
+],
+  "geometry": {"coordinates":[25.9734,56.58426],"type":"Point"}
+}

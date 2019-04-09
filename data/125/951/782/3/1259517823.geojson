@@ -1,0 +1,71 @@
+{
+  "id": 1259517823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03723,56.3533,21.03723,56.3533",
+    "geom:latitude":56.3533,
+    "geom:longitude":21.03723,
+    "gn:admin1_code":"99",
+    "gn:admin2_code":"647978.0",
+    "gn:asciiname":"Laucinciems",
+    "gn:country_code":"LV",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458241,
+    "gn:latitude":56.3533,
+    "gn:longitude":21.03723,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Lauci\u0146ciems",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laugaly",
+        "Lauga\u013ci",
+        "Lauci\u0146ciems"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458241
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"753266ac7b2a14ae6feebeaf46a645a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259517823,
+            "region_id":85685791
+        }
+    ],
+    "wof:id":1259517823,
+    "wof:lastmodified":1537663136,
+    "wof:name":"Laucinciems",
+    "wof:parent_id":85685791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03723,
+    56.3533,
+    21.03723,
+    56.3533
+],
+  "geometry": {"coordinates":[21.03723,56.3533],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276843415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29109,57.06682,22.29109,57.06682",
+    "geom:latitude":57.06682,
+    "geom:longitude":22.29109,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"620280.0",
+    "gn:asciiname":"Renda",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456218,
+    "gn:latitude":57.06682,
+    "gn:longitude":22.29109,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Renda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liels Renda Biju\u0161\u0101s Mui\u017eas Centrs",
+        "Renda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456218
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"538e0058d727b7afedb0cf577aa55c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276843415,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1276843415,
+    "wof:lastmodified":1537663074,
+    "wof:name":"Renda",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29109,
+    57.06681999999999,
+    22.29109,
+    57.06681999999999
+],
+  "geometry": {"coordinates":[22.29109,57.06681999999999],"type":"Point"}
+}

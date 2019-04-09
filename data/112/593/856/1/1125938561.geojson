@@ -1,0 +1,118 @@
+{
+  "id": 1125938561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22556,56.97778,23.22556,56.97778",
+    "geom:latitude":56.97778,
+    "geom:longitude":23.22556,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":689,
+    "gn:population":689,
+    "iso:country":"LV",
+    "lbl:latitude":56.97778,
+    "lbl:longitude":23.22556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043b\u0437\u043a\u0430\u043b\u043d\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Milzkalne"
+    ],
+    "name:eng_x_preferred":[
+        "Milzkalne"
+    ],
+    "name:est_x_preferred":[
+        "Milzkalne"
+    ],
+    "name:fre_x_preferred":[
+        "Milzkalne"
+    ],
+    "name:lav_x_preferred":[
+        "Milzkalne"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0437\u043a\u0430\u043b\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Milzkalne"
+    ],
+    "name:unk_x_variant":[
+        "Slokenbeka"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":457297,
+    "qs_pg:gn_pop":689,
+    "qs_pg:name":"Milzkalne",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Engures Novads",
+    "qs_pg:photos":132,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":132,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":229132,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":854088,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Engures Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457297,
+        "gp:id":854088,
+        "qs_pg:id":229132,
+        "wd:id":"Q6861888"
+    },
+    "wof:country":"LV",
+    "wof:created":1497297044,
+    "wof:geomhash":"57485d68462d3e7246328b215d389754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125938561,
+            "region_id":85686103
+        }
+    ],
+    "wof:id":1125938561,
+    "wof:lastmodified":1514484072,
+    "wof:name":"Milzkalne",
+    "wof:parent_id":85686103,
+    "wof:placetype":"locality",
+    "wof:population":689,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22556,
+    56.97778,
+    23.22556,
+    56.97778
+],
+  "geometry": {"coordinates":[23.22556,56.97778],"type":"Point"}
+}

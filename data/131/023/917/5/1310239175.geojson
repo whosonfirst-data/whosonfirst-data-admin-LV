@@ -1,0 +1,70 @@
+{
+  "id": 1310239175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7667,56.73695,25.7667,56.73695",
+    "geom:latitude":56.73695,
+    "geom:longitude":25.7667,
+    "gn:admin1_code":"A6",
+    "gn:admin2_code":"321492.0",
+    "gn:asciiname":"Vietalva",
+    "gn:country_code":"LV",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454205,
+    "gn:latitude":56.73695,
+    "gn:longitude":25.7667,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Vietalva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Vietalvas",
+        "Vietalva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454205
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"80e0f99a26d6a03aa44fd74f891cfbb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310239175,
+            "region_id":85686055
+        }
+    ],
+    "wof:id":1310239175,
+    "wof:lastmodified":1537663016,
+    "wof:name":"Vietalva",
+    "wof:parent_id":85686055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7667,
+    56.73695,
+    25.7667,
+    56.73695
+],
+  "geometry": {"coordinates":[25.7667,56.73695],"type":"Point"}
+}

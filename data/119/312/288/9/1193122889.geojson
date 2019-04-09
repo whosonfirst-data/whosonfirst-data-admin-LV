@@ -1,0 +1,70 @@
+{
+  "id": 1193122889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35,56.7,23.35,56.7",
+    "geom:latitude":56.7,
+    "geom:longitude":23.35,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"460268.0",
+    "gn:asciiname":"Luste",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457738,
+    "gn:latitude":56.7,
+    "gn:longitude":23.35,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Luste",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lustes Mui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457738
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d671b12895b030b6b5db99eb775762e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193122889,
+            "region_id":85685925
+        }
+    ],
+    "wof:id":1193122889,
+    "wof:lastmodified":1537663120,
+    "wof:name":"Luste",
+    "wof:parent_id":85685925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35,
+    56.7,
+    23.35,
+    56.7
+],
+  "geometry": {"coordinates":[23.35,56.7],"type":"Point"}
+}

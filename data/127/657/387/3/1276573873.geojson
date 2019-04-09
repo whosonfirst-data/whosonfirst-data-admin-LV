@@ -1,0 +1,75 @@
+{
+  "id": 1276573873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.43885,56.68573,23.43885,56.68573",
+    "geom:latitude":56.68573,
+    "geom:longitude":23.43885,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"460252.0",
+    "gn:asciiname":"Berze",
+    "gn:country_code":"LV",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461041,
+    "gn:latitude":56.68573,
+    "gn:longitude":23.43885,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"B\u0113rze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0113rsmui\u017ea",
+        "Berzskiy",
+        "B\u0113rzmui\u017ea",
+        "Berzmui\u017ea Mui\u017eas Centrs",
+        "Bersmuyzha",
+        "B\u0113rze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461041,
+        "wk:page":"B%C4%93rze_Parish"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"39d990c98cff84d5c41603393c264cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276573873,
+            "region_id":85685925
+        }
+    ],
+    "wof:id":1276573873,
+    "wof:lastmodified":1537663219,
+    "wof:name":"Berze",
+    "wof:parent_id":85685925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.43885,
+    56.68573000000001,
+    23.43885,
+    56.68573000000001
+],
+  "geometry": {"coordinates":[23.43885,56.68573000000001],"type":"Point"}
+}

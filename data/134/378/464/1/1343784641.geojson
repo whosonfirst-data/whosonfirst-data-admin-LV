@@ -1,0 +1,65 @@
+{
+  "id": 1343784641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83195,57.0362,25.83195,57.0362",
+    "geom:latitude":57.0362,
+    "geom:longitude":25.83195,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Naureni",
+    "gn:country_code":"LV",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457158,
+    "gn:latitude":57.0362,
+    "gn:longitude":25.83195,
+    "gn:modification_date":"2010-11-15",
+    "gn:name":"Naur\u0117ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457158
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"52e53abba072d30413fa0eef2d7d77aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343784641,
+            "region_id":85686189
+        }
+    ],
+    "wof:id":1343784641,
+    "wof:lastmodified":1536776710,
+    "wof:name":"Naureni",
+    "wof:parent_id":85686189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83195,
+    57.0362,
+    25.83195,
+    57.0362
+],
+  "geometry": {"coordinates":[25.83195,57.0362],"type":"Point"}
+}

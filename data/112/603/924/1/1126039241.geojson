@@ -1,0 +1,107 @@
+{
+  "id": 1126039241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58902,56.83991,23.58902,56.83991",
+    "geom:latitude":56.83991,
+    "geom:longitude":23.58902,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2103,
+    "gn:population":2103,
+    "iso:country":"LV",
+    "lbl:latitude":56.83991,
+    "lbl:longitude":23.58902,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "T\u012bre\u013ci"
+    ],
+    "name:eng_x_preferred":[
+        "T\u012bre\u013ci"
+    ],
+    "name:lav_x_preferred":[
+        "T\u012bre\u013ci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0440\u0435\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "T\u012bre\u013ci"
+    ],
+    "name:unk_x_variant":[
+        "Kalnciems Mui\u017ea"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":454848,
+    "qs_pg:gn_pop":2103,
+    "qs_pg:name":"T\u012bre\u013ci",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Jelgavas Novads",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":262178,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":855687,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Jelgavas Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454848,
+        "gp:id":855687,
+        "qs_pg:id":262178,
+        "wd:id":"Q27486331"
+    },
+    "wof:country":"LV",
+    "wof:created":1497302022,
+    "wof:geomhash":"8a600985c1b324a27a9be9bfbef25f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1126039241,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1126039241,
+    "wof:lastmodified":1553816719,
+    "wof:name":"T\u012bre\u013ci",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:population":2103,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58902,
+    56.83991,
+    23.58902,
+    56.83991
+],
+  "geometry": {"coordinates":[23.58902,56.83991],"type":"Point"}
+}

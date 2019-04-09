@@ -1,0 +1,70 @@
+{
+  "id": 1327165459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8,56.78333,22.8,56.78333",
+    "geom:latitude":56.78333,
+    "geom:longitude":22.8,
+    "gn:admin1_code":"51",
+    "gn:admin2_code":"840680.0",
+    "gn:asciiname":"Cerpi",
+    "gn:country_code":"LV",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460576,
+    "gn:latitude":56.78333,
+    "gn:longitude":22.8,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"C\u0113rpi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tserpi",
+        "C\u0113rpi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460576
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"28951b2b64477123c579ca16d6a451b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327165459,
+            "region_id":85685885
+        }
+    ],
+    "wof:id":1327165459,
+    "wof:lastmodified":1537663206,
+    "wof:name":"Cerpi",
+    "wof:parent_id":85685885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8,
+    56.78333000000001,
+    22.8,
+    56.78333000000001
+],
+  "geometry": {"coordinates":[22.8,56.78333000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209917309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.88561,57.32342,26.88561,57.32342",
+    "geom:latitude":57.32342,
+    "geom:longitude":26.88561,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"360264.0",
+    "gn:asciiname":"Kalncempji",
+    "gn:country_code":"LV",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459106,
+    "gn:latitude":57.32342,
+    "gn:longitude":26.88561,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kalncempji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cempji",
+        "Kalntsemp\u2019i",
+        "Tsempi",
+        "Kalncempi",
+        "Kalncempji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459106
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a827d6d12f1432ad4a43155ec841725c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1209917309,
+            "region_id":85686279
+        }
+    ],
+    "wof:id":1209917309,
+    "wof:lastmodified":1537663162,
+    "wof:name":"Kalncempji",
+    "wof:parent_id":85686279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.88561,
+    57.32342,
+    26.88561,
+    57.32342
+],
+  "geometry": {"coordinates":[26.88561,57.32342],"type":"Point"}
+}

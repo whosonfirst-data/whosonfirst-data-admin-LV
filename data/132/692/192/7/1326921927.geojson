@@ -1,0 +1,70 @@
+{
+  "id": 1326921927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.87754,56.06924,26.87754,56.06924",
+    "geom:latitude":56.06924,
+    "geom:longitude":26.87754,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440242.0",
+    "gn:asciiname":"Graizi",
+    "gn:country_code":"LV",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459731,
+    "gn:latitude":56.06924,
+    "gn:longitude":26.87754,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Grai\u017ei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grai\u017ei",
+        "Grei\u017ei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459731
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3a0e88ee8aaa3bb90151b8e0883944de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326921927,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1326921927,
+    "wof:lastmodified":1537663183,
+    "wof:name":"Graizi",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.87754,
+    56.06924,
+    26.87754,
+    56.06924
+],
+  "geometry": {"coordinates":[26.87754,56.06924],"type":"Point"}
+}

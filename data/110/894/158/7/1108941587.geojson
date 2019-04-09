@@ -1,0 +1,64 @@
+{
+  "id": 1108941587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.592574204,56.9378280279,23.592574204,56.9378280279",
+    "geom:latitude":56.937828,
+    "geom:longitude":23.592574,
+    "iso:country":"LV",
+    "lbl:latitude":56.937828,
+    "lbl:longitude":23.592574,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:lav_x_preferred":[
+        "B\u0101\u017eciems"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751787,
+        85633279,
+        85686031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LV",
+    "wof:created":1491362526,
+    "wof:geomhash":"4f1f9e3d418320ed71edb85a8045a2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751787,
+            "neighbourhood_id":1108941587,
+            "region_id":85686031
+        }
+    ],
+    "wof:id":1108941587,
+    "wof:lastmodified":1497292360,
+    "wof:name":"Bazciems",
+    "wof:parent_id":101751787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59257420400783,
+    56.9378280278576,
+    23.59257420400783,
+    56.9378280278576
+],
+  "geometry": {"coordinates":[23.59257420400783,56.9378280278576],"type":"Point"}
+}

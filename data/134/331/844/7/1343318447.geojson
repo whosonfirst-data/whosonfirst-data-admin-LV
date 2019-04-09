@@ -1,0 +1,72 @@
+{
+  "id": 1343318447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.69605,56.18359,26.69605,56.18359",
+    "geom:latitude":56.18359,
+    "geom:longitude":26.69605,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"760244.0",
+    "gn:asciiname":"Novosele",
+    "gn:country_code":"LV",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457155,
+    "gn:latitude":56.18359,
+    "gn:longitude":26.69605,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Novosele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novosel\u2019ye",
+        "Novose\u013cje",
+        "Navase\u013cje",
+        "Novosele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457155
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"97c7521104c2184ccb8fb229afa88819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343318447,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":1343318447,
+    "wof:lastmodified":1537663101,
+    "wof:name":"Novosele",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69605,
+    56.18359,
+    26.69605,
+    56.18359
+],
+  "geometry": {"coordinates":[26.69605,56.18359],"type":"Point"}
+}

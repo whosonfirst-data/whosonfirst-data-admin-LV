@@ -1,0 +1,74 @@
+{
+  "id": 1226173165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.22667,56.95351,27.22667,56.95351",
+    "geom:latitude":56.95351,
+    "geom:longitude":27.22667,
+    "gn:admin1_code":"B7",
+    "gn:admin2_code":"387574.0",
+    "gn:asciiname":"Pokrata",
+    "gn:country_code":"LV",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456917,
+    "gn:latitude":56.95351,
+    "gn:longitude":27.22667,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Pokrata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liyelpakrata",
+        "Pakrati",
+        "Pokrata",
+        "Pakrate",
+        "Pokroty",
+        "Pakrata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456917
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f06eadf8dc7ccb9e5e37dec4f88d3c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226173165,
+            "region_id":85686185
+        }
+    ],
+    "wof:id":1226173165,
+    "wof:lastmodified":1537663094,
+    "wof:name":"Pokrata",
+    "wof:parent_id":85686185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.22667,
+    56.95351,
+    27.22667,
+    56.95351
+],
+  "geometry": {"coordinates":[27.22667,56.95351],"type":"Point"}
+}

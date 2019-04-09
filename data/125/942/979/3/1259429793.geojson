@@ -1,0 +1,66 @@
+{
+  "id": 1259429793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36056,56.9125,23.36056,56.9125",
+    "geom:latitude":56.9125,
+    "geom:longitude":23.36056,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"900280.0",
+    "gn:asciiname":"Perkone",
+    "gn:country_code":"LV",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456780,
+    "gn:latitude":56.9125,
+    "gn:longitude":23.36056,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"P\u0113rkone",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456780
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f9a20622df8bc11bef75f9214455c096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259429793,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":1259429793,
+    "wof:lastmodified":1536936705,
+    "wof:name":"Perkone",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36056,
+    56.9125,
+    23.36056,
+    56.9125
+],
+  "geometry": {"coordinates":[23.36056,56.9125],"type":"Point"}
+}

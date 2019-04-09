@@ -1,0 +1,78 @@
+{
+  "id": 1360140653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95324,56.75173,26.95324,56.75173",
+    "geom:latitude":56.75173,
+    "geom:longitude":26.95324,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780274.0",
+    "gn:asciiname":"Ideni",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459628,
+    "gn:latitude":56.75173,
+    "gn:longitude":26.95324,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Ide\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ide\u0146i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0435\u0434\u0435\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Idino",
+        "Idina",
+        "Ide\u0146i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459628
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b59889609b129ab4434e424f6d5a5474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360140653,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1360140653,
+    "wof:lastmodified":1537663180,
+    "wof:name":"Ideni",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95324,
+    56.75173,
+    26.95324,
+    56.75173
+],
+  "geometry": {"coordinates":[26.95324,56.75173],"type":"Point"}
+}

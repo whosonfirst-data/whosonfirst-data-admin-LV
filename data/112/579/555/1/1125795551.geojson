@@ -1,0 +1,109 @@
+{
+  "id": 1125795551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36361,57.04083,23.36361,57.04083",
+    "geom:latitude":57.04083,
+    "geom:longitude":23.36361,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":160,
+    "gn:population":160,
+    "iso:country":"LV",
+    "lbl:latitude":57.04083,
+    "lbl:longitude":23.36361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Klapkalnciems"
+    ],
+    "name:eng_x_preferred":[
+        "Klapkalnciems"
+    ],
+    "name:lav_x_preferred":[
+        "Klapkalnciems"
+    ],
+    "name:pol_x_preferred":[
+        "Klapkalnciems"
+    ],
+    "name:swe_x_preferred":[
+        "Klapkalnciems"
+    ],
+    "name:unk_x_variant":[
+        "Klapkalnu Ciems"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":458758,
+    "qs_pg:gn_pop":160,
+    "qs_pg:name":"Klapkalnciems",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Engures Novads",
+    "qs_pg:photos":59,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":59,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":1002867,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":853160,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Engures Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458758,
+        "gp:id":853160,
+        "qs_pg:id":1002867,
+        "wd:id":"Q6419700"
+    },
+    "wof:country":"LV",
+    "wof:created":1497291034,
+    "wof:geomhash":"9a29f3370795252cf3eb6a2d88d7fc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125795551,
+            "region_id":85686103
+        }
+    ],
+    "wof:id":1125795551,
+    "wof:lastmodified":1514484040,
+    "wof:name":"Klapkalnciems",
+    "wof:parent_id":85686103,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36361,
+    57.04083,
+    23.36361,
+    57.04083
+],
+  "geometry": {"coordinates":[23.36361,57.04083],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1242809355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.02559,56.48398,26.02559,56.48398",
+    "geom:latitude":56.48398,
+    "geom:longitude":26.02559,
+    "gn:admin1_code":"85",
+    "gn:admin2_code":"566970.0",
+    "gn:asciiname":"Andrani",
+    "gn:country_code":"LV",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461492,
+    "gn:latitude":56.48398,
+    "gn:longitude":26.02559,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Andr\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461492
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a62560b589fb558aac7b39a937416ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1242809355,
+            "region_id":85685991
+        }
+    ],
+    "wof:id":1242809355,
+    "wof:lastmodified":1536730300,
+    "wof:name":"Andrani",
+    "wof:parent_id":85685991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.02559,
+    56.48398,
+    26.02559,
+    56.48398
+],
+  "geometry": {"coordinates":[26.02559,56.48398],"type":"Point"}
+}

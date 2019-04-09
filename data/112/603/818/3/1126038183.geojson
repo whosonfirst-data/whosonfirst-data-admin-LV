@@ -1,0 +1,110 @@
+{
+  "id": 1126038183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.69113,57.02065,21.69113,57.02065",
+    "geom:latitude":57.02065,
+    "geom:longitude":21.69113,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":980,
+    "gn:population":980,
+    "iso:country":"LV",
+    "lbl:latitude":57.02065,
+    "lbl:longitude":21.69113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u0112dole"
+    ],
+    "name:eng_x_preferred":[
+        "\u0112dole"
+    ],
+    "name:est_x_preferred":[
+        "\u0112dole"
+    ],
+    "name:lav_x_preferred":[
+        "\u0112dole"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0434\u043e\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u0112dole"
+    ],
+    "name:unk_x_variant":[
+        "Myza Yedole"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":460071,
+    "qs_pg:gn_pop":980,
+    "qs_pg:name":"\u0112dole",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Kuld\u013cga Novads",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":18,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":967231,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":852298,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Kuld\u013cga Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460071,
+        "gp:id":852298,
+        "qs_pg:id":967231,
+        "wd:id":"Q14934041"
+    },
+    "wof:country":"LV",
+    "wof:created":1497301934,
+    "wof:geomhash":"2291e183ae8741ce5d5d53a902f021af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1126038183,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1126038183,
+    "wof:lastmodified":1514484179,
+    "wof:name":"\u0112dole",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:population":980,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.69113,
+    57.02065,
+    21.69113,
+    57.02065
+],
+  "geometry": {"coordinates":[21.69113,57.02065],"type":"Point"}
+}

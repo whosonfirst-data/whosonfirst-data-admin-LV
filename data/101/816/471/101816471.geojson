@@ -1,0 +1,210 @@
+{
+  "id": 101816471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000158,
+    "geom:area_square_m":1044707.500844,
+    "geom:bbox":"24.8625194881,57.7603123595,24.888275489,57.7731934336",
+    "geom:latitude":57.768028,
+    "geom:longitude":24.877409,
+    "gn:population":1509,
+    "iso:country":"LV",
+    "lbl:latitude":57.767843,
+    "lbl:longitude":24.880628,
+    "mps:latitude":57.767843,
+    "mps:longitude":24.880628,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644\u0648\u064a\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056c\u0578\u0575\u0561"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0410\u043b\u043e\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043b\u043e\u044f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u043e\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Aloja"
+    ],
+    "name:ces_x_preferred":[
+        "Aloja"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u6d1b\u4e9e"
+    ],
+    "name:cze_x_preferred":[
+        "Aloja"
+    ],
+    "name:dan_x_preferred":[
+        "Aloja"
+    ],
+    "name:deu_x_preferred":[
+        "Aloja"
+    ],
+    "name:dut_x_preferred":[
+        "Aloja"
+    ],
+    "name:eng_x_preferred":[
+        "Myza Aloya"
+    ],
+    "name:eng_x_variant":[
+        "Aloya",
+        "Aloja"
+    ],
+    "name:est_x_preferred":[
+        "Aloja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u0648\u06cc\u0627\u060c \u0644\u062a\u0648\u0646\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Aloja"
+    ],
+    "name:fra_x_preferred":[
+        "Aloja"
+    ],
+    "name:fre_x_preferred":[
+        "Aloja"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10da\u10dd\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Aloja"
+    ],
+    "name:hun_x_preferred":[
+        "Aloja"
+    ],
+    "name:ita_x_preferred":[
+        "Aloja"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10dd\u10d8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u043e\u044f"
+    ],
+    "name:lav_x_preferred":[
+        "Aloja"
+    ],
+    "name:lit_x_preferred":[
+        "Aluoja"
+    ],
+    "name:oci_x_preferred":[
+        "Aloja"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0644\u0648\u06cc\u0627\u060c \u0644\u062a\u0648\u0646\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Aloja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043e\u044f"
+    ],
+    "name:sgs_x_preferred":[
+        "Aluoj\u0117"
+    ],
+    "name:spa_x_preferred":[
+        "Aloja"
+    ],
+    "name:swe_x_preferred":[
+        "Aloja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u043e\u044f"
+    ],
+    "name:und_x_colloquial":[
+        "Alojas Muiza"
+    ],
+    "name:und_x_preferred":[
+        "Aloja"
+    ],
+    "name:und_x_variant":[
+        "Alojas Mui\u017ea"
+    ],
+    "name:unk_x_variant":[
+        "Myza Aloya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0644\u0648\u06cc\u0627\u060c \u0644\u0679\u0648\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u6d1b\u4e9e"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Alojas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Aloja ar lauku teritoriju",
+    "qs:la_lc":"*LV6608",
+    "qs:level":"locality",
+    "qs:loc":"Aloja",
+    "qs:loc_alt":"Aloja",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"019beb16-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":461539,
+        "gp:id":851354,
+        "qs:id":275002,
+        "qs_pg:id":275002,
+        "wd:id":"Q659019",
+        "wk:page":"Aloja, Latvia"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a84557d92c7c792ad9fe37d183ca7508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101816471,
+            "region_id":85686293
+        }
+    ],
+    "wof:id":101816471,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642282,
+    "wof:name":"Aloja",
+    "wof:parent_id":85686293,
+    "wof:placetype":"locality",
+    "wof:population":1509,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86251948809746,
+    57.76031235948204,
+    24.88827548903356,
+    57.77319343355538
+],
+  "geometry": {"coordinates":[[[24.87162730958329,57.77319343355538],[24.88478733093115,57.77170465716483],[24.88442576309023,57.7708283328742],[24.88771553902137,57.77045594667976],[24.8866307354167,57.7678269977892],[24.88827548903356,57.7676407895093],[24.88791389149338,57.76676447615819],[24.88626917488551,57.7669506793909],[24.88482313606562,57.76344539529236],[24.88317855194305,57.76363155812527],[24.8820943472503,57.76100256888685],[24.88044985859869,57.76118869637219],[24.88008853467079,57.76031235948204],[24.87844406749326,57.76049846171111],[24.87880535442338,57.76137480364491],[24.87716083472503,57.76156089070446],[24.87824470640419,57.76418992533974],[24.87495539841677,57.76456206907585],[24.87567793308654,57.76631477376088],[24.86251948809746,57.76780262072299],[24.86288048975877,57.7686790118247],[24.86452538671836,57.76849309667722],[24.8648864457096,57.76936948169248],[24.86653136417681,57.76918354128537],[24.8676147740876,57.77181267492546],[24.86925978811428,57.77162669917419],[24.86962100240885,57.77250306991726],[24.8712660379399,57.77231706890302],[24.87162730958329,57.77319343355538]]],"type":"Polygon"}
+}

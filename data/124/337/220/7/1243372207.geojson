@@ -1,0 +1,75 @@
+{
+  "id": 1243372207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.16386,57.36204,27.16386,57.36204",
+    "geom:latitude":57.36204,
+    "geom:longitude":27.16386,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"360272.0",
+    "gn:asciiname":"Brenci",
+    "gn:country_code":"LV",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460828,
+    "gn:latitude":57.36204,
+    "gn:longitude":27.16386,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Brenci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101lupe",
+        "Brentsi",
+        "Bren\u010du Pusmui\u017eas Centrs",
+        "Brentsy",
+        "Bren\u010di",
+        "Brenci",
+        "Maliena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460828
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f99cf814c8b84ca76430c39df17ee9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243372207,
+            "region_id":85686279
+        }
+    ],
+    "wof:id":1243372207,
+    "wof:lastmodified":1537663212,
+    "wof:name":"Brenci",
+    "wof:parent_id":85686279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.16386,
+    57.36204,
+    27.16386,
+    57.36204
+],
+  "geometry": {"coordinates":[27.16386,57.36204],"type":"Point"}
+}

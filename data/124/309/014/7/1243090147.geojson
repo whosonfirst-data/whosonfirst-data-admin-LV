@@ -1,0 +1,70 @@
+{
+  "id": 1243090147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45809,57.18995,25.45809,57.18995",
+    "geom:latitude":57.18995,
+    "geom:longitude":25.45809,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"420290.0",
+    "gn:asciiname":"Lielmani",
+    "gn:country_code":"LV",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458000,
+    "gn:latitude":57.18995,
+    "gn:longitude":25.45809,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Lielma\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lielma\u0146i",
+        "Lielm\u0101\u0146i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458000
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e8a5da243d8977cbd56cf2194950374a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243090147,
+            "region_id":85686193
+        }
+    ],
+    "wof:id":1243090147,
+    "wof:lastmodified":1537663128,
+    "wof:name":"Lielmani",
+    "wof:parent_id":85686193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45809,
+    57.18995,
+    25.45809,
+    57.18995
+],
+  "geometry": {"coordinates":[25.45809,57.18995],"type":"Point"}
+}

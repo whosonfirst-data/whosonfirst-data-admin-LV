@@ -1,0 +1,79 @@
+{
+  "id": 1343870899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.45456,57.30974,26.45456,57.30974",
+    "geom:latitude":57.30974,
+    "geom:longitude":26.45456,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Malmuiza",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457683,
+    "gn:latitude":57.30974,
+    "gn:longitude":26.45456,
+    "gn:modification_date":"2010-11-27",
+    "gn:name":"M\u0101lmui\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "M\u0101lmui\u017ea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Myza Malumuyzha",
+        "M\u0101lu",
+        "M\u0101li",
+        "Malu Mui\u017ea",
+        "M\u0101lmui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457683
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"70b16b11e35333575c5bc7f040a4bd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343870899,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":1343870899,
+    "wof:lastmodified":1537663119,
+    "wof:name":"Malmuiza",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.45456,
+    57.30974000000001,
+    26.45456,
+    57.30974000000001
+],
+  "geometry": {"coordinates":[26.45456,57.30974000000001],"type":"Point"}
+}

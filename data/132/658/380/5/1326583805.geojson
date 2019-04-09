@@ -1,0 +1,66 @@
+{
+  "id": 1326583805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9512,57.39143,21.9512,57.39143",
+    "geom:latitude":57.39143,
+    "geom:longitude":21.9512,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"980256.0",
+    "gn:asciiname":"Topciems",
+    "gn:country_code":"LV",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454814,
+    "gn:latitude":57.39143,
+    "gn:longitude":21.9512,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Topciems",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454814
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"85f9e9e5729498ffcad4e682d788e44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326583805,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1326583805,
+    "wof:lastmodified":1536910118,
+    "wof:name":"Topciems",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9512,
+    57.39143000000001,
+    21.9512,
+    57.39143000000001
+],
+  "geometry": {"coordinates":[21.9512,57.39143000000001],"type":"Point"}
+}

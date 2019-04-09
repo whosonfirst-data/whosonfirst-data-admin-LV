@@ -1,0 +1,66 @@
+{
+  "id": 1310436489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.15,57.9,25.15,57.9",
+    "geom:latitude":57.9,
+    "geom:longitude":25.15,
+    "gn:admin1_code":"96",
+    "gn:admin2_code":"961082.0",
+    "gn:asciiname":"Tompeteris",
+    "gn:country_code":"LV",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454817,
+    "gn:latitude":57.9,
+    "gn:longitude":25.15,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Tomp\u0113teris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454817
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"86c1e5f44e29f050b90a7b17446e2a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310436489,
+            "region_id":85686303
+        }
+    ],
+    "wof:id":1310436489,
+    "wof:lastmodified":1537015892,
+    "wof:name":"Tompeteris",
+    "wof:parent_id":85686303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15,
+    57.9,
+    25.15,
+    57.9
+],
+  "geometry": {"coordinates":[25.15,57.9],"type":"Point"}
+}

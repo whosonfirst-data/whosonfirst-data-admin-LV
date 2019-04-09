@@ -1,0 +1,102 @@
+{
+  "id": 1125922195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.38664,57.49226,24.38664,57.49226",
+    "geom:latitude":57.49226,
+    "geom:longitude":24.38664,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LV",
+    "lbl:latitude":57.49226,
+    "lbl:longitude":24.38664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "T\u016bja"
+    ],
+    "name:eng_x_preferred":[
+        "T\u016bja"
+    ],
+    "name:lav_x_preferred":[
+        "T\u016bja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Tuya"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7602821,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tuja",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Salacgr\u013cvas Novads",
+    "qs_pg:photos":102,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":102,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":983697,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":855736,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Salacgr\u013cvas Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602821,
+        "gp:id":855736,
+        "qs_pg:id":983697,
+        "wd:id":"Q15219921"
+    },
+    "wof:country":"LV",
+    "wof:created":1497296519,
+    "wof:geomhash":"39c569bb48377f079d2792661dc0bfa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125922195,
+            "region_id":85686287
+        }
+    ],
+    "wof:id":1125922195,
+    "wof:lastmodified":1553816631,
+    "wof:name":"Tuja",
+    "wof:parent_id":85686287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.38664,
+    57.49226,
+    24.38664,
+    57.49226
+],
+  "geometry": {"coordinates":[24.38664,57.49226],"type":"Point"}
+}

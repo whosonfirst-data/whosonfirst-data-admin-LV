@@ -1,0 +1,72 @@
+{
+  "id": 1226516041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.32077,55.86212,27.32077,55.86212",
+    "geom:latitude":55.86212,
+    "geom:longitude":27.32077,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600268.0",
+    "gn:asciiname":"Lielindrica",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458008,
+    "gn:latitude":55.86212,
+    "gn:longitude":27.32077,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Lielindrica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maz Indritsa",
+        "Liel\u0101 Indrica",
+        "Lielindrica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458008
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"561f6212605da0f4dda730d56c81731a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226516041,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":1226516041,
+    "wof:lastmodified":1537663129,
+    "wof:name":"Lielindrica",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.32077,
+    55.86212,
+    27.32077,
+    55.86212
+],
+  "geometry": {"coordinates":[27.32077,55.86212],"type":"Point"}
+}

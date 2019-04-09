@@ -1,0 +1,66 @@
+{
+  "id": 1243424589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75997,56.99499,21.75997,56.99499",
+    "geom:latitude":56.99499,
+    "geom:longitude":21.75997,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"620254.0",
+    "gn:asciiname":"Ivande",
+    "gn:country_code":"LV",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459510,
+    "gn:latitude":56.99499,
+    "gn:longitude":21.75997,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"\u012avande",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459510
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"966c3925ecb8f93e05d44dac468de7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243424589,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1243424589,
+    "wof:lastmodified":1536836060,
+    "wof:name":"Ivande",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75997000000001,
+    56.99499,
+    21.75997000000001,
+    56.99499
+],
+  "geometry": {"coordinates":[21.75997000000001,56.99499],"type":"Point"}
+}

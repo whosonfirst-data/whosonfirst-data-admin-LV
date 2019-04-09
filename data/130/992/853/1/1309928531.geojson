@@ -1,0 +1,79 @@
+{
+  "id": 1309928531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58085,57.42153,25.58085,57.42153",
+    "geom:latitude":57.42153,
+    "geom:longitude":25.58085,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Marsneni",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457635,
+    "gn:latitude":57.42153,
+    "gn:longitude":25.58085,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"M\u0101rsn\u0113ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "M\u0101rsn\u0113\u0146i"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u043d\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Myza Marsneny",
+        "M\u0101rsn\u0113nu Mui\u017eas Centrs",
+        "Myza Marsnenu",
+        "M\u0101rsn\u0113nu Mui\u017ea",
+        "M\u0101rsn\u0113\u0146i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457635
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"371057d3c7d49e1a84181017343b8526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1309928531,
+            "region_id":85686229
+        }
+    ],
+    "wof:id":1309928531,
+    "wof:lastmodified":1537663117,
+    "wof:name":"Marsneni",
+    "wof:parent_id":85686229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58085,
+    57.42153,
+    25.58085,
+    57.42153
+],
+  "geometry": {"coordinates":[25.58085,57.42153],"type":"Point"}
+}

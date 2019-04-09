@@ -1,0 +1,114 @@
+{
+  "id": 1126019297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88416,57.59463,21.88416,57.59463",
+    "geom:latitude":57.59463,
+    "geom:longitude":21.88416,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LV",
+    "lbl:latitude":57.59463,
+    "lbl:longitude":21.88416,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "L\u016b\u017e\u0146a"
+    ],
+    "name:dut_x_preferred":[
+        "L\u016b\u017e\u0146a"
+    ],
+    "name:eng_x_preferred":[
+        "L\u016b\u017e\u0146a"
+    ],
+    "name:est_x_preferred":[
+        "L\u016b\u017e"
+    ],
+    "name:fin_x_preferred":[
+        "L\u016b\u017e\u0146a"
+    ],
+    "name:lav_x_preferred":[
+        "L\u016b\u017e\u0146a"
+    ],
+    "name:lit_x_preferred":[
+        "L\u016b\u017enia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0436\u043d\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Luzhna"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":457726,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"L\u016b\u017e\u0146as",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Ventspils Novads",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":52,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":314208,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":853812,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Ventspils Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457726,
+        "gp:id":853812,
+        "qs_pg:id":314208,
+        "wd:id":"Q2667969"
+    },
+    "wof:country":"LV",
+    "wof:created":1497300734,
+    "wof:geomhash":"69c2003cb3e699686dd20d56e4654a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1126019297,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1126019297,
+    "wof:lastmodified":1514484064,
+    "wof:name":"L\u016b\u017e\u0146as",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88416,
+    57.59463,
+    21.88416,
+    57.59463
+],
+  "geometry": {"coordinates":[21.88416,57.59463],"type":"Point"}
+}

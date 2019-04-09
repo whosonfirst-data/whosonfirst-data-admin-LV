@@ -1,0 +1,66 @@
+{
+  "id": 1293650399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25635,56.7932,23.25635,56.7932",
+    "geom:latitude":56.7932,
+    "geom:longitude":23.25635,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"900248.0",
+    "gn:asciiname":"Dzukstesmuiza",
+    "gn:country_code":"LV",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864326,
+    "gn:latitude":56.7932,
+    "gn:longitude":23.25635,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"D\u017e\u016bkstesmui\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864326
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6bf4980a79d72bd4851cb2be37eb5192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293650399,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":1293650399,
+    "wof:lastmodified":1537047559,
+    "wof:name":"Dzukstesmuiza",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25635,
+    56.7932,
+    23.25635,
+    56.7932
+],
+  "geometry": {"coordinates":[23.25635,56.7932],"type":"Point"}
+}

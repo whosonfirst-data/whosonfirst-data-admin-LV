@@ -1,0 +1,72 @@
+{
+  "id": 1310435807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98535,56.56604,23.98535,56.56604",
+    "geom:latitude":56.56604,
+    "geom:longitude":23.98535,
+    "gn:admin1_code":"A3",
+    "gn:admin2_code":"546778.0",
+    "gn:asciiname":"Emburga",
+    "gn:country_code":"LV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460027,
+    "gn:latitude":56.56604,
+    "gn:longitude":23.98535,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Emburga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amburga",
+        "Emburgas Mui\u017ea",
+        "Emburga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460027,
+        "wk:page":"Emburga"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d81c4d27c5168bdf24816298a04f7c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310435807,
+            "region_id":85685907
+        }
+    ],
+    "wof:id":1310435807,
+    "wof:lastmodified":1537663192,
+    "wof:name":"Emburga",
+    "wof:parent_id":85685907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98535,
+    56.56604,
+    23.98535,
+    56.56604
+],
+  "geometry": {"coordinates":[23.98535,56.56604],"type":"Point"}
+}

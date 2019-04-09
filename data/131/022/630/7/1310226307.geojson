@@ -1,0 +1,81 @@
+{
+  "id": 1310226307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.71291,55.81517,26.71291,55.81517",
+    "geom:latitude":55.81517,
+    "geom:longitude":26.71291,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440286.0",
+    "gn:asciiname":"Skrudaliena",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455522,
+    "gn:latitude":55.81517,
+    "gn:longitude":26.71291,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Skruda\u013ciena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Skruda\u013ciena"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0440\u0443\u0434\u0430\u043b\u0438\u0435\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Skrude\u013cina",
+        "Skrudaliyena",
+        "Skrudelino",
+        "Skrudapiyena",
+        "Skruda\u013ciena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455522,
+        "wk:page":"Skrudaliena"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e610296d30dfb08df49b1a18c85e64eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310226307,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1310226307,
+    "wof:lastmodified":1537663054,
+    "wof:name":"Skrudaliena",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.71291,
+    55.81517,
+    26.71291,
+    55.81517
+],
+  "geometry": {"coordinates":[26.71291,55.81517],"type":"Point"}
+}

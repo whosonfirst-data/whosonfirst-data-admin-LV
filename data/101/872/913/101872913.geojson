@@ -1,0 +1,101 @@
+{
+  "id": 101872913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.643507,55.936745,26.643507,55.936745",
+    "geom:latitude":55.936745,
+    "geom:longitude":26.643507,
+    "iso:country":"LV",
+    "lbl:latitude":55.936745,
+    "lbl:longitude":26.643507,
+    "mps:latitude":55.936745,
+    "mps:longitude":26.643507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lociki"
+    ],
+    "name:eng_x_preferred":[
+        "Lociki"
+    ],
+    "name:est_x_preferred":[
+        "Lociki"
+    ],
+    "name:lav_x_preferred":[
+        "Lociki"
+    ],
+    "name:lit_x_preferred":[
+        "Locikiai"
+    ],
+    "name:unk_x_variant":[
+        "Lotsiki"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Daugavpils novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lociki",
+    "qs:loc_alt":"Lociki",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":55.939167,
+    "wd:longitude":26.647778,
+    "wd:population":1320,
+    "wd:wordcount":167,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458357,
+        "gp:id":853439,
+        "qs:id":1,
+        "wd:id":"Q5620273",
+        "wk:page":"Lociki"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"69c6ae075f4b48d2d202f621adec9cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101872913,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":101872913,
+    "wof:lastmodified":1544751387,
+    "wof:name":"Lociki",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:population":1320,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.643507,
+    55.936745,
+    26.643507,
+    55.936745
+],
+  "geometry": {"coordinates":[26.643507,55.936745],"type":"Point"}
+}

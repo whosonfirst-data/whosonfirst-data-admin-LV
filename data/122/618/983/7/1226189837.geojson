@@ -1,0 +1,71 @@
+{
+  "id": 1226189837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48333,56.53333,22.48333,56.53333",
+    "geom:latitude":56.53333,
+    "geom:longitude":22.48333,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"840298.0",
+    "gn:asciiname":"Vimbas",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454126,
+    "gn:latitude":56.53333,
+    "gn:longitude":22.48333,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Vimbas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vimba",
+        "Vimbas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454126
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"50487d91a694b11f5b48710b14e42635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226189837,
+            "region_id":85685935
+        }
+    ],
+    "wof:id":1226189837,
+    "wof:lastmodified":1537663014,
+    "wof:name":"Vimbas",
+    "wof:parent_id":85685935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48333,
+    56.53333000000001,
+    22.48333,
+    56.53333000000001
+],
+  "geometry": {"coordinates":[22.48333,56.53333000000001],"type":"Point"}
+}

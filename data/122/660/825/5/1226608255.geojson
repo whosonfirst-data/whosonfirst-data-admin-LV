@@ -1,0 +1,70 @@
+{
+  "id": 1226608255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.51903,57.59555,24.51903,57.59555",
+    "geom:latitude":57.59555,
+    "geom:longitude":24.51903,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"660288.0",
+    "gn:asciiname":"Vitrupe",
+    "gn:country_code":"LV",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454056,
+    "gn:latitude":57.59555,
+    "gn:longitude":24.51903,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Vitrupe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melb\u0101r\u017ei",
+        "Vitrupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454056
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d6c29f24f113b6c01b2623a71af01d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226608255,
+            "region_id":85686265
+        }
+    ],
+    "wof:id":1226608255,
+    "wof:lastmodified":1537663011,
+    "wof:name":"Vitrupe",
+    "wof:parent_id":85686265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51903,
+    57.59555,
+    24.51903,
+    57.59555
+],
+  "geometry": {"coordinates":[24.51903,57.59555],"type":"Point"}
+}

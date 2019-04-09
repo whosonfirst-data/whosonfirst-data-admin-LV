@@ -1,0 +1,65 @@
+{
+  "id": 1310490623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.92636,56.49562,25.92636,56.49562",
+    "geom:latitude":56.49562,
+    "geom:longitude":25.92636,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Gravani",
+    "gn:country_code":"LV",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459747,
+    "gn:latitude":56.49562,
+    "gn:longitude":25.92636,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Gravani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459747
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e4bc3bd6bd6d9a8921155a36b71537e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310490623,
+            "region_id":85685991
+        }
+    ],
+    "wof:id":1310490623,
+    "wof:lastmodified":1536939129,
+    "wof:name":"Gravani",
+    "wof:parent_id":85685991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.92636,
+    56.49562,
+    25.92636,
+    56.49562
+],
+  "geometry": {"coordinates":[25.92636,56.49562],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209677421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.29404,56.91,26.29404,56.91",
+    "geom:latitude":56.91,
+    "geom:longitude":26.29404,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700290.0",
+    "gn:asciiname":"Patkule",
+    "gn:country_code":"LV",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456857,
+    "gn:latitude":56.91,
+    "gn:longitude":26.29404,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Patkule",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Patkule"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0442\u043a\u0443\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Patkules Mui\u017ea",
+        "Myza Patkule",
+        "Patkule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456857,
+        "wk:page":"Patkule"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c01972e19b51d35a6c5a44175ea6e604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209677421
+        }
+    ],
+    "wof:id":1209677421,
+    "wof:lastmodified":1537663092,
+    "wof:name":"Patkule",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.29404000000001,
+    56.91,
+    26.29404000000001,
+    56.91
+],
+  "geometry": {"coordinates":[26.29404000000001,56.91],"type":"Point"}
+}

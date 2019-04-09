@@ -1,0 +1,114 @@
+{
+  "id": 1125930441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05113,56.90544,24.05113,56.90544",
+    "geom:latitude":56.90544,
+    "geom:longitude":24.05113,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LV",
+    "lbl:latitude":56.90544,
+    "lbl:longitude":24.05113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "M\u0101rupe"
+    ],
+    "name:eng_x_preferred":[
+        "M\u0101rupe"
+    ],
+    "name:est_x_preferred":[
+        "M\u0101rupe"
+    ],
+    "name:fre_x_preferred":[
+        "M\u0101rupe"
+    ],
+    "name:ger_x_preferred":[
+        "M\u0101rupe"
+    ],
+    "name:lav_x_preferred":[
+        "M\u0101rupe"
+    ],
+    "name:lit_x_preferred":[
+        "Marup\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0443\u043f\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "M\u0101rupe"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":864723,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Marupe",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"M\u0105rupes Novads",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":100,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":984963,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":10645010,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"M\u0105rupes Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864723,
+        "gp:id":10645010,
+        "qs_pg:id":984963,
+        "wd:id":"Q987175"
+    },
+    "wof:country":"LV",
+    "wof:created":1497296787,
+    "wof:geomhash":"16be920ef753bf5134fa5a076b6f5e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125930441,
+            "region_id":85686007
+        }
+    ],
+    "wof:id":1125930441,
+    "wof:lastmodified":1514484069,
+    "wof:name":"Marupe",
+    "wof:parent_id":85686007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05113,
+    56.90544,
+    24.05113,
+    56.90544
+],
+  "geometry": {"coordinates":[24.05113,56.90544],"type":"Point"}
+}

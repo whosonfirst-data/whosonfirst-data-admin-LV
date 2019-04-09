@@ -1,0 +1,66 @@
+{
+  "id": 1344193985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73205,57.17229,27.73205,57.17229",
+    "geom:latitude":57.17229,
+    "geom:longitude":27.73205,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"381692.0",
+    "gn:asciiname":"Kazukalns",
+    "gn:country_code":"LV",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458896,
+    "gn:latitude":57.17229,
+    "gn:longitude":27.73205,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Kazukalns",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458896
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"64a8ca17199a27a7013959998c396be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1344193985,
+            "region_id":85686251
+        }
+    ],
+    "wof:id":1344193985,
+    "wof:lastmodified":1536682819,
+    "wof:name":"Kazukalns",
+    "wof:parent_id":85686251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73205,
+    57.17229,
+    27.73205,
+    57.17229
+],
+  "geometry": {"coordinates":[27.73205,57.17229],"type":"Point"}
+}

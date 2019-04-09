@@ -1,0 +1,72 @@
+{
+  "id": 1310476245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.33232,56.89212,26.33232,56.89212",
+    "geom:latitude":56.89212,
+    "geom:longitude":26.33232,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700290.0",
+    "gn:asciiname":"Jaunpatkule",
+    "gn:country_code":"LV",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456761,
+    "gn:latitude":56.89212,
+    "gn:longitude":26.33232,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Jaunpatkule",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poter",
+        "Poterkalns",
+        "Peterkalni",
+        "Jaunpatkule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456761
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"36d0e576b80210af8d7f0d1a13953607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310476245,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1310476245,
+    "wof:lastmodified":1537663089,
+    "wof:name":"Jaunpatkule",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.33232000000001,
+    56.89212,
+    26.33232000000001,
+    56.89212
+],
+  "geometry": {"coordinates":[26.33232000000001,56.89212],"type":"Point"}
+}

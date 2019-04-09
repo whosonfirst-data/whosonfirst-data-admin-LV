@@ -1,0 +1,66 @@
+{
+  "id": 1293456353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25616,56.42033,22.25616,56.42033",
+    "geom:latitude":56.42033,
+    "geom:longitude":22.25616,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"840248.0",
+    "gn:asciiname":"Grieze",
+    "gn:country_code":"LV",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459716,
+    "gn:latitude":56.42033,
+    "gn:longitude":22.25616,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Grieze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459716
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"498615c6fdb7a9326b461470ccc25e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293456353,
+            "region_id":85685935
+        }
+    ],
+    "wof:id":1293456353,
+    "wof:lastmodified":1536831113,
+    "wof:name":"Grieze",
+    "wof:parent_id":85685935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25616,
+    56.42033000000001,
+    22.25616,
+    56.42033000000001
+],
+  "geometry": {"coordinates":[22.25616,56.42033000000001],"type":"Point"}
+}

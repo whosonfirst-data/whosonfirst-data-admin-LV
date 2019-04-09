@@ -1,0 +1,82 @@
+{
+  "id": 1226020161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.18568,56.35293,28.18568,56.35293",
+    "geom:latitude":56.35293,
+    "geom:longitude":28.18568,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Terehova",
+    "gn:country_code":"LV",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454917,
+    "gn:latitude":56.35293,
+    "gn:longitude":28.18568,
+    "gn:modification_date":"2016-01-27",
+    "gn:name":"Terehova",
+    "gn:population":18,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Terehova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u0445\u043e\u0432\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0435\u0440\u0435\u0445\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Terechava",
+        "Terekhova",
+        "Terechova"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454917
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"9ff89d48c4721a0fa90f99b285ea356b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226020161,
+            "region_id":85685987
+        }
+    ],
+    "wof:id":1226020161,
+    "wof:lastmodified":1537663038,
+    "wof:name":"Terehova",
+    "wof:parent_id":85685987,
+    "wof:placetype":"locality",
+    "wof:population":18,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.18568,
+    56.35293000000001,
+    28.18568,
+    56.35293000000001
+],
+  "geometry": {"coordinates":[28.18568,56.35293000000001],"type":"Point"}
+}

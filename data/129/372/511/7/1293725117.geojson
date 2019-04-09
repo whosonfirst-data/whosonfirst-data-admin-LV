@@ -1,0 +1,71 @@
+{
+  "id": 1293725117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.58063,56.21203,26.58063,56.21203",
+    "geom:latitude":56.21203,
+    "geom:longitude":26.58063,
+    "gn:admin1_code":"E2",
+    "gn:admin2_code":"769190.0",
+    "gn:asciiname":"Kalvi",
+    "gn:country_code":"LV",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459043,
+    "gn:latitude":56.21203,
+    "gn:longitude":26.58063,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Ka\u013cvi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timenova",
+        "Kalvji",
+        "Ka\u013cvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459043
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b78302611861bdf4012bf43c50fe1393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293725117,
+            "region_id":85685857
+        }
+    ],
+    "wof:id":1293725117,
+    "wof:lastmodified":1537663161,
+    "wof:name":"Kalvi",
+    "wof:parent_id":85685857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.58063,
+    56.21203000000001,
+    26.58063,
+    56.21203000000001
+],
+  "geometry": {"coordinates":[26.58063,56.21203000000001],"type":"Point"}
+}

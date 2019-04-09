@@ -1,0 +1,70 @@
+{
+  "id": 1277113233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84246,56.75754,24.84246,56.75754",
+    "geom:latitude":56.75754,
+    "geom:longitude":24.84246,
+    "gn:admin1_code":"79",
+    "gn:admin2_code":"741084.0",
+    "gn:asciiname":"Duklavi",
+    "gn:country_code":"LV",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460206,
+    "gn:latitude":56.75754,
+    "gn:longitude":24.84246,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Dukl\u0101vi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duklavy",
+        "Dukl\u0101vi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460206
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c5521ad70d680f1d5c8f57ee7aa6fa0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1277113233,
+            "region_id":85686011
+        }
+    ],
+    "wof:id":1277113233,
+    "wof:lastmodified":1537663197,
+    "wof:name":"Duklavi",
+    "wof:parent_id":85686011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84246,
+    56.75754000000001,
+    24.84246,
+    56.75754000000001
+],
+  "geometry": {"coordinates":[24.84246,56.75754000000001],"type":"Point"}
+}

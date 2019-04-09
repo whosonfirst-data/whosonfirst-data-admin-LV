@@ -1,0 +1,76 @@
+{
+  "id": 1243206085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89489,56.49304,21.89489,56.49304",
+    "geom:latitude":56.49304,
+    "geom:longitude":21.89489,
+    "gn:admin1_code":"D7",
+    "gn:admin2_code":"649354.0",
+    "gn:asciiname":"Bakuzi",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461233,
+    "gn:latitude":56.49304,
+    "gn:longitude":21.89489,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Baku\u017ei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Baku\u017ei"
+    ],
+    "name:lav_x_variant":[
+        "Bak\u016bze"
+    ],
+    "name:und_x_variant":[
+        "Bakuzhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461233
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"aa73d674d595950a5284f2c5ba8dde0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243206085,
+            "region_id":85685807
+        }
+    ],
+    "wof:id":1243206085,
+    "wof:lastmodified":1537663225,
+    "wof:name":"Bakuzi",
+    "wof:parent_id":85685807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89489,
+    56.49304,
+    21.89489,
+    56.49304
+],
+  "geometry": {"coordinates":[21.89489,56.49304],"type":"Point"}
+}

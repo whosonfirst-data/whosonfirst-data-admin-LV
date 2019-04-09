@@ -1,0 +1,80 @@
+{
+  "id": 1209746607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33821,57.52057,25.33821,57.52057",
+    "geom:latitude":57.52057,
+    "geom:longitude":25.33821,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"960264.0",
+    "gn:asciiname":"Koceni",
+    "gn:country_code":"LV",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":458695,
+    "gn:latitude":57.52057,
+    "gn:longitude":25.33821,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Koc\u0113ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kociena"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0446\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Myza Kok",
+        "Kokmui\u017ea",
+        "Koc\u0113ni",
+        "Kokmuyzha",
+        "Kociena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458695,
+        "wk:page":"Koc%C4%93ni"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c0d02c442e2ffa423f999649aa9ed588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1209746607,
+            "region_id":85686257
+        }
+    ],
+    "wof:id":1209746607,
+    "wof:lastmodified":1537663151,
+    "wof:name":"Koceni",
+    "wof:parent_id":85686257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33821,
+    57.52056999999999,
+    25.33821,
+    57.52056999999999
+],
+  "geometry": {"coordinates":[25.33821,57.52056999999999],"type":"Point"}
+}

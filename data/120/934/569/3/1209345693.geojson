@@ -1,0 +1,67 @@
+{
+  "id": 1209345693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.22526,56.43261,26.22526,56.43261",
+    "geom:latitude":56.43261,
+    "geom:longitude":26.22526,
+    "gn:admin1_code":"90",
+    "gn:admin2_code":"761286.0",
+    "gn:asciiname":"Speleskeiri",
+    "gn:country_code":"LV",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455349,
+    "gn:latitude":56.43261,
+    "gn:longitude":26.22526,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Sp\u0113les\u0137eiri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Speles-T\u2019yeyri",
+        "Sp\u0113les-\u0136eiri",
+        "Sp\u0113les\u0137eiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455349
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ccf459fd92f48f5ba2d416c09e3bbb46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209345693
+        }
+    ],
+    "wof:id":1209345693,
+    "wof:lastmodified":1537663049,
+    "wof:name":"Speleskeiri",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.22526,
+    56.43261,
+    26.22526,
+    56.43261
+],
+  "geometry": {"coordinates":[26.22526,56.43261],"type":"Point"}
+}

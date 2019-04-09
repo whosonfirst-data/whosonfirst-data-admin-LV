@@ -1,0 +1,66 @@
+{
+  "id": 1310435823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44343,56.43331,21.44343,56.43331",
+    "geom:latitude":56.43331,
+    "geom:longitude":21.44343,
+    "gn:admin1_code":"A8",
+    "gn:admin2_code":"641044.0",
+    "gn:asciiname":"Krogzemji",
+    "gn:country_code":"LV",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458551,
+    "gn:latitude":56.43331,
+    "gn:longitude":21.44343,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Krogzemji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458551
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e1c914d8fde9ac94bcd46f448cf13b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310435823,
+            "region_id":85685803
+        }
+    ],
+    "wof:id":1310435823,
+    "wof:lastmodified":1537016909,
+    "wof:name":"Krogzemji",
+    "wof:parent_id":85685803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44343,
+    56.43331,
+    21.44343,
+    56.43331
+],
+  "geometry": {"coordinates":[21.44343,56.43331],"type":"Point"}
+}

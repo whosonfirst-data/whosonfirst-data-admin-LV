@@ -1,0 +1,66 @@
+{
+  "id": 1243017033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91667,57.53333,21.91667,57.53333",
+    "geom:latitude":57.53333,
+    "geom:longitude":21.91667,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"980244.0",
+    "gn:asciiname":"Krani",
+    "gn:country_code":"LV",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458627,
+    "gn:latitude":57.53333,
+    "gn:longitude":21.91667,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Kr\u0101\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458627
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"9d686692a7155d4e70d4fa28ccde5078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243017033,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1243017033,
+    "wof:lastmodified":1536928386,
+    "wof:name":"Krani",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91667,
+    57.53333000000001,
+    21.91667,
+    57.53333000000001
+],
+  "geometry": {"coordinates":[21.91667,57.53333000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276370731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6148,57.48135,25.6148,57.48135",
+    "geom:latitude":57.48135,
+    "geom:longitude":25.6148,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Jaunvale",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459322,
+    "gn:latitude":57.48135,
+    "gn:longitude":25.6148,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Jaunv\u0101le",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Yaunvale",
+        "Jaunv\u0101les Mui\u017ea",
+        "Jaunv\u0101le"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459322
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e3f07959027848c84ccc4951c46954c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276370731,
+            "region_id":85686261
+        }
+    ],
+    "wof:id":1276370731,
+    "wof:lastmodified":1537663169,
+    "wof:name":"Jaunvale",
+    "wof:parent_id":85686261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6148,
+    57.48135,
+    25.6148,
+    57.48135
+],
+  "geometry": {"coordinates":[25.6148,57.48135],"type":"Point"}
+}

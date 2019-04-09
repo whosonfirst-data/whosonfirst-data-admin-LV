@@ -1,0 +1,77 @@
+{
+  "id": 1360085329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3525,56.43262,24.3525,56.43262",
+    "geom:latitude":56.43262,
+    "geom:longitude":24.3525,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"400292.0",
+    "gn:asciiname":"Vecsaule",
+    "gn:country_code":"LV",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454396,
+    "gn:latitude":56.43262,
+    "gn:longitude":24.3525,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Vecsaule",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vecsaule"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0446\u0441\u0430\u0443\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vettsaule",
+        "Vetssaule",
+        "Vecsaule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454396
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"eb3d0030ab1cdffeed2cd6a3ed378522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360085329,
+            "region_id":85685851
+        }
+    ],
+    "wof:id":1360085329,
+    "wof:lastmodified":1537663022,
+    "wof:name":"Vecsaule",
+    "wof:parent_id":85685851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3525,
+    56.43261999999999,
+    24.3525,
+    56.43261999999999
+],
+  "geometry": {"coordinates":[24.3525,56.43261999999999],"type":"Point"}
+}

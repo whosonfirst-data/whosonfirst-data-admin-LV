@@ -1,0 +1,66 @@
+{
+  "id": 1327016987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61058,56.76146,23.61058,56.76146",
+    "geom:latitude":56.76146,
+    "geom:longitude":23.61058,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540258.0",
+    "gn:asciiname":"Rudulciems",
+    "gn:country_code":"LV",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864345,
+    "gn:latitude":56.76146,
+    "gn:longitude":23.61058,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Rudu\u013cciems",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864345
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"54f500b9fa53215a8e2b880bad88c775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327016987,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1327016987,
+    "wof:lastmodified":1536783226,
+    "wof:name":"Rudulciems",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61058,
+    56.76146,
+    23.61058,
+    56.76146
+],
+  "geometry": {"coordinates":[23.61058,56.76146],"type":"Point"}
+}

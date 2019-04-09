@@ -1,0 +1,66 @@
+{
+  "id": 1293234965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06667,56.96667,25.06667,56.96667",
+    "geom:latitude":56.96667,
+    "geom:longitude":25.06667,
+    "gn:admin1_code":"94",
+    "gn:admin2_code":"807400.0",
+    "gn:asciiname":"Torfa Purvs",
+    "gn:country_code":"LV",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454812,
+    "gn:latitude":56.96667,
+    "gn:longitude":25.06667,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Torfa Purvs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454812
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"dda5e55137d21244cbe288fc79851aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293234965,
+            "region_id":85686099
+        }
+    ],
+    "wof:id":1293234965,
+    "wof:lastmodified":1536654138,
+    "wof:name":"Torfa Purvs",
+    "wof:parent_id":85686099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06667,
+    56.96666999999999,
+    25.06667,
+    56.96666999999999
+],
+  "geometry": {"coordinates":[25.06667,56.96666999999999],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209646469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22083,56.43361,23.22083,56.43361",
+    "geom:latitude":56.43361,
+    "geom:longitude":23.22083,
+    "gn:admin1_code":"D5",
+    "gn:admin2_code":"468956.0",
+    "gn:asciiname":"Rocinas",
+    "gn:country_code":"LV",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461048,
+    "gn:latitude":56.43361,
+    "gn:longitude":23.22083,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Roci\u0146as",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0113rzai\u0146i",
+        "B\u0113rzi\u0146i",
+        "Berzayni",
+        "Roci\u0146as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461048
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5a8c8695321145dc805833959684e079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209646469
+        }
+    ],
+    "wof:id":1209646469,
+    "wof:lastmodified":1537663219,
+    "wof:name":"Rocinas",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22083,
+    56.43361,
+    23.22083,
+    56.43361
+],
+  "geometry": {"coordinates":[23.22083,56.43361],"type":"Point"}
+}

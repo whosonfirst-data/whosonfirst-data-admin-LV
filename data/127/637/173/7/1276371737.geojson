@@ -1,0 +1,66 @@
+{
+  "id": 1276371737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.55394,56.07608,27.55394,56.07608",
+    "geom:latitude":56.07608,
+    "geom:longitude":27.55394,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"601046.0",
+    "gn:asciiname":"Ustje",
+    "gn:country_code":"LV",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454649,
+    "gn:latitude":56.07608,
+    "gn:longitude":27.55394,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Ustje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454649
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"8bc81c93d4714398fbe67ef9eaf6438b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276371737,
+            "region_id":85685893
+        }
+    ],
+    "wof:id":1276371737,
+    "wof:lastmodified":1536727516,
+    "wof:name":"Ustje",
+    "wof:parent_id":85685893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.55394,
+    56.07608000000001,
+    27.55394,
+    56.07608000000001
+],
+  "geometry": {"coordinates":[27.55394,56.07608000000001],"type":"Point"}
+}

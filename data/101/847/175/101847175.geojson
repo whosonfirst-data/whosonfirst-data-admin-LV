@@ -1,0 +1,96 @@
+{
+  "id": 101847175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":298513.054223,
+    "geom:bbox":"25.4155942144,57.3841315563,25.4273442635,57.3910242863",
+    "geom:latitude":57.387864,
+    "geom:longitude":25.421752,
+    "geonames:id":"457831,457956",
+    "iso:country":"LV",
+    "lbl:latitude":57.387881,
+    "lbl:longitude":25.421352,
+    "mps:latitude":57.387881,
+    "mps:longitude":25.421352,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Liepa"
+    ],
+    "name:eng_x_preferred":[
+        "Liepa"
+    ],
+    "name:est_x_preferred":[
+        "Liepa"
+    ],
+    "name:lav_x_preferred":[
+        "Liepa"
+    ],
+    "name:lit_x_preferred":[
+        "Liepa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0435\u043f\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Liepas Mui\u017ea"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Priekulu novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Liepas pagasts",
+    "qs:la_lc":"*LV4260",
+    "qs:level":"locality",
+    "qs:loc":"Liepa",
+    "qs:loc_alt":"Liepa",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457956,
+        "gp:id":853680,
+        "qs:id":967274,
+        "wd:id":"Q13553847"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"eea63e7cb92da987851430877dd35b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101847175,
+            "region_id":85686229
+        }
+    ],
+    "wof:id":101847175,
+    "wof:lastmodified":1527714973,
+    "wof:name":"Liepa",
+    "wof:parent_id":85686229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41559421442537,
+    57.3841315563302,
+    25.42734426347715,
+    57.39102428625409
+],
+  "geometry": {"coordinates":[[[25.42357468549818,57.39083171743738],[25.42320537343227,57.38995708614505],[25.4248312783576,57.38976450254603],[25.42446195093032,57.38888987525115],[25.42608780434841,57.38869727687108],[25.42571846156272,57.38782265357355],[25.42734426347715,57.38763004041328],[25.42586695390776,57.3841315563302],[25.42424129540217,57.38432414891497],[25.4246105561985,57.38519877679971],[25.41810762236867,57.38596896847992],[25.41884591860418,57.38771826195108],[25.41559421442537,57.38810325881252],[25.41670159728403,57.39072722127827],[25.42157945286073,57.39014964981794],[25.42194872906288,57.39102428625409],[25.42357468549818,57.39083171743738]]],"type":"Polygon"}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 85901543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5940246.28602,
+    "geom:bbox":"23.769725,56.967044,23.769725,56.967044",
+    "geom:latitude":56.967044,
+    "geom:longitude":23.769725,
+    "gn:id":"",
+    "iso:country":"LV",
+    "lbl:latitude":56.967044,
+    "lbl:longitude":23.769725,
+    "mps:latitude":56.962914,
+    "mps:longitude":23.769064,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"old name when this was part of Riga. now could be alt names for municipality",
+    "mz:tier_locality":1,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Riga Beach"
+    ],
+    "name:eng_x_variant":[
+        "Riga-Strand",
+        "Rigas Iurmala",
+        "Rigas Yurmala",
+        "Rizhskoye Vzmor'ye",
+        "Riga Beach"
+    ],
+    "name:und_x_colloquial":[
+        "Rigas Jurmala",
+        "Rigas Jurmalas Pilseta"
+    ],
+    "name:und_x_preferred":[
+        "R\u012bgas J\u016brmala"
+    ],
+    "name:und_x_variant":[
+        "R\u012bgas J\u016brmalas Pils\u0113ta"
+    ],
+    "name:unk_x_variant":[
+        "R\u012bgas J\u016brmala"
+    ],
+    "qs:gn_adm0_cc":"LV",
+    "qs:gn_id":0,
+    "qs:gn_local":459201,
+    "qs:gn_nam_loc":"jurmala",
+    "qs:gn_namadm1":"13",
+    "qs:local_max":729,
+    "qs:local_sum":1749,
+    "qs:localhoods":6,
+    "qs:name":"R\u012bgas J\u016brmala",
+    "qs:name_adm0":"Latvija",
+    "qs:name_adm1":"J\u017ermala",
+    "qs:name_adm2":"J\u017ermala",
+    "qs:name_en":"Riga Beach",
+    "qs:name_local":"J\u016brmala",
+    "qs:photo_max":19,
+    "qs:photo_sum":92,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424874,
+    "qs:woe_adm1":20070119,
+    "qs:woe_adm2":55844547,
+    "qs:woe_lau":0,
+    "qs:woe_local":852880,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751787,
+        85633279,
+        85686031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":854824,
+        "qs:id":1157439,
+        "qs_pg:id":1157439
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"07f63753f7adb068ba9eb77dfa375d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751787,
+            "neighbourhood_id":85901543,
+            "region_id":85686031
+        }
+    ],
+    "wof:id":85901543,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531932529,
+    "wof:name":"R\u012bgas J\u016brmala",
+    "wof:parent_id":101751787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.769725,
+    56.967044,
+    23.769725,
+    56.967044
+],
+  "geometry": {"coordinates":[23.769725,56.967044],"type":"Point"}
+}

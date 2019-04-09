@@ -1,0 +1,71 @@
+{
+  "id": 1276329021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.94636,57.12735,26.94636,57.12735",
+    "geom:latitude":57.12735,
+    "geom:longitude":26.94636,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"500268.0",
+    "gn:asciiname":"Silenieki",
+    "gn:country_code":"LV",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455668,
+    "gn:latitude":57.12735,
+    "gn:longitude":26.94636,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Silenieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sileneki",
+        "Silenyeki",
+        "Silenieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455668
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"13e237106690bd56b2dfcd23ad6d3725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276329021,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":1276329021,
+    "wof:lastmodified":1537663058,
+    "wof:name":"Silenieki",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.94636,
+    57.12735,
+    26.94636,
+    57.12735
+],
+  "geometry": {"coordinates":[26.94636,57.12735],"type":"Point"}
+}

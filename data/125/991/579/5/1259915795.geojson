@@ -1,0 +1,66 @@
+{
+  "id": 1259915795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78333,56.43333,26.78333,56.43333",
+    "geom:latitude":56.43333,
+    "geom:longitude":26.78333,
+    "gn:admin1_code":"B3",
+    "gn:admin2_code":"766380.0",
+    "gn:asciiname":"Grazi",
+    "gn:country_code":"LV",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459736,
+    "gn:latitude":56.43333,
+    "gn:longitude":26.78333,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Grazi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459736
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0d81fca02c4b8d2292baf724a77b2297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259915795,
+            "region_id":85685977
+        }
+    ],
+    "wof:id":1259915795,
+    "wof:lastmodified":1536732815,
+    "wof:name":"Grazi",
+    "wof:parent_id":85685977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78333,
+    56.43333000000001,
+    26.78333,
+    56.43333000000001
+],
+  "geometry": {"coordinates":[26.78333,56.43333000000001],"type":"Point"}
+}

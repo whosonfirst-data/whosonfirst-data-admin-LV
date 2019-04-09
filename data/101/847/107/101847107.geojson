@@ -1,0 +1,86 @@
+{
+  "id": 101847107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:bbox":"24.1535047653,56.3774122875,24.1789793615,56.3840945439",
+    "geom:latitude":56.380632,
+    "geom:longitude":24.167483,
+    "geonames:id":"456868,457647",
+    "iso:country":"LV",
+    "lbl:latitude":56.381672,
+    "lbl:longitude":24.166228,
+    "mps:latitude":56.381672,
+    "mps:longitude":24.166228,
+    "mz:hierarchy_label":1,
+    "name:cat_x_preferred":[
+        "Parr\u00f2quia d'\u012asl\u012bce"
+    ],
+    "name:dan_x_preferred":[
+        "\u012asl\u012bces pagasts"
+    ],
+    "name:lav_x_preferred":[
+        "\u012asl\u012bces pagasts"
+    ],
+    "name:swe_x_preferred":[
+        "\u012asl\u012bce socken"
+    ],
+    "name:unk_x_variant":[
+        "Mariannas"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Bauskas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"\u012asl\u012bces pagasts",
+    "qs:la_lc":"*LV4068",
+    "qs:level":"locality",
+    "qs:loc":"\u012asl\u012bce",
+    "qs:loc_alt":"Islice",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457647,
+        "gp:id":852667,
+        "qs:id":262157
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"054e1c1e670eaf952e88ad81fb6910ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101847107,
+            "region_id":85685851
+        }
+    ],
+    "wof:id":101847107,
+    "wof:lastmodified":1501214379,
+    "wof:name":"\u012asl\u012bce",
+    "wof:parent_id":85685851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15350476532302,
+    56.37741228746199,
+    24.17897936154895,
+    56.38409454388915
+],
+  "geometry": {"coordinates":[[[24.16785495715624,56.38286326646084],[24.17421184061817,56.38215732537412],[24.17453946100517,56.38303572175181],[24.1777178903933,56.38268262513265],[24.17739020139987,56.38180423790465],[24.17897936154895,56.38162766493912],[24.17766864575293,56.37811412479158],[24.17607962279317,56.37829067945739],[24.17575202247616,56.37741228746199],[24.1725740046756,56.37776532919116],[24.172901536403,56.37864373033358],[24.16495608440891,56.37952601651972],[24.1643013816589,56.37776916756366],[24.16112324368692,56.37812192734981],[24.16145051760049,56.37900036144384],[24.15350476532302,56.37988194273072],[24.15415902322974,56.38163885375434],[24.15574826925217,56.38146256733688],[24.15607545908222,56.38234101685532],[24.16243244564407,56.38163565801909],[24.16275979043002,56.38251408830848],[24.16434903767833,56.38233769530677],[24.16500384903793,56.38409454388915],[24.16818244031754,56.38374168113216],[24.16785495715624,56.38286326646084]]],"type":"Polygon"}
+}

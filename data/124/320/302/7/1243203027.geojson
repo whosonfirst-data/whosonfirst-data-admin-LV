@@ -1,0 +1,73 @@
+{
+  "id": 1243203027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.455,57.54771,22.455,57.54771",
+    "geom:latitude":57.54771,
+    "geom:longitude":22.455,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"885150.0",
+    "gn:asciiname":"Kalki",
+    "gn:country_code":"LV",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459133,
+    "gn:latitude":57.54771,
+    "gn:longitude":22.455,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Ka\u013c\u0137i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kal\u2019timuyzha",
+        "Ka\u013c\u0137umui\u017ea",
+        "Ka\u013c\u0137u Ciems",
+        "Kal\u2019kniski",
+        "Ka\u013c\u0137i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459133
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e3a2efd3f28d6e7f1d6fef9ab93e2506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243203027,
+            "region_id":85686221
+        }
+    ],
+    "wof:id":1243203027,
+    "wof:lastmodified":1537663163,
+    "wof:name":"Kalki",
+    "wof:parent_id":85686221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.455,
+    57.54771,
+    22.455,
+    57.54771
+],
+  "geometry": {"coordinates":[22.455,57.54771],"type":"Point"}
+}

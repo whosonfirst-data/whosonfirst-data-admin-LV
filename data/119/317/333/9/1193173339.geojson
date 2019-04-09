@@ -1,0 +1,70 @@
+{
+  "id": 1193173339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58766,56.52397,25.58766,56.52397",
+    "geom:latitude":56.52397,
+    "geom:longitude":25.58766,
+    "gn:admin1_code":"C2",
+    "gn:admin2_code":"568790.0",
+    "gn:asciiname":"Kleberkalns",
+    "gn:country_code":"LV",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458419,
+    "gn:latitude":56.52397,
+    "gn:longitude":25.58766,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kleberkalns",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kupr\u012b\u0161i",
+        "Pol\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458419
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b0304edd156bb13cb6e7e28da26703e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193173339,
+            "region_id":85685953
+        }
+    ],
+    "wof:id":1193173339,
+    "wof:lastmodified":1537663142,
+    "wof:name":"Kleberkalns",
+    "wof:parent_id":85685953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58766,
+    56.52397,
+    25.58766,
+    56.52397
+],
+  "geometry": {"coordinates":[25.58766,56.52397],"type":"Point"}
+}

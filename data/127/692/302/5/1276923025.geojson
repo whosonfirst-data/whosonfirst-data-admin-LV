@@ -1,0 +1,70 @@
+{
+  "id": 1276923025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07211,56.88736,23.07211,56.88736",
+    "geom:latitude":56.88736,
+    "geom:longitude":23.07211,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"900246.0",
+    "gn:asciiname":"Degole",
+    "gn:country_code":"LV",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460387,
+    "gn:latitude":56.88736,
+    "gn:longitude":23.07211,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Degole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Degoles",
+        "Degole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460387
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1e270bce711893a531eec9253943e002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276923025,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":1276923025,
+    "wof:lastmodified":1537663201,
+    "wof:name":"Degole",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07211,
+    56.88736,
+    23.07211,
+    56.88736
+],
+  "geometry": {"coordinates":[23.07211,56.88736],"type":"Point"}
+}

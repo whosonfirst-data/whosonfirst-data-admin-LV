@@ -1,0 +1,91 @@
+{
+  "id": 101816389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":258740.164477,
+    "geom:bbox":"23.287873616,56.8452573603,23.3017063616,56.8499935691",
+    "geom:latitude":56.847713,
+    "geom:longitude":23.294899,
+    "iso:country":"LV",
+    "lbl:latitude":56.847291,
+    "lbl:longitude":23.2949,
+    "mps:latitude":56.847291,
+    "mps:longitude":23.2949,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Slampe"
+    ],
+    "name:eng_x_preferred":[
+        "Slampe"
+    ],
+    "name:lav_x_preferred":[
+        "Slampe"
+    ],
+    "name:lit_x_preferred":[
+        "Slamp\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u043c\u043f\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Myza Slampe"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Tukuma novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Slampes pagasts",
+    "qs:la_lc":"*LV9080",
+    "qs:level":"locality",
+    "qs:loc":"Slampe",
+    "qs:loc_alt":"Slampe",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455480,
+        "gp:id":855284,
+        "qs:id":1127468,
+        "wd:id":"Q13557571"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"44a8b90f31275236b7d8213d25bf7fc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101816389,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":101816389,
+    "wof:lastmodified":1514484143,
+    "wof:name":"Slampe",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28787361604236,
+    56.84525736028445,
+    23.30170636164462,
+    56.84999356911794
+],
+  "geometry": {"coordinates":[[[23.30170636164462,56.84932962388297],[23.30139355287338,56.84844877908517],[23.29978173098766,56.84861479078006],[23.29884351498515,56.84597223837631],[23.29723178707064,56.84613821708763],[23.29691911849659,56.84525736028445],[23.29047221857888,56.84592105918762],[23.29078474438342,56.84680193350312],[23.28917295096073,56.84696781299834],[23.28948545826006,56.84784869088116],[23.28787361604236,56.8480145549089],[23.2881861048329,56.84889543635882],[23.29140984756913,56.84856367970451],[23.29172242495304,56.84944455158995],[23.29494618668258,56.84911270679976],[23.2952588526644,56.84999356911794],[23.30170636164462,56.84932962388297]]],"type":"Polygon"}
+}

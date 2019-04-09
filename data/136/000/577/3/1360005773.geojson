@@ -1,0 +1,71 @@
+{
+  "id": 1360005773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.34111,56.63,23.34111,56.63",
+    "geom:latitude":56.63,
+    "geom:longitude":23.34111,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"460252.0",
+    "gn:asciiname":"Miltini",
+    "gn:country_code":"LV",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457299,
+    "gn:latitude":56.63,
+    "gn:longitude":23.34111,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Milti\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vecvagares",
+        "Milti\u0146i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457299,
+        "wk:page":"Milti%C5%86i"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6e2990f0e24f1ada7c95e3ff53059e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360005773,
+            "region_id":85685925
+        }
+    ],
+    "wof:id":1360005773,
+    "wof:lastmodified":1537663106,
+    "wof:name":"Miltini",
+    "wof:parent_id":85685925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.34111,
+    56.63,
+    23.34111,
+    56.63
+],
+  "geometry": {"coordinates":[23.34111,56.63],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226410669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.55003,56.43317,27.55003,56.43317",
+    "geom:latitude":56.43317,
+    "geom:longitude":27.55003,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780292.0",
+    "gn:asciiname":"Stolerova",
+    "gn:country_code":"LV",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455226,
+    "gn:latitude":56.43317,
+    "gn:longitude":27.55003,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Sto\u013cerova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sto\u013cerova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u043b\u0435\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Sto\u013cerova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455226
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b271292cbee93a39f74b93b18a359a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226410669,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1226410669,
+    "wof:lastmodified":1537663045,
+    "wof:name":"Stolerova",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.55003,
+    56.43317,
+    27.55003,
+    56.43317
+],
+  "geometry": {"coordinates":[27.55003,56.43317],"type":"Point"}
+}

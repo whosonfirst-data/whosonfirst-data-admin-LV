@@ -1,0 +1,70 @@
+{
+  "id": 1243445999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2918,55.91348,26.2918,55.91348",
+    "geom:latitude":55.91348,
+    "geom:longitude":26.2918,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440288.0",
+    "gn:asciiname":"Timsani",
+    "gn:country_code":"LV",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454857,
+    "gn:latitude":55.91348,
+    "gn:longitude":26.2918,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Tim\u0161\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tymshany",
+        "Tim\u0161\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454857
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b9f4fcc20f154768c990d105f1e0bf5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243445999,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1243445999,
+    "wof:lastmodified":1537663037,
+    "wof:name":"Timsani",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2918,
+    55.91348000000001,
+    26.2918,
+    55.91348000000001
+],
+  "geometry": {"coordinates":[26.2918,55.91348000000001],"type":"Point"}
+}

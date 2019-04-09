@@ -1,0 +1,71 @@
+{
+  "id": 1260363343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.27216,55.94078,27.27216,55.94078",
+    "geom:latitude":55.94078,
+    "geom:longitude":27.27216,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600278.0",
+    "gn:asciiname":"Miglani",
+    "gn:country_code":"LV",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457317,
+    "gn:latitude":55.94078,
+    "gn:longitude":27.27216,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Migl\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miglany",
+        "Migleny",
+        "Migl\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457317
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5bc6d48199058029f911df9ead80520d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260363343,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":1260363343,
+    "wof:lastmodified":1537663107,
+    "wof:name":"Miglani",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.27216,
+    55.94078,
+    27.27216,
+    55.94078
+],
+  "geometry": {"coordinates":[27.27216,55.94078],"type":"Point"}
+}

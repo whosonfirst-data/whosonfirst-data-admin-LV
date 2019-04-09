@@ -1,0 +1,66 @@
+{
+  "id": 1277043605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.04141,56.60142,27.04141,56.60142",
+    "geom:latitude":56.60142,
+    "geom:longitude":27.04141,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780282.0",
+    "gn:asciiname":"Mihalki",
+    "gn:country_code":"LV",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457315,
+    "gn:latitude":56.60142,
+    "gn:longitude":27.04141,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Mihalki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457315
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3882580c343cbad7b11e3014c74c1c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1277043605,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1277043605,
+    "wof:lastmodified":1536820903,
+    "wof:name":"Mihalki",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.04141,
+    56.60142,
+    27.04141,
+    56.60142
+],
+  "geometry": {"coordinates":[27.04141,56.60142],"type":"Point"}
+}

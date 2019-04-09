@@ -1,0 +1,72 @@
+{
+  "id": 1293724137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2348,57.12111,24.2348,57.12111",
+    "geom:latitude":57.12111,
+    "geom:longitude":24.2348,
+    "gn:admin1_code":"53",
+    "gn:admin2_code":"805200.0",
+    "gn:asciiname":"Garupe",
+    "gn:country_code":"LV",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459296,
+    "gn:latitude":57.12111,
+    "gn:longitude":24.2348,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Garupe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arhitekts",
+        "Jaunzemnieki",
+        "Arkhitekts",
+        "Garupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459296
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"75075ac548f94183047a8030b12abb60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293724137,
+            "region_id":85686107
+        }
+    ],
+    "wof:id":1293724137,
+    "wof:lastmodified":1537663168,
+    "wof:name":"Garupe",
+    "wof:parent_id":85686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2348,
+    57.12111,
+    24.2348,
+    57.12111
+],
+  "geometry": {"coordinates":[24.2348,57.12111],"type":"Point"}
+}

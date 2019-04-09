@@ -1,0 +1,70 @@
+{
+  "id": 1226649173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.94922,57.39329,26.94922,57.39329",
+    "geom:latitude":57.39329,
+    "geom:longitude":26.94922,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"360242.0",
+    "gn:asciiname":"Nekene",
+    "gn:country_code":"LV",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457152,
+    "gn:latitude":57.39329,
+    "gn:longitude":26.94922,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"N\u0113\u0137ene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0113\u0137ene",
+        "N\u0113\u0137ens"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457152
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1b10843c4f946221de47c49738b321a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226649173,
+            "region_id":85686279
+        }
+    ],
+    "wof:id":1226649173,
+    "wof:lastmodified":1537663101,
+    "wof:name":"Nekene",
+    "wof:parent_id":85686279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.94922,
+    57.39329,
+    26.94922,
+    57.39329
+],
+  "geometry": {"coordinates":[26.94922,57.39329],"type":"Point"}
+}

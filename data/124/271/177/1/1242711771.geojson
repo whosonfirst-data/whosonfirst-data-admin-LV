@@ -1,0 +1,70 @@
+{
+  "id": 1242711771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8,56.41667,22.8,56.41667",
+    "geom:latitude":56.41667,
+    "geom:longitude":22.8,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Benkava",
+    "gn:country_code":"LV",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461071,
+    "gn:latitude":56.41667,
+    "gn:longitude":22.8,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u0113nkava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Benkava",
+        "B\u0113nkava",
+        "Benkava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461071
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b80075f685b5dd6a17d0a929d186ea10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1242711771,
+            "region_id":85685935
+        }
+    ],
+    "wof:id":1242711771,
+    "wof:lastmodified":1537663220,
+    "wof:name":"Benkava",
+    "wof:parent_id":85685935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8,
+    56.41667,
+    22.8,
+    56.41667
+],
+  "geometry": {"coordinates":[22.8,56.41667],"type":"Point"}
+}

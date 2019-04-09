@@ -1,0 +1,73 @@
+{
+  "id": 1225935721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.65981,55.77065,26.65981,55.77065",
+    "geom:latitude":55.77065,
+    "geom:longitude":26.65981,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440250.0",
+    "gn:asciiname":"Trikopci",
+    "gn:country_code":"LV",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454792,
+    "gn:latitude":55.77065,
+    "gn:longitude":26.65981,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Trikopci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maz Trikopci",
+        "Tr\u012bskapci",
+        "Trikapcu Pusmui\u017ea",
+        "Trikoptsy",
+        "Trikopci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454792
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"70ca5635ce5bc592ecc1b09975d29a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1225935721,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1225935721,
+    "wof:lastmodified":1537663035,
+    "wof:name":"Trikopci",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.65981,
+    55.77065,
+    26.65981,
+    55.77065
+],
+  "geometry": {"coordinates":[26.65981,55.77065],"type":"Point"}
+}

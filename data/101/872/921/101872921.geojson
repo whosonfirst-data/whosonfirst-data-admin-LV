@@ -1,0 +1,99 @@
+{
+  "id": 101872921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.444142,56.614319,23.444142,56.614319",
+    "geom:latitude":56.614319,
+    "geom:longitude":23.444142,
+    "iso:country":"LV",
+    "lbl:latitude":56.614319,
+    "lbl:longitude":23.444142,
+    "mps:latitude":56.614319,
+    "mps:longitude":23.444142,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "N\u0101kotne"
+    ],
+    "name:dut_x_preferred":[
+        "N\u0101kotne"
+    ],
+    "name:eng_x_preferred":[
+        "N\u0101kotne"
+    ],
+    "name:ger_x_preferred":[
+        "N\u0101kotne"
+    ],
+    "name:lav_x_preferred":[
+        "Gl\u016bdas pagasts"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0434\u0441\u043a\u0430\u044f \u0432\u043e\u043b\u043e\u0441\u0442\u044c"
+    ],
+    "name:slo_x_preferred":[
+        "N\u0101kotne"
+    ],
+    "name:unk_x_variant":[
+        "Baku\u013ci"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Jelgavas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"N\u0101kotne",
+    "qs:loc_alt":"Nakotne",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457184,
+        "gp:id":854188,
+        "qs:id":6,
+        "wd:id":"Q15219441"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"72a81bb6d42e1ddd3d911f978214b00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101872921,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":101872921,
+    "wof:lastmodified":1544751390,
+    "wof:name":"N\u0101kotne",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.444142,
+    56.614319,
+    23.444142,
+    56.614319
+],
+  "geometry": {"coordinates":[23.444142,56.614319],"type":"Point"}
+}

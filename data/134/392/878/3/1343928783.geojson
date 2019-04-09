@@ -1,0 +1,66 @@
+{
+  "id": 1343928783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93717,56.00449,26.93717,56.00449",
+    "geom:latitude":56.00449,
+    "geom:longitude":26.93717,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600264.0",
+    "gn:asciiname":"Torpani",
+    "gn:country_code":"LV",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454809,
+    "gn:latitude":56.00449,
+    "gn:longitude":26.93717,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Torp\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454809
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1fdd246f03326468ecec5f577263c81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343928783,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":1343928783,
+    "wof:lastmodified":1537063002,
+    "wof:name":"Torpani",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93717,
+    56.00449,
+    26.93717,
+    56.00449
+],
+  "geometry": {"coordinates":[26.93717,56.00449],"type":"Point"}
+}

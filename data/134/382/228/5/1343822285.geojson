@@ -1,0 +1,71 @@
+{
+  "id": 1343822285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3367,56.85574,25.3367,56.85574",
+    "geom:latitude":56.85574,
+    "geom:longitude":25.3367,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"740292.0",
+    "gn:asciiname":"Aderkasi",
+    "gn:country_code":"LV",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461648,
+    "gn:latitude":56.85574,
+    "gn:longitude":25.3367,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Aderka\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Aderkashi",
+        "Aderka\u0161u Mui\u017ea",
+        "Aderka\u0161i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461648
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"445472564f71d25811da6c098e84764b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343822285,
+            "region_id":85686079
+        }
+    ],
+    "wof:id":1343822285,
+    "wof:lastmodified":1537663239,
+    "wof:name":"Aderkasi",
+    "wof:parent_id":85686079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3367,
+    56.85574,
+    25.3367,
+    56.85574
+],
+  "geometry": {"coordinates":[25.3367,56.85574],"type":"Point"}
+}

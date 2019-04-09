@@ -1,0 +1,70 @@
+{
+  "id": 1260320677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05212,56.68429,22.05212,56.68429",
+    "geom:latitude":56.68429,
+    "geom:longitude":22.05212,
+    "gn:admin1_code":"C9",
+    "gn:admin2_code":"621229.0",
+    "gn:asciiname":"Kusaini",
+    "gn:country_code":"LV",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458377,
+    "gn:latitude":56.68429,
+    "gn:longitude":22.05212,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Ku\u0161ai\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skribai\u0161i",
+        "Ku\u0161ai\u0146i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458377
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c8b8b5189cf5762d79887ec0b6552476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260320677,
+            "region_id":85685871
+        }
+    ],
+    "wof:id":1260320677,
+    "wof:lastmodified":1537663140,
+    "wof:name":"Kusaini",
+    "wof:parent_id":85685871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05212,
+    56.68429,
+    22.05212,
+    56.68429
+],
+  "geometry": {"coordinates":[22.05212,56.68429],"type":"Point"}
+}

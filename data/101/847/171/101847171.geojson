@@ -1,0 +1,95 @@
+{
+  "id": 101847171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":258722.153276,
+    "geom:bbox":"24.6954005408,57.1787992169,24.7061708785,57.1849779622",
+    "geom:latitude":57.182238,
+    "geom:longitude":24.701406,
+    "iso:country":"LV",
+    "lbl:latitude":57.182289,
+    "lbl:longitude":24.701855,
+    "mps:latitude":57.182289,
+    "mps:longitude":24.701855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Ragana"
+    ],
+    "name:eng_x_preferred":[
+        "Ragana"
+    ],
+    "name:est_x_preferred":[
+        "Ragana"
+    ],
+    "name:ger_x_preferred":[
+        "Ragana"
+    ],
+    "name:lav_x_preferred":[
+        "Ragana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0433\u0430\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Raganas"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Krimuldas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Krimuldas pagasts",
+    "qs:la_lc":"*LV8068",
+    "qs:level":"locality",
+    "qs:loc":"Ragana",
+    "qs:loc_alt":"Ragana",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456341,
+        "gp:id":854718,
+        "qs:id":180318,
+        "wd:id":"Q2127204"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ff14971e75a889b56b57a8edca47f47c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101847171,
+            "region_id":85686203
+        }
+    ],
+    "wof:id":101847171,
+    "wof:lastmodified":1553815541,
+    "wof:name":"Ragana",
+    "wof:parent_id":85686203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69540054081585,
+    57.17879921691286,
+    24.70617087851008,
+    57.18497796218116
+],
+  "geometry": {"coordinates":[[[24.70617087851008,57.18406026474224],[24.70407301269074,57.17879921691286],[24.70083284701451,57.17916629700716],[24.70118237144914,57.18004315063422],[24.69956223073035,57.18022666572978],[24.69991173872637,57.18110352320917],[24.69667134152212,57.18147050349359],[24.69702079730376,57.18234736970271],[24.69540054081585,57.18253083488958],[24.69574998014917,57.18340770495115],[24.69737027241274,57.18322423488712],[24.69806928061922,57.18497796218116],[24.70617087851008,57.18406026474224]]],"type":"Polygon"}
+}

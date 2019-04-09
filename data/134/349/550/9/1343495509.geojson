@@ -1,0 +1,69 @@
+{
+  "id": 1343495509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05,57.26667,26.05,57.26667",
+    "geom:latitude":57.26667,
+    "geom:longitude":26.05,
+    "gn:admin1_code":"D1",
+    "gn:asciiname":"Krustakmeni",
+    "gn:country_code":"LV",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458518,
+    "gn:latitude":57.26667,
+    "gn:longitude":26.05,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Krustakmeni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krustakmens",
+        "Krustakmeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458518
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"af1b3b7c57b988ca2f80a2f415e24cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343495509,
+            "region_id":85686207
+        }
+    ],
+    "wof:id":1343495509,
+    "wof:lastmodified":1537663144,
+    "wof:name":"Krustakmeni",
+    "wof:parent_id":85686207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05,
+    57.26667,
+    26.05,
+    57.26667
+],
+  "geometry": {"coordinates":[26.05,57.26667],"type":"Point"}
+}

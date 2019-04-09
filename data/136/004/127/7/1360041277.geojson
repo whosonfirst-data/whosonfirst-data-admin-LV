@@ -1,0 +1,69 @@
+{
+  "id": 1360041277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95636,56.31704,26.95636,56.31704",
+    "geom:latitude":56.31704,
+    "geom:longitude":26.95636,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780252.0",
+    "gn:asciiname":"Leinakolns",
+    "gn:country_code":"LV",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458166,
+    "gn:latitude":56.31704,
+    "gn:longitude":26.95636,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Leinakolns",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leinakalns"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458166
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d577366bba3f40e90f135e70693fbaa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360041277,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1360041277,
+    "wof:lastmodified":1537663133,
+    "wof:name":"Leinakolns",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95636,
+    56.31704000000001,
+    26.95636,
+    56.31704000000001
+],
+  "geometry": {"coordinates":[26.95636,56.31704000000001],"type":"Point"}
+}

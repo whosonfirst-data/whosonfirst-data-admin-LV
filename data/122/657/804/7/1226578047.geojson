@@ -1,0 +1,72 @@
+{
+  "id": 1226578047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.52685,56.80654,22.52685,56.80654",
+    "geom:latitude":56.80654,
+    "geom:longitude":22.52685,
+    "gn:admin1_code":"51",
+    "gn:admin2_code":"840652.0",
+    "gn:asciiname":"Satiki",
+    "gn:country_code":"LV",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455832,
+    "gn:latitude":56.80654,
+    "gn:longitude":22.52685,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sati\u0137i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Vyatssatyti",
+        "Vecsati\u0137u Mui\u017ea",
+        "Vecs\u0101ti\u0137i",
+        "Sati\u0137i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455832
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d7792e7e8b195f220528856088b37d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226578047,
+            "region_id":85685885
+        }
+    ],
+    "wof:id":1226578047,
+    "wof:lastmodified":1537663063,
+    "wof:name":"Satiki",
+    "wof:parent_id":85685885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52685,
+    56.80654000000001,
+    22.52685,
+    56.80654000000001
+],
+  "geometry": {"coordinates":[22.52685,56.80654000000001],"type":"Point"}
+}

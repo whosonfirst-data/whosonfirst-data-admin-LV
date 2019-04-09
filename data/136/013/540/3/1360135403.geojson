@@ -1,0 +1,70 @@
+{
+  "id": 1360135403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08743,56.93659,23.08743,56.93659",
+    "geom:latitude":56.93659,
+    "geom:longitude":23.08743,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"900284.0",
+    "gn:asciiname":"Tume",
+    "gn:country_code":"LV",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454761,
+    "gn:latitude":56.93659,
+    "gn:longitude":23.08743,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Tume",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuma",
+        "Tume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454761
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"642b687c8d65c71bf2241d752e245ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360135403,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":1360135403,
+    "wof:lastmodified":1537663034,
+    "wof:name":"Tume",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08743,
+    56.93659,
+    23.08743,
+    56.93659
+],
+  "geometry": {"coordinates":[23.08743,56.93659],"type":"Point"}
+}

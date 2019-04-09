@@ -1,0 +1,76 @@
+{
+  "id": 1108941513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1037534315,57.0048053775,24.1037534315,57.0048053775",
+    "geom:latitude":57.004805,
+    "geom:longitude":24.103753,
+    "iso:country":"LV",
+    "lbl:latitude":57.004805,
+    "lbl:longitude":24.103753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Kundzi\u0146sala"
+    ],
+    "name:est_x_preferred":[
+        "Kundzi\u0146sala"
+    ],
+    "name:lav_x_preferred":[
+        "Kundzi\u0146sala"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043d\u0434\u0437\u0438\u043d\u044c\u0441\u0430\u043b\u0430"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751789,
+        85633279,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q4247168"
+    },
+    "wof:country":"LV",
+    "wof:created":1491362475,
+    "wof:geomhash":"a0dbf354fa6444d31319a41349a3c18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751789,
+            "neighbourhood_id":1108941513,
+            "region_id":85686065
+        }
+    ],
+    "wof:id":1108941513,
+    "wof:lastmodified":1514484052,
+    "wof:name":"Kundzinsala",
+    "wof:parent_id":101751789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.10375343154575,
+    57.00480537753297,
+    24.10375343154575,
+    57.00480537753297
+],
+  "geometry": {"coordinates":[24.10375343154575,57.00480537753297],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343572813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3495,57.10367,27.3495,57.10367",
+    "geom:latitude":57.10367,
+    "geom:longitude":27.3495,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"380248.0",
+    "gn:asciiname":"Berzkalne",
+    "gn:country_code":"LV",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461015,
+    "gn:latitude":57.10367,
+    "gn:longitude":27.3495,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"B\u0113rzkalne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461015
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"47f664f353d6955a61e7c38109c6503e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343572813,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":1343572813,
+    "wof:lastmodified":1537078470,
+    "wof:name":"Berzkalne",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3495,
+    57.10367,
+    27.3495,
+    57.10367
+],
+  "geometry": {"coordinates":[27.3495,57.10367],"type":"Point"}
+}

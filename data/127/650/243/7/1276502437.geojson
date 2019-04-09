@@ -1,0 +1,66 @@
+{
+  "id": 1276502437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.87891,56.67566,26.87891,56.67566",
+    "geom:latitude":56.67566,
+    "geom:longitude":26.87891,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780274.0",
+    "gn:asciiname":"Lodani",
+    "gn:country_code":"LV",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8063314,
+    "gn:latitude":56.67566,
+    "gn:longitude":26.87891,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"\u013bod\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063314
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e8bc1e99c91121f9ddeb99663a73031f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276502437,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1276502437,
+    "wof:lastmodified":1537047609,
+    "wof:name":"Lodani",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.87891,
+    56.67566,
+    26.87891,
+    56.67566
+],
+  "geometry": {"coordinates":[26.87891,56.67566],"type":"Point"}
+}

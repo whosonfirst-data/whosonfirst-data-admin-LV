@@ -1,0 +1,69 @@
+{
+  "id": 1292915155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.38901,57.23776,27.38901,57.23776",
+    "geom:latitude":57.23776,
+    "geom:longitude":27.38901,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"380294.0",
+    "gn:asciiname":"Aizezere",
+    "gn:country_code":"LV",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461520,
+    "gn:latitude":57.23776,
+    "gn:longitude":27.38901,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Aizezere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alzezere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461520
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"17160737c832057e3c5ec671d61b6d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1292915155,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":1292915155,
+    "wof:lastmodified":1537663235,
+    "wof:name":"Aizezere",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.38901,
+    57.23776,
+    27.38901,
+    57.23776
+],
+  "geometry": {"coordinates":[27.38901,57.23776],"type":"Point"}
+}

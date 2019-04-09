@@ -1,0 +1,69 @@
+{
+  "id": 1310563793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.08303,56.40966,28.08303,56.40966",
+    "geom:latitude":56.40966,
+    "geom:longitude":28.08303,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"680246.0",
+    "gn:asciiname":"Zabolocki",
+    "gn:country_code":"LV",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454023,
+    "gn:latitude":56.40966,
+    "gn:longitude":28.08303,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Zabolocki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaboloski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454023
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"94a099c68d29cb038e859207d614408c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310563793,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":1310563793,
+    "wof:lastmodified":1537663010,
+    "wof:name":"Zabolocki",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.08303,
+    56.40966,
+    28.08303,
+    56.40966
+],
+  "geometry": {"coordinates":[28.08303,56.40966],"type":"Point"}
+}

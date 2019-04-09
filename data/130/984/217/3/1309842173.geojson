@@ -1,0 +1,85 @@
+{
+  "id": 1309842173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45609,57.88349,25.45609,57.88349",
+    "geom:latitude":57.88349,
+    "geom:longitude":25.45609,
+    "gn:admin1_code":"97",
+    "gn:admin2_code":"967372.0",
+    "gn:asciiname":"Naukseni",
+    "gn:country_code":"LV",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":457161,
+    "gn:latitude":57.88349,
+    "gn:longitude":25.45609,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Nauk\u0161\u0113ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nauk\u0161\u0113ni"
+    ],
+    "name:est_x_historical":[
+        "Nausk\u00fcla"
+    ],
+    "name:est_x_preferred":[
+        "Nausk\u00fcla"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u043a\u0448\u0435\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Nauksheny",
+        "Myza Nauksheny",
+        "Nauk\u0161\u0113nu Mui\u017ea",
+        "Nauk\u0161\u0113ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457161,
+        "wk:page":"Nauk%C5%A1%C4%93ni"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e177c94b503b51ad05cfcda23326fc51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1309842173,
+            "region_id":85686299
+        }
+    ],
+    "wof:id":1309842173,
+    "wof:lastmodified":1537663102,
+    "wof:name":"Naukseni",
+    "wof:parent_id":85686299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45609,
+    57.88349,
+    25.45609,
+    57.88349
+],
+  "geometry": {"coordinates":[25.45609,57.88349],"type":"Point"}
+}

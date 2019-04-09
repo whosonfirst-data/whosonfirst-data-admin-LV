@@ -1,0 +1,71 @@
+{
+  "id": 1293554919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.01083,56.28668,28.01083,56.28668",
+    "geom:latitude":56.28668,
+    "geom:longitude":28.01083,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"680260.0",
+    "gn:asciiname":"Sobolina",
+    "gn:country_code":"LV",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455728,
+    "gn:latitude":56.28668,
+    "gn:longitude":28.01083,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Sobo\u013cina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sobo\u013cina",
+        "Sobolino",
+        "Sibi\u013cina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455728
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"90cee672cab65e02d617aaf327ae53f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293554919,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":1293554919,
+    "wof:lastmodified":1537663060,
+    "wof:name":"Sobolina",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.01083,
+    56.28668,
+    28.01083,
+    56.28668
+],
+  "geometry": {"coordinates":[28.01083,56.28668],"type":"Point"}
+}

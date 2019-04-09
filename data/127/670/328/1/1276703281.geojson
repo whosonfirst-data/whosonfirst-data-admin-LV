@@ -1,0 +1,71 @@
+{
+  "id": 1276703281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64665,56.66079,21.64665,56.66079",
+    "geom:latitude":56.66079,
+    "geom:longitude":21.64665,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"640668.0",
+    "gn:asciiname":"Mazbojas",
+    "gn:country_code":"LV",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457578,
+    "gn:latitude":56.66079,
+    "gn:longitude":21.64665,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Mazbojas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazvojas",
+        "Mazboyas",
+        "Mazboja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457578
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e40dcf3cc496b2d65cc38feb4449c965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276703281,
+            "region_id":85685867
+        }
+    ],
+    "wof:id":1276703281,
+    "wof:lastmodified":1537663115,
+    "wof:name":"Mazbojas",
+    "wof:parent_id":85685867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64665,
+    56.66079000000001,
+    21.64665,
+    56.66079000000001
+],
+  "geometry": {"coordinates":[21.64665,56.66079000000001],"type":"Point"}
+}

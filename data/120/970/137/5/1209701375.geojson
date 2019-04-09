@@ -1,0 +1,71 @@
+{
+  "id": 1209701375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18333,56.63333,23.18333,56.63333",
+    "geom:latitude":56.63333,
+    "geom:longitude":23.18333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"460246.0",
+    "gn:asciiname":"Mazberze",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457582,
+    "gn:latitude":56.63333,
+    "gn:longitude":23.18333,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Mazb\u0113rze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Mazberze",
+        "Mazb\u0113rezes Mui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457582
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c49f2b1089f8e47d234f90cbf1cb7718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1209701375,
+            "region_id":85685925
+        }
+    ],
+    "wof:id":1209701375,
+    "wof:lastmodified":1537663116,
+    "wof:name":"Mazberze",
+    "wof:parent_id":85685925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18333,
+    56.63333000000001,
+    23.18333,
+    56.63333000000001
+],
+  "geometry": {"coordinates":[23.18333,56.63333000000001],"type":"Point"}
+}

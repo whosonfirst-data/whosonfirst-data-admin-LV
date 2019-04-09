@@ -1,0 +1,72 @@
+{
+  "id": 1360239023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22903,57.37628,22.22903,57.37628",
+    "geom:latitude":57.37628,
+    "geom:longitude":22.22903,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"980260.0",
+    "gn:asciiname":"Amele",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461511,
+    "gn:latitude":57.37628,
+    "gn:longitude":22.22903,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Amele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ame\u013ci",
+        "Ame\u013cmui\u017ea Mui\u017eas Centrs",
+        "Amele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461511
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"516fe2d1f9c131af37b052bcea218953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360239023,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1360239023,
+    "wof:lastmodified":1537663235,
+    "wof:name":"Amele",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22903,
+    57.37628,
+    22.22903,
+    57.37628
+],
+  "geometry": {"coordinates":[22.22903,57.37628],"type":"Point"}
+}

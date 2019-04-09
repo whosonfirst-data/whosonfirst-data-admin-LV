@@ -1,0 +1,70 @@
+{
+  "id": 1292939503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91444,56.95722,23.91444,56.95722",
+    "geom:latitude":56.95722,
+    "geom:longitude":23.91444,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"804948.0",
+    "gn:asciiname":"Sleperi",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455457,
+    "gn:latitude":56.95722,
+    "gn:longitude":23.91444,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Sl\u0113peri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sl\u0113perkrogs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455457
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5e55108b9e0e0dc072ada51f8c1a49b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1292939503,
+            "region_id":85686027
+        }
+    ],
+    "wof:id":1292939503,
+    "wof:lastmodified":1537663052,
+    "wof:name":"Sleperi",
+    "wof:parent_id":85686027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91444,
+    56.95721999999999,
+    23.91444,
+    56.95721999999999
+],
+  "geometry": {"coordinates":[23.91444,56.95721999999999],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125825917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.172668,56.984465,24.172668,56.984465",
+    "geom:latitude":56.984465,
+    "geom:longitude":24.172668,
+    "gn:gn_country":null,
+    "iso:country":"LV",
+    "lbl:latitude":56.984465,
+    "lbl:longitude":24.172668,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u010ciekurkalns",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"R\u013cga",
+    "qs_pg:photos":125,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":125,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1088550,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":852000,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"R\u013cga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":852000,
+        "qs_pg:id":1088550
+    },
+    "wof:country":"LV",
+    "wof:created":1497292277,
+    "wof:geomhash":"c65c9ddcb10d180d51e1cdc8e7a7d9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125825917,
+            "region_id":85686065
+        }
+    ],
+    "wof:id":1125825917,
+    "wof:lastmodified":1509394391,
+    "wof:name":"\u010ciekurkalns",
+    "wof:parent_id":85686065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.172668,
+    56.984465,
+    24.172668,
+    56.984465
+],
+  "geometry": {"coordinates":[24.172668,56.984465],"type":"Point"}
+}

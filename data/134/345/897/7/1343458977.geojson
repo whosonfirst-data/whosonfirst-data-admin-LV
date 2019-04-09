@@ -1,0 +1,70 @@
+{
+  "id": 1343458977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41574,56.41761,24.41574,56.41761",
+    "geom:latitude":56.41761,
+    "geom:longitude":24.41574,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"400292.0",
+    "gn:asciiname":"Kageni",
+    "gn:country_code":"LV",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459184,
+    "gn:latitude":56.41761,
+    "gn:longitude":24.41574,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Ka\u0123eni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kag\u0123eni",
+        "Ka\u0123eni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459184
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f84f9575e56c84133bdb17dfe2dce879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343458977,
+            "region_id":85685851
+        }
+    ],
+    "wof:id":1343458977,
+    "wof:lastmodified":1537663165,
+    "wof:name":"Kageni",
+    "wof:parent_id":85685851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41574,
+    56.41761,
+    24.41574,
+    56.41761
+],
+  "geometry": {"coordinates":[24.41574,56.41761],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343394829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80766,56.69309,23.80766,56.69309",
+    "geom:latitude":56.69309,
+    "geom:longitude":23.80766,
+    "gn:admin1_code":"A3",
+    "gn:admin2_code":"546766.0",
+    "gn:asciiname":"Aizupe",
+    "gn:country_code":"LV",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864360,
+    "gn:latitude":56.69309,
+    "gn:longitude":23.80766,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Aizupe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864360
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c58ac9f2fc984f340ba44ed74bf9f634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343394829,
+            "region_id":85685907
+        }
+    ],
+    "wof:id":1343394829,
+    "wof:lastmodified":1536839948,
+    "wof:name":"Aizupe",
+    "wof:parent_id":85685907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80766,
+    56.69309000000001,
+    23.80766,
+    56.69309000000001
+],
+  "geometry": {"coordinates":[23.80766,56.69309000000001],"type":"Point"}
+}

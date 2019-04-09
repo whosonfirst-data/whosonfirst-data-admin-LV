@@ -1,0 +1,71 @@
+{
+  "id": 1326866321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5129,57.48258,25.5129,57.48258",
+    "geom:latitude":57.48258,
+    "geom:longitude":25.5129,
+    "gn:admin1_code":"50",
+    "gn:admin2_code":"964762.0",
+    "gn:asciiname":"Kiguli",
+    "gn:country_code":"LV",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458834,
+    "gn:latitude":57.48258,
+    "gn:longitude":25.5129,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"\u0136igu\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tigulys",
+        "\u0136igulis",
+        "\u0136igu\u013ci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458834
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d290d05b9a3e6da804f86de0ce26468f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326866321,
+            "region_id":85686261
+        }
+    ],
+    "wof:id":1326866321,
+    "wof:lastmodified":1537663155,
+    "wof:name":"Kiguli",
+    "wof:parent_id":85686261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5129,
+    57.48258000000001,
+    25.5129,
+    57.48258000000001
+],
+  "geometry": {"coordinates":[25.5129,57.48258000000001],"type":"Point"}
+}

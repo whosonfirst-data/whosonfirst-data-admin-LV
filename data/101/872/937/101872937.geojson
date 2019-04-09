@@ -1,0 +1,98 @@
+{
+  "id": 101872937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.386418,56.923878,24.386418,56.923878",
+    "geom:latitude":56.923878,
+    "geom:longitude":24.386418,
+    "iso:country":"LV",
+    "lbl:latitude":56.923878,
+    "lbl:longitude":24.386418,
+    "mps:latitude":56.923878,
+    "mps:longitude":24.386418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Upeslejas"
+    ],
+    "name:eng_x_preferred":[
+        "Upeslejas"
+    ],
+    "name:lav_x_preferred":[
+        "Upeslejas"
+    ],
+    "name:lit_x_preferred":[
+        "Upesliejos"
+    ],
+    "name:unk_x_variant":[
+        "Upesleyas"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Stopinu novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Upeslejas",
+    "qs:loc_alt":"Upeslejas",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":56.924167,
+    "wd:longitude":24.383056,
+    "wd:population":1183,
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864727,
+        "gp:id":56070027,
+        "wd:id":"Q5619814",
+        "wk:page":"Upeslejas"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"7c3da3c6a5dd50ac39f575668ebc474a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101872937,
+            "region_id":85686033
+        }
+    ],
+    "wof:id":101872937,
+    "wof:lastmodified":1544751397,
+    "wof:name":"Upeslejas",
+    "wof:parent_id":85686033,
+    "wof:placetype":"locality",
+    "wof:population":1183,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.386418,
+    56.923878,
+    24.386418,
+    56.923878
+],
+  "geometry": {"coordinates":[24.386418,56.923878],"type":"Point"}
+}

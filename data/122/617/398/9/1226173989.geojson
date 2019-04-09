@@ -1,0 +1,71 @@
+{
+  "id": 1226173989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07858,56.31711,25.07858,56.31711",
+    "geom:latitude":56.31711,
+    "geom:longitude":25.07858,
+    "gn:admin1_code":"98",
+    "gn:admin2_code":"327196.0",
+    "gn:asciiname":"Zvejnieki",
+    "gn:country_code":"LV",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453776,
+    "gn:latitude":56.31711,
+    "gn:longitude":25.07858,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Zvejnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zvaynek",
+        "Zveynieki",
+        "Zvejnieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453776
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a8d44f5fa2fe38a1abc736ee1e1d4db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226173989,
+            "region_id":85685863
+        }
+    ],
+    "wof:id":1226173989,
+    "wof:lastmodified":1537663001,
+    "wof:name":"Zvejnieki",
+    "wof:parent_id":85685863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07858,
+    56.31711,
+    25.07858,
+    56.31711
+],
+  "geometry": {"coordinates":[25.07858,56.31711],"type":"Point"}
+}

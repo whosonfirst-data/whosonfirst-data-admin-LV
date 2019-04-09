@@ -1,0 +1,70 @@
+{
+  "id": 1226730017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.49182,56.57712,23.49182,56.57712",
+    "geom:latitude":56.57712,
+    "geom:longitude":23.49182,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540296.0",
+    "gn:asciiname":"Spurgi",
+    "gn:country_code":"LV",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455307,
+    "gn:latitude":56.57712,
+    "gn:longitude":23.49182,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Spur\u0123i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaunspurgi",
+        "Spur\u0123i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455307
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"002e261ed3e47cfec15e290345330eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226730017,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1226730017,
+    "wof:lastmodified":1537663048,
+    "wof:name":"Spurgi",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.49182,
+    56.57712,
+    23.49182,
+    56.57712
+],
+  "geometry": {"coordinates":[23.49182,56.57712],"type":"Point"}
+}

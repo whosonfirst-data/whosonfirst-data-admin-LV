@@ -1,0 +1,66 @@
+{
+  "id": 1243299587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.28882,57.12303,24.28882,57.12303",
+    "geom:latitude":57.12303,
+    "geom:longitude":24.28882,
+    "gn:admin1_code":"53",
+    "gn:admin2_code":"805200.0",
+    "gn:asciiname":"Sautini",
+    "gn:country_code":"LV",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455802,
+    "gn:latitude":57.12303,
+    "gn:longitude":24.28882,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Sauti\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455802
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"534d0541f0bb35fc92d0bfb1a716508d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243299587,
+            "region_id":85686107
+        }
+    ],
+    "wof:id":1243299587,
+    "wof:lastmodified":1537016451,
+    "wof:name":"Sautini",
+    "wof:parent_id":85686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.28882,
+    57.12303000000001,
+    24.28882,
+    57.12303000000001
+],
+  "geometry": {"coordinates":[24.28882,57.12303000000001],"type":"Point"}
+}

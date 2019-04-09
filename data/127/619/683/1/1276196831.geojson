@@ -1,0 +1,66 @@
+{
+  "id": 1276196831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.23474,56.06605,27.23474,56.06605",
+    "geom:latitude":56.06605,
+    "geom:longitude":27.23474,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600248.0",
+    "gn:asciiname":"Lejas Podnieki",
+    "gn:country_code":"LV",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458141,
+    "gn:latitude":56.06605,
+    "gn:longitude":27.23474,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Lejas Podnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458141
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3400c2442896d4742b8a1ca39ac70959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276196831,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":1276196831,
+    "wof:lastmodified":1536961844,
+    "wof:name":"Lejas Podnieki",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.23474,
+    56.06605,
+    27.23474,
+    56.06605
+],
+  "geometry": {"coordinates":[27.23474,56.06605],"type":"Point"}
+}

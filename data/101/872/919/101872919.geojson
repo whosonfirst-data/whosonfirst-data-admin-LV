@@ -1,0 +1,83 @@
+{
+  "id": 101872919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.387598,56.731554,24.387598,56.731554",
+    "geom:latitude":56.731554,
+    "geom:longitude":24.387598,
+    "iso:country":"LV",
+    "lbl:latitude":56.731554,
+    "lbl:longitude":24.387598,
+    "mps:latitude":56.731554,
+    "mps:longitude":24.387598,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Avoti"
+    ],
+    "name:eng_x_preferred":[
+        "Avoti"
+    ],
+    "name:lav_x_preferred":[
+        "Avoti"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Baldones novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Avoti",
+    "qs:loc_alt":"Avoti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55844884,
+        "wd:id":"Q15218618"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d8cdfe2d9037b54aaf7952eef5a6da2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101872919,
+            "region_id":85685957
+        }
+    ],
+    "wof:id":101872919,
+    "wof:lastmodified":1553815561,
+    "wof:name":"Avoti",
+    "wof:parent_id":85685957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.387598,
+    56.731554,
+    24.387598,
+    56.731554
+],
+  "geometry": {"coordinates":[24.387598,56.731554],"type":"Point"}
+}

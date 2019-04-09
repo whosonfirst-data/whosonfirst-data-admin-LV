@@ -1,0 +1,70 @@
+{
+  "id": 1242953355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64232,56.70595,23.64232,56.70595",
+    "geom:latitude":56.70595,
+    "geom:longitude":23.64232,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540262.0",
+    "gn:asciiname":"Dobeli",
+    "gn:country_code":"LV",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864350,
+    "gn:latitude":56.70595,
+    "gn:longitude":23.64232,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Dobe\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u013cerras",
+        "Dobe\u013ci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864350
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3f24fd740ef65f4648192c0236fe1d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1242953355,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1242953355,
+    "wof:lastmodified":1537663242,
+    "wof:name":"Dobeli",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64232,
+    56.70595,
+    23.64232,
+    56.70595
+],
+  "geometry": {"coordinates":[23.64232,56.70595],"type":"Point"}
+}

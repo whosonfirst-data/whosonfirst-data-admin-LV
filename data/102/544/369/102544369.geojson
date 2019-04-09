@@ -1,0 +1,86 @@
+{
+  "id": 102544369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85333333,56.77833333,24.85333333,56.77833333",
+    "geom:latitude":56.778333,
+    "geom:longitude":24.853333,
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0644\u06cc\u0644\u0648\u0627\u0631\u062f\u0647"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30a7\u30eb\u30f4\u30a1\u30fc\u30c7\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:lav_x_preferred":[
+        "Lielv\u0101rdes lidlauks"
+    ],
+    "name:lit_x_preferred":[
+        "Lielvard\u0117s aerodromas"
+    ],
+    "name:pol_x_preferred":[
+        "Baza lotnicza Lielv\u0101rde"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0435\u043b\u0432\u0430\u0440\u0434\u0435"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u041b\u0438\u0435\u043b\u0432\u0430\u0440\u0434\u0435"
+    ],
+    "oa:elevation_ft":"200",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":164,
+    "woe:hierarchy":{
+        "country_id":23424874,
+        "county_id":56190502,
+        "planet_id":1,
+        "state_id":55844585
+    },
+    "wof:belongsto":[
+        85633279,
+        85686011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514572,
+        "icao:code":"EVGA",
+        "oa:id":"31028",
+        "wd:id":"Q3271618"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d942a1995817b593fd156320d8df1a66",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544369,
+            "country_id":85633279,
+            "region_id":85686011
+        }
+    ],
+    "wof:id":102544369,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Lielvarde Airport",
+    "wof:parent_id":85686011,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    24.85333333,
+    56.77833333,
+    24.85333333,
+    56.77833333
+],
+  "geometry": {"coordinates":[24.85333333,56.77833333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327392425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76956,56.31892,26.76956,56.31892",
+    "geom:latitude":56.31892,
+    "geom:longitude":26.76956,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ondzuli",
+    "gn:country_code":"LV",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457037,
+    "gn:latitude":56.31892,
+    "gn:longitude":26.76956,
+    "gn:modification_date":"2010-10-28",
+    "gn:name":"Ondzu\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457037
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"630807c4cbc0a881cc1da83345b5c512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327392425,
+            "region_id":85685977
+        }
+    ],
+    "wof:id":1327392425,
+    "wof:lastmodified":1536738527,
+    "wof:name":"Ondzuli",
+    "wof:parent_id":85685977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76956,
+    56.31892,
+    26.76956,
+    56.31892
+],
+  "geometry": {"coordinates":[26.76956,56.31892],"type":"Point"}
+}

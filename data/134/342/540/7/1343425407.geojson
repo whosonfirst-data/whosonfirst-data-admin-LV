@@ -1,0 +1,71 @@
+{
+  "id": 1343425407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73878,56.80722,24.73878,56.80722",
+    "geom:latitude":56.80722,
+    "geom:longitude":24.73878,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"740280.0",
+    "gn:asciiname":"Ogresgals",
+    "gn:country_code":"LV",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457063,
+    "gn:latitude":56.80722,
+    "gn:longitude":24.73878,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Ogresgals",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogres-Ziedi",
+        "Ogresgala",
+        "Ogresgals"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457063
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"372780a2971ffb8a9af50590cac1efa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343425407,
+            "region_id":85686079
+        }
+    ],
+    "wof:id":1343425407,
+    "wof:lastmodified":1537663098,
+    "wof:name":"Ogresgals",
+    "wof:parent_id":85686079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73878,
+    56.80722,
+    24.73878,
+    56.80722
+],
+  "geometry": {"coordinates":[24.73878,56.80722],"type":"Point"}
+}

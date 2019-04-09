@@ -1,0 +1,73 @@
+{
+  "id": 1276264009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.72347,56.75573,27.72347,56.75573",
+    "geom:latitude":56.75573,
+    "geom:longitude":27.72347,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"681068.0",
+    "gn:asciiname":"Zastinski",
+    "gn:country_code":"LV",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453945,
+    "gn:latitude":56.75573,
+    "gn:longitude":27.72347,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Zastinski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zastenskije",
+        "Zaskenskiye",
+        "Zas\u0137enskije",
+        "Zastenski",
+        "Zastinski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453945
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"8d261b6c23875ca9ab650faf8a7b6445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276264009,
+            "region_id":85686139
+        }
+    ],
+    "wof:id":1276264009,
+    "wof:lastmodified":1537663007,
+    "wof:name":"Zastinski",
+    "wof:parent_id":85686139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72347,
+    56.75573000000001,
+    27.72347,
+    56.75573000000001
+],
+  "geometry": {"coordinates":[27.72347,56.75573000000001],"type":"Point"}
+}

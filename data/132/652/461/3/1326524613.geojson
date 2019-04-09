@@ -1,0 +1,72 @@
+{
+  "id": 1326524613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.77819,56.0815,26.77819,56.0815",
+    "geom:latitude":56.0815,
+    "geom:longitude":26.77819,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440298.0",
+    "gn:asciiname":"Danisevka",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460443,
+    "gn:latitude":56.0815,
+    "gn:longitude":26.77819,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Dani\u0161evka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danishevka",
+        "Dani\u0161evka",
+        "Dani\u0161euka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460443
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6326d2f5d10102697c463d08860030f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326524613,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1326524613,
+    "wof:lastmodified":1537663203,
+    "wof:name":"Danisevka",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.77819,
+    56.0815,
+    26.77819,
+    56.0815
+],
+  "geometry": {"coordinates":[26.77819,56.0815],"type":"Point"}
+}

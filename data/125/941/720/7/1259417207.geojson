@@ -1,0 +1,71 @@
+{
+  "id": 1259417207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9882,56.59242,27.9882,56.59242",
+    "geom:latitude":56.59242,
+    "geom:longitude":27.9882,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"684966.0",
+    "gn:asciiname":"Lidumnieki",
+    "gn:country_code":"LV",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458071,
+    "gn:latitude":56.59242,
+    "gn:longitude":27.9882,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"L\u012bdumnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zabolotje",
+        "L\u012bdumnieki",
+        "Aizp\u016bre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458071
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"47724ad49bf3c753ffc945237f4edd45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259417207,
+            "region_id":85686089
+        }
+    ],
+    "wof:id":1259417207,
+    "wof:lastmodified":1537663131,
+    "wof:name":"Lidumnieki",
+    "wof:parent_id":85686089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9882,
+    56.59242,
+    27.9882,
+    56.59242
+],
+  "geometry": {"coordinates":[27.9882,56.59242],"type":"Point"}
+}

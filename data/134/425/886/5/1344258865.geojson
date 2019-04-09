@@ -1,0 +1,76 @@
+{
+  "id": 1344258865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.664,57.26605,27.664,57.26605",
+    "geom:latitude":57.26605,
+    "geom:longitude":27.664,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ziguri",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":607491,
+    "gn:latitude":57.26605,
+    "gn:longitude":27.664,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"\u017d\u012bguri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u017d\u012bguri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0433\u0443\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zhiguri",
+        "\u017d\u012bguri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":607491
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"88aae173ff2e254451095948eab1d0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1344258865,
+            "region_id":85686251
+        }
+    ],
+    "wof:id":1344258865,
+    "wof:lastmodified":1537663241,
+    "wof:name":"Ziguri",
+    "wof:parent_id":85686251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.664,
+    57.26605,
+    27.664,
+    57.26605
+],
+  "geometry": {"coordinates":[27.664,57.26605],"type":"Point"}
+}

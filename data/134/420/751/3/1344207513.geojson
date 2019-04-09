@@ -1,0 +1,75 @@
+{
+  "id": 1344207513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60905,57.81656,25.60905,57.81656",
+    "geom:latitude":57.81656,
+    "geom:longitude":25.60905,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"940266.0",
+    "gn:asciiname":"Karki",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459394,
+    "gn:latitude":57.81656,
+    "gn:longitude":25.60905,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"K\u0101r\u0137i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "K\u0101r\u0137i"
+    ],
+    "name:und_x_variant":[
+        "Myza Yaunkarti",
+        "Jaunk\u0101r\u0137i",
+        "Jaunk\u0101r\u0137u Mui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459394
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1d201a7b15708edc85e4e8ffaaadfe8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1344207513,
+            "region_id":85686295
+        }
+    ],
+    "wof:id":1344207513,
+    "wof:lastmodified":1537663173,
+    "wof:name":"Karki",
+    "wof:parent_id":85686295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60905,
+    57.81656,
+    25.60905,
+    57.81656
+],
+  "geometry": {"coordinates":[25.60905,57.81656],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125994501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.23069,57.0037745,24.23069,57.0037745",
+    "geom:latitude":57.003774,
+    "geom:longitude":24.23069,
+    "gn:gn_country":null,
+    "iso:country":"LV",
+    "lbl:latitude":57.003774,
+    "lbl:longitude":24.23069,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bulduri",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Garkalnes Novads",
+    "qs_pg:photos":2732,
+    "qs_pg:photos_1k":554,
+    "qs_pg:photos_9k":12,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2732,
+    "qs_pg:photos_sr":18,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":283215,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":851888,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Garkalnes Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":851888,
+        "qs_pg:id":283215
+    },
+    "wof:country":"LV",
+    "wof:created":1497299231,
+    "wof:geomhash":"92019d4714c6e7735db77467f098fd93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125994501,
+            "region_id":85686065
+        }
+    ],
+    "wof:id":1125994501,
+    "wof:lastmodified":1509405634,
+    "wof:name":"Bulduri",
+    "wof:parent_id":85686065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.23069,
+    57.0037745,
+    24.23069,
+    57.0037745
+],
+  "geometry": {"coordinates":[24.23069,57.0037745],"type":"Point"}
+}

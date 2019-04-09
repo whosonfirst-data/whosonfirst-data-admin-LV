@@ -1,0 +1,71 @@
+{
+  "id": 1209746459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04723,56.8499,24.04723,56.8499",
+    "geom:latitude":56.8499,
+    "geom:longitude":24.04723,
+    "gn:admin1_code":"A2",
+    "gn:admin2_code":"801080.0",
+    "gn:asciiname":"Stunisi",
+    "gn:country_code":"LV",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455110,
+    "gn:latitude":56.8499,
+    "gn:longitude":24.04723,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"St\u016bn\u012b\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "St\u016bri\u0161i",
+        "St\u016bn\u012b\u0161i",
+        "B\u0113rzpils"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455110
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"21e36e7267d25140a242690cec601106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1209746459,
+            "region_id":85685981
+        }
+    ],
+    "wof:id":1209746459,
+    "wof:lastmodified":1537663043,
+    "wof:name":"Stunisi",
+    "wof:parent_id":85685981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04723,
+    56.8499,
+    24.04723,
+    56.8499
+],
+  "geometry": {"coordinates":[24.04723,56.8499],"type":"Point"}
+}

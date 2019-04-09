@@ -1,0 +1,71 @@
+{
+  "id": 1310154259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88011,57.32392,24.88011,57.32392",
+    "geom:latitude":57.32392,
+    "geom:longitude":24.88011,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"806956.0",
+    "gn:asciiname":"Knideri",
+    "gn:country_code":"LV",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458702,
+    "gn:latitude":57.32392,
+    "gn:longitude":24.88011,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kn\u012bderi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u012bdneru Pusmui\u017ea",
+        "Kr\u012bdneri",
+        "Kn\u012bderi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458702
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"cfffd8da0e5f389885313317c7b4b370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310154259,
+            "region_id":85686203
+        }
+    ],
+    "wof:id":1310154259,
+    "wof:lastmodified":1537663151,
+    "wof:name":"Knideri",
+    "wof:parent_id":85686203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88011,
+    57.32392,
+    24.88011,
+    57.32392
+],
+  "geometry": {"coordinates":[24.88011,57.32392],"type":"Point"}
+}

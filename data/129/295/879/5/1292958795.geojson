@@ -1,0 +1,71 @@
+{
+  "id": 1292958795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68796,56.32482,27.68796,56.32482",
+    "geom:latitude":56.32482,
+    "geom:longitude":27.68796,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780262.0",
+    "gn:asciiname":"Javka",
+    "gn:country_code":"LV",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459451,
+    "gn:latitude":56.32482,
+    "gn:longitude":27.68796,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Javka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yauki",
+        "Jauki",
+        "Javka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459451
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fcaff6d98d83fbc94fc9f042d4e28764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1292958795,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1292958795,
+    "wof:lastmodified":1537663175,
+    "wof:name":"Javka",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68796,
+    56.32482,
+    27.68796,
+    56.32482
+],
+  "geometry": {"coordinates":[27.68796,56.32482],"type":"Point"}
+}

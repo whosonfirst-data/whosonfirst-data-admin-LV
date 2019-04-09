@@ -1,0 +1,72 @@
+{
+  "id": 1210008245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39453,56.00524,26.39453,56.00524",
+    "geom:latitude":56.00524,
+    "geom:longitude":26.39453,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440268.0",
+    "gn:asciiname":"Vaikulani",
+    "gn:country_code":"LV",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454607,
+    "gn:latitude":56.00524,
+    "gn:longitude":26.39453,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Vaiku\u013c\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vailkul\u0101ni",
+        "Vaykulyany",
+        "Vaiku\u013c\u0101ni",
+        "Vaikul\u012b\u0161i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454607
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0f6d3bfa53ab768abffbf205bcf7ceea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1210008245,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1210008245,
+    "wof:lastmodified":1537663030,
+    "wof:name":"Vaikulani",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39453,
+    56.00524,
+    26.39453,
+    56.00524
+],
+  "geometry": {"coordinates":[26.39453,56.00524],"type":"Point"}
+}

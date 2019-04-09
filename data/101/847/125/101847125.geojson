@@ -1,0 +1,85 @@
+{
+  "id": 101847125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":766293.096144,
+    "geom:bbox":"22.4400009503,56.6893636287,22.4625206705,56.7008436469",
+    "geom:latitude":56.694717,
+    "geom:longitude":22.450304,
+    "iso:country":"LV",
+    "lbl:latitude":56.694264,
+    "lbl:longitude":22.450133,
+    "mps:latitude":56.694264,
+    "mps:longitude":22.450133,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Druva"
+    ],
+    "name:eng_x_preferred":[
+        "Druva"
+    ],
+    "name:lav_x_preferred":[
+        "Druva"
+    ],
+    "name:unk_x_variant":[
+        "Kumbri"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Saldus novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Saldus pagasts",
+    "qs:la_lc":"*LV8486",
+    "qs:level":"locality",
+    "qs:loc":"Druva",
+    "qs:loc_alt":"Druva",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458447,
+        "gp:id":853378,
+        "qs:id":5,
+        "wd:id":"Q15218847"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"8a5949d829d33e4d85ee3c954049730e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101847125,
+            "region_id":85685935
+        }
+    ],
+    "wof:id":101847125,
+    "wof:lastmodified":1514483999,
+    "wof:name":"Druva",
+    "wof:parent_id":85685935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44000095028571,
+    56.68936362865247,
+    22.46252067050568,
+    56.70084364694992
+],
+  "geometry": {"coordinates":[[[22.45432684235334,56.69949430460287],[22.45316105983022,56.69596205005536],[22.46120378248202,56.69518462145243],[22.46091219825678,56.6943015765342],[22.46252067050568,56.69414603539332],[22.46193747864646,56.69237995165594],[22.45389535267134,56.69315741808316],[22.4530212205766,56.69050822591038],[22.44658772909327,56.69112979293737],[22.44600534001103,56.68936362865247],[22.44278866407706,56.68967427680593],[22.44424439951342,56.69408972318405],[22.44263586470481,56.69424503793567],[22.44321819932037,56.69601121981162],[22.44000095028571,56.69632180614235],[22.44029207011545,56.69720490421378],[22.44190073644825,56.69704961688234],[22.44219190799237,56.69793271017596],[22.44862659448228,56.69731134610339],[22.44979201226238,56.70084364694992],[22.45300956826691,56.70053281316115],[22.45271811836182,56.69964974716856],[22.45432684235334,56.69949430460287]]],"type":"Polygon"}
+}

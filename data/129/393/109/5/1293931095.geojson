@@ -1,0 +1,66 @@
+{
+  "id": 1293931095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61667,56.45,22.61667,56.45",
+    "geom:latitude":56.45,
+    "geom:longitude":22.61667,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"840256.0",
+    "gn:asciiname":"Gale",
+    "gn:country_code":"LV",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459897,
+    "gn:latitude":56.45,
+    "gn:longitude":22.61667,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Gale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459897
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d261d7388532ef714be720ec5ded211b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293931095,
+            "region_id":85685935
+        }
+    ],
+    "wof:id":1293931095,
+    "wof:lastmodified":1536644157,
+    "wof:name":"Gale",
+    "wof:parent_id":85685935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61667000000001,
+    56.45,
+    22.61667000000001,
+    56.45
+],
+  "geometry": {"coordinates":[22.61667000000001,56.45],"type":"Point"}
+}

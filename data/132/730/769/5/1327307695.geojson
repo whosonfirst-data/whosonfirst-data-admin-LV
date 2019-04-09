@@ -1,0 +1,71 @@
+{
+  "id": 1327307695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.38422,55.90894,27.38422,55.90894",
+    "geom:latitude":55.90894,
+    "geom:longitude":27.38422,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600268.0",
+    "gn:asciiname":"Sakini",
+    "gn:country_code":"LV",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455921,
+    "gn:latitude":55.90894,
+    "gn:longitude":27.38422,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"\u0160akini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shatyni",
+        "\u0160aki\u0146i",
+        "\u0160akini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455921
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ad20590f7e3512c4803bec385580f934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327307695,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":1327307695,
+    "wof:lastmodified":1537663065,
+    "wof:name":"Sakini",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.38422000000001,
+    55.90894,
+    27.38422000000001,
+    55.90894
+],
+  "geometry": {"coordinates":[27.38422000000001,55.90894],"type":"Point"}
+}

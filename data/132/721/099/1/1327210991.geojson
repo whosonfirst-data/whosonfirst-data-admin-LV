@@ -1,0 +1,66 @@
+{
+  "id": 1327210991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.45673,56.70406,23.45673,56.70406",
+    "geom:latitude":56.70406,
+    "geom:longitude":23.45673,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540262.0",
+    "gn:asciiname":"Livberzes Stacija",
+    "gn:country_code":"LV",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864330,
+    "gn:latitude":56.70406,
+    "gn:longitude":23.45673,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"L\u012bvb\u0113rzes Stacija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864330
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"cef9d15189657b58fecfce78362d6044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327210991,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1327210991,
+    "wof:lastmodified":1536999867,
+    "wof:name":"Livberzes Stacija",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.45673,
+    56.70406,
+    23.45673,
+    56.70406
+],
+  "geometry": {"coordinates":[23.45673,56.70406],"type":"Point"}
+}

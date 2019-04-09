@@ -1,0 +1,70 @@
+{
+  "id": 1193075221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6,57.01667,21.6,57.01667",
+    "geom:latitude":57.01667,
+    "geom:longitude":21.6,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"624200.0",
+    "gn:asciiname":"Cuksti",
+    "gn:country_code":"LV",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460491,
+    "gn:latitude":57.01667,
+    "gn:longitude":21.6,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"\u010c\u016bksti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuksty",
+        "\u010c\u016bksti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460491
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"777c1d09814e9a5f9ebc9460a00aef59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193075221,
+            "region_id":85685961
+        }
+    ],
+    "wof:id":1193075221,
+    "wof:lastmodified":1537663204,
+    "wof:name":"Cuksti",
+    "wof:parent_id":85685961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6,
+    57.01667,
+    21.6,
+    57.01667
+],
+  "geometry": {"coordinates":[21.6,57.01667],"type":"Point"}
+}

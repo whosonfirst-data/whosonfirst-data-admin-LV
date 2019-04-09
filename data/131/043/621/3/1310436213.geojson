@@ -1,0 +1,71 @@
+{
+  "id": 1310436213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35765,57.55788,22.35765,57.55788",
+    "geom:latitude":57.55788,
+    "geom:longitude":22.35765,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"885150.0",
+    "gn:asciiname":"Myza Aazhi",
+    "gn:country_code":"LV",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461260,
+    "gn:latitude":57.55788,
+    "gn:longitude":22.35765,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Myza Aazhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azu Ciems",
+        "\u0100\u017eu Mui\u017ea",
+        "\u0100\u017ei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461260
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e035fcbfb901fb076c6c50b1659ee59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310436213,
+            "region_id":85686221
+        }
+    ],
+    "wof:id":1310436213,
+    "wof:lastmodified":1537663225,
+    "wof:name":"Myza Aazhi",
+    "wof:parent_id":85686221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35765,
+    57.55788,
+    22.35765,
+    57.55788
+],
+  "geometry": {"coordinates":[22.35765,57.55788],"type":"Point"}
+}

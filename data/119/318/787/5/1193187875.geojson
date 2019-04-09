@@ -1,0 +1,66 @@
+{
+  "id": 1193187875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62599,57.23863,21.62599,57.23863",
+    "geom:latitude":57.23863,
+    "geom:longitude":21.62599,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"980233.0",
+    "gn:asciiname":"Landze",
+    "gn:country_code":"LV",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458297,
+    "gn:latitude":57.23863,
+    "gn:longitude":21.62599,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Landze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458297
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b7053741ebe6b2ae2886d5728a10a56e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193187875,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1193187875,
+    "wof:lastmodified":1536364628,
+    "wof:name":"Landze",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62599,
+    57.23863000000001,
+    21.62599,
+    57.23863000000001
+],
+  "geometry": {"coordinates":[21.62599,57.23863000000001],"type":"Point"}
+}

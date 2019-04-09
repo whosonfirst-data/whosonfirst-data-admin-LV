@@ -1,0 +1,71 @@
+{
+  "id": 1276737107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.59752,56.71309,26.59752,56.71309",
+    "geom:latitude":56.71309,
+    "geom:longitude":26.59752,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700244.0",
+    "gn:asciiname":"Muiza",
+    "gn:country_code":"LV",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457247,
+    "gn:latitude":56.71309,
+    "gn:longitude":26.59752,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Mui\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mui\u017ea 2",
+        "Mui\u017ea Divi",
+        "Mui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457247
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"af7805811190a52106ecea11ef0e9a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276737107,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1276737107,
+    "wof:lastmodified":1537663105,
+    "wof:name":"Muiza",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.59752000000001,
+    56.71309,
+    26.59752000000001,
+    56.71309
+],
+  "geometry": {"coordinates":[26.59752000000001,56.71309],"type":"Point"}
+}

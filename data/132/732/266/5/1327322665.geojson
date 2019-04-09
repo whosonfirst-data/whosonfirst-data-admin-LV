@@ -1,0 +1,66 @@
+{
+  "id": 1327322665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.02011,56.0867,26.02011,56.0867",
+    "geom:latitude":56.0867,
+    "geom:longitude":26.02011,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"560282.0",
+    "gn:asciiname":"Cervonka",
+    "gn:country_code":"LV",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460572,
+    "gn:latitude":56.0867,
+    "gn:longitude":26.02011,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"\u010cervonka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460572
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1cd0e21f95638b94bba761972561588e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327322665,
+            "region_id":85685889
+        }
+    ],
+    "wof:id":1327322665,
+    "wof:lastmodified":1536838309,
+    "wof:name":"Cervonka",
+    "wof:parent_id":85685889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.02011,
+    56.0867,
+    26.02011,
+    56.0867
+],
+  "geometry": {"coordinates":[26.02011,56.0867],"type":"Point"}
+}

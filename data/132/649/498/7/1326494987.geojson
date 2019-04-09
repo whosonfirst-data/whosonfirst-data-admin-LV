@@ -1,0 +1,66 @@
+{
+  "id": 1326494987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.86294,56.84005,26.86294,56.84005",
+    "geom:latitude":56.84005,
+    "geom:longitude":26.86294,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700282.0",
+    "gn:asciiname":"Zvidziena",
+    "gn:country_code":"LV",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453770,
+    "gn:latitude":56.84005,
+    "gn:longitude":26.86294,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Zvidziena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453770
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1a64ec2af8505fb5d269dbe724d2c7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326494987,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1326494987,
+    "wof:lastmodified":1537036231,
+    "wof:name":"Zvidziena",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.86294,
+    56.84005,
+    26.86294,
+    56.84005
+],
+  "geometry": {"coordinates":[26.86294,56.84005],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243601207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92018,57.01872,22.92018,57.01872",
+    "geom:latitude":57.01872,
+    "geom:longitude":22.92018,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"900274.0",
+    "gn:asciiname":"Bekermuiza",
+    "gn:country_code":"LV",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455528,
+    "gn:latitude":57.01872,
+    "gn:longitude":22.92018,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Be\u0137ermui\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Be\u0137ermui\u017ea"
+    ],
+    "name:und_x_variant":[
+        "Skrimbas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455528
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f854a597344a42e0214075b444f82de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243601207,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":1243601207,
+    "wof:lastmodified":1537663054,
+    "wof:name":"Bekermuiza",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92018,
+    57.01872,
+    22.92018,
+    57.01872
+],
+  "geometry": {"coordinates":[22.92018,57.01872],"type":"Point"}
+}

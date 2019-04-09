@@ -1,0 +1,72 @@
+{
+  "id": 1193120709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.49226,55.8441,27.49226,55.8441",
+    "geom:latitude":55.8441,
+    "geom:longitude":27.49226,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600262.0",
+    "gn:asciiname":"Vaivodi",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454595,
+    "gn:latitude":55.8441,
+    "gn:longitude":27.49226,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Vaivodi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaivadi",
+        "Vaivade",
+        "Vaivodi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454595
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0a6f0af693122dfb74a6b6f348092454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193120709,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":1193120709,
+    "wof:lastmodified":1537663029,
+    "wof:name":"Vaivodi",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.49226,
+    55.8441,
+    27.49226,
+    55.8441
+],
+  "geometry": {"coordinates":[27.49226,55.8441],"type":"Point"}
+}

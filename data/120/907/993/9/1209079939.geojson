@@ -1,0 +1,66 @@
+{
+  "id": 1209079939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.37527,55.90561,27.37527,55.90561",
+    "geom:latitude":55.90561,
+    "geom:longitude":27.37527,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600268.0",
+    "gn:asciiname":"Evarti",
+    "gn:country_code":"LV",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459987,
+    "gn:latitude":55.90561,
+    "gn:longitude":27.37527,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Evarti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Evarty",
+        "Evarti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459987
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"01bff9cb711ff71060266e8281da7be9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209079939
+        }
+    ],
+    "wof:id":1209079939,
+    "wof:lastmodified":1537663192,
+    "wof:name":"Evarti",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.37527,
+    55.90561,
+    27.37527,
+    55.90561
+],
+  "geometry": {"coordinates":[27.37527,55.90561],"type":"Point"}
+}

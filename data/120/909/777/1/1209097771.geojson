@@ -1,0 +1,70 @@
+{
+  "id": 1209097771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55,55.71667,26.55,55.71667",
+    "geom:latitude":55.71667,
+    "geom:longitude":26.55,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440250.0",
+    "gn:asciiname":"Tarzeki",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454959,
+    "gn:latitude":55.71667,
+    "gn:longitude":26.55,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Tar\u017ee\u0137i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarzhek",
+        "Tar\u017eeks",
+        "Tarzheka",
+        "Tar\u017eeka",
+        "Tar\u017ee\u0137i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454959
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ed40ba5f1cb9978d1f70bcfe95af68e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209097771
+        }
+    ],
+    "wof:id":1209097771,
+    "wof:lastmodified":1537663040,
+    "wof:name":"Tarzeki",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55,
+    55.71666999999999,
+    26.55,
+    55.71666999999999
+],
+  "geometry": {"coordinates":[26.55,55.71666999999999],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276338967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.78938,56.61573,25.78938,56.61573",
+    "geom:latitude":56.61573,
+    "geom:longitude":25.78938,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gostini",
+    "gn:country_code":"LV",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459763,
+    "gn:latitude":56.61573,
+    "gn:longitude":25.78938,
+    "gn:modification_date":"2010-10-27",
+    "gn:name":"Gosti\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459763
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"dee2d3d09b90b3cdb3da249a33c65ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276338967,
+            "region_id":85686055
+        }
+    ],
+    "wof:id":1276338967,
+    "wof:lastmodified":1536771398,
+    "wof:name":"Gostini",
+    "wof:parent_id":85686055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.78938,
+    56.61573000000001,
+    25.78938,
+    56.61573000000001
+],
+  "geometry": {"coordinates":[25.78938,56.61573000000001],"type":"Point"}
+}

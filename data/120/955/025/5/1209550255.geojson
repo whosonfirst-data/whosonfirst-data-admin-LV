@@ -1,0 +1,71 @@
+{
+  "id": 1209550255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.28425,56.06012,26.28425,56.06012",
+    "geom:latitude":56.06012,
+    "geom:longitude":26.28425,
+    "gn:admin1_code":"69",
+    "gn:admin2_code":"440854.0",
+    "gn:asciiname":"Dviete",
+    "gn:country_code":"LV",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460156,
+    "gn:latitude":56.06012,
+    "gn:longitude":26.28425,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Dviete",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dviete"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0432\u0438\u0435\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Dv\u012bts"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460156
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"efa39d1a2a7044eaded0c50f1d6eaa73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209550255
+        }
+    ],
+    "wof:id":1209550255,
+    "wof:lastmodified":1537663196,
+    "wof:name":"Dviete",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28425,
+    56.06012,
+    26.28425,
+    56.06012
+],
+  "geometry": {"coordinates":[26.28425,56.06012],"type":"Point"}
+}

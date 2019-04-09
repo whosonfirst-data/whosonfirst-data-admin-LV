@@ -1,0 +1,137 @@
+{
+  "id": 101816295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000065,
+    "geom:area_square_m":447887.476323,
+    "geom:bbox":"26.9953218825,56.1296587657,27.0133354428,56.137011711",
+    "geom:latitude":56.133394,
+    "geom:longitude":27.004282,
+    "geonames:id":"459448,461631",
+    "iso:country":"LV",
+    "lbl:latitude":56.13314,
+    "lbl:longitude":27.004418,
+    "mps:latitude":56.13314,
+    "mps:longitude":27.004418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:afr_x_preferred":[
+        "Aglona"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u043b\u043e\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Aglona"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u683c\u7d0d"
+    ],
+    "name:dan_x_preferred":[
+        "Aglona"
+    ],
+    "name:dut_x_preferred":[
+        "Aglona"
+    ],
+    "name:eng_x_preferred":[
+        "Aglona"
+    ],
+    "name:est_x_preferred":[
+        "Aglona"
+    ],
+    "name:fin_x_preferred":[
+        "Aglona"
+    ],
+    "name:fre_x_preferred":[
+        "Aglona"
+    ],
+    "name:ger_x_preferred":[
+        "Aglona"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05dc\u05d5\u05e0\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Aglona"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b0\u30ed\u30ca"
+    ],
+    "name:lav_x_preferred":[
+        "Aglona"
+    ],
+    "name:lit_x_preferred":[
+        "Agluona"
+    ],
+    "name:oci_x_preferred":[
+        "Aglona"
+    ],
+    "name:pol_x_preferred":[
+        "Ag\u0142ona"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u043b\u043e\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Aglona"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Aglonas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Aglonas pagasts",
+    "qs:la_lc":"*LV7642",
+    "qs:level":"locality",
+    "qs:loc":"Aglona",
+    "qs:loc_alt":"Aglona",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":855358,
+        "qs:id":9,
+        "wd:id":"Q372999"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"90277ab0d2db0058982224608f6223af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101816295,
+            "region_id":85685855
+        }
+    ],
+    "wof:id":101816295,
+    "wof:lastmodified":1534985959,
+    "wof:name":"Aglona",
+    "wof:parent_id":85685855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[
+        1175612929
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9953218825496,
+    56.12965876573372,
+    27.01333544279788,
+    56.13701171098376
+],
+  "geometry": {"coordinates":[[[27.00314441193404,56.13658951443989],[27.00275569175693,56.13572005047115],[27.00745664787996,56.13508662907634],[27.00706785118132,56.13421717980873],[27.01333544279788,56.1333723730869],[27.01216878810112,56.13076408123203],[27.00903521813973,56.13118649037187],[27.00864643942333,56.1303170461303],[27.00707966324057,56.13052821678531],[27.00669093761019,56.12965876573372],[27.0035574028509,56.13008103921584],[27.00394606369025,56.130950501021],[27.00237924032461,56.13116161460096],[27.00276788945314,56.13203108035083],[26.99963413074551,56.13245326118511],[27.00002273575728,56.13332273625554],[26.9953218825496,56.13395588093124],[26.99648753003783,56.13656434593685],[26.99962164235382,56.13614223626126],[27.00001029771238,56.13701171098376],[27.00314441193404,56.13658951443989]]],"type":"Polygon"}
+}

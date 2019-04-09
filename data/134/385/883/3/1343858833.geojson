@@ -1,0 +1,71 @@
+{
+  "id": 1343858833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43553,56.27562,24.43553,56.27562",
+    "geom:latitude":56.27562,
+    "geom:longitude":24.43553,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"400246.0",
+    "gn:asciiname":"Tunkuni",
+    "gn:country_code":"LV",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459260,
+    "gn:latitude":56.27562,
+    "gn:longitude":24.43553,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Tunk\u016bni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yodava",
+        "Jodava",
+        "Tunk\u016bni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459260
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b2fe721ec88051ac09e99708e12ddd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343858833,
+            "region_id":85685851
+        }
+    ],
+    "wof:id":1343858833,
+    "wof:lastmodified":1537663167,
+    "wof:name":"Tunkuni",
+    "wof:parent_id":85685851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43553,
+    56.27562,
+    24.43553,
+    56.27562
+],
+  "geometry": {"coordinates":[24.43553,56.27562],"type":"Point"}
+}

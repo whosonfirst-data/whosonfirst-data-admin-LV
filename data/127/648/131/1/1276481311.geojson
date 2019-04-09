@@ -1,0 +1,71 @@
+{
+  "id": 1276481311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47218,56.52807,24.47218,56.52807",
+    "geom:latitude":56.52807,
+    "geom:longitude":24.47218,
+    "gn:admin1_code":"E4",
+    "gn:admin2_code":"409584.0",
+    "gn:asciiname":"Nizere",
+    "gn:country_code":"LV",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457110,
+    "gn:latitude":56.52807,
+    "gn:longitude":24.47218,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"N\u012bzere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nizeres",
+        "Nazari",
+        "N\u012bzere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457110
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fcc9bbfb74a9942899db304bb9f26568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276481311,
+            "region_id":85685939
+        }
+    ],
+    "wof:id":1276481311,
+    "wof:lastmodified":1537663099,
+    "wof:name":"Nizere",
+    "wof:parent_id":85685939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47218,
+    56.52806999999999,
+    24.47218,
+    56.52806999999999
+],
+  "geometry": {"coordinates":[24.47218,56.52806999999999],"type":"Point"}
+}

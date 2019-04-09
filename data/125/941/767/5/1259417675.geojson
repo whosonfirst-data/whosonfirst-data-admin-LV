@@ -1,0 +1,71 @@
+{
+  "id": 1259417675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25631,56.22093,21.25631,56.22093",
+    "geom:latitude":56.22093,
+    "geom:longitude":21.25631,
+    "gn:admin1_code":"B6",
+    "gn:admin2_code":"648552.0",
+    "gn:asciiname":"Sudargi",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455092,
+    "gn:latitude":56.22093,
+    "gn:longitude":21.25631,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"\u0160ud\u0101rgi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timbras",
+        "\u0160ud\u0101rgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455092
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"57f0110bddc98524753c77694b3e383d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259417675,
+            "region_id":85685789
+        }
+    ],
+    "wof:id":1259417675,
+    "wof:lastmodified":1537663043,
+    "wof:name":"Sudargi",
+    "wof:parent_id":85685789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25631,
+    56.22093,
+    21.25631,
+    56.22093
+],
+  "geometry": {"coordinates":[21.25631,56.22093],"type":"Point"}
+}

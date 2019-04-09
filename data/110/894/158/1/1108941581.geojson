@@ -1,0 +1,61 @@
+{
+  "id": 1108941581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6082526177,56.9657251985,23.6082526177,56.9657251985",
+    "geom:latitude":56.965725,
+    "geom:longitude":23.608253,
+    "iso:country":"LV",
+    "lbl:latitude":56.965725,
+    "lbl:longitude":23.608253,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751787,
+        85633279,
+        85686031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LV",
+    "wof:created":1491362522,
+    "wof:geomhash":"c10db417d737594600c6750669d037b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751787,
+            "neighbourhood_id":1108941581,
+            "region_id":85686031
+        }
+    ],
+    "wof:id":1108941581,
+    "wof:lastmodified":1492123600,
+    "wof:name":"Kaugurciems",
+    "wof:parent_id":101751787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60825261765818,
+    56.96572519846806,
+    23.60825261765818,
+    56.96572519846806
+],
+  "geometry": {"coordinates":[23.60825261765818,56.96572519846806],"type":"Point"}
+}

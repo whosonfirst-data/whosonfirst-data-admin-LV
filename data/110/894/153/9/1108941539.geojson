@@ -1,0 +1,62 @@
+{
+  "id": 1108941539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2931818563,56.9597668184,24.2931818563,56.9597668184",
+    "geom:latitude":56.959767,
+    "geom:longitude":24.293182,
+    "iso:country":"LV",
+    "lbl:latitude":56.959767,
+    "lbl:longitude":24.293182,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:lav_x_preferred":[
+        "Breksi"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LV",
+    "wof:created":1491362489,
+    "wof:geomhash":"c1fa08ab1adfe2ea9ddd806d2bbf8499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "neighbourhood_id":1108941539,
+            "region_id":85686065
+        }
+    ],
+    "wof:id":1108941539,
+    "wof:lastmodified":1497292359,
+    "wof:name":"Brek\u0161i",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29318185632487,
+    56.95976681836542,
+    24.29318185632487,
+    56.95976681836542
+],
+  "geometry": {"coordinates":[24.29318185632487,56.95976681836542],"type":"Point"}
+}

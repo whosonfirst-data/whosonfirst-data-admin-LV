@@ -1,0 +1,90 @@
+{
+  "id": 1125902149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.34703,56.527305,27.34703,56.527305",
+    "geom:latitude":56.527305,
+    "geom:longitude":27.34703,
+    "gn:gn_country":null,
+    "iso:country":"LV",
+    "lbl:latitude":56.527305,
+    "lbl:longitude":27.34703,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Jupatovka"
+    ],
+    "name:eng_x_preferred":[
+        "Jupatovka"
+    ],
+    "name:lav_x_preferred":[
+        "Jupatovka"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Jupatovka",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"R\u0157zekne Novads",
+    "qs_pg:photos":46,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":46,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1260813,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":55844751,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"R\u0157zekne Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55844751,
+        "qs_pg:id":1260813,
+        "wd:id":"Q15219043"
+    },
+    "wof:country":"LV",
+    "wof:created":1497295852,
+    "wof:geomhash":"8de496561ee45ce8e4abc3ec2af940dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125902149,
+            "region_id":85686001
+        }
+    ],
+    "wof:id":1125902149,
+    "wof:lastmodified":1553816613,
+    "wof:name":"Jupatovka",
+    "wof:parent_id":85686001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.34703,
+    56.527305,
+    27.34703,
+    56.527305
+],
+  "geometry": {"coordinates":[27.34703,56.527305],"type":"Point"}
+}

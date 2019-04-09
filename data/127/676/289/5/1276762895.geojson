@@ -1,0 +1,77 @@
+{
+  "id": 1276762895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4553,56.34591,24.4553,56.34591",
+    "geom:latitude":56.34591,
+    "geom:longitude":24.4553,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"400292.0",
+    "gn:asciiname":"Jaunsaule",
+    "gn:country_code":"LV",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459340,
+    "gn:latitude":56.34591,
+    "gn:longitude":24.4553,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Jaunsaule",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jaunsaule"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0443\u043d\u0441\u0430\u0443\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Vecamui\u017ea",
+        "Yaunsaule",
+        "Jaunsaule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459340
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0c213e4947356ee556fcc760ea25dd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276762895,
+            "region_id":85685851
+        }
+    ],
+    "wof:id":1276762895,
+    "wof:lastmodified":1537663170,
+    "wof:name":"Jaunsaule",
+    "wof:parent_id":85685851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4553,
+    56.34591,
+    24.4553,
+    56.34591
+],
+  "geometry": {"coordinates":[24.4553,56.34591],"type":"Point"}
+}

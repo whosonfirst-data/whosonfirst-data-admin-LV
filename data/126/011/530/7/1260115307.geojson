@@ -1,0 +1,66 @@
+{
+  "id": 1260115307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.88333,56.16667,26.88333,56.16667",
+    "geom:latitude":56.16667,
+    "geom:longitude":26.88333,
+    "gn:admin1_code":"B3",
+    "gn:admin2_code":"766370.0",
+    "gn:asciiname":"Rusona",
+    "gn:country_code":"LV",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455957,
+    "gn:latitude":56.16667,
+    "gn:longitude":26.88333,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Ru\u0161ona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455957
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"8a1e27d6024d36dc36f002ee1623b1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260115307,
+            "region_id":85685977
+        }
+    ],
+    "wof:id":1260115307,
+    "wof:lastmodified":1536942813,
+    "wof:name":"Rusona",
+    "wof:parent_id":85685977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.88333,
+    56.16667,
+    26.88333,
+    56.16667
+],
+  "geometry": {"coordinates":[26.88333,56.16667],"type":"Point"}
+}

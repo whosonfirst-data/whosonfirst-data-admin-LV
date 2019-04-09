@@ -1,0 +1,71 @@
+{
+  "id": 1193241495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84635,57.48711,24.84635,57.48711",
+    "geom:latitude":57.48711,
+    "geom:longitude":24.84635,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"660280.0",
+    "gn:asciiname":"Roperbeki",
+    "gn:country_code":"LV",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456086,
+    "gn:latitude":57.48711,
+    "gn:longitude":24.84635,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Roperbe\u0137i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rotenbergi",
+        "Roperce\u0137i",
+        "Roperbe\u0137i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456086
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"28718e2b38945d89b0e2490c0d8845ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193241495,
+            "region_id":85686265
+        }
+    ],
+    "wof:id":1193241495,
+    "wof:lastmodified":1537663071,
+    "wof:name":"Roperbeki",
+    "wof:parent_id":85686265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84635,
+    57.48711,
+    24.84635,
+    57.48711
+],
+  "geometry": {"coordinates":[24.84635,57.48711],"type":"Point"}
+}

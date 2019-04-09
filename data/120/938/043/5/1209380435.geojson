@@ -1,0 +1,67 @@
+{
+  "id": 1209380435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.72613,56.4502,27.72613,56.4502",
+    "geom:latitude":56.4502,
+    "geom:longitude":27.72613,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"680280.0",
+    "gn:asciiname":"Belomoiki",
+    "gn:country_code":"LV",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460983,
+    "gn:latitude":56.4502,
+    "gn:longitude":27.72613,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Belomoiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belomokki",
+        "Bielomoikas",
+        "Belomoiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460983
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"63940fd9e2eb794f2319bfc4517f68ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209380435
+        }
+    ],
+    "wof:id":1209380435,
+    "wof:lastmodified":1537663217,
+    "wof:name":"Belomoiki",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72613,
+    56.4502,
+    27.72613,
+    56.4502
+],
+  "geometry": {"coordinates":[27.72613,56.4502],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1292934687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93956,56.62814,23.93956,56.62814",
+    "geom:latitude":56.62814,
+    "geom:longitude":23.93956,
+    "gn:admin1_code":"A3",
+    "gn:admin2_code":"546778.0",
+    "gn:asciiname":"Garoza",
+    "gn:country_code":"LV",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459859,
+    "gn:latitude":56.62814,
+    "gn:longitude":23.93956,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Garoza",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459859
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"493d5b71660bcc4f0f8bd0096fab305b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1292934687,
+            "region_id":85685907
+        }
+    ],
+    "wof:id":1292934687,
+    "wof:lastmodified":1537084018,
+    "wof:name":"Garoza",
+    "wof:parent_id":85685907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93956,
+    56.62814,
+    23.93956,
+    56.62814
+],
+  "geometry": {"coordinates":[23.93956,56.62814],"type":"Point"}
+}

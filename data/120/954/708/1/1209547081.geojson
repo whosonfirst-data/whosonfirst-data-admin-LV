@@ -1,0 +1,62 @@
+{
+  "id": 1209547081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.90601,56.16791,27.90601,56.16791",
+    "geom:latitude":56.16791,
+    "geom:longitude":27.90601,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"601092.0",
+    "gn:asciiname":"Peickova",
+    "gn:country_code":"LV",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456813,
+    "gn:latitude":56.16791,
+    "gn:longitude":27.90601,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Peickova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456813
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e31258c5fbf896e1638e3e8fb7e67cef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209547081
+        }
+    ],
+    "wof:id":1209547081,
+    "wof:lastmodified":1536283811,
+    "wof:name":"Peickova",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.90601,
+    56.16791,
+    27.90601,
+    56.16791
+],
+  "geometry": {"coordinates":[27.90601,56.16791],"type":"Point"}
+}

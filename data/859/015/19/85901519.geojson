@@ -1,0 +1,123 @@
+{
+  "id": 85901519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":110892.422655,
+    "geom:bbox":"24.07917,56.976202,24.07917,56.976202",
+    "geom:latitude":56.976202,
+    "geom:longitude":24.07917,
+    "gn:id":"",
+    "iso:country":"LV",
+    "lbl:latitude":56.976202,
+    "lbl:longitude":24.07917,
+    "mps:latitude":56.964444,
+    "mps:longitude":24.079285,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":19.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Poderaa"
+    ],
+    "name:eng_x_variant":[
+        "Upper Podrags",
+        "Poderaja",
+        "Poderaa"
+    ],
+    "name:lav_x_preferred":[
+        "Aug\u00b5-Podrags"
+    ],
+    "name:lav_x_variant":[
+        "Upper Podrags"
+    ],
+    "name:und_x_colloquial":[
+        "Augs-Podrags"
+    ],
+    "name:und_x_preferred":[
+        "Aug\u00b5-Podrags"
+    ],
+    "name:unk_x_variant":[
+        "Aug\u00b5-Podrags"
+    ],
+    "qs:gn_adm0_cc":"LV",
+    "qs:gn_id":0,
+    "qs:gn_local":456172,
+    "qs:local_max":23404,
+    "qs:local_sum":42602,
+    "qs:localhoods":31,
+    "qs:name":"Aug\u00b5-Podrags",
+    "qs:name_adm0":"Latvija",
+    "qs:name_adm1":"R\u013cga",
+    "qs:name_adm2":"R\u013cga",
+    "qs:name_en":"Poderaa",
+    "qs:name_local":"R\u012bga",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424874,
+    "qs:woe_adm1":20070121,
+    "qs:woe_adm2":55844479,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":854823,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751789,
+        85633279,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":851488,
+        "qs:id":1066275,
+        "qs_pg:id":1066275
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4257c5d2d7841e6f970e20871c568661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751789,
+            "neighbourhood_id":85901519,
+            "region_id":85686065
+        }
+    ],
+    "wof:id":85901519,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531932522,
+    "wof:name":"Podrags",
+    "wof:parent_id":101751789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.07917,
+    56.976202,
+    24.07917,
+    56.976202
+],
+  "geometry": {"coordinates":[24.07917,56.976202],"type":"Point"}
+}

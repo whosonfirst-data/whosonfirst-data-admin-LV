@@ -1,0 +1,77 @@
+{
+  "id": 1293673621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.17659,57.08969,26.17659,57.08969",
+    "geom:latitude":57.08969,
+    "geom:longitude":26.17659,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"500252.0",
+    "gn:asciiname":"Perlis",
+    "gn:country_code":"LV",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456773,
+    "gn:latitude":57.08969,
+    "gn:longitude":26.17659,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"P\u0113rlis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "P\u0113rlis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "P\u0113rles",
+        "Perlys",
+        "P\u0113rlis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456773
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"09045c941bad8d397a4c975f6e8e1664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293673621,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":1293673621,
+    "wof:lastmodified":1537663090,
+    "wof:name":"Perlis",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.17659,
+    57.08969,
+    26.17659,
+    57.08969
+],
+  "geometry": {"coordinates":[26.17659,57.08969],"type":"Point"}
+}

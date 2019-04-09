@@ -1,0 +1,66 @@
+{
+  "id": 1225926731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.64041,56.8254,21.64041,56.8254",
+    "geom:latitude":56.8254,
+    "geom:longitude":21.64041,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"620292.0",
+    "gn:asciiname":"Klostere",
+    "gn:country_code":"LV",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458712,
+    "gn:latitude":56.8254,
+    "gn:longitude":21.64041,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Klostere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458712
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b0f48661ee2afa09ac43544fe632b4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1225926731,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1225926731,
+    "wof:lastmodified":1536896804,
+    "wof:name":"Klostere",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.64041,
+    56.8254,
+    21.64041,
+    56.8254
+],
+  "geometry": {"coordinates":[21.64041,56.8254],"type":"Point"}
+}

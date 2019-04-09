@@ -1,0 +1,73 @@
+{
+  "id": 1293814221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.53463,56.69329,27.53463,56.69329",
+    "geom:latitude":56.69329,
+    "geom:longitude":27.53463,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"681070.0",
+    "gn:asciiname":"Mezvidi",
+    "gn:country_code":"LV",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457340,
+    "gn:latitude":56.69329,
+    "gn:longitude":27.53463,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Me\u017evidi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mezhvidi",
+        "Me\u017evidi",
+        "Me\u017evidi 1",
+        "Me\u017evidi I",
+        "Me\u017eavidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457340
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"92a921f3525924af00928eff6a104d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293814221,
+            "region_id":85686139
+        }
+    ],
+    "wof:id":1293814221,
+    "wof:lastmodified":1537663108,
+    "wof:name":"Mezvidi",
+    "wof:parent_id":85686139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.53463,
+    56.69329000000001,
+    27.53463,
+    56.69329000000001
+],
+  "geometry": {"coordinates":[27.53463,56.69329000000001],"type":"Point"}
+}

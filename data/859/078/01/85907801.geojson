@@ -1,0 +1,189 @@
+{
+  "id": 85907801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2345800.655593,
+    "geom:bbox":"24.107883,56.948979,24.107883,56.948979",
+    "geom:latitude":56.948979,
+    "geom:longitude":24.107883,
+    "gn:latitude":56.94966,
+    "gn:longitude":24.10418,
+    "iso:country":"LV",
+    "lbl:latitude":56.948979,
+    "lbl:longitude":24.107883,
+    "mps:latitude":56.949466,
+    "mps:longitude":24.114591,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:alb_x_preferred":[
+        "Vecr\u012bga"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fski Riqa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u0420\u044b\u0433\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u52a0\u8001\u57ce"
+    ],
+    "name:dan_x_preferred":[
+        "Vecr\u012bga"
+    ],
+    "name:dut_x_preferred":[
+        "Historisch centrum van Riga"
+    ],
+    "name:eng_x_preferred":[
+        "Vecr\u012bga"
+    ],
+    "name:eng_x_variant":[
+        "Old City"
+    ],
+    "name:est_x_preferred":[
+        "Vecr\u012bga"
+    ],
+    "name:fin_x_preferred":[
+        "Riian vanhakaupunki"
+    ],
+    "name:fre_x_preferred":[
+        "Vecr\u012bga"
+    ],
+    "name:geo_x_preferred":[
+        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10e0\u10d8\u10d2\u10d0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e7\u05e8\u05d9\u05d2\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Stara Riga"
+    ],
+    "name:ind_x_preferred":[
+        "Vecr\u012bga"
+    ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10e0\u10d8\u10d2\u10d0"
+    ],
+    "name:lav_x_preferred":[
+        "Vecr\u012bga"
+    ],
+    "name:lit_x_preferred":[
+        "Vecryga"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0420\u0438\u0433\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Oude Stad"
+    ],
+    "name:pol_x_preferred":[
+        "Stare Miasto w Rydze"
+    ],
+    "name:por_x_preferred":[
+        "Centro Hist\u00f3rico de Riga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0439 \u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Vecr\u012bga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0435 \u043c\u0456\u0441\u0442\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Vecriga"
+    ],
+    "name:unk_x_variant":[
+        "Vecriga"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u52a0\u8001\u57ce"
+    ],
+    "qs:gn_adm0_cc":"LV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":456172,
+    "qs:gn_name":"Vecr\u012bga",
+    "qs:local_max":23404,
+    "qs:local_sum":42602,
+    "qs:localhoods":31,
+    "qs:name":"Vecriga",
+    "qs:name_adm0":"Latvija",
+    "qs:name_adm1":"R\u013cga",
+    "qs:name_adm2":"R\u013cga",
+    "qs:name_local":"R\u012bga",
+    "qs:photo_max":3147,
+    "qs:photo_sum":23404,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":88,
+    "qs:woe_adm0":23424874,
+    "qs:woe_adm1":20070121,
+    "qs:woe_adm2":55844479,
+    "qs:woe_funk":"Grouping neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":854823,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":223,
+    "wof:belongsto":[
+        102191581,
+        101751789,
+        85633279,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6615326,
+        "gp:id":23701367,
+        "qs:id":1192898,
+        "qs_pg:id":1192898,
+        "wd:id":"Q1026415",
+        "wk:page":"Vecr\u012bga"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"75a46573b8e9bbd4125ff22b30c0e24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751789,
+            "neighbourhood_id":85907801,
+            "region_id":85686065
+        }
+    ],
+    "wof:id":85907801,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531936637,
+    "wof:name":"Vecriga",
+    "wof:parent_id":101751789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.107883,
+    56.948979,
+    24.107883,
+    56.948979
+],
+  "geometry": {"coordinates":[24.107883,56.948979],"type":"Point"}
+}

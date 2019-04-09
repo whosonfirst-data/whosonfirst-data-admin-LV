@@ -1,0 +1,101 @@
+{
+  "id": 1126038279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01389,57.38639,23.01389,57.38639",
+    "geom:latitude":57.38639,
+    "geom:longitude":23.01389,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":200,
+    "gn:population":200,
+    "iso:country":"LV",
+    "lbl:latitude":57.38639,
+    "lbl:longitude":23.01389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Upesgr\u012bva"
+    ],
+    "name:eng_x_preferred":[
+        "Upesgr\u012bva"
+    ],
+    "name:lav_x_preferred":[
+        "Upesgr\u012bva"
+    ],
+    "name:unk_x_variant":[
+        "Pumpuri"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":454685,
+    "qs_pg:gn_pop":200,
+    "qs_pg:name":"Upesgr\u012bva",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Rojas Novads",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":967347,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":855803,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Rojas Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454685,
+        "gp:id":855803,
+        "qs_pg:id":967347,
+        "wd:id":"Q20902238"
+    },
+    "wof:country":"LV",
+    "wof:created":1497301943,
+    "wof:geomhash":"9d7564f41ee88ecd25e37002780fda74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1126038279,
+            "region_id":85686125
+        }
+    ],
+    "wof:id":1126038279,
+    "wof:lastmodified":1514484158,
+    "wof:name":"Upesgr\u012bva",
+    "wof:parent_id":85686125,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01389,
+    57.38639,
+    23.01389,
+    57.38639
+],
+  "geometry": {"coordinates":[23.01389,57.38639],"type":"Point"}
+}

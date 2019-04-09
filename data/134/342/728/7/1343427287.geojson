@@ -1,0 +1,75 @@
+{
+  "id": 1343427287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.49453,57.37369,24.49453,57.37369",
+    "geom:latitude":57.37369,
+    "geom:longitude":24.49453,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"660276.0",
+    "gn:asciiname":"Skultes Muiza",
+    "gn:country_code":"LV",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455497,
+    "gn:latitude":57.37369,
+    "gn:longitude":24.49453,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Skultes Mui\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Skulte",
+        "Skujnese",
+        "Skulte",
+        "Skultesmuyzha",
+        "Straumes",
+        "Skultesmui\u017ea",
+        "Skultes Mui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455497
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e60df0e029ce7eff0d0ea70c8d2d3abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343427287,
+            "region_id":85686265
+        }
+    ],
+    "wof:id":1343427287,
+    "wof:lastmodified":1537663053,
+    "wof:name":"Skultes Muiza",
+    "wof:parent_id":85686265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.49453,
+    57.37369,
+    24.49453,
+    57.37369
+],
+  "geometry": {"coordinates":[24.49453,57.37369],"type":"Point"}
+}

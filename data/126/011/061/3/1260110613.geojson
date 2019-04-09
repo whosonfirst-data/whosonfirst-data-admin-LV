@@ -1,0 +1,70 @@
+{
+  "id": 1260110613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33788,56.98685,24.33788,56.98685",
+    "geom:latitude":56.98685,
+    "geom:longitude":24.33788,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"806000.0",
+    "gn:asciiname":"Upesciems",
+    "gn:country_code":"LV",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454686,
+    "gn:latitude":56.98685,
+    "gn:longitude":24.33788,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Upesciems",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Upestsiyems",
+        "Upesciems"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454686
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"7c9a26b9fca75a9eaf4f0e0bfb3c0a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260110613,
+            "region_id":85686073
+        }
+    ],
+    "wof:id":1260110613,
+    "wof:lastmodified":1537663032,
+    "wof:name":"Upesciems",
+    "wof:parent_id":85686073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33788,
+    56.98685,
+    24.33788,
+    56.98685
+],
+  "geometry": {"coordinates":[24.33788,56.98685],"type":"Point"}
+}

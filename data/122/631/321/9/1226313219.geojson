@@ -1,0 +1,65 @@
+{
+  "id": 1226313219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46667,57.01667,22.46667,57.01667",
+    "geom:latitude":57.01667,
+    "geom:longitude":22.46667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mukes",
+    "gn:country_code":"LV",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457229,
+    "gn:latitude":57.01667,
+    "gn:longitude":22.46667,
+    "gn:modification_date":"1994-06-30",
+    "gn:name":"Mukes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457229
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"96020066b40a47fdb0cdc167d1793695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226313219,
+            "region_id":85686157
+        }
+    ],
+    "wof:id":1226313219,
+    "wof:lastmodified":1536835478,
+    "wof:name":"Mukes",
+    "wof:parent_id":85686157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46667,
+    57.01667,
+    22.46667,
+    57.01667
+],
+  "geometry": {"coordinates":[22.46667,57.01667],"type":"Point"}
+}

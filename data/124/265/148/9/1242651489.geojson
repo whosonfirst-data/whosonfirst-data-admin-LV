@@ -1,0 +1,72 @@
+{
+  "id": 1242651489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.47031,56.92524,25.47031,56.92524",
+    "geom:latitude":56.92524,
+    "geom:longitude":25.47031,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"740272.0",
+    "gn:asciiname":"Mazozoli",
+    "gn:country_code":"LV",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457545,
+    "gn:latitude":56.92524,
+    "gn:longitude":25.47031,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Mazozoli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ozolipusmui\u017ea Centrs",
+        "Myza Mazozoly",
+        "Mazozolmui\u017ea",
+        "Mazozoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457545
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a21850c5e2f15d3310ffd9bcfaebcccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1242651489,
+            "region_id":85686079
+        }
+    ],
+    "wof:id":1242651489,
+    "wof:lastmodified":1537663114,
+    "wof:name":"Mazozoli",
+    "wof:parent_id":85686079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.47031,
+    56.92524,
+    25.47031,
+    56.92524
+],
+  "geometry": {"coordinates":[25.47031,56.92524],"type":"Point"}
+}

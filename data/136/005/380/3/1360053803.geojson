@@ -1,0 +1,71 @@
+{
+  "id": 1360053803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.20498,56.36573,27.20498,56.36573",
+    "geom:latitude":56.36573,
+    "geom:longitude":27.20498,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780268.0",
+    "gn:asciiname":"Skradeli",
+    "gn:country_code":"LV",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455537,
+    "gn:latitude":56.36573,
+    "gn:longitude":27.20498,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Skrade\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skryadili",
+        "Skr\u0113de\u013ci",
+        "Skrade\u013ci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455537
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"91b24c159961808c9e0484fd8361899c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360053803,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1360053803,
+    "wof:lastmodified":1537663055,
+    "wof:name":"Skradeli",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.20498,
+    56.36573000000001,
+    27.20498,
+    56.36573000000001
+],
+  "geometry": {"coordinates":[27.20498,56.36573000000001],"type":"Point"}
+}

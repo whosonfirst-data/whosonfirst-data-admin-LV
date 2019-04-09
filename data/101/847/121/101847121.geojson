@@ -1,0 +1,93 @@
+{
+  "id": 101847121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000129,
+    "geom:area_square_m":875769.074871,
+    "geom:bbox":"23.2055372902,56.6417012463,23.2276210401,56.651171309",
+    "geom:latitude":56.646948,
+    "geom:longitude":23.216736,
+    "iso:country":"LV",
+    "lbl:latitude":56.646997,
+    "lbl:longitude":23.215842,
+    "mps:latitude":56.646997,
+    "mps:longitude":23.215842,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gardene"
+    ],
+    "name:eng_x_preferred":[
+        "Gardene"
+    ],
+    "name:lav_x_preferred":[
+        "Gardene"
+    ],
+    "name:unk_x_variant":[
+        "Dobele Vtoroye"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Dobeles novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Auru pagasts",
+    "qs:la_lc":"*LV4646",
+    "qs:level":"locality",
+    "qs:loc":"Gardene",
+    "qs:loc_alt":"Gardene",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":56.649167,
+    "wd:longitude":23.22,
+    "wd:population":1508,
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864201,
+        "gp:id":10645003,
+        "qs:id":1148343,
+        "wd:id":"Q5522441",
+        "wk:page":"Gardene"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"9a1c8e79f1b0f11e3e3eb1ce22b69e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101847121,
+            "region_id":85685925
+        }
+    ],
+    "wof:id":101847121,
+    "wof:lastmodified":1527714974,
+    "wof:name":"Gardene",
+    "wof:parent_id":85685925,
+    "wof:placetype":"locality",
+    "wof:population":1508,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20553729024817,
+    56.64170124634933,
+    23.22762104006154,
+    56.65117130896431
+],
+  "geometry": {"coordinates":[[[23.21349500778859,56.65117130896431],[23.22472224178864,56.65001708129927],[23.22441344525794,56.64913603565071],[23.22762104006154,56.64880608733245],[23.22607695788616,56.64440089026294],[23.22126607571357,56.64489571827528],[23.22095741580097,56.64401466347618],[23.21935379798185,56.64417956235633],[23.21873659936853,56.64241744170107],[23.21713303926322,56.6425823122043],[23.21682450055556,56.64170124634933],[23.21361741236058,56.64203091951441],[23.21392588050298,56.64291199401026],[23.20911504601042,56.64340636871481],[23.21004023408074,56.64604962626026],[23.20843649102187,56.64621439131605],[23.20874488549237,56.64709547987854],[23.20553729024817,56.64742495941817],[23.206153988609,56.64918715141158],[23.20775786325169,56.64902241287285],[23.20806627303847,56.64990350334739],[23.20967017013538,56.6497387407511],[23.20997863209823,56.65061982610354],[23.2131864583439,56.6502902330559],[23.21349500778859,56.65117130896431]]],"type":"Polygon"}
+}

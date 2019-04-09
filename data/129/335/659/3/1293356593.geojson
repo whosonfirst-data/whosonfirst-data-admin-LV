@@ -1,0 +1,72 @@
+{
+  "id": 1293356593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.80936,57.51711,24.80936,57.51711",
+    "geom:latitude":57.51711,
+    "geom:longitude":24.80936,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"660280.0",
+    "gn:asciiname":"Umurga",
+    "gn:country_code":"LV",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454706,
+    "gn:latitude":57.51711,
+    "gn:longitude":24.80936,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Umurga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Umurga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c\u0443\u0440\u0433\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454706
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d321b7c0383a251b59200295342aff96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293356593,
+            "region_id":85686265
+        }
+    ],
+    "wof:id":1293356593,
+    "wof:lastmodified":1537663032,
+    "wof:name":"Umurga",
+    "wof:parent_id":85686265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.80936,
+    57.51711,
+    24.80936,
+    57.51711
+],
+  "geometry": {"coordinates":[24.80936,57.51711],"type":"Point"}
+}

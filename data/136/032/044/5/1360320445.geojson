@@ -1,0 +1,70 @@
+{
+  "id": 1360320445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.02426,57.10585,25.02426,57.10585",
+    "geom:latitude":57.10585,
+    "geom:longitude":25.02426,
+    "gn:admin1_code":"C7",
+    "gn:admin2_code":"801666.0",
+    "gn:asciiname":"Myza Kartuzhi",
+    "gn:country_code":"LV",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458969,
+    "gn:latitude":57.10585,
+    "gn:longitude":25.02426,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Myza Kartuzhi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kartu\u017eu Mui\u017ea",
+        "K\u0101rt\u016b\u017ei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458969
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"185e533695e6d06d8db852f22d214bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360320445,
+            "region_id":85686135
+        }
+    ],
+    "wof:id":1360320445,
+    "wof:lastmodified":1537663159,
+    "wof:name":"Myza Kartuzhi",
+    "wof:parent_id":85686135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.02426,
+    57.10585,
+    25.02426,
+    57.10585
+],
+  "geometry": {"coordinates":[25.02426,57.10585],"type":"Point"}
+}

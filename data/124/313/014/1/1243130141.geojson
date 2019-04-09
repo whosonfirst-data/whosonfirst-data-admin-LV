@@ -1,0 +1,69 @@
+{
+  "id": 1243130141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.14307,56.59257,27.14307,56.59257",
+    "geom:latitude":56.59257,
+    "geom:longitude":27.14307,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780260.0",
+    "gn:asciiname":"Dundas",
+    "gn:country_code":"LV",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460186,
+    "gn:latitude":56.59257,
+    "gn:longitude":27.14307,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Dundas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dundi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460186
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"72691ec96cdfef0592f9258f27524495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243130141,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1243130141,
+    "wof:lastmodified":1537663196,
+    "wof:name":"Dundas",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.14307,
+    56.59257,
+    27.14307,
+    56.59257
+],
+  "geometry": {"coordinates":[27.14307,56.59257],"type":"Point"}
+}

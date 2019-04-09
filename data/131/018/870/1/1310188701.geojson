@@ -1,0 +1,70 @@
+{
+  "id": 1310188701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.00539,56.14581,28.00539,56.14581",
+    "geom:latitude":56.14581,
+    "geom:longitude":28.00539,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Landskorona",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458299,
+    "gn:latitude":56.14581,
+    "gn:longitude":28.00539,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Landskorona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyandskoron",
+        "Landskorona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458299
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"34328b0e500d152d8a837fd3739c8544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310188701,
+            "region_id":85685893
+        }
+    ],
+    "wof:id":1310188701,
+    "wof:lastmodified":1537663138,
+    "wof:name":"Landskorona",
+    "wof:parent_id":85685893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00539,
+    56.14581,
+    28.00539,
+    56.14581
+],
+  "geometry": {"coordinates":[28.00539,56.14581],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1125862457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75806,56.82194,23.75806,56.82194",
+    "geom:latitude":56.82194,
+    "geom:longitude":23.75806,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LV",
+    "lbl:latitude":56.82194,
+    "lbl:longitude":23.75806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kalnciema mas\u012bvs"
+    ],
+    "name:eng_x_preferred":[
+        "Kalnciema mas\u012bvs"
+    ],
+    "name:lav_x_preferred":[
+        "Kalnciema mas\u012bvs"
+    ],
+    "name:rus_x_preferred":[
+        "Chetv\u00ebrtoye Otdeleniye Sovkhoza Saliyena"
+    ],
+    "name:unk_x_variant":[
+        "Purvnieki"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":459105,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kalnciema Mas\u012bvs",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Bab\u013ctes Novads",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1182519,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":55844925,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Bab\u013ctes Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459105,
+        "gp:id":55844925,
+        "qs_pg:id":1182519,
+        "wd:id":"Q22689231"
+    },
+    "wof:country":"LV",
+    "wof:created":1497293887,
+    "wof:geomhash":"2fb24a06529d6db5b6dfd2462b919711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125862457,
+            "region_id":85686027
+        }
+    ],
+    "wof:id":1125862457,
+    "wof:lastmodified":1514484034,
+    "wof:name":"Kalnciema Mas\u012bvs",
+    "wof:parent_id":85686027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75806,
+    56.82194,
+    23.75806,
+    56.82194
+],
+  "geometry": {"coordinates":[23.75806,56.82194],"type":"Point"}
+}

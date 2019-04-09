@@ -1,0 +1,66 @@
+{
+  "id": 1209024541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.93597,56.61327,25.93597,56.61327",
+    "geom:latitude":56.61327,
+    "geom:longitude":25.93597,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Antuzi",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461450,
+    "gn:latitude":56.61327,
+    "gn:longitude":25.93597,
+    "gn:modification_date":"2010-10-28",
+    "gn:name":"Antu\u017ei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antuzhi",
+        "Antu\u017ei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461450
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"aca7ba8a78218eccf55ce41b2a1378b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209024541
+        }
+    ],
+    "wof:id":1209024541,
+    "wof:lastmodified":1537663231,
+    "wof:name":"Antuzi",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93597,
+    56.61326999999999,
+    25.93597,
+    56.61326999999999
+],
+  "geometry": {"coordinates":[25.93597,56.61326999999999],"type":"Point"}
+}

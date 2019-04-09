@@ -1,0 +1,70 @@
+{
+  "id": 1276480981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.10447,56.36251,28.10447,56.36251",
+    "geom:latitude":56.36251,
+    "geom:longitude":28.10447,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"681896.0",
+    "gn:asciiname":"Surbeli",
+    "gn:country_code":"LV",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455056,
+    "gn:latitude":56.36251,
+    "gn:longitude":28.10447,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Surbe\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surbe\u013ci",
+        "Surbel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455056
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6794dc514359cc7833b633e50b17c495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276480981,
+            "region_id":85685987
+        }
+    ],
+    "wof:id":1276480981,
+    "wof:lastmodified":1537663042,
+    "wof:name":"Surbeli",
+    "wof:parent_id":85685987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10447000000001,
+    56.36251,
+    28.10447000000001,
+    56.36251
+],
+  "geometry": {"coordinates":[28.10447000000001,56.36251],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1125779583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.44917,56.58811,24.44917,56.58811",
+    "geom:latitude":56.58811,
+    "geom:longitude":24.44917,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":263,
+    "gn:population":263,
+    "iso:country":"LV",
+    "lbl:latitude":56.58811,
+    "lbl:longitude":24.44917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Beibe\u017ei"
+    ],
+    "name:eng_x_preferred":[
+        "Beibe\u017ei"
+    ],
+    "name:lav_x_preferred":[
+        "Beibe\u017ei"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":8081253,
+    "qs_pg:gn_pop":263,
+    "qs_pg:name":"Beibe\u017ei",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Vecumnieku Novads",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":268391,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":55845745,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Vecumnieku Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081253,
+        "gp:id":55845745,
+        "qs_pg:id":268391,
+        "wd:id":"Q15218664"
+    },
+    "wof:country":"LV",
+    "wof:created":1497290410,
+    "wof:geomhash":"51bac17179db8aeaf15c17eef20e6417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125779583,
+            "region_id":85685939
+        }
+    ],
+    "wof:id":1125779583,
+    "wof:lastmodified":1514483974,
+    "wof:name":"Beibe\u017ei",
+    "wof:parent_id":85685939,
+    "wof:placetype":"locality",
+    "wof:population":263,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44917,
+    56.58811,
+    24.44917,
+    56.58811
+],
+  "geometry": {"coordinates":[24.44917,56.58811],"type":"Point"}
+}

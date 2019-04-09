@@ -1,0 +1,67 @@
+{
+  "id": 1209462325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.60291,57.39446,22.60291,57.39446",
+    "geom:latitude":57.39446,
+    "geom:longitude":22.60291,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"880237.0",
+    "gn:asciiname":"Arlava",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461388,
+    "gn:latitude":57.39446,
+    "gn:longitude":22.60291,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"\u0100rlava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Aarlava",
+        "\u0100rlava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461388
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"124ffcdb88a1a0f45d42e5138c0a1fc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209462325
+        }
+    ],
+    "wof:id":1209462325,
+    "wof:lastmodified":1537663230,
+    "wof:name":"Arlava",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.60291,
+    57.39446,
+    22.60291,
+    57.39446
+],
+  "geometry": {"coordinates":[22.60291,57.39446],"type":"Point"}
+}

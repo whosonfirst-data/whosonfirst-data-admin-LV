@@ -1,0 +1,66 @@
+{
+  "id": 1276414775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05438,56.98252,26.05438,56.98252",
+    "geom:latitude":56.98252,
+    "geom:longitude":26.05438,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700268.0",
+    "gn:asciiname":"Ozoli",
+    "gn:country_code":"LV",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456977,
+    "gn:latitude":56.98252,
+    "gn:longitude":26.05438,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Ozoli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456977
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a7539bddfb5105d4b16207f1ed5ced04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276414775,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1276414775,
+    "wof:lastmodified":1536669575,
+    "wof:name":"Ozoli",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05438,
+    56.98252,
+    26.05438,
+    56.98252
+],
+  "geometry": {"coordinates":[26.05438,56.98252],"type":"Point"}
+}

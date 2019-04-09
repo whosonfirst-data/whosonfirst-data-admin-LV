@@ -1,0 +1,66 @@
+{
+  "id": 1226415761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02093,56.92607,22.02093,56.92607",
+    "geom:latitude":56.92607,
+    "geom:longitude":22.02093,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"620284.0",
+    "gn:asciiname":"Kaltiki",
+    "gn:country_code":"LV",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459057,
+    "gn:latitude":56.92607,
+    "gn:longitude":22.02093,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kalti\u0137i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459057
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d5362ebfe74db5fe2a8f11295c941688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226415761,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1226415761,
+    "wof:lastmodified":1536688900,
+    "wof:name":"Kaltiki",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02093,
+    56.92607,
+    22.02093,
+    56.92607
+],
+  "geometry": {"coordinates":[22.02093,56.92607],"type":"Point"}
+}

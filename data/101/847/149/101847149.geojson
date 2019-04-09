@@ -1,0 +1,95 @@
+{
+  "id": 101847149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":517483.501314,
+    "geom:bbox":"25.145892366,56.8415026266,25.1674583946,56.8503262751",
+    "geom:latitude":56.846419,
+    "geom:longitude":25.15524,
+    "iso:country":"LV",
+    "lbl:latitude":56.84727,
+    "lbl:longitude":25.154178,
+    "mps:latitude":56.84727,
+    "mps:longitude":25.154178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Madliena"
+    ],
+    "name:eng_x_preferred":[
+        "Madliena"
+    ],
+    "name:est_x_preferred":[
+        "Madliena"
+    ],
+    "name:fra_x_preferred":[
+        "Il-Madliena"
+    ],
+    "name:lav_x_preferred":[
+        "Madliena"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u043b\u0438\u0435\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Madliyena"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Ogres novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Madlienas pagasts",
+    "qs:la_lc":"*LV7468",
+    "qs:level":"locality",
+    "qs:loc":"Madliena",
+    "qs:loc_alt":"Madliena",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":248,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457715,
+        "gp:id":853817,
+        "qs:id":1127416,
+        "wd:id":"Q15219326"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ff9afc7d14c15efa5b8383ded8f69f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101847149,
+            "region_id":85686079
+        }
+    ],
+    "wof:id":101847149,
+    "wof:lastmodified":1527714983,
+    "wof:name":"Madliena",
+    "wof:parent_id":85686079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14589236603678,
+    56.84150262656993,
+    25.16745839463351,
+    56.85032627514778
+],
+  "geometry": {"coordinates":[[[25.15373261429983,56.84994852796547],[25.15337672160922,56.84907305825647],[25.16300209484723,56.84793937501496],[25.16264601273019,56.84706393395453],[25.16745839463351,56.84649684204703],[25.16674607997112,56.84474598637058],[25.15551746849388,56.84606885640613],[25.15444987345558,56.84344246045367],[25.15765791347712,56.8430646255369],[25.15730201777114,56.84218916792423],[25.15569803997772,56.84237809024518],[25.15534219853305,56.84150262656993],[25.15053028062181,56.84206926082555],[25.15088601765166,56.84294473936961],[25.14928198056577,56.84313358313051],[25.14963770223869,56.84400906552588],[25.15124177413406,56.84382021680932],[25.15230916030907,56.84644664250277],[25.14589236603678,56.84720197898628],[25.14695950950619,56.84982845421541],[25.15016814521215,56.84945079552443],[25.15052396825979,56.85032627514778],[25.15373261429983,56.84994852796547]]],"type":"Polygon"}
+}

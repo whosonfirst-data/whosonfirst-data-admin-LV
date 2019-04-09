@@ -1,0 +1,72 @@
+{
+  "id": 1343736755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.74771,56.79912,26.74771,56.79912",
+    "geom:latitude":56.79912,
+    "geom:longitude":26.74771,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700282.0",
+    "gn:asciiname":"Degumnieki",
+    "gn:country_code":"LV",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460382,
+    "gn:latitude":56.79912,
+    "gn:longitude":26.74771,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Degumnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Degumnieki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0433\u0443\u043c\u043d\u0438\u0435\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460382
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"9bfb3dc8b1390bc52267686a7c4e8d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343736755,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1343736755,
+    "wof:lastmodified":1537663201,
+    "wof:name":"Degumnieki",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.74771,
+    56.79912,
+    26.74771,
+    56.79912
+],
+  "geometry": {"coordinates":[26.74771,56.79912],"type":"Point"}
+}

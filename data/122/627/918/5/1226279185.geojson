@@ -1,0 +1,70 @@
+{
+  "id": 1226279185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8373,56.64016,23.8373,56.64016",
+    "geom:latitude":56.64016,
+    "geom:longitude":23.8373,
+    "gn:admin1_code":"A3",
+    "gn:admin2_code":"546744.0",
+    "gn:asciiname":"Tetele",
+    "gn:country_code":"LV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454907,
+    "gn:latitude":56.64016,
+    "gn:longitude":23.8373,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Tetele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Progress",
+        "Tetelminde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454907
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"638697cfb868f2cfe44f973dec3fdb04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226279185,
+            "region_id":85685907
+        }
+    ],
+    "wof:id":1226279185,
+    "wof:lastmodified":1537663038,
+    "wof:name":"Tetele",
+    "wof:parent_id":85685907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8373,
+    56.64016,
+    23.8373,
+    56.64016
+],
+  "geometry": {"coordinates":[23.8373,56.64016],"type":"Point"}
+}

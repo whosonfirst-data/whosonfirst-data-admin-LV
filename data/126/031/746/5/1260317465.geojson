@@ -1,0 +1,66 @@
+{
+  "id": 1260317465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22288,56.53448,21.22288,56.53448",
+    "geom:latitude":56.53448,
+    "geom:longitude":21.22288,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"641060.0",
+    "gn:asciiname":"Ilgi",
+    "gn:country_code":"LV",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459592,
+    "gn:latitude":56.53448,
+    "gn:longitude":21.22288,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"I\u013c\u0123i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459592
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"45668aea154a833ab35b92ffdc70705d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260317465,
+            "region_id":85685811
+        }
+    ],
+    "wof:id":1260317465,
+    "wof:lastmodified":1536666442,
+    "wof:name":"Ilgi",
+    "wof:parent_id":85685811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22288,
+    56.53448,
+    21.22288,
+    56.53448
+],
+  "geometry": {"coordinates":[21.22288,56.53448],"type":"Point"}
+}

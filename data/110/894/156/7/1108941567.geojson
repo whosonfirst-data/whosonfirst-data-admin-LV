@@ -1,0 +1,62 @@
+{
+  "id": 1108941567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8702652312,56.9699048546,23.8702652312,56.9699048546",
+    "geom:latitude":56.969905,
+    "geom:longitude":23.870265,
+    "iso:country":"LV",
+    "lbl:latitude":56.969905,
+    "lbl:longitude":23.870265,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:lav_x_preferred":[
+        "Bra\u017eciems"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LV",
+    "wof:created":1491362503,
+    "wof:geomhash":"0341734f6d1f9e4531719c8b166c7de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "neighbourhood_id":1108941567,
+            "region_id":85686031
+        }
+    ],
+    "wof:id":1108941567,
+    "wof:lastmodified":1497292360,
+    "wof:name":"Brazciems",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.87026523117986,
+    56.96990485456449,
+    23.87026523117986,
+    56.96990485456449
+],
+  "geometry": {"coordinates":[23.87026523117986,56.96990485456449],"type":"Point"}
+}

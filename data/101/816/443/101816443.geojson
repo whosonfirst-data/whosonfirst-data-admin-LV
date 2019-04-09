@@ -1,0 +1,112 @@
+{
+  "id": 101816443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000176,
+    "geom:area_square_m":1174170.765688,
+    "geom:bbox":"25.3361274677,57.3091416229,25.3682207655,57.3204895319",
+    "geom:latitude":57.31392,
+    "geom:longitude":25.351553,
+    "gn:population":2532,
+    "iso:country":"LV",
+    "lbl:latitude":57.312402,
+    "lbl:longitude":25.357667,
+    "mps:latitude":57.312402,
+    "mps:longitude":25.357667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:dut_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:eng_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:est_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:ger_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:lav_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:lit_x_preferred":[
+        "Priekuliai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0435\u043a\u0443\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:unk_x_variant":[
+        "Prieku\u013cu Mui\u017ea"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Priekulu novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Prieku\u013cu pagasts",
+    "qs:la_lc":"*LV4272",
+    "qs:level":"locality",
+    "qs:loc":"Prieku\u013ci",
+    "qs:loc_alt":"Priekuli",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":57.314167,
+    "wd:longitude":25.359722,
+    "wd:population":2532,
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456503,
+        "gp:id":854621,
+        "qs:id":894638,
+        "wd:id":"Q1240381",
+        "wk:page":"Prieku\u013ci"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"61af4f0989708530f162a152788dfe1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101816443,
+            "region_id":85686229
+        }
+    ],
+    "wof:id":101816443,
+    "wof:lastmodified":1527642291,
+    "wof:name":"Prieku\u013ci",
+    "wof:parent_id":85686229,
+    "wof:placetype":"locality",
+    "wof:population":2532,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33612746768154,
+    57.30914162287837,
+    25.36822076549691,
+    57.32048953194072
+],
+  "geometry": {"coordinates":[[[25.34607558397477,57.32010642092013],[25.34460956852013,57.31660691823532],[25.35759408514025,57.31507384185909],[25.35796084443427,57.31594867837345],[25.35958387498977,57.31575694921042],[25.35995069033515,57.31663177947945],[25.36157374111548,57.31644002531647],[25.36194061251575,57.31731484933948],[25.36356368351886,57.31712307017574],[25.36393061097851,57.31799788795149],[25.36717677791125,57.31761425973036],[25.36607584213795,57.31498983366276],[25.36769879514958,57.3147980050536],[25.36659793516117,57.31217358408685],[25.36822076549691,57.3119817509247],[25.36785381710166,57.31110694677272],[25.36460821235704,57.31149058298814],[25.36424135571974,57.31061576747743],[25.36099576038788,57.31099931392646],[25.36026225093576,57.30924965905746],[25.35377116001462,57.31001647244693],[25.35340457862912,57.30914162287837],[25.33879903928602,57.31086574363616],[25.33953157928175,57.3126155335209],[25.33628559060855,57.31299847309907],[25.3377506282045,57.31649808010184],[25.33612746768154,57.31668954046319],[25.33649374206851,57.31756444448655],[25.33811693833678,57.31737297902242],[25.33921599051916,57.31999766899105],[25.34246255107274,57.31961464775839],[25.34282901390168,57.32048953194072],[25.34607558397477,57.32010642092013]],[[25.34314387792244,57.31310739741821],[25.35450438370526,57.31176616817925],[25.35560437156499,57.31439070326508],[25.34424311541937,57.31573203973096],[25.34314387792244,57.31310739741821]]],"type":"Polygon"}
+}

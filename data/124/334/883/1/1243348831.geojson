@@ -1,0 +1,69 @@
+{
+  "id": 1243348831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83333,56.6,22.83333,56.6",
+    "geom:latitude":56.6,
+    "geom:longitude":22.83333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"460298.0",
+    "gn:asciiname":"Ruti",
+    "gn:country_code":"LV",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456002,
+    "gn:latitude":56.6,
+    "gn:longitude":22.83333,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Ruti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u016b\u0137i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456002
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f8f7b65206906907c9c57ce6ccb2f815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243348831,
+            "region_id":85685925
+        }
+    ],
+    "wof:id":1243348831,
+    "wof:lastmodified":1537663067,
+    "wof:name":"Ruti",
+    "wof:parent_id":85685925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83333,
+    56.6,
+    22.83333,
+    56.6
+],
+  "geometry": {"coordinates":[22.83333,56.6],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344139775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21507,56.82363,22.21507,56.82363",
+    "geom:latitude":56.82363,
+    "geom:longitude":22.21507,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"620296.0",
+    "gn:asciiname":"Duras",
+    "gn:country_code":"LV",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460161,
+    "gn:latitude":56.82363,
+    "gn:longitude":22.21507,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"D\u016bras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u016bras",
+        "D\u016bri",
+        "D\u016brupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460161
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"93959e8e6aa9feb6598c62324a1957c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1344139775,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1344139775,
+    "wof:lastmodified":1537663196,
+    "wof:name":"Duras",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21507,
+    56.82363,
+    22.21507,
+    56.82363
+],
+  "geometry": {"coordinates":[22.21507,56.82363],"type":"Point"}
+}

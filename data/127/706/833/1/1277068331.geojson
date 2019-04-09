@@ -1,0 +1,80 @@
+{
+  "id": 1277068331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46366,56.02976,26.46366,56.02976",
+    "geom:latitude":56.02976,
+    "geom:longitude":26.46366,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440294.0",
+    "gn:asciiname":"Vabole",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454632,
+    "gn:latitude":56.02976,
+    "gn:longitude":26.46366,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Vabole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vabole"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0431\u043e\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Myza Vabole",
+        "Vaboles Pusmui\u017ea",
+        "Osagals",
+        "Vabole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454632,
+        "wk:page":"Vabole"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f59c1d46db74a9586f6fd707b9eb97e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1277068331,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1277068331,
+    "wof:lastmodified":1537663031,
+    "wof:name":"Vabole",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46366,
+    56.02976,
+    26.46366,
+    56.02976
+],
+  "geometry": {"coordinates":[26.46366,56.02976],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259438799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41502,56.67983,27.41502,56.67983",
+    "geom:latitude":56.67983,
+    "geom:longitude":27.41502,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780258.0",
+    "gn:asciiname":"Jaungailumi",
+    "gn:country_code":"LV",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459406,
+    "gn:latitude":56.67983,
+    "gn:longitude":27.41502,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Jaungailumi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaun Gaylumi",
+        "Jaungailumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459406
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b52c1e92e7f7079c9bccaedc45cc3bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259438799,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1259438799,
+    "wof:lastmodified":1537663173,
+    "wof:name":"Jaungailumi",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41502,
+    56.67983,
+    27.41502,
+    56.67983
+],
+  "geometry": {"coordinates":[27.41502,56.67983],"type":"Point"}
+}

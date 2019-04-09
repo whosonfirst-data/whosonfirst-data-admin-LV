@@ -1,0 +1,70 @@
+{
+  "id": 1259340893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8844,56.59064,26.8844,56.59064",
+    "geom:latitude":56.59064,
+    "geom:longitude":26.8844,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kristceles",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458567,
+    "gn:latitude":56.59064,
+    "gn:longitude":26.8844,
+    "gn:modification_date":"2010-10-28",
+    "gn:name":"Kristceles",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kriste\u013ces",
+        "Kristceles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458567
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f88c6743b334125c16538fc2a59032db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259340893,
+            "region_id":85686049
+        }
+    ],
+    "wof:id":1259340893,
+    "wof:lastmodified":1537663146,
+    "wof:name":"Kristceles",
+    "wof:parent_id":85686049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8844,
+    56.59064,
+    26.8844,
+    56.59064
+],
+  "geometry": {"coordinates":[26.8844,56.59064],"type":"Point"}
+}

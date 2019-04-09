@@ -1,0 +1,76 @@
+{
+  "id": 1326588349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.83943,56.477,26.83943,56.477",
+    "geom:latitude":56.477,
+    "geom:longitude":26.83943,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Galani",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459900,
+    "gn:latitude":56.477,
+    "gn:longitude":26.83943,
+    "gn:modification_date":"2010-10-28",
+    "gn:name":"Ga\u013c\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ga\u013c\u0101ni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u0435\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gal\u0113ni",
+        "Ga\u013c\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459900
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3dfd0608850adca2a793662c645be8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326588349,
+            "region_id":85685977
+        }
+    ],
+    "wof:id":1326588349,
+    "wof:lastmodified":1537663189,
+    "wof:name":"Galani",
+    "wof:parent_id":85685977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.83943,
+    56.477,
+    26.83943,
+    56.477
+],
+  "geometry": {"coordinates":[26.83943,56.477],"type":"Point"}
+}

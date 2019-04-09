@@ -1,0 +1,72 @@
+{
+  "id": 1327111779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83284,56.71844,23.83284,56.71844",
+    "geom:latitude":56.71844,
+    "geom:longitude":23.83284,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cenu",
+    "gn:country_code":"LV",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460615,
+    "gn:latitude":56.71844,
+    "gn:longitude":23.83284,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Cenu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsenas",
+        "Cenaskrogs",
+        "Tsena",
+        "Cenas",
+        "Cena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460615
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0c34ff27c2969b0a4626a4c6871a8e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327111779,
+            "region_id":85685907
+        }
+    ],
+    "wof:id":1327111779,
+    "wof:lastmodified":1537663207,
+    "wof:name":"Cenu",
+    "wof:parent_id":85685907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83284,
+    56.71844,
+    23.83284,
+    56.71844
+],
+  "geometry": {"coordinates":[23.83284,56.71844],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193052333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88265,56.64153,27.88265,56.64153",
+    "geom:latitude":56.64153,
+    "geom:longitude":27.88265,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"684944.0",
+    "gn:asciiname":"Deglova",
+    "gn:country_code":"LV",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460391,
+    "gn:latitude":56.64153,
+    "gn:longitude":27.88265,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Deg\u013cova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Degleva",
+        "Deglevo",
+        "Deglava",
+        "Deg\u013cova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460391
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"777a9e5a9d08b7d028a98eb3cb39ad88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193052333,
+            "region_id":85686089
+        }
+    ],
+    "wof:id":1193052333,
+    "wof:lastmodified":1537663201,
+    "wof:name":"Deglova",
+    "wof:parent_id":85686089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88265,
+    56.64153,
+    27.88265,
+    56.64153
+],
+  "geometry": {"coordinates":[27.88265,56.64153],"type":"Point"}
+}

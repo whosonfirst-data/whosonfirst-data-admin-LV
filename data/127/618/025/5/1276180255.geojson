@@ -1,0 +1,71 @@
+{
+  "id": 1276180255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.21637,56.59926,27.21637,56.59926",
+    "geom:latitude":56.59926,
+    "geom:longitude":27.21637,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780242.0",
+    "gn:asciiname":"Maza Puderova",
+    "gn:country_code":"LV",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457540,
+    "gn:latitude":56.59926,
+    "gn:longitude":27.21637,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Maz\u0101 Puderova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puderi",
+        "Mazpuderi",
+        "Maz\u0101 Puderova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457540
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"542341831fca70bb45de9de1a54fe61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276180255,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1276180255,
+    "wof:lastmodified":1537663114,
+    "wof:name":"Maza Puderova",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21637,
+    56.59926,
+    27.21637,
+    56.59926
+],
+  "geometry": {"coordinates":[27.21637,56.59926],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326701145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4209,55.84476,27.4209,55.84476",
+    "geom:latitude":55.84476,
+    "geom:longitude":27.4209,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600284.0",
+    "gn:asciiname":"Cirmani",
+    "gn:country_code":"LV",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460528,
+    "gn:latitude":55.84476,
+    "gn:longitude":27.4209,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Cirmani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsirmany",
+        "Cirma\u0146i",
+        "Cirmani",
+        "Logovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460528
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"03c4f17d07ce0d98207ddbbf5b06a7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326701145,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":1326701145,
+    "wof:lastmodified":1537663205,
+    "wof:name":"Cirmani",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4209,
+    55.84476,
+    27.4209,
+    55.84476
+],
+  "geometry": {"coordinates":[27.4209,55.84476],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209778133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.71902,56.77535,27.71902,56.77535",
+    "geom:latitude":56.77535,
+    "geom:longitude":27.71902,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Malnava",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457680,
+    "gn:latitude":56.77535,
+    "gn:longitude":27.71902,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Malnava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malnaya",
+        "Melnava",
+        "Malnava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457680
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"45f387f871a57d4ef8c8c5e1ab618f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1209778133,
+            "region_id":85686139
+        }
+    ],
+    "wof:id":1209778133,
+    "wof:lastmodified":1537663119,
+    "wof:name":"Malnava",
+    "wof:parent_id":85686139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.71902,
+    56.77535,
+    27.71902,
+    56.77535
+],
+  "geometry": {"coordinates":[27.71902,56.77535],"type":"Point"}
+}

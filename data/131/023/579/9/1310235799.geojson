@@ -1,0 +1,71 @@
+{
+  "id": 1310235799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1847,57.70259,25.1847,57.70259",
+    "geom:latitude":57.70259,
+    "geom:longitude":25.1847,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Pucurga",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456469,
+    "gn:latitude":57.70259,
+    "gn:longitude":25.1847,
+    "gn:modification_date":"2010-11-28",
+    "gn:name":"Pu\u010durga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Puchurga",
+        "Pu\u010durgas Mui\u017ea",
+        "Pu\u010durga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456469
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"566f2464a2f9f320e266e88d42803771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310235799,
+            "region_id":85686283
+        }
+    ],
+    "wof:id":1310235799,
+    "wof:lastmodified":1537663081,
+    "wof:name":"Pucurga",
+    "wof:parent_id":85686283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1847,
+    57.70259,
+    25.1847,
+    57.70259
+],
+  "geometry": {"coordinates":[25.1847,57.70259],"type":"Point"}
+}

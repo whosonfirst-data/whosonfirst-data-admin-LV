@@ -1,0 +1,78 @@
+{
+  "id": 1310400173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.12377,55.94901,26.12377,55.94901",
+    "geom:latitude":55.94901,
+    "geom:longitude":26.12377,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Eglaine",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460069,
+    "gn:latitude":55.94901,
+    "gn:longitude":26.12377,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Eglaine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eglaine"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0433\u043b\u0430\u0439\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Yeglayne",
+        "Eglayne",
+        "Eglaine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460069,
+        "wk:page":"Eglaine"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1673cf679603d257bc32c71d5e88922d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310400173,
+            "region_id":85685815
+        }
+    ],
+    "wof:id":1310400173,
+    "wof:lastmodified":1537663194,
+    "wof:name":"Eglaine",
+    "wof:parent_id":85685815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.12377,
+    55.94901,
+    26.12377,
+    55.94901
+],
+  "geometry": {"coordinates":[26.12377,55.94901],"type":"Point"}
+}

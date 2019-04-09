@@ -1,0 +1,61 @@
+{
+  "id": 1108941495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1486285991,56.913072884,24.1486285991,56.913072884",
+    "geom:latitude":56.913073,
+    "geom:longitude":24.148629,
+    "iso:country":"LV",
+    "lbl:latitude":56.913073,
+    "lbl:longitude":24.148629,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751789,
+        85633279,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LV",
+    "wof:created":1491362465,
+    "wof:geomhash":"1ff6f57189ee0bf08417ffa1c39489a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751789,
+            "neighbourhood_id":1108941495,
+            "region_id":85686065
+        }
+    ],
+    "wof:id":1108941495,
+    "wof:lastmodified":1492123597,
+    "wof:name":"Katlakalns",
+    "wof:parent_id":101751789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.14862859908328,
+    56.91307288400925,
+    24.14862859908328,
+    56.91307288400925
+],
+  "geometry": {"coordinates":[24.14862859908328,56.91307288400925],"type":"Point"}
+}

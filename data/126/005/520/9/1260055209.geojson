@@ -1,0 +1,70 @@
+{
+  "id": 1260055209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.66193,56.38561,27.66193,56.38561",
+    "geom:latitude":56.38561,
+    "geom:longitude":27.66193,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"680280.0",
+    "gn:asciiname":"Beceri",
+    "gn:country_code":"LV",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461100,
+    "gn:latitude":56.38561,
+    "gn:longitude":27.66193,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Be\u010deri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bechery",
+        "Be\u010deri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461100
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"7af021288a353263ba9aec7ffabb244e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260055209,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":1260055209,
+    "wof:lastmodified":1537663221,
+    "wof:name":"Beceri",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.66193,
+    56.38561,
+    27.66193,
+    56.38561
+],
+  "geometry": {"coordinates":[27.66193,56.38561],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193228935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.87785,57.04375,22.87785,57.04375",
+    "geom:latitude":57.04375,
+    "geom:longitude":22.87785,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"900274.0",
+    "gn:asciiname":"Daigone",
+    "gn:country_code":"LV",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460470,
+    "gn:latitude":57.04375,
+    "gn:longitude":22.87785,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Daigone",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Daigone",
+        "Daigone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460470
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"62ea14c7754ab7bb8f669c083f0149fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193228935,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":1193228935,
+    "wof:lastmodified":1537663204,
+    "wof:name":"Daigone",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.87785,
+    57.04375,
+    22.87785,
+    57.04375
+],
+  "geometry": {"coordinates":[22.87785,57.04375],"type":"Point"}
+}

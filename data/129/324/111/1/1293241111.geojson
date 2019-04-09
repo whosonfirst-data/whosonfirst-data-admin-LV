@@ -1,0 +1,75 @@
+{
+  "id": 1293241111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.67405,57.17878,21.67405,57.17878",
+    "geom:latitude":57.17878,
+    "geom:longitude":21.67405,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"980290.0",
+    "gn:asciiname":"Vendzavas",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454316,
+    "gn:latitude":57.17878,
+    "gn:longitude":21.67405,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Vendzavas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vendzava",
+        "Myza Vendzava",
+        "Vendava",
+        "Vendzava Mui\u017eas Centrs",
+        "Venzava",
+        "Vendzavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454316
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ffdbea677f687efc8701cd2c9b5d5b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293241111,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1293241111,
+    "wof:lastmodified":1537663019,
+    "wof:name":"Vendzavas",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.67405,
+    57.17878,
+    21.67405,
+    57.17878
+],
+  "geometry": {"coordinates":[21.67405,57.17878],"type":"Point"}
+}

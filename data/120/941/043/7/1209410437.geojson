@@ -1,0 +1,73 @@
+{
+  "id": 1209410437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.20308,56.21415,26.20308,56.21415",
+    "geom:latitude":56.21415,
+    "geom:longitude":26.20308,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"560254.0",
+    "gn:asciiname":"Dunava",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460188,
+    "gn:latitude":56.21415,
+    "gn:longitude":26.20308,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Dunava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dunava"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dunavas Mui\u017ea",
+        "Dunava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460188
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b8669e3853b0fdac6cc999c056c9fab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209410437
+        }
+    ],
+    "wof:id":1209410437,
+    "wof:lastmodified":1537663197,
+    "wof:name":"Dunava",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20308,
+    56.21415,
+    26.20308,
+    56.21415
+],
+  "geometry": {"coordinates":[26.20308,56.21415],"type":"Point"}
+}

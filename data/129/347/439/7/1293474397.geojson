@@ -1,0 +1,77 @@
+{
+  "id": 1293474397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.62537,57.29565,26.62537,57.29565",
+    "geom:latitude":57.29565,
+    "geom:longitude":26.62537,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"500264.0",
+    "gn:asciiname":"Kruckas",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458539,
+    "gn:latitude":57.29565,
+    "gn:longitude":26.62537,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Kru\u010dkas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Kru\u010dkas"
+    ],
+    "name:lav_x_variant":[
+        "Kru\u010dki"
+    ],
+    "name:und_x_variant":[
+        "Mazkru\u010dkas",
+        "Kruchkas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458539
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f3a2d5853a6dcdb7988746b0a98e9bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293474397,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":1293474397,
+    "wof:lastmodified":1537663144,
+    "wof:name":"Kruckas",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.62537,
+    57.29565,
+    26.62537,
+    57.29565
+],
+  "geometry": {"coordinates":[26.62537,57.29565],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327205085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.49942,55.94557,27.49942,55.94557",
+    "geom:latitude":55.94557,
+    "geom:longitude":27.49942,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600286.0",
+    "gn:asciiname":"Pleiki",
+    "gn:country_code":"LV",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456626,
+    "gn:latitude":55.94557,
+    "gn:longitude":27.49942,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Pleiki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456626
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e4c70358e9dfb3183dacc397d44d51b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327205085,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":1327205085,
+    "wof:lastmodified":1537008457,
+    "wof:name":"Pleiki",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.49942,
+    55.94557,
+    27.49942,
+    55.94557
+],
+  "geometry": {"coordinates":[27.49942,55.94557],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193114361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71446,56.70679,23.71446,56.70679",
+    "geom:latitude":56.70679,
+    "geom:longitude":23.71446,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540286.0",
+    "gn:asciiname":"Ercogmuiza",
+    "gn:country_code":"LV",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459634,
+    "gn:latitude":56.70679,
+    "gn:longitude":23.71446,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ercogmui\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Gertsogi",
+        "Hercogu Mui\u017ea",
+        "Hercogi",
+        "Ercogmui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459634
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f90ddd40510ec114b74a7c4b9236e0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193114361,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1193114361,
+    "wof:lastmodified":1537663180,
+    "wof:name":"Ercogmuiza",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71446,
+    56.70679000000001,
+    23.71446,
+    56.70679000000001
+],
+  "geometry": {"coordinates":[23.71446,56.70679000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259914229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.81023,56.92184,26.81023,56.92184",
+    "geom:latitude":56.92184,
+    "geom:longitude":26.81023,
+    "gn:admin1_code":"91",
+    "gn:admin2_code":"701458.0",
+    "gn:asciiname":"Ergala",
+    "gn:country_code":"LV",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460006,
+    "gn:latitude":56.92184,
+    "gn:longitude":26.81023,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"\u011argala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460006
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d923a6f23b7bf4ec60eaea25042689cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259914229,
+            "region_id":85686131
+        }
+    ],
+    "wof:id":1259914229,
+    "wof:lastmodified":1536734998,
+    "wof:name":"Ergala",
+    "wof:parent_id":85686131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.81023,
+    56.92184,
+    26.81023,
+    56.92184
+],
+  "geometry": {"coordinates":[26.81023,56.92184],"type":"Point"}
+}

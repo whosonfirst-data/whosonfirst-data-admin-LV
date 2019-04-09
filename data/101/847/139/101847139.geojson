@@ -1,0 +1,88 @@
+{
+  "id": 101847139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:area_square_m":935421.150605,
+    "geom:bbox":"21.9167473666,56.9590801951,21.9362767725,56.9714617558",
+    "geom:latitude":56.965395,
+    "geom:longitude":21.925819,
+    "iso:country":"LV",
+    "lbl:latitude":56.96373,
+    "lbl:longitude":21.921602,
+    "mps:latitude":56.96373,
+    "mps:longitude":21.921602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Priedaine"
+    ],
+    "name:eng_x_preferred":[
+        "Priedaine"
+    ],
+    "name:lav_x_preferred":[
+        "Priedaine"
+    ],
+    "name:unk_x_variant":[
+        "Stepsa"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Kuldigas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:id":0,
+    "qs:la":"Kuld\u012bga",
+    "qs:la_lc":"*LV6201",
+    "qs:level":"locality",
+    "qs:loc":"Priedaine",
+    "qs:loc_alt":"Priedaine",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864767,
+        "gp:id":854610,
+        "qs_pg:id":235343,
+        "wd:id":"Q15219556"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d657f82167ee592441f449a47b77dc4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101847139,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":101847139,
+    "wof:lastmodified":1553815541,
+    "wof:name":"Priedaine",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91674736659718,
+    56.95908019509864,
+    21.93627677251095,
+    56.97146175576637
+],
+  "geometry": {"coordinates":[[[21.93444383218019,56.96983185274638],[21.93303336454312,56.96540997664425],[21.93627677251095,56.96511167204426],[21.93543046028492,56.96245856279035],[21.92732239902239,56.96320411449199],[21.92704050884879,56.96231972369031],[21.92541889740949,56.9624687699382],[21.9245734301698,56.95981558196058],[21.92295191641614,56.9599645962806],[21.92267016175299,56.95908019509864],[21.9194271716085,56.9593781556917],[21.91970885321859,56.96026256479411],[21.91808730377721,56.96041151898675],[21.91836896446256,56.96129593143525],[21.91674736659718,56.96144486954438],[21.91843743923636,56.96675135511407],[21.91681561024592,56.96690029693616],[21.91737901957259,56.96866912847446],[21.92386655649523,56.96807320921812],[21.92414843076546,56.96895760822213],[21.92577032178286,56.96880857432757],[21.92661614796634,56.97146175576637],[21.93148207849168,56.97101449812317],[21.93120001115972,56.97013011681742],[21.93444383218019,56.96983185274638]]],"type":"Polygon"}
+}

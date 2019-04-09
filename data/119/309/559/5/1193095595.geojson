@@ -1,0 +1,65 @@
+{
+  "id": 1193095595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.71892,56.43241,26.71892,56.43241",
+    "geom:latitude":56.43241,
+    "geom:longitude":26.71892,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Meza Trupi",
+    "gn:country_code":"LV",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457377,
+    "gn:latitude":56.43241,
+    "gn:longitude":26.71892,
+    "gn:modification_date":"2010-10-28",
+    "gn:name":"Me\u017ea Tr\u016bpi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457377
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e503ea42c78df07c3d1dd368c8015591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193095595,
+            "region_id":85685977
+        }
+    ],
+    "wof:id":1193095595,
+    "wof:lastmodified":1536366276,
+    "wof:name":"Meza Trupi",
+    "wof:parent_id":85685977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.71892,
+    56.43241,
+    26.71892,
+    56.43241
+],
+  "geometry": {"coordinates":[26.71892,56.43241],"type":"Point"}
+}

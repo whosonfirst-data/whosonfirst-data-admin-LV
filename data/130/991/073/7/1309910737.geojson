@@ -1,0 +1,65 @@
+{
+  "id": 1309910737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.73788,57.02807,25.73788,57.02807",
+    "geom:latitude":57.02807,
+    "geom:longitude":25.73788,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Grineni",
+    "gn:country_code":"LV",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459705,
+    "gn:latitude":57.02807,
+    "gn:longitude":25.73788,
+    "gn:modification_date":"2010-11-15",
+    "gn:name":"Grineni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459705
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a9753b59498739245df7e4d4eeaeec6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1309910737,
+            "region_id":85686189
+        }
+    ],
+    "wof:id":1309910737,
+    "wof:lastmodified":1536780310,
+    "wof:name":"Grineni",
+    "wof:parent_id":85686189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.73788,
+    57.02806999999999,
+    25.73788,
+    57.02806999999999
+],
+  "geometry": {"coordinates":[25.73788,57.02806999999999],"type":"Point"}
+}

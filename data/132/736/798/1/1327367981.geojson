@@ -1,0 +1,72 @@
+{
+  "id": 1327367981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.91713,56.50261,27.91713,56.50261",
+    "geom:latitude":56.50261,
+    "geom:longitude":27.91713,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"684948.0",
+    "gn:asciiname":"Marenpole",
+    "gn:country_code":"LV",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457640,
+    "gn:latitude":56.50261,
+    "gn:longitude":27.91713,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Marenpole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polumyza Marienpole",
+        "Marienpole",
+        "Marinpole",
+        "Marenpole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457640
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c995aaa88136fc32874088d56205d162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327367981,
+            "region_id":85686089
+        }
+    ],
+    "wof:id":1327367981,
+    "wof:lastmodified":1537663118,
+    "wof:name":"Marenpole",
+    "wof:parent_id":85686089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91713,
+    56.50261,
+    27.91713,
+    56.50261
+],
+  "geometry": {"coordinates":[27.91713,56.50261],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209159285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.11093,56.11165,27.11093,56.11165",
+    "geom:latitude":56.11165,
+    "geom:longitude":27.11093,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"604342.0",
+    "gn:asciiname":"Terehova",
+    "gn:country_code":"LV",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454916,
+    "gn:latitude":56.11165,
+    "gn:longitude":27.11093,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Terehova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polumyza Terekhava",
+        "Terechova",
+        "Terechavas Pusmui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454916
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"35b3c88f26b7babd134b59b4dad6d4c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209159285
+        }
+    ],
+    "wof:id":1209159285,
+    "wof:lastmodified":1537663038,
+    "wof:name":"Terehova",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.11093,
+    56.11165,
+    27.11093,
+    56.11165
+],
+  "geometry": {"coordinates":[27.11093,56.11165],"type":"Point"}
+}

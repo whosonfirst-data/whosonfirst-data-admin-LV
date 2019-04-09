@@ -1,0 +1,79 @@
+{
+  "id": 1327365173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.50811,56.19838,26.50811,56.19838",
+    "geom:latitude":56.19838,
+    "geom:longitude":26.50811,
+    "gn:admin1_code":"E2",
+    "gn:admin2_code":"769190.0",
+    "gn:asciiname":"Vecvarkava",
+    "gn:country_code":"LV",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":454372,
+    "gn:latitude":56.19838,
+    "gn:longitude":26.50811,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Vecv\u0101rkava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vecv\u0101rkava"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u043a\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "V\u0101rkava",
+        "Varkava II",
+        "Vecv\u0101rkava",
+        "Upmala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454372,
+        "wk:page":"Vecv%C4%81rkava"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5dd7acf7899fe0069b154ba5482b04c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327365173,
+            "region_id":85685857
+        }
+    ],
+    "wof:id":1327365173,
+    "wof:lastmodified":1537663021,
+    "wof:name":"Vecvarkava",
+    "wof:parent_id":85685857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.50811,
+    56.19838000000001,
+    26.50811,
+    56.19838000000001
+],
+  "geometry": {"coordinates":[26.50811,56.19838000000001],"type":"Point"}
+}

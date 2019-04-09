@@ -1,0 +1,66 @@
+{
+  "id": 1293398935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.19387,57.38215,27.19387,57.38215",
+    "geom:latitude":57.38215,
+    "geom:longitude":27.19387,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"360256.0",
+    "gn:asciiname":"Tereski",
+    "gn:country_code":"LV",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454913,
+    "gn:latitude":57.38215,
+    "gn:longitude":27.19387,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Tere\u0161ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454913
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6d90f075db896e44a3ba0e0d1bf4971c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293398935,
+            "region_id":85686279
+        }
+    ],
+    "wof:id":1293398935,
+    "wof:lastmodified":1536915055,
+    "wof:name":"Tereski",
+    "wof:parent_id":85686279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19387,
+    57.38215,
+    27.19387,
+    57.38215
+],
+  "geometry": {"coordinates":[27.19387,57.38215],"type":"Point"}
+}

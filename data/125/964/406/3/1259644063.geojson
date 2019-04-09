@@ -1,0 +1,71 @@
+{
+  "id": 1259644063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.78436,57.75444,25.78436,57.75444",
+    "geom:latitude":57.75444,
+    "geom:longitude":25.78436,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"940252.0",
+    "gn:asciiname":"Turna",
+    "gn:country_code":"LV",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454747,
+    "gn:latitude":57.75444,
+    "gn:longitude":25.78436,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Turna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Turna",
+        "Turnas Mui\u017ea",
+        "Turna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454747
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"57fe0244885aa1d6883611b8547c6b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259644063,
+            "region_id":85686295
+        }
+    ],
+    "wof:id":1259644063,
+    "wof:lastmodified":1537663033,
+    "wof:name":"Turna",
+    "wof:parent_id":85686295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.78436,
+    57.75444,
+    25.78436,
+    57.75444
+],
+  "geometry": {"coordinates":[25.78436,57.75444],"type":"Point"}
+}

@@ -1,0 +1,192 @@
+{
+  "id": 101816459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000169,
+    "geom:area_square_m":1124356.835198,
+    "geom:bbox":"26.6837749123,57.5328884816,26.7061229183,57.5460791827",
+    "geom:latitude":57.539834,
+    "geom:longitude":26.69423,
+    "gn:population":1521,
+    "iso:country":"LV",
+    "lbl:latitude":57.539239,
+    "lbl:longitude":26.6944,
+    "mps:latitude":57.539239,
+    "mps:longitude":26.6944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0622\u0628\u064a"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u057a\u0565"
+    ],
+    "name:aze_x_preferred":[
+        "Ape"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0410\u043f\u044d"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043f\u044d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043f\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Ape"
+    ],
+    "name:ces_x_preferred":[
+        "Ape"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u4f69"
+    ],
+    "name:cze_x_preferred":[
+        "Ape"
+    ],
+    "name:dan_x_preferred":[
+        "Ape"
+    ],
+    "name:deu_x_preferred":[
+        "Ape"
+    ],
+    "name:dut_x_preferred":[
+        "Ape"
+    ],
+    "name:eng_x_preferred":[
+        "Ape"
+    ],
+    "name:est_x_preferred":[
+        "Hopa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u067e\u0647\u060c \u0644\u062a\u0648\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Ape"
+    ],
+    "name:fre_x_preferred":[
+        "Ape"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10de\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "Ape"
+    ],
+    "name:hun_x_preferred":[
+        "Ape"
+    ],
+    "name:ita_x_preferred":[
+        "Ape"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043f\u0435"
+    ],
+    "name:lav_x_preferred":[
+        "Ape"
+    ],
+    "name:lit_x_preferred":[
+        "Ap\u0117"
+    ],
+    "name:nno_x_preferred":[
+        "Ape"
+    ],
+    "name:nob_x_preferred":[
+        "Ape"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u067e\u0647\u060c \u0644\u062a\u0648\u0646\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Ape"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u0435"
+    ],
+    "name:sgs_x_preferred":[
+        "Ap\u0117"
+    ],
+    "name:spa_x_preferred":[
+        "Ape"
+    ],
+    "name:swe_x_preferred":[
+        "Ape"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043f\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Ope"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u067e\u06d2\u060c \u0644\u0679\u0648\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4f69"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Apes novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Ape ar lauku teritoriju",
+    "qs:la_lc":"*LV3606",
+    "qs:level":"locality",
+    "qs:loc":"Ape",
+    "qs:loc_alt":"Ape",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461442,
+        "qs:id":275000,
+        "qs_pg:id":275000,
+        "wd:id":"Q618119",
+        "wk:page":"Ape, Latvia"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"23fcae4ad360bb7b75d9044c3ee6a120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101816459,
+            "region_id":85686269
+        }
+    ],
+    "wof:id":101816459,
+    "wof:lastmodified":1527642294,
+    "wof:name":"Ape",
+    "wof:parent_id":85686269,
+    "wof:placetype":"locality",
+    "wof:population":1521,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6837749122808,
+    57.53288848155591,
+    26.7061229182894,
+    57.54607918268249
+],
+  "geometry": {"coordinates":[[[26.69351307580951,57.54437554960754],[26.70164549537213,57.54333365146073],[26.70204723570293,57.54420407332242],[26.70367370403414,57.54399562854934],[26.7028701746828,57.54225479459308],[26.7061229182894,57.54183786777287],[26.70531933617724,57.54009705059127],[26.70369304386253,57.54030551278208],[26.70208628912388,57.53682383956925],[26.70046012171832,57.53703225961721],[26.70005852423952,57.53616183229411],[26.69843237529602,57.53637022691834],[26.69682635012163,57.53288848155591],[26.68706995072961,57.53413829873932],[26.68947784479383,57.5393611089878],[26.68622514976568,57.53977762269966],[26.68662647241263,57.54064809739128],[26.68500006388865,57.54085633003024],[26.68540137331274,57.54172680891321],[26.6837749122808,57.54193502726224],[26.68497886770308,57.54454647235656],[26.68660543524504,57.54433823730403],[26.68740825460111,57.54607918268249],[26.69391463864793,57.54524599932887],[26.69351307580951,57.54437554960754]]],"type":"Polygon"}
+}

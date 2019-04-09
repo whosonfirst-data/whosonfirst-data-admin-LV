@@ -1,0 +1,66 @@
+{
+  "id": 1293756825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92725,56.94062,21.92725,56.94062",
+    "geom:latitude":56.94062,
+    "geom:longitude":21.92725,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"620260.0",
+    "gn:asciiname":"Smiltnieki",
+    "gn:country_code":"LV",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455402,
+    "gn:latitude":56.94062,
+    "gn:longitude":21.92725,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Smiltnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455402
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"15ec57d095a98e0844825d9bab7afaff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293756825,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1293756825,
+    "wof:lastmodified":1536895798,
+    "wof:name":"Smiltnieki",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92725,
+    56.94062,
+    21.92725,
+    56.94062
+],
+  "geometry": {"coordinates":[21.92725,56.94062],"type":"Point"}
+}

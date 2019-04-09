@@ -1,0 +1,69 @@
+{
+  "id": 1293364851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.72005,56.86573,26.72005,56.86573",
+    "geom:latitude":56.86573,
+    "geom:longitude":26.72005,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700282.0",
+    "gn:asciiname":"Rupsala",
+    "gn:country_code":"LV",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455966,
+    "gn:latitude":56.86573,
+    "gn:longitude":26.72005,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Rupsala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rupsalas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455966
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5f09dc27cfbefe9b86fcd115a0d28ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293364851,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1293364851,
+    "wof:lastmodified":1537663067,
+    "wof:name":"Rupsala",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.72005,
+    56.86573000000001,
+    26.72005,
+    56.86573000000001
+],
+  "geometry": {"coordinates":[26.72005,56.86573000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360047139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.12641,57.0375,26.12641,57.0375",
+    "geom:latitude":57.0375,
+    "geom:longitude":26.12641,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700268.0",
+    "gn:asciiname":"Dzenumuiza",
+    "gn:country_code":"LV",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460125,
+    "gn:latitude":57.0375,
+    "gn:longitude":26.12641,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Dze\u0146umui\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzenyumuizha",
+        "Dze\u0146umui\u017ea",
+        "Dze\u0146i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460125
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d3413e55182efe9aa781c6407ac594f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360047139,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1360047139,
+    "wof:lastmodified":1537663195,
+    "wof:name":"Dzenumuiza",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.12641,
+    57.0375,
+    26.12641,
+    57.0375
+],
+  "geometry": {"coordinates":[26.12641,57.0375],"type":"Point"}
+}

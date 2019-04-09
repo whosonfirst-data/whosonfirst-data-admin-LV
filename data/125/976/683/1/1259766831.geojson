@@ -1,0 +1,66 @@
+{
+  "id": 1259766831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.25292,55.91095,27.25292,55.91095",
+    "geom:latitude":55.91095,
+    "geom:longitude":27.25292,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600278.0",
+    "gn:asciiname":"Krasnolenka",
+    "gn:country_code":"LV",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458620,
+    "gn:latitude":55.91095,
+    "gn:longitude":27.25292,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Krasno\u013cenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458620
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"da386ae562c717a7d79bb6e13ad953f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259766831,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":1259766831,
+    "wof:lastmodified":1536947518,
+    "wof:name":"Krasnolenka",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.25292,
+    55.91095,
+    27.25292,
+    55.91095
+],
+  "geometry": {"coordinates":[27.25292,55.91095],"type":"Point"}
+}

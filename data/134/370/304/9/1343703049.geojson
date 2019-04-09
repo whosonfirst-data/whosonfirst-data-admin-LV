@@ -1,0 +1,73 @@
+{
+  "id": 1343703049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53466,57.22323,21.53466,57.22323",
+    "geom:latitude":57.22323,
+    "geom:longitude":21.53466,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"980278.0",
+    "gn:asciiname":"Dzirtnieki",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460080,
+    "gn:latitude":57.22323,
+    "gn:longitude":21.53466,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Dzirtnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzirtniekuciems",
+        "Dzirtniyekutsiyems",
+        "Dzirtnieki",
+        "Dzirtniekciems"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460080
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"2ed4111c73831a037d29ea4de87e39d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343703049,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1343703049,
+    "wof:lastmodified":1537663194,
+    "wof:name":"Dzirtnieki",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53466,
+    57.22323000000001,
+    21.53466,
+    57.22323000000001
+],
+  "geometry": {"coordinates":[21.53466,57.22323000000001],"type":"Point"}
+}

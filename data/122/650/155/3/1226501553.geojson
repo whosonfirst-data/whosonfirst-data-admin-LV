@@ -1,0 +1,72 @@
+{
+  "id": 1226501553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15708,57.52932,22.15708,57.52932",
+    "geom:latitude":57.52932,
+    "geom:longitude":22.15708,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"980244.0",
+    "gn:asciiname":"Lieladzi",
+    "gn:country_code":"LV",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458055,
+    "gn:latitude":57.52932,
+    "gn:longitude":22.15708,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Lielad\u017ei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad\u017ei",
+        "Lonast-Ad\u017ei",
+        "Lonast-Adzhi",
+        "Lielad\u017ei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458055
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b8cdd394ba7e3174cdfb288deef5f916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226501553,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1226501553,
+    "wof:lastmodified":1537663131,
+    "wof:name":"Lieladzi",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15708,
+    57.52932,
+    22.15708,
+    57.52932
+],
+  "geometry": {"coordinates":[22.15708,57.52932],"type":"Point"}
+}

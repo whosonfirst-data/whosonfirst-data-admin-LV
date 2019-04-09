@@ -1,0 +1,71 @@
+{
+  "id": 1276731305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.56631,56.24745,26.56631,56.24745",
+    "geom:latitude":56.24745,
+    "geom:longitude":26.56631,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Varkava",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454520,
+    "gn:latitude":56.24745,
+    "gn:longitude":26.56631,
+    "gn:modification_date":"2010-10-28",
+    "gn:name":"V\u0101rkava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Varkava I",
+        "V\u0101rkava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454520,
+        "wk:page":"V%C4%81rkava_Municipality"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"45d13ec6f7905d3069631bb836555690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276731305,
+            "region_id":85685857
+        }
+    ],
+    "wof:id":1276731305,
+    "wof:lastmodified":1537663027,
+    "wof:name":"Varkava",
+    "wof:parent_id":85685857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.56631,
+    56.24745,
+    26.56631,
+    56.24745
+],
+  "geometry": {"coordinates":[26.56631,56.24745],"type":"Point"}
+}

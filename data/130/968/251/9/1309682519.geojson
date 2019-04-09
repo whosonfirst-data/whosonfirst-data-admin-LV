@@ -1,0 +1,66 @@
+{
+  "id": 1309682519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03333,57.0,22.03333,57.0",
+    "geom:latitude":57.0,
+    "geom:longitude":22.03333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"620284.0",
+    "gn:asciiname":"Bruci",
+    "gn:country_code":"LV",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460777,
+    "gn:latitude":57.0,
+    "gn:longitude":22.03333,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Bruci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460777
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"9e36f1ee998def23e282eb9bc441e6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1309682519,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1309682519,
+    "wof:lastmodified":1536609300,
+    "wof:name":"Bruci",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03333,
+    57.0,
+    22.03333,
+    57.0
+],
+  "geometry": {"coordinates":[22.03333,57.0],"type":"Point"}
+}

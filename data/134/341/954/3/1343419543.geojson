@@ -1,0 +1,65 @@
+{
+  "id": 1343419543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.28513,56.51348,26.28513,56.51348",
+    "geom:latitude":56.51348,
+    "geom:longitude":26.28513,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Vilkaji",
+    "gn:country_code":"LV",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454152,
+    "gn:latitude":56.51348,
+    "gn:longitude":26.28513,
+    "gn:modification_date":"2010-10-27",
+    "gn:name":"Vilk\u0101ji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454152
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e64df90ab5a95fbd51de1bb984fa895b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343419543,
+            "region_id":85685943
+        }
+    ],
+    "wof:id":1343419543,
+    "wof:lastmodified":1536805295,
+    "wof:name":"Vilkaji",
+    "wof:parent_id":85685943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28513,
+    56.51348,
+    26.28513,
+    56.51348
+],
+  "geometry": {"coordinates":[26.28513,56.51348],"type":"Point"}
+}

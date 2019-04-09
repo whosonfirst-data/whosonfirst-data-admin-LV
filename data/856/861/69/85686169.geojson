@@ -1,0 +1,279 @@
+{
+  "id": 85686169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.007108,
+    "geom:area_square_m":47541675.923776,
+    "geom:bbox":"24.33699,57.1839715,24.484772,57.350256",
+    "geom:latitude":57.252944,
+    "geom:longitude":24.420003,
+    "iso:country":"LV",
+    "label:eng_x_preferred_longname":[
+        "Saulkrastu Amalgamated Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "amalgamated municipality"
+    ],
+    "lbl:latitude":57.256563,
+    "lbl:longitude":24.433497,
+    "mps:latitude":57.256563,
+    "mps:longitude":24.433497,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0633\u0648\u0644\u0643\u0631\u0627\u0633\u062a\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09b2\u09cd\u0995\u09cd\u09b0\u09be\u09b8\u09cd\u09a4\u09bf \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Municipi de Saulkrasti"
+    ],
+    "name:dan_x_preferred":[
+        "Saulkrasti municipality"
+    ],
+    "name:dut_x_preferred":[
+        "Saulkrastu novads"
+    ],
+    "name:eng_x_preferred":[
+        "Saulkrastu"
+    ],
+    "name:est_x_preferred":[
+        "Saulkrasti piirkond"
+    ],
+    "name:fin_x_preferred":[
+        "Saulkrastin kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Saulkrasti"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10e3\u10da\u10d9\u10e0\u10d0\u10e1\u10e2\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "Bezirk Saulkrasti"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03bf\u03bb\u03ba\u03c1\u03ac\u03c3\u03c4\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acc\u0ab2\u0acd\u0a95\u0acd\u0ab0\u0ab8\u0acd\u0a9f\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094c\u0932\u0915\u094d\u0930\u093e\u0938\u094d\u0924\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Kotamadya Saulkrasti"
+    ],
+    "name:ita_x_preferred":[
+        "Saulkrasti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30a6\u30eb\u30af\u30e9\u30b9\u30c1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccc\u0cb2\u0ccd\u0c95\u0ccd\u0cb0\u0cbe\u0cb8\u0ccd\u0c9f\u0cbf \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\uc6b8\ud06c\ub77c\uc2a4\ud2f0 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Saulkrastu novads"
+    ],
+    "name:lit_x_preferred":[
+        "Saulkrast\u0173 savivaldyb\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0430\u0443\u043b\u043a\u0440\u0430\u0441\u0442\u0438"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u094c\u0932\u0915\u094d\u0930\u0938\u094d\u0924\u0940  \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Saulkrasti municipality"
+    ],
+    "name:nob_x_preferred":[
+        "Saulkrasi kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Saulkrasti"
+    ],
+    "name:por_x_preferred":[
+        "Munic\u00edpio de Saulkrasti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0443\u043b\u043a\u0440\u0430\u0441\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dde\u0dbd\u0dca\u0d9a\u0dca\u0dbb\u0dc3\u0dca\u0da7\u0dd2 \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Municipalidad de Saulkrasti"
+    ],
+    "name:swe_x_preferred":[
+        "Saulkrastu novads"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bc1\u0bb2\u0b95\u0bcd\u0bb0\u0bb8\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4c\u0c32\u0c4d\u0c15\u0c4d\u0c30\u0c3e\u0c38\u0c4d\u0c1f\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e0b\u0e32\u0e04\u0e23\u0e32\u0e2a\u0e15\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "Saulkrasti Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0443\u043b\u043a\u0440\u0430\u0441\u0442\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Saulkrastu Novads"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0648\u0644\u06a9\u0631\u0627\u0633\u062a\u06cc \u0645\u06cc\u0648\u0646\u0633\u067e\u0644\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Saulkrasti"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LVA",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LVA-5776",
+    "ne:adm1_code":"LVA-5776",
+    "ne:admin":"Latvia",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"LV.SU",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"5776",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"LG",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Latvia",
+    "ne:gn_a1_code":"LV.C5",
+    "ne:gn_id":"7628366",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saulkrastu Novads",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"LG94",
+    "ne:gns_id":"10984967",
+    "ne:gns_lang":"gle",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saulkrastu Novads",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LVA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LV-",
+    "ne:iso_a2":"LV",
+    "ne:labelrank":"8",
+    "ne:latitude":"57.25520000000",
+    "ne:longitude":"24.43050000000",
+    "ne:mapcolor13":13,
+    "ne:mapcolor9":6,
+    "ne:name":"Saulkrastu",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"R",
+    "ne:provnum_ne":"16",
+    "ne:region":"Riga",
+    "ne:region_cod":"R",
+    "ne:region_sub":"Pier\u012bga",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"LVA",
+    "ne:sub_code":"",
+    "ne:type":"Novads",
+    "ne:type_en":"Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":-2346037,
+    "ne:woe_label":"Rigas Rajons, LV, Latvia",
+    "ne:woe_name":"Riga",
+    "qs:a0":"Latvija",
+    "qs:a0_lc":"LV000000",
+    "qs:a1":"Saulkrastu novads",
+    "qs:a1_alt":"Saulkrastu novads",
+    "qs:a1_lc":"LV801400",
+    "qs:adm0":"Latvia",
+    "qs:adm0_a3":"LVA",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "qs:type":"Novads",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-03-01",
+    "statoids:area_km":"48",
+    "statoids:area_mi":"18",
+    "statoids:as_of_date":"2011-03-01",
+    "statoids:capital":"Saulkrasti",
+    "statoids:country":"LV",
+    "statoids:gec":"LGC5",
+    "statoids:hasc":"LV.SU",
+    "statoids:iso":"089",
+    "statoids:name":"Saulkrasti",
+    "statoids:population":"5855",
+    "statoids:timezone":"+2~",
+    "statoids:type":"amalgamated municipality",
+    "wof:belongsto":[
+        102191581,
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"LGC5",
+        "gn:id":7628366,
+        "gp:id":-2346037,
+        "hasc:id":"LV.SU",
+        "iso:id":"LV-089",
+        "wd:id":"Q371429"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"83ffff1c9954d2bfece8731a4dc99605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "region_id":85686169
+        }
+    ],
+    "wof:id":85686169,
+    "wof:lang_x_official":[
+        "lav"
+    ],
+    "wof:lang_x_spoken":[
+        "lav"
+    ],
+    "wof:lastmodified":1553550867,
+    "wof:name":"Saulkrastu",
+    "wof:parent_id":85633279,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"amalgamated municipality",
+    "wof:population":5855,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:shortcode":"SU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33698999999979,
+    57.18397149999984,
+    24.48477199999977,
+    57.35025599999984
+],
+  "geometry": {"coordinates":[[[24.44988799999978,57.30044049999983],[24.44875499999978,57.29375449999983],[24.45422149999976,57.28629899999984],[24.45337749999979,57.28529449999982],[24.45844999999977,57.28411349999985],[24.45978749999978,57.28270249999982],[24.46104499999978,57.2834],[24.46260199999978,57.28134999999983],[24.45914149999979,57.27915649999982],[24.45734599999977,57.27890949999983],[24.45771749999977,57.27841749999985],[24.45962899999978,57.27870749999983],[24.45937699999976,57.27778849999984],[24.46036999999978,57.27779749999984],[24.45883199999977,57.27656749999983],[24.45725349999978,57.27658649999984],[24.45759099999978,57.27520099999984],[24.47582249999977,57.27639549999984],[24.48222499999977,57.24909649999984],[24.47819499999977,57.24638149999984],[24.48006299999977,57.24621649999983],[24.48333349999978,57.24454849999984],[24.48104799999979,57.24259049999984],[24.48207349999979,57.24084999999982],[24.48353499999976,57.24116149999983],[24.48477199999977,57.23769399999983],[24.46307549999977,57.23575249999985],[24.46091449999977,57.23693999999983],[24.44757549999977,57.23477],[24.42903399999977,57.22365549999983],[24.43135249999977,57.22404199999983],[24.43202449999978,57.22188349999985],[24.42593099999976,57.22162049999982],[24.36477699999978,57.18408699999983],[24.36285449999977,57.18397149999984],[24.36141999999978,57.18579149999982],[24.35826849999978,57.18760749999984],[24.35037749999978,57.18858299999982],[24.34712449999978,57.18730699999983],[24.34329299999979,57.18837299999984],[24.33906649999977,57.18773449999983],[24.33698999999979,57.18828199999984],[24.33732549999976,57.18942349999983],[24.33930649999976,57.19062649999984],[24.33816649999977,57.19253999999984],[24.34084099999978,57.19466499999984],[24.34061899999978,57.19541649999982],[24.33867449999977,57.19508349999984],[24.37486249999978,57.22059999999985],[24.38932399999979,57.23427599999982],[24.40193949999977,57.24903099999983],[24.41050699999977,57.26758199999983],[24.41238199999978,57.28665549999982],[24.40659899999977,57.29574599999984],[24.40752799999979,57.31051249999985],[24.40676899999977,57.31596849999983],[24.40201199999979,57.35017399999984],[24.40393349999976,57.35025599999984],[24.40737949999976,57.34895199999982],[24.40749449999978,57.34656549999982],[24.40935349999978,57.34619749999985],[24.41603049999978,57.33505749999983],[24.41734299999979,57.33491599999982],[24.41729349999977,57.33392899999984],[24.42270449999978,57.33145299999984],[24.42286299999978,57.33003349999984],[24.42584949999977,57.32851099999982],[24.42621199999977,57.32674],[24.42770249999978,57.32646449999984],[24.42720749999978,57.32290249999983],[24.42734949999976,57.32251549999984],[24.42881049999977,57.32237899999983],[24.42850949999976,57.32110999999983],[24.42943099999976,57.32022299999982],[24.42963299999977,57.31860899999984],[24.42884349999977,57.31589649999984],[24.42702899999978,57.31528199999983],[24.42685899999978,57.31195899999983],[24.42394349999978,57.30413499999983],[24.42180899999977,57.30265449999985],[24.42166249999977,57.30022099999983],[24.42083299999979,57.29902199999983],[24.42154149999976,57.29635399999984],[24.42077499999976,57.29379049999983],[24.43615,57.29345399999983],[24.43887249999977,57.29958399999984],[24.44561999999976,57.30093549999984],[24.44988799999978,57.30044049999983]]],"type":"Polygon"}
+}

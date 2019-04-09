@@ -1,0 +1,72 @@
+{
+  "id": 1276265595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3159,57.1107,25.3159,57.1107",
+    "geom:latitude":57.1107,
+    "geom:longitude":25.3159,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"424768.0",
+    "gn:asciiname":"Myza Techi",
+    "gn:country_code":"LV",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458893,
+    "gn:latitude":57.1107,
+    "gn:longitude":25.3159,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Myza Techi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Ketsu",
+        "\u0136\u0113\u010du Mui\u017ea",
+        "Myza Techi",
+        "\u0136\u0113\u010di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458893
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"bac327254aa002593e9fbcb26f9baaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276265595,
+            "region_id":85686173
+        }
+    ],
+    "wof:id":1276265595,
+    "wof:lastmodified":1537663156,
+    "wof:name":"Myza Techi",
+    "wof:parent_id":85686173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3159,
+    57.1107,
+    25.3159,
+    57.1107
+],
+  "geometry": {"coordinates":[25.3159,57.1107],"type":"Point"}
+}

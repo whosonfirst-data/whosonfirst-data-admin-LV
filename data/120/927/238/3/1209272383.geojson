@@ -1,0 +1,62 @@
+{
+  "id": 1209272383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13151,56.4549,27.13151,56.4549",
+    "geom:latitude":56.4549,
+    "geom:longitude":27.13151,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780288.0",
+    "gn:asciiname":"Gasuli",
+    "gn:country_code":"LV",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459847,
+    "gn:latitude":56.4549,
+    "gn:longitude":27.13151,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Gasu\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459847
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"964d1d0678a47b8da5725e9f465d6acb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209272383
+        }
+    ],
+    "wof:id":1209272383,
+    "wof:lastmodified":1536292313,
+    "wof:name":"Gasuli",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13151,
+    56.4549,
+    27.13151,
+    56.4549
+],
+  "geometry": {"coordinates":[27.13151,56.4549],"type":"Point"}
+}

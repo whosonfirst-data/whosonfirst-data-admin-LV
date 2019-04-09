@@ -1,0 +1,71 @@
+{
+  "id": 1327308373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.60803,56.66764,26.60803,56.66764",
+    "geom:latitude":56.66764,
+    "geom:longitude":26.60803,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Incarnieki",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459566,
+    "gn:latitude":56.66764,
+    "gn:longitude":26.60803,
+    "gn:modification_date":"2010-10-28",
+    "gn:name":"In\u010d\u0101rnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Incharnyeki",
+        "In\u010dernieki",
+        "In\u010darnieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459566
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f39baa10bcb08479c5444cd94994f70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327308373,
+            "region_id":85686051
+        }
+    ],
+    "wof:id":1327308373,
+    "wof:lastmodified":1537663179,
+    "wof:name":"Incarnieki",
+    "wof:parent_id":85686051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.60803,
+    56.66764000000001,
+    26.60803,
+    56.66764000000001
+],
+  "geometry": {"coordinates":[26.60803,56.66764000000001],"type":"Point"}
+}

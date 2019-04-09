@@ -1,0 +1,70 @@
+{
+  "id": 1343327235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.86865,56.34693,27.86865,56.34693",
+    "geom:latitude":56.34693,
+    "geom:longitude":27.86865,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"680278.0",
+    "gn:asciiname":"Seili",
+    "gn:country_code":"LV",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455775,
+    "gn:latitude":56.34693,
+    "gn:longitude":27.86865,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Sei\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seyli",
+        "Sei\u013ci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455775
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"44a2f0c066a28bf461ebb5a88304231f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343327235,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":1343327235,
+    "wof:lastmodified":1537663062,
+    "wof:name":"Seili",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.86865,
+    56.34693000000001,
+    27.86865,
+    56.34693000000001
+],
+  "geometry": {"coordinates":[27.86865,56.34693000000001],"type":"Point"}
+}

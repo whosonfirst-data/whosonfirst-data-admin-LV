@@ -1,0 +1,108 @@
+{
+  "id": 1125875083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.54384,56.33143,27.54384,56.33143",
+    "geom:latitude":56.33143,
+    "geom:longitude":27.54384,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LV",
+    "lbl:latitude":56.33143,
+    "lbl:longitude":27.54384,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kaunata"
+    ],
+    "name:eng_x_preferred":[
+        "Kaunata"
+    ],
+    "name:fre_x_preferred":[
+        "Kaunata"
+    ],
+    "name:lav_x_preferred":[
+        "Kaunata"
+    ],
+    "name:ltg_x_preferred":[
+        "Kaunota"
+    ],
+    "name:pol_x_preferred":[
+        "Kownata"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0443\u043d\u0430\u0442\u0430"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":458934,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kaunata",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"R\u0157zekne Novads",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":42855,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":853059,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"R\u0157zekne Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458934,
+        "gp:id":853059,
+        "qs_pg:id":42855,
+        "wd:id":"Q3801365"
+    },
+    "wof:country":"LV",
+    "wof:created":1497294497,
+    "wof:geomhash":"33bb48d1f6c9911c6001095331325b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125875083,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1125875083,
+    "wof:lastmodified":1514484038,
+    "wof:name":"Kaunata",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.54384,
+    56.33143,
+    27.54384,
+    56.33143
+],
+  "geometry": {"coordinates":[27.54384,56.33143],"type":"Point"}
+}

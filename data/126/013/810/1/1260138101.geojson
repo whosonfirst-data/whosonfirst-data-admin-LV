@@ -1,0 +1,78 @@
+{
+  "id": 1260138101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.07845,56.30422,27.07845,56.30422",
+    "geom:latitude":56.30422,
+    "geom:longitude":27.07845,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780252.0",
+    "gn:asciiname":"Vainova",
+    "gn:country_code":"LV",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454599,
+    "gn:latitude":56.30422,
+    "gn:longitude":27.07845,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Vainova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vainova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Voinova",
+        "Vainava",
+        "Voinava",
+        "Vainova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454599
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"9493a70aa42667995cb093365fa058a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260138101,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1260138101,
+    "wof:lastmodified":1537663029,
+    "wof:name":"Vainova",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.07845,
+    56.30422,
+    27.07845,
+    56.30422
+],
+  "geometry": {"coordinates":[27.07845,56.30422],"type":"Point"}
+}

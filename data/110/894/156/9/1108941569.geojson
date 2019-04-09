@@ -1,0 +1,61 @@
+{
+  "id": 1108941569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7391158732,56.9483465271,23.7391158732,56.9483465271",
+    "geom:latitude":56.948347,
+    "geom:longitude":23.739116,
+    "iso:country":"LV",
+    "lbl:latitude":56.948347,
+    "lbl:longitude":23.739116,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751787,
+        85633279,
+        85686031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LV",
+    "wof:created":1491362505,
+    "wof:geomhash":"390777814ec03889576fa8bd39442d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751787,
+            "neighbourhood_id":1108941569,
+            "region_id":85686031
+        }
+    ],
+    "wof:id":1108941569,
+    "wof:lastmodified":1492123600,
+    "wof:name":"Druvciems",
+    "wof:parent_id":101751787,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73911587319958,
+    56.94834652709666,
+    23.73911587319958,
+    56.94834652709666
+],
+  "geometry": {"coordinates":[23.73911587319958,56.94834652709666],"type":"Point"}
+}

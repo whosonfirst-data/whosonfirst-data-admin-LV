@@ -1,0 +1,74 @@
+{
+  "id": 1276572899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.82399,55.94378,26.82399,55.94378",
+    "geom:latitude":55.94378,
+    "geom:longitude":26.82399,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440246.0",
+    "gn:asciiname":"Lielie Krivini",
+    "gn:country_code":"LV",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458003,
+    "gn:latitude":55.94378,
+    "gn:longitude":26.82399,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Lielie Krivini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kriziny",
+        "Liel Krieveny",
+        "Kriev\u0113ni",
+        "Kr\u012bvi\u0146i",
+        "Lielkr\u012bvi\u0146i",
+        "Lielie Krivini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458003
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fbe861f369ed10a655e40b13e31005cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276572899,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1276572899,
+    "wof:lastmodified":1537663128,
+    "wof:name":"Lielie Krivini",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.82399,
+    55.94378,
+    26.82399,
+    55.94378
+],
+  "geometry": {"coordinates":[26.82399,55.94378],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259980057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.09969,56.3173,24.09969,56.3173",
+    "geom:latitude":56.3173,
+    "geom:longitude":24.09969,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"400268.0",
+    "gn:asciiname":"Pastaliski",
+    "gn:country_code":"LV",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456868,
+    "gn:latitude":56.3173,
+    "gn:longitude":24.09969,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Pastali\u0161\u0137i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u012asl\u012bce",
+        "Islitse",
+        "Pastali\u0161\u0137i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456868
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f9fd556e2bf701c25e19d94dfde2ac86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259980057,
+            "region_id":85685851
+        }
+    ],
+    "wof:id":1259980057,
+    "wof:lastmodified":1537663092,
+    "wof:name":"Pastaliski",
+    "wof:parent_id":85685851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.09969,
+    56.3173,
+    24.09969,
+    56.3173
+],
+  "geometry": {"coordinates":[24.09969,56.3173],"type":"Point"}
+}

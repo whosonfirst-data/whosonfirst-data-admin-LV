@@ -1,0 +1,64 @@
+{
+  "id": 1108941491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0814517464,56.9108237319,24.0814517464,56.9108237319",
+    "geom:latitude":56.910824,
+    "geom:longitude":24.081452,
+    "iso:country":"LV",
+    "lbl:latitude":56.910824,
+    "lbl:longitude":24.081452,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:lav_x_preferred":[
+        "Atg\u0101zene"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751789,
+        85633279,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LV",
+    "wof:created":1491362463,
+    "wof:geomhash":"117350a3f060c134d32979f983a4aebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751789,
+            "neighbourhood_id":1108941491,
+            "region_id":85686065
+        }
+    ],
+    "wof:id":1108941491,
+    "wof:lastmodified":1497292360,
+    "wof:name":"Atgazene",
+    "wof:parent_id":101751789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08145174643543,
+    56.91082373190103,
+    24.08145174643543,
+    56.91082373190103
+],
+  "geometry": {"coordinates":[24.08145174643543,56.91082373190103],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309952443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55566,57.75653,25.55566,57.75653",
+    "geom:latitude":57.75653,
+    "geom:longitude":25.55566,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Kemere",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458873,
+    "gn:latitude":57.75653,
+    "gn:longitude":25.55566,
+    "gn:modification_date":"2010-11-28",
+    "gn:name":"\u0136emere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Temere",
+        "\u0136emeres",
+        "\u0136emeres Mui\u017ea",
+        "\u0136emere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458873
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"70c23bb57494ae029e795d0e5df340f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1309952443,
+            "region_id":85686283
+        }
+    ],
+    "wof:id":1309952443,
+    "wof:lastmodified":1537663156,
+    "wof:name":"Kemere",
+    "wof:parent_id":85686283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55566,
+    57.75653000000001,
+    25.55566,
+    57.75653000000001
+],
+  "geometry": {"coordinates":[25.55566,57.75653000000001],"type":"Point"}
+}

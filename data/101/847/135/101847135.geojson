@@ -1,0 +1,130 @@
+{
+  "id": 101847135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":716515.177518,
+    "geom:bbox":"24.2108156328,56.8359862732,24.2343288541,56.8447778579",
+    "geom:latitude":56.840614,
+    "geom:longitude":24.224838,
+    "gn:population":4600,
+    "iso:country":"LV",
+    "lbl:latitude":56.84083,
+    "lbl:longitude":24.229559,
+    "mps:latitude":56.84083,
+    "mps:longitude":24.229559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0565\u056f\u0561\u057e\u0561"
+    ],
+    "name:cat_x_preferred":[
+        "\u0136ekava"
+    ],
+    "name:cze_x_preferred":[
+        "\u0136ekava"
+    ],
+    "name:dan_x_preferred":[
+        "\u0136ekava"
+    ],
+    "name:deu_x_preferred":[
+        "\u0136ekava"
+    ],
+    "name:dut_x_preferred":[
+        "\u0136ekava"
+    ],
+    "name:eng_x_preferred":[
+        "\u0136ekava"
+    ],
+    "name:est_x_preferred":[
+        "\u0136ekava"
+    ],
+    "name:fra_x_preferred":[
+        "\u0136ekava"
+    ],
+    "name:fre_x_preferred":[
+        "\u0136ekava"
+    ],
+    "name:ger_x_preferred":[
+        "\u0136ekava"
+    ],
+    "name:lav_x_preferred":[
+        "\u0136ekava"
+    ],
+    "name:lit_x_preferred":[
+        "Kekava"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043a\u0430\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Tekava"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Kekavas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:id":0,
+    "qs:la":"Salaspils novads",
+    "qs:la_lc":"*LV8012",
+    "qs:level":"locality",
+    "qs:loc":"\u0136ekava",
+    "qs:loc_alt":"Kekava",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":56.828611,
+    "wd:longitude":24.239722,
+    "wd:population":6000,
+    "wd:wordcount":151,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458880,
+        "gp:id":853093,
+        "qs:id":124636,
+        "qs_pg:id":124636,
+        "wd:id":"Q344608"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"89e11eefd1063d225bc5164b7dcb897d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101847135,
+            "region_id":85685999
+        }
+    ],
+    "wof:id":101847135,
+    "wof:lastmodified":1527714966,
+    "wof:name":"\u0136ekava",
+    "wof:parent_id":85685999,
+    "wof:placetype":"locality",
+    "wof:population":6000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21081563275078,
+    56.8359862731902,
+    24.23432885407033,
+    56.84477785789966
+],
+  "geometry": {"coordinates":[[[24.23272098418471,56.8423114082189],[24.23432885407033,56.8421338700312],[24.23198818794128,56.8359862731902],[24.23038056478742,56.8361637786835],[24.23071485541425,56.83704201433693],[24.22589179643023,56.83757442638722],[24.22555761153643,56.83669617672683],[24.22394993252783,56.83687360326167],[24.22428408217479,56.83775185759009],[24.21785308555138,56.83846138499104],[24.21818711251728,56.83933965703454],[24.21497145995369,56.83969431161637],[24.21530543472579,56.84057259203951],[24.21208965582576,56.84092717697973],[24.21242357839355,56.84180546578159],[24.21081563275078,56.84198273330065],[24.21148346230262,56.84373931738065],[24.21469948069057,56.84338474393786],[24.21436548622739,56.84250646170392],[24.22079721445084,56.84179709654671],[24.22113134996118,56.84267536011384],[24.22595510530408,56.84214311493361],[24.22695793914977,56.84477785789966],[24.23338984047967,56.84406786521117],[24.23272098418471,56.8423114082189]]],"type":"Polygon"}
+}

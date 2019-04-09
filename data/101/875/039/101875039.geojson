@@ -1,0 +1,92 @@
+{
+  "id": 101875039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.440202,57.558817,25.440202,57.558817",
+    "geom:latitude":57.558817,
+    "geom:longitude":25.440202,
+    "iso:country":"LV",
+    "lbl:latitude":57.558817,
+    "lbl:longitude":25.440202,
+    "mps:latitude":57.558817,
+    "mps:longitude":25.440202,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Valmiermui\u017ea"
+    ],
+    "name:eng_x_preferred":[
+        "Valmiermui\u017ea"
+    ],
+    "name:est_x_preferred":[
+        "Valmiermui\u017ea"
+    ],
+    "name:lav_x_preferred":[
+        "Valmiermui\u017ea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u043c\u0438\u0435\u0440\u043c\u0443\u0439\u0436\u0430"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Burtnieku novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Valmiermui\u017ea",
+    "qs:loc_alt":"Valmiermuiza",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454562,
+        "gp:id":855882,
+        "qs:id":281185,
+        "qs_pg:id":281185,
+        "wd:id":"Q15219963"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ef9893aabd09d7b5f1d1221ee6cc85aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101875039,
+            "region_id":85686283
+        }
+    ],
+    "wof:id":101875039,
+    "wof:lastmodified":1544751909,
+    "wof:name":"Valmiermui\u017ea",
+    "wof:parent_id":85686283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.440202,
+    57.558817,
+    25.440202,
+    57.558817
+],
+  "geometry": {"coordinates":[25.440202,57.558817],"type":"Point"}
+}

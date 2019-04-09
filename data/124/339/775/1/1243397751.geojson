@@ -1,0 +1,70 @@
+{
+  "id": 1243397751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33567,57.43036,25.33567,57.43036",
+    "geom:latitude":57.43036,
+    "geom:longitude":25.33567,
+    "gn:admin1_code":"81",
+    "gn:admin2_code":"427372.0",
+    "gn:asciiname":"Kuki",
+    "gn:country_code":"LV",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459162,
+    "gn:latitude":57.43036,
+    "gn:longitude":25.33567,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"\u0136\u016b\u0137i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0136\u016b\u0137i",
+        "\u0136\u0101\u0137i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459162
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"806a55aba2848dbf0ebc70d3a07eab00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243397751,
+            "region_id":85686257
+        }
+    ],
+    "wof:id":1243397751,
+    "wof:lastmodified":1537663164,
+    "wof:name":"Kuki",
+    "wof:parent_id":85686257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33567,
+    57.43036,
+    25.33567,
+    57.43036
+],
+  "geometry": {"coordinates":[25.33567,57.43036],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343793295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.57649,57.21282,27.57649,57.21282",
+    "geom:latitude":57.21282,
+    "geom:longitude":27.57649,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"381678.0",
+    "gn:asciiname":"Klani",
+    "gn:country_code":"LV",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458762,
+    "gn:latitude":57.21282,
+    "gn:longitude":27.57649,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Kl\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kl\u0101ni",
+        "Kloni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458762
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"7135a546e50c0986d9134535c8550f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343793295,
+            "region_id":85686251
+        }
+    ],
+    "wof:id":1343793295,
+    "wof:lastmodified":1537663153,
+    "wof:name":"Klani",
+    "wof:parent_id":85686251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.57649,
+    57.21282,
+    27.57649,
+    57.21282
+],
+  "geometry": {"coordinates":[27.57649,57.21282],"type":"Point"}
+}

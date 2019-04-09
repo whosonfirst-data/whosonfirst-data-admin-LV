@@ -1,0 +1,71 @@
+{
+  "id": 1293231661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.24626,56.10905,27.24626,56.10905",
+    "geom:latitude":56.10905,
+    "geom:longitude":27.24626,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"601042.0",
+    "gn:asciiname":"Strodi",
+    "gn:country_code":"LV",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455220,
+    "gn:latitude":56.10905,
+    "gn:longitude":27.24626,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Strodi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strody",
+        "Strodi",
+        "Stradi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455220
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ab273863e0b8bafee79b78f237bfd605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293231661,
+            "region_id":85685893
+        }
+    ],
+    "wof:id":1293231661,
+    "wof:lastmodified":1537663045,
+    "wof:name":"Strodi",
+    "wof:parent_id":85685893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.24626,
+    56.10905,
+    27.24626,
+    56.10905
+],
+  "geometry": {"coordinates":[27.24626,56.10905],"type":"Point"}
+}

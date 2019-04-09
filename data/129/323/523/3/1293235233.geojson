@@ -1,0 +1,71 @@
+{
+  "id": 1293235233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36726,57.85818,25.36726,57.85818",
+    "geom:latitude":57.85818,
+    "geom:longitude":25.36726,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Endzele",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460023,
+    "gn:latitude":57.85818,
+    "gn:longitude":25.36726,
+    "gn:modification_date":"2010-10-27",
+    "gn:name":"Endzele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Endzele",
+        "Endzeles Mui\u017ea",
+        "Endzele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460023
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0718efed8aac6d5d62189ba0dd9e32b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293235233,
+            "region_id":85686305
+        }
+    ],
+    "wof:id":1293235233,
+    "wof:lastmodified":1537663192,
+    "wof:name":"Endzele",
+    "wof:parent_id":85686305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36726,
+    57.85818,
+    25.36726,
+    57.85818
+],
+  "geometry": {"coordinates":[25.36726,57.85818],"type":"Point"}
+}

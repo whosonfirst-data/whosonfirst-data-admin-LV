@@ -1,0 +1,71 @@
+{
+  "id": 1193131829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.67559,56.01376,26.67559,56.01376",
+    "geom:latitude":56.01376,
+    "geom:longitude":26.67559,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440270.0",
+    "gn:asciiname":"Rubeniski",
+    "gn:country_code":"LV",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456055,
+    "gn:latitude":56.01376,
+    "gn:longitude":26.67559,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Rubeni\u0161ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rubani\u0161ki",
+        "Rubenishki",
+        "Rubeni\u0161ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456055
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6ccbcf581004558581ce041035fbeef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193131829,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1193131829,
+    "wof:lastmodified":1537663069,
+    "wof:name":"Rubeniski",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.67559,
+    56.01376,
+    26.67559,
+    56.01376
+],
+  "geometry": {"coordinates":[26.67559,56.01376],"type":"Point"}
+}

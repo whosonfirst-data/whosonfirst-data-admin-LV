@@ -1,0 +1,66 @@
+{
+  "id": 1327391873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.37662,56.71397,27.37662,56.71397",
+    "geom:latitude":56.71397,
+    "geom:longitude":27.37662,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780284.0",
+    "gn:asciiname":"Rasnupli",
+    "gn:country_code":"LV",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456294,
+    "gn:latitude":56.71397,
+    "gn:longitude":27.37662,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Rasnup\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456294
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a73f0ddebcd72065650ecbe9c20903fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327391873,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1327391873,
+    "wof:lastmodified":1536739281,
+    "wof:name":"Rasnupli",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.37662000000001,
+    56.71397,
+    27.37662000000001,
+    56.71397
+],
+  "geometry": {"coordinates":[27.37662000000001,56.71397],"type":"Point"}
+}

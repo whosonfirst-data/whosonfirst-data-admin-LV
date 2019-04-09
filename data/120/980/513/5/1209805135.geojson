@@ -1,0 +1,80 @@
+{
+  "id": 1209805135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36976,57.19037,26.36976,57.19037",
+    "geom:latitude":57.19037,
+    "geom:longitude":26.36976,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"500272.0",
+    "gn:asciiname":"Lizums",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457841,
+    "gn:latitude":57.19037,
+    "gn:longitude":26.36976,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Lizums",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lizums"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0437\u0443\u043c\u0441"
+    ],
+    "name:und_x_variant":[
+        "Lizuma Mui\u017ea",
+        "Lizum",
+        "Myza Lyzums",
+        "Lizims",
+        "Lizums"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457841
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4836f5edec17be53390d4638eda3ee5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1209805135,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":1209805135,
+    "wof:lastmodified":1537663124,
+    "wof:name":"Lizums",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36976,
+    57.19037,
+    26.36976,
+    57.19037
+],
+  "geometry": {"coordinates":[26.36976,57.19037],"type":"Point"}
+}

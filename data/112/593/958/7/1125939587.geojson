@@ -1,0 +1,90 @@
+{
+  "id": 1125939587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.038185,57.870779,25.038185,57.870779",
+    "geom:latitude":57.870779,
+    "geom:longitude":25.038185,
+    "gn:gn_country":null,
+    "iso:country":"LV",
+    "lbl:latitude":57.870779,
+    "lbl:longitude":25.038185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Pried\u0101ji"
+    ],
+    "name:eng_x_preferred":[
+        "Pried\u0101ji"
+    ],
+    "name:lav_x_preferred":[
+        "Pried\u0101ji"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Pried\u0101ji",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Mazsalacas Novads",
+    "qs_pg:photos":16,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":136243,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":55847719,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Mazsalacas Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55847719,
+        "qs_pg:id":136243,
+        "wd:id":"Q20902227"
+    },
+    "wof:country":"LV",
+    "wof:created":1497297073,
+    "wof:geomhash":"2e0bab87391099582da4d31ca19403f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125939587,
+            "region_id":85686303
+        }
+    ],
+    "wof:id":1125939587,
+    "wof:lastmodified":1514484089,
+    "wof:name":"Pried\u0101ji",
+    "wof:parent_id":85686303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.038185,
+    57.870779,
+    25.038185,
+    57.870779
+],
+  "geometry": {"coordinates":[25.038185,57.870779],"type":"Point"}
+}

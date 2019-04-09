@@ -1,0 +1,70 @@
+{
+  "id": 1277050135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.68512,56.73334,26.68512,56.73334",
+    "geom:latitude":56.73334,
+    "geom:longitude":26.68512,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700244.0",
+    "gn:asciiname":"Bozeni",
+    "gn:country_code":"LV",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460675,
+    "gn:latitude":56.73334,
+    "gn:longitude":26.68512,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Boz\u0113ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boz\u0113ni",
+        "Buzani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460675
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"acfbf85f352fda2e108081637df3f35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1277050135,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1277050135,
+    "wof:lastmodified":1537663209,
+    "wof:name":"Bozeni",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.68512,
+    56.73334000000001,
+    26.68512,
+    56.73334000000001
+],
+  "geometry": {"coordinates":[26.68512,56.73334000000001],"type":"Point"}
+}

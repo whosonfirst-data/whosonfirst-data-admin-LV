@@ -1,0 +1,73 @@
+{
+  "id": 1327061229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.59537,56.58561,25.59537,56.58561",
+    "geom:latitude":56.58561,
+    "geom:longitude":25.59537,
+    "gn:admin1_code":"A6",
+    "gn:admin2_code":"321458.0",
+    "gn:asciiname":"Klintaine",
+    "gn:country_code":"LV",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454841,
+    "gn:latitude":56.58561,
+    "gn:longitude":25.59537,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Klintaine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plavinu",
+        "Tirumbaltgalv\u2019i",
+        "Plavinyu",
+        "T\u012brumbaltgalvji",
+        "Klintaine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454841
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ba95da690c2b2a1db36a3829527650be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327061229,
+            "region_id":85686055
+        }
+    ],
+    "wof:id":1327061229,
+    "wof:lastmodified":1537663036,
+    "wof:name":"Klintaine",
+    "wof:parent_id":85686055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.59537000000001,
+    56.58561,
+    25.59537000000001,
+    56.58561
+],
+  "geometry": {"coordinates":[25.59537000000001,56.58561],"type":"Point"}
+}

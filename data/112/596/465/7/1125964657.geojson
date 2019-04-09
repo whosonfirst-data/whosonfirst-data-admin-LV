@@ -1,0 +1,99 @@
+{
+  "id": 1125964657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07235,57.25607,25.07235,57.25607",
+    "geom:latitude":57.25607,
+    "geom:longitude":25.07235,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LV",
+    "lbl:latitude":57.25607,
+    "lbl:longitude":25.07235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ska\u013cupes"
+    ],
+    "name:eng_x_preferred":[
+        "Ska\u013cupes"
+    ],
+    "name:lav_x_preferred":[
+        "Ska\u013cupes"
+    ],
+    "name:unk_x_variant":[
+        "Skalupji"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":455585,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ska\u013cupes",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"L\u013cgatnes Novads",
+    "qs_pg:photos":25,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":25,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":989626,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":55845759,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"L\u013cgatnes Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455585,
+        "gp:id":55845759,
+        "qs_pg:id":989626,
+        "wd:id":"Q21848523"
+    },
+    "wof:country":"LV",
+    "wof:created":1497297927,
+    "wof:geomhash":"6c6180776d5d2561c188b2f14d42bbb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125964657,
+            "region_id":85686153
+        }
+    ],
+    "wof:id":1125964657,
+    "wof:lastmodified":1514484140,
+    "wof:name":"Ska\u013cupes",
+    "wof:parent_id":85686153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07235,
+    57.25607,
+    25.07235,
+    57.25607
+],
+  "geometry": {"coordinates":[25.07235,57.25607],"type":"Point"}
+}

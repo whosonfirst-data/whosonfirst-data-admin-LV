@@ -1,0 +1,65 @@
+{
+  "id": 1343663839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68967,57.16683,27.68967,57.16683",
+    "geom:latitude":57.16683,
+    "geom:longitude":27.68967,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tereskova",
+    "gn:country_code":"LV",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454912,
+    "gn:latitude":57.16683,
+    "gn:longitude":27.68967,
+    "gn:modification_date":"2010-12-18",
+    "gn:name":"Tere\u0161kova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454912
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ea369e823655728b7c8929012655dc70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343663839,
+            "region_id":85686251
+        }
+    ],
+    "wof:id":1343663839,
+    "wof:lastmodified":1536950437,
+    "wof:name":"Tereskova",
+    "wof:parent_id":85686251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68967,
+    57.16683,
+    27.68967,
+    57.16683
+],
+  "geometry": {"coordinates":[27.68967,57.16683],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243053545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26667,56.55,23.26667,56.55",
+    "geom:latitude":56.55,
+    "geom:longitude":23.26667,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"460246.0",
+    "gn:asciiname":"Sakukrogs",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455916,
+    "gn:latitude":56.55,
+    "gn:longitude":23.26667,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Sa\u0137ukrogs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455916
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"338df0ed5255fafa7a2ccef22629c6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243053545,
+            "region_id":85685925
+        }
+    ],
+    "wof:id":1243053545,
+    "wof:lastmodified":1537663065,
+    "wof:name":"Sakukrogs",
+    "wof:parent_id":85685925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26667,
+    56.55,
+    23.26667,
+    56.55
+],
+  "geometry": {"coordinates":[23.26667,56.55],"type":"Point"}
+}

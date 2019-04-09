@@ -1,0 +1,72 @@
+{
+  "id": 1226066623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.52702,55.82838,26.52702,55.82838",
+    "geom:latitude":55.82838,
+    "geom:longitude":26.52702,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440264.0",
+    "gn:asciiname":"Otrie Peski",
+    "gn:country_code":"LV",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456767,
+    "gn:latitude":55.82838,
+    "gn:longitude":26.52702,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Otrie Peski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Poyekesy",
+        "Peski",
+        "Otrie Peski",
+        "Peski 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456767
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"82152983da2049fb11bc93a534e18b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226066623,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1226066623,
+    "wof:lastmodified":1537663089,
+    "wof:name":"Otrie Peski",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.52702,
+    55.82838,
+    26.52702,
+    55.82838
+],
+  "geometry": {"coordinates":[26.52702,55.82838],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226066489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.38333,55.78333,26.38333,55.78333",
+    "geom:latitude":55.78333,
+    "geom:longitude":26.38333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440272.0",
+    "gn:asciiname":"Linopoliski",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457880,
+    "gn:latitude":55.78333,
+    "gn:longitude":26.38333,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Linopoli\u0161ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linupati\u0161ki",
+        "Linopoli\u0161ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457880
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c33797131586a101d9ca11b7c46a21ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226066489,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1226066489,
+    "wof:lastmodified":1537663125,
+    "wof:name":"Linopoliski",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.38333,
+    55.78333000000001,
+    26.38333,
+    55.78333000000001
+],
+  "geometry": {"coordinates":[26.38333,55.78333000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293914821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50619,56.61557,21.50619,56.61557",
+    "geom:latitude":56.61557,
+    "geom:longitude":21.50619,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"640894.0",
+    "gn:asciiname":"Mazlani",
+    "gn:country_code":"LV",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458293,
+    "gn:latitude":56.61557,
+    "gn:longitude":21.50619,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Mazl\u0101\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dizhlany",
+        "Di\u017el\u0101\u0146u Mui\u017ea",
+        "Di\u0161l\u0101ni",
+        "La\u0146i",
+        "Mazl\u0101\u0146i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458293
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"342b16036e85f735ae545beebb33e13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293914821,
+            "region_id":85685829
+        }
+    ],
+    "wof:id":1293914821,
+    "wof:lastmodified":1537663138,
+    "wof:name":"Mazlani",
+    "wof:parent_id":85685829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50619,
+    56.61557,
+    21.50619,
+    56.61557
+],
+  "geometry": {"coordinates":[21.50619,56.61557],"type":"Point"}
+}

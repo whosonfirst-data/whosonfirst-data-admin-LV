@@ -1,0 +1,66 @@
+{
+  "id": 1277161691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.22369,57.13044,26.22369,57.13044",
+    "geom:latitude":57.13044,
+    "geom:longitude":26.22369,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"500252.0",
+    "gn:asciiname":"Ziemeli",
+    "gn:country_code":"LV",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453872,
+    "gn:latitude":57.13044,
+    "gn:longitude":26.22369,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Zieme\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453872
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c6224b6a41e6f265844903716a2d6899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1277161691,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":1277161691,
+    "wof:lastmodified":1536653851,
+    "wof:name":"Ziemeli",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.22369,
+    57.13044,
+    26.22369,
+    57.13044
+],
+  "geometry": {"coordinates":[26.22369,57.13044],"type":"Point"}
+}

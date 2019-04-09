@@ -1,0 +1,69 @@
+{
+  "id": 1277112605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39793,56.4531,26.39793,56.4531",
+    "geom:latitude":56.4531,
+    "geom:longitude":26.39793,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Mednevka",
+    "gn:country_code":"LV",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457496,
+    "gn:latitude":56.4531,
+    "gn:longitude":26.39793,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Med\u0146evka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Med\u0146evka",
+        "Mednava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457496
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ee8018061181fd0f422469255c734362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1277112605,
+            "region_id":85685943
+        }
+    ],
+    "wof:id":1277112605,
+    "wof:lastmodified":1537663112,
+    "wof:name":"Mednevka",
+    "wof:parent_id":85685943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39793,
+    56.4531,
+    26.39793,
+    56.4531
+],
+  "geometry": {"coordinates":[26.39793,56.4531],"type":"Point"}
+}

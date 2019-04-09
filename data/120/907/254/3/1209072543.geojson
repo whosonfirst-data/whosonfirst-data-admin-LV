@@ -1,0 +1,69 @@
+{
+  "id": 1209072543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.67053,57.671,24.67053,57.671",
+    "geom:latitude":57.671,
+    "geom:longitude":24.67053,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"660268.0",
+    "gn:asciiname":"Drielini",
+    "gn:country_code":"LV",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460273,
+    "gn:latitude":57.671,
+    "gn:longitude":24.67053,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Drieli\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Driyelyni",
+        "Drieli\u0146u Mui\u017ea",
+        "Drieli\u0146i",
+        "Dreili\u0146i Mui\u017eas Centrs",
+        "Dreili\u0146i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460273
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c5e40860fe03375709cf600fdf461590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209072543
+        }
+    ],
+    "wof:id":1209072543,
+    "wof:lastmodified":1537663199,
+    "wof:name":"Drielini",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.67053,
+    57.67100000000001,
+    24.67053,
+    57.67100000000001
+],
+  "geometry": {"coordinates":[24.67053,57.67100000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209849967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73194,57.33615,27.73194,57.33615",
+    "geom:latitude":57.33615,
+    "geom:longitude":27.73194,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"381698.0",
+    "gn:asciiname":"Katlesi",
+    "gn:country_code":"LV",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458958,
+    "gn:latitude":57.33615,
+    "gn:longitude":27.73194,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Katle\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458958
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"14bc424f25f12477e173db8a6faf97ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1209849967,
+            "region_id":85686251
+        }
+    ],
+    "wof:id":1209849967,
+    "wof:lastmodified":1536388897,
+    "wof:name":"Katlesi",
+    "wof:parent_id":85686251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73194,
+    57.33615,
+    27.73194,
+    57.33615
+],
+  "geometry": {"coordinates":[27.73194,57.33615],"type":"Point"}
+}

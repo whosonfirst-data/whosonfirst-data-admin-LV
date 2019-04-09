@@ -1,0 +1,69 @@
+{
+  "id": 1209751393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91029,57.03792,26.91029,57.03792",
+    "geom:latitude":57.03792,
+    "geom:longitude":26.91029,
+    "gn:admin1_code":"B7",
+    "gn:admin2_code":"387574.0",
+    "gn:asciiname":"Dzelzupe",
+    "gn:country_code":"LV",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460132,
+    "gn:latitude":57.03792,
+    "gn:longitude":26.91029,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Dzelzupe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzel\u017eupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460132
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"11e28e75c70f6c407f0f20cdf002f229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1209751393,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":1209751393,
+    "wof:lastmodified":1537663195,
+    "wof:name":"Dzelzupe",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91029,
+    57.03791999999999,
+    26.91029,
+    57.03791999999999
+],
+  "geometry": {"coordinates":[26.91029,57.03791999999999],"type":"Point"}
+}

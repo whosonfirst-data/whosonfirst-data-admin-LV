@@ -1,0 +1,66 @@
+{
+  "id": 1343242279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.56667,56.46667,23.56667,56.46667",
+    "geom:latitude":56.46667,
+    "geom:longitude":23.56667,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540296.0",
+    "gn:asciiname":"Tomu-Lamas",
+    "gn:country_code":"LV",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454816,
+    "gn:latitude":56.46667,
+    "gn:longitude":23.56667,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Tomu-L\u0101mas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454816
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5fa7d8af0608cf19cf5f375f36d5d6b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343242279,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1343242279,
+    "wof:lastmodified":1537058691,
+    "wof:name":"Tomu-Lamas",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.56667,
+    56.46666999999999,
+    23.56667,
+    56.46666999999999
+],
+  "geometry": {"coordinates":[23.56667,56.46666999999999],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209243611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6963,56.98593,27.6963,56.98593",
+    "geom:latitude":56.98593,
+    "geom:longitude":27.6963,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"384400.0",
+    "gn:asciiname":"Gnilki",
+    "gn:country_code":"LV",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459778,
+    "gn:latitude":56.98593,
+    "gn:longitude":27.6963,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Gnilki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459778
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"46dda3e0e79618e7fe66ce8dfc08221d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209243611
+        }
+    ],
+    "wof:id":1209243611,
+    "wof:lastmodified":1536293239,
+    "wof:name":"Gnilki",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6963,
+    56.98593,
+    27.6963,
+    56.98593
+],
+  "geometry": {"coordinates":[27.6963,56.98593],"type":"Point"}
+}

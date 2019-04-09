@@ -1,0 +1,102 @@
+{
+  "id": 1126003403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45578,57.22983,21.45578,57.22983",
+    "geom:latitude":57.22983,
+    "geom:longitude":21.45578,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LV",
+    "lbl:latitude":57.22983,
+    "lbl:longitude":21.45578,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "U\u017eava"
+    ],
+    "name:eng_x_preferred":[
+        "U\u017eava"
+    ],
+    "name:lav_x_preferred":[
+        "U\u017eava"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0436\u0430\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Uzhava"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":454642,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"U\u017eava",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Ventspils Novads",
+    "qs_pg:photos":43,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":43,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":278530,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":855825,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Ventspils Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454642,
+        "gp:id":855825,
+        "qs_pg:id":278530,
+        "wd:id":"Q15219951"
+    },
+    "wof:country":"LV",
+    "wof:created":1497299787,
+    "wof:geomhash":"94de27c84f4b6c80410f994cd615d181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1126003403,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1126003403,
+    "wof:lastmodified":1514484158,
+    "wof:name":"U\u017eava",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45578,
+    57.22983,
+    21.45578,
+    57.22983
+],
+  "geometry": {"coordinates":[21.45578,57.22983],"type":"Point"}
+}

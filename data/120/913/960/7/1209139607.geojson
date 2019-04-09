@@ -1,0 +1,68 @@
+{
+  "id": 1209139607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27403,56.45547,26.27403,56.45547",
+    "geom:latitude":56.45547,
+    "geom:longitude":26.27403,
+    "gn:admin1_code":"90",
+    "gn:admin2_code":"761286.0",
+    "gn:asciiname":"Turki",
+    "gn:country_code":"LV",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454750,
+    "gn:latitude":56.45547,
+    "gn:longitude":26.27403,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Turki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Turki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454750
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"835dc7faabf22fb0cb37a00c36f0fc78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209139607
+        }
+    ],
+    "wof:id":1209139607,
+    "wof:lastmodified":1537663033,
+    "wof:name":"Turki",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27403,
+    56.45547,
+    26.27403,
+    56.45547
+],
+  "geometry": {"coordinates":[26.27403,56.45547],"type":"Point"}
+}

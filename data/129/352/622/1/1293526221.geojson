@@ -1,0 +1,70 @@
+{
+  "id": 1293526221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9633,56.98992,26.9633,56.98992",
+    "geom:latitude":56.98992,
+    "geom:longitude":26.9633,
+    "gn:admin1_code":"B7",
+    "gn:admin2_code":"387574.0",
+    "gn:asciiname":"Nagli",
+    "gn:country_code":"LV",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457188,
+    "gn:latitude":56.98992,
+    "gn:longitude":26.9633,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Nag\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naglu Viensetas",
+        "Nag\u013ci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457188
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"57cdb5f57cda34bc95c20480697e9bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293526221,
+            "region_id":85686185
+        }
+    ],
+    "wof:id":1293526221,
+    "wof:lastmodified":1537663103,
+    "wof:name":"Nagli",
+    "wof:parent_id":85686185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9633,
+    56.98992,
+    26.9633,
+    56.98992
+],
+  "geometry": {"coordinates":[26.9633,56.98992],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343892619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75654,56.444,21.75654,56.444",
+    "geom:latitude":56.444,
+    "geom:longitude":21.75654,
+    "gn:admin1_code":"D7",
+    "gn:admin2_code":"649392.0",
+    "gn:asciiname":"Varke",
+    "gn:country_code":"LV",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454519,
+    "gn:latitude":56.444,
+    "gn:longitude":21.75654,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Var\u0137e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Varte",
+        "V\u0101rke",
+        "Var\u0137i",
+        "Var\u0137e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454519
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"bac2f9fda756bbd0b38fa021d088c76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343892619,
+            "region_id":85685807
+        }
+    ],
+    "wof:id":1343892619,
+    "wof:lastmodified":1537663027,
+    "wof:name":"Varke",
+    "wof:parent_id":85685807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75654,
+    56.444,
+    21.75654,
+    56.444
+],
+  "geometry": {"coordinates":[21.75654,56.444],"type":"Point"}
+}

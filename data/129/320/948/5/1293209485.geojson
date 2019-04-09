@@ -1,0 +1,70 @@
+{
+  "id": 1293209485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.89078,57.40606,26.89078,57.40606",
+    "geom:latitude":57.40606,
+    "geom:longitude":26.89078,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"360242.0",
+    "gn:asciiname":"Strautini",
+    "gn:country_code":"LV",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455265,
+    "gn:latitude":57.40606,
+    "gn:longitude":26.89078,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Strauti\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Strauti\u0146i",
+        "Stauti\u0146i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455265
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fbeb50cd1e12898cb3730da91f8e2600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293209485,
+            "region_id":85686279
+        }
+    ],
+    "wof:id":1293209485,
+    "wof:lastmodified":1537663046,
+    "wof:name":"Strautini",
+    "wof:parent_id":85686279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.89078,
+    57.40606,
+    26.89078,
+    57.40606
+],
+  "geometry": {"coordinates":[26.89078,57.40606],"type":"Point"}
+}

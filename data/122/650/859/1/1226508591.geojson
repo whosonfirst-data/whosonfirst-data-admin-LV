@@ -1,0 +1,77 @@
+{
+  "id": 1226508591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.80269,57.55734,24.80269,57.55734",
+    "geom:latitude":57.55734,
+    "geom:longitude":24.80269,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"660252.0",
+    "gn:asciiname":"Katvari",
+    "gn:country_code":"LV",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458953,
+    "gn:latitude":57.55734,
+    "gn:longitude":24.80269,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Katvari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Katvari"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0432\u0430\u0440\u0443"
+    ],
+    "name:und_x_variant":[
+        "Katvaru Mui\u017ea",
+        "Katvaru",
+        "Katvari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458953
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6c157317b8f31df55a42ca5249207604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226508591,
+            "region_id":85686265
+        }
+    ],
+    "wof:id":1226508591,
+    "wof:lastmodified":1537663158,
+    "wof:name":"Katvari",
+    "wof:parent_id":85686265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.80269,
+    57.55734,
+    24.80269,
+    57.55734
+],
+  "geometry": {"coordinates":[24.80269,57.55734],"type":"Point"}
+}

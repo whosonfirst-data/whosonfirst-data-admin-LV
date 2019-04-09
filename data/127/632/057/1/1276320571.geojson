@@ -1,0 +1,72 @@
+{
+  "id": 1276320571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66975,56.58949,23.66975,56.58949",
+    "geom:latitude":56.58949,
+    "geom:longitude":23.66975,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540282.0",
+    "gn:asciiname":"Svete",
+    "gn:country_code":"LV",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455008,
+    "gn:latitude":56.58949,
+    "gn:longitude":23.66975,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Sv\u0113te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lielsvete",
+        "Lielsv\u0113tes Mui\u017ea",
+        "Liyelsvete",
+        "Sv\u0113te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455008
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"95c55eea24a88212a2d18cd623cb3d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276320571,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1276320571,
+    "wof:lastmodified":1537663041,
+    "wof:name":"Svete",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66975,
+    56.58949000000001,
+    23.66975,
+    56.58949000000001
+],
+  "geometry": {"coordinates":[23.66975,56.58949000000001],"type":"Point"}
+}

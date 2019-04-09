@@ -1,0 +1,72 @@
+{
+  "id": 1326605257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.91143,56.21318,27.91143,56.21318",
+    "geom:latitude":56.21318,
+    "geom:longitude":27.91143,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"680260.0",
+    "gn:asciiname":"Miskinova",
+    "gn:country_code":"LV",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457282,
+    "gn:latitude":56.21318,
+    "gn:longitude":27.91143,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Mi\u0161ki\u0146ova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meshkineva",
+        "Mi\u0161kinevo",
+        "Mi\u0161ki\u0146eva",
+        "Mi\u0161ki\u0146ova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457282
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"34356fce9536f755ede040e2ba055cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326605257,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":1326605257,
+    "wof:lastmodified":1537663105,
+    "wof:name":"Miskinova",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91143,
+    56.21318,
+    27.91143,
+    56.21318
+],
+  "geometry": {"coordinates":[27.91143,56.21318],"type":"Point"}
+}

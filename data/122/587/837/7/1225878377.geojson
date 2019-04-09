@@ -1,0 +1,70 @@
+{
+  "id": 1225878377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.64583,56.20861,26.64583,56.20861",
+    "geom:latitude":56.20861,
+    "geom:longitude":26.64583,
+    "gn:admin1_code":"E2",
+    "gn:admin2_code":"769194.0",
+    "gn:asciiname":"Stabulniki",
+    "gn:country_code":"LV",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455303,
+    "gn:latitude":56.20861,
+    "gn:longitude":26.64583,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Stabu\u013cn\u012bki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stabu\u013cn\u012bki",
+        "Stabulnieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455303
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"76d5db08e3cf4e770658ff49b2eda140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1225878377,
+            "region_id":85685857
+        }
+    ],
+    "wof:id":1225878377,
+    "wof:lastmodified":1537663048,
+    "wof:name":"Stabulniki",
+    "wof:parent_id":85685857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.64583,
+    56.20861,
+    26.64583,
+    56.20861
+],
+  "geometry": {"coordinates":[26.64583,56.20861],"type":"Point"}
+}

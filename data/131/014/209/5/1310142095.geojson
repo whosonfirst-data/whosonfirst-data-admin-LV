@@ -1,0 +1,72 @@
+{
+  "id": 1310142095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.74572,57.29325,27.74572,57.29325",
+    "geom:latitude":57.29325,
+    "geom:longitude":27.74572,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"381698.0",
+    "gn:asciiname":"Cernova",
+    "gn:country_code":"LV",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460581,
+    "gn:latitude":57.29325,
+    "gn:longitude":27.74572,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"\u010cernova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cernava",
+        "Chernova",
+        "\u010cernova",
+        "Cirnova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460581
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"cdc14f557cecde5ebb126cf26d8036d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310142095,
+            "region_id":85686251
+        }
+    ],
+    "wof:id":1310142095,
+    "wof:lastmodified":1537663206,
+    "wof:name":"Cernova",
+    "wof:parent_id":85686251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.74572,
+    57.29325,
+    27.74572,
+    57.29325
+],
+  "geometry": {"coordinates":[27.74572,57.29325],"type":"Point"}
+}

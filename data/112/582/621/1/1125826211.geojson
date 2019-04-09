@@ -1,0 +1,89 @@
+{
+  "id": 1125826211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.341025,57.799956,24.341025,57.799956",
+    "geom:latitude":57.799956,
+    "geom:longitude":24.341025,
+    "gn:gn_country":null,
+    "iso:country":"LV",
+    "lbl:latitude":57.799956,
+    "lbl:longitude":24.341025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kuivi\u017ei"
+    ],
+    "name:eng_x_preferred":[
+        "Kuivi\u017ei"
+    ],
+    "name:lav_x_preferred":[
+        "Kuivi\u017ei"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kuivi\u017ei",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Salacgr\u013cvas Novads",
+    "qs_pg:photos":173,
+    "qs_pg:photos_1k":35,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":173,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1088723,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":853363,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Salacgr\u013cvas Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":853363,
+        "qs_pg:id":1088723,
+        "wd:id":"Q15219184"
+    },
+    "wof:country":"LV",
+    "wof:created":1497292289,
+    "wof:geomhash":"7aca637ace0bdeb35dbfafeb115a05a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125826211,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125826211,
+    "wof:lastmodified":1553816556,
+    "wof:name":"Kuivi\u017ei",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.341025,
+    57.799956,
+    24.341025,
+    57.799956
+],
+  "geometry": {"coordinates":[24.341025,57.799956],"type":"Point"}
+}

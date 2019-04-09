@@ -1,0 +1,70 @@
+{
+  "id": 1243326683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.51303,57.85704,24.51303,57.85704",
+    "geom:latitude":57.85704,
+    "geom:longitude":24.51303,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Mernieki",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457411,
+    "gn:latitude":57.85704,
+    "gn:longitude":24.51303,
+    "gn:modification_date":"2010-11-27",
+    "gn:name":"M\u0113rnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Merniyeki",
+        "M\u0113rnieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457411
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"18b6296b587e49628e8e95e6dd209cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243326683,
+            "region_id":85686287
+        }
+    ],
+    "wof:id":1243326683,
+    "wof:lastmodified":1537663110,
+    "wof:name":"Mernieki",
+    "wof:parent_id":85686287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51303,
+    57.85704000000001,
+    24.51303,
+    57.85704000000001
+],
+  "geometry": {"coordinates":[24.51303,57.85704000000001],"type":"Point"}
+}

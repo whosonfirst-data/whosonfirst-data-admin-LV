@@ -1,0 +1,71 @@
+{
+  "id": 1326464013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41763,56.05417,27.41763,56.05417",
+    "geom:latitude":56.05417,
+    "geom:longitude":27.41763,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"601076.0",
+    "gn:asciiname":"Punculi",
+    "gn:country_code":"LV",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456437,
+    "gn:latitude":56.05417,
+    "gn:longitude":27.41763,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Puncu\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puntseli",
+        "Punceli",
+        "Puncu\u013ci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456437
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"de3378c586df8ba6d30804a090f10145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326464013,
+            "region_id":85685893
+        }
+    ],
+    "wof:id":1326464013,
+    "wof:lastmodified":1537663080,
+    "wof:name":"Punculi",
+    "wof:parent_id":85685893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41763,
+    56.05416999999999,
+    27.41763,
+    56.05416999999999
+],
+  "geometry": {"coordinates":[27.41763,56.05416999999999],"type":"Point"}
+}

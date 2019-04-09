@@ -1,0 +1,70 @@
+{
+  "id": 1343979169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7725,56.00429,26.7725,56.00429",
+    "geom:latitude":56.00429,
+    "geom:longitude":26.7725,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440270.0",
+    "gn:asciiname":"Markitanti",
+    "gn:country_code":"LV",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457636,
+    "gn:latitude":56.00429,
+    "gn:longitude":26.7725,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Markitanti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Markitanty",
+        "Markitanti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457636
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ec3251176d125f8205f6aea0a8366267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343979169,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1343979169,
+    "wof:lastmodified":1537663118,
+    "wof:name":"Markitanti",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7725,
+    56.00429000000001,
+    26.7725,
+    56.00429000000001
+],
+  "geometry": {"coordinates":[26.7725,56.00429000000001],"type":"Point"}
+}

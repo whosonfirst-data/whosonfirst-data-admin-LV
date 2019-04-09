@@ -1,0 +1,74 @@
+{
+  "id": 1226585139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97523,57.59925,21.97523,57.59925",
+    "geom:latitude":57.59925,
+    "geom:longitude":21.97523,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"980266.0",
+    "gn:asciiname":"Mikelciems",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457310,
+    "gn:latitude":57.59925,
+    "gn:longitude":21.97523,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Mi\u0137e\u013cciems",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piza",
+        "Mitel\u2019baka",
+        "Pissen",
+        "Dvor Pissen",
+        "Mi\u0137e\u013cciems"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457310
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"056cbfb6668da1510755927ca67e862d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226585139,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1226585139,
+    "wof:lastmodified":1537663107,
+    "wof:name":"Mikelciems",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97523,
+    57.59925,
+    21.97523,
+    57.59925
+],
+  "geometry": {"coordinates":[21.97523,57.59925],"type":"Point"}
+}

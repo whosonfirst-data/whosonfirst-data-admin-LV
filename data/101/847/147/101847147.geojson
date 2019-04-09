@@ -1,0 +1,95 @@
+{
+  "id": 101847147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":577182.653913,
+    "geom:bbox":"24.9128975719,56.9020364207,24.9318379726,56.9118603343",
+    "geom:latitude":56.90676,
+    "geom:longitude":24.923633,
+    "iso:country":"LV",
+    "lbl:latitude":56.906601,
+    "lbl:longitude":24.923777,
+    "mps:latitude":56.906601,
+    "mps:longitude":24.923777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Casa Senyorial de Sunta\u017ei"
+    ],
+    "name:dut_x_preferred":[
+        "Sunta\u017ei"
+    ],
+    "name:eng_x_preferred":[
+        "Sunta\u017ei"
+    ],
+    "name:est_x_preferred":[
+        "Sunta\u017ei m\u00f5is"
+    ],
+    "name:lav_x_preferred":[
+        "Sunta\u017eu mui\u017ea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043d\u0442\u0430\u0436\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Myza Suntazhi"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Ogres novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:id":0,
+    "qs:la":"Sunta\u017eu pagasts",
+    "qs:la_lc":"*LV7488",
+    "qs:level":"locality",
+    "qs:loc":"Sunta\u017ei",
+    "qs:loc_alt":"Suntazi",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455062,
+        "gp:id":855561,
+        "qs:id":262180,
+        "wd:id":"Q11127219"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ebb3fae1f95e99be52a23e27d414e9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101847147,
+            "region_id":85686079
+        }
+    ],
+    "wof:id":101847147,
+    "wof:lastmodified":1514484149,
+    "wof:name":"Sunta\u017ei",
+    "wof:parent_id":85686079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91289757192862,
+    56.90203642071896,
+    24.93183797258661,
+    56.91186033434661
+],
+  "geometry": {"coordinates":[[[24.93143443460423,56.91167415087261],[24.93037995769578,56.90904569181174],[24.92877221487493,56.90923186058563],[24.9273666556507,56.90572721397507],[24.93058184615745,56.90535489591758],[24.93023043440439,56.90447874139642],[24.93183797258661,56.90429255771477],[24.93148654504819,56.90341640702587],[24.92987904191421,56.90360258580847],[24.92952766868609,56.90272642915409],[24.92792018592121,56.90291258333804],[24.9275688669992,56.90203642071896],[24.92435392753856,56.90240866019127],[24.92470517636485,56.90328483260481],[24.91988255198004,56.90384305874835],[24.92023371490296,56.9047192447855],[24.91862610904514,56.90490528565925],[24.91897725616218,56.90578147552708],[24.91736960057648,56.90596750159364],[24.91772073188486,56.9068436952922],[24.91289757192862,56.90740166995568],[24.91324861729635,56.90827787727426],[24.91485638701545,56.90809190052954],[24.91555860562994,56.90984430218583],[24.92198981831677,56.90910015899487],[24.92234109677037,56.90997633864106],[24.92555668518423,56.90960413902201],[24.92590805302893,56.91048030780684],[24.92912365284536,56.91010801957242],[24.9298265865948,56.91186033434661],[24.93143443460423,56.91167415087261]]],"type":"Polygon"}
+}

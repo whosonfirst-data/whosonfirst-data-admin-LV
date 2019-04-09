@@ -1,0 +1,71 @@
+{
+  "id": 1242627637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88229,57.43749,25.88229,57.43749",
+    "geom:latitude":57.43749,
+    "geom:longitude":25.88229,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Grotuzi",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459687,
+    "gn:latitude":57.43749,
+    "gn:longitude":25.88229,
+    "gn:modification_date":"2010-12-18",
+    "gn:name":"Grotu\u017ei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grot\u016bza Pusmui\u017ea",
+        "Grot\u016bzis",
+        "Grotu\u017ei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459687
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"489380ad31a5e9ab8115f53a3eb9fa26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1242627637,
+            "region_id":85686249
+        }
+    ],
+    "wof:id":1242627637,
+    "wof:lastmodified":1537663182,
+    "wof:name":"Grotuzi",
+    "wof:parent_id":85686249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88229,
+    57.43749,
+    25.88229,
+    57.43749
+],
+  "geometry": {"coordinates":[25.88229,57.43749],"type":"Point"}
+}

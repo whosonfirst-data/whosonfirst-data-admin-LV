@@ -1,0 +1,72 @@
+{
+  "id": 1326576755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.31822,56.86802,23.31822,56.86802",
+    "geom:latitude":56.86802,
+    "geom:longitude":23.31822,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"900280.0",
+    "gn:asciiname":"Viksele",
+    "gn:country_code":"LV",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454188,
+    "gn:latitude":56.86802,
+    "gn:longitude":23.31822,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"V\u012bksele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Vikseles",
+        "V\u012bkseles",
+        "V\u012bseles Mui\u017ea",
+        "V\u012bksele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454188
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"36e109e6c9d955163e8d2e8ea3d6481c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326576755,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":1326576755,
+    "wof:lastmodified":1537663015,
+    "wof:name":"Viksele",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.31822,
+    56.86802,
+    23.31822,
+    56.86802
+],
+  "geometry": {"coordinates":[23.31822,56.86802],"type":"Point"}
+}

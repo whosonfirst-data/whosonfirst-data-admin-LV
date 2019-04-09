@@ -1,0 +1,70 @@
+{
+  "id": 1292969767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.75068,56.4326,26.75068,56.4326",
+    "geom:latitude":56.4326,
+    "geom:longitude":26.75068,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Maltastrupi",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457671,
+    "gn:latitude":56.4326,
+    "gn:longitude":26.75068,
+    "gn:modification_date":"2010-10-28",
+    "gn:name":"Maltastr\u016bpi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dravnieki",
+        "Maltastr\u016bpi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457671
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d5ecd7719ee4fbcd82e1c8877bce855a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1292969767,
+            "region_id":85685977
+        }
+    ],
+    "wof:id":1292969767,
+    "wof:lastmodified":1537663119,
+    "wof:name":"Maltastrupi",
+    "wof:parent_id":85685977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.75068,
+    56.4326,
+    26.75068,
+    56.4326
+],
+  "geometry": {"coordinates":[26.75068,56.4326],"type":"Point"}
+}

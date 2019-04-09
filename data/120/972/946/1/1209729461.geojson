@@ -1,0 +1,65 @@
+{
+  "id": 1209729461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73333,56.5,24.73333,56.5",
+    "geom:latitude":56.5,
+    "geom:longitude":24.73333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sudmalkrogs",
+    "gn:country_code":"LV",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455084,
+    "gn:latitude":56.5,
+    "gn:longitude":24.73333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Sudmalkrogs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455084
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"752a1f1fadfd5c79bd51c477889affc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1209729461,
+            "region_id":85685939
+        }
+    ],
+    "wof:id":1209729461,
+    "wof:lastmodified":1536380214,
+    "wof:name":"Sudmalkrogs",
+    "wof:parent_id":85685939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73333,
+    56.5,
+    24.73333,
+    56.5
+],
+  "geometry": {"coordinates":[24.73333,56.5],"type":"Point"}
+}

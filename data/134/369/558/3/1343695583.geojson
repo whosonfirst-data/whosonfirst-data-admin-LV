@@ -1,0 +1,71 @@
+{
+  "id": 1343695583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.61177,57.029,27.61177,57.029",
+    "geom:latitude":57.029,
+    "geom:longitude":27.61177,
+    "gn:admin1_code":"E7",
+    "gn:admin2_code":"381682.0",
+    "gn:asciiname":"Cilipine",
+    "gn:country_code":"LV",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460543,
+    "gn:latitude":57.029,
+    "gn:longitude":27.61177,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"\u010cilip\u012bne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chilypina",
+        "\u010cilipina",
+        "\u010cilip\u012bne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460543
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1f4dec2517a30e0b4ac108d98cf85da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343695583,
+            "region_id":85686251
+        }
+    ],
+    "wof:id":1343695583,
+    "wof:lastmodified":1537663206,
+    "wof:name":"Cilipine",
+    "wof:parent_id":85686251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.61177,
+    57.029,
+    27.61177,
+    57.029
+],
+  "geometry": {"coordinates":[27.61177,57.029],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276569327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98073,56.29272,25.98073,56.29272",
+    "geom:latitude":56.29272,
+    "geom:longitude":25.98073,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"560298.0",
+    "gn:asciiname":"Zasa",
+    "gn:country_code":"LV",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453823,
+    "gn:latitude":56.29272,
+    "gn:longitude":25.98073,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Zasa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zosa",
+        "Zasa",
+        "Zasas Mui\u017ea",
+        "Myza Zasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453823
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f2dc055d445398e8032b731705e90b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276569327,
+            "region_id":85685889
+        }
+    ],
+    "wof:id":1276569327,
+    "wof:lastmodified":1537663002,
+    "wof:name":"Zasa",
+    "wof:parent_id":85685889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98073,
+    56.29272,
+    25.98073,
+    56.29272
+],
+  "geometry": {"coordinates":[25.98073,56.29272],"type":"Point"}
+}

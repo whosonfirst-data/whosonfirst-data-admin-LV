@@ -1,0 +1,66 @@
+{
+  "id": 1243103529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.92683,56.23559,26.92683,56.23559",
+    "geom:latitude":56.23559,
+    "geom:longitude":26.92683,
+    "gn:admin1_code":"B3",
+    "gn:admin2_code":"766370.0",
+    "gn:asciiname":"Kategrade",
+    "gn:country_code":"LV",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458961,
+    "gn:latitude":56.23559,
+    "gn:longitude":26.92683,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Kategrade",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458961
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"22e6e0f1b53a3e257c7e6246863580e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243103529,
+            "region_id":85685977
+        }
+    ],
+    "wof:id":1243103529,
+    "wof:lastmodified":1536802693,
+    "wof:name":"Kategrade",
+    "wof:parent_id":85685977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.92683,
+    56.23559,
+    26.92683,
+    56.23559
+],
+  "geometry": {"coordinates":[26.92683,56.23559],"type":"Point"}
+}

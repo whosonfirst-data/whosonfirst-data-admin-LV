@@ -1,0 +1,70 @@
+{
+  "id": 1293032121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33333,56.28333,25.33333,56.28333",
+    "geom:latitude":56.28333,
+    "geom:longitude":25.33333,
+    "gn:admin1_code":"E6",
+    "gn:admin2_code":"561888.0",
+    "gn:asciiname":"Katishi",
+    "gn:country_code":"LV",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459158,
+    "gn:latitude":56.28333,
+    "gn:longitude":25.33333,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Katishi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u0137\u012b\u0161i",
+        "Ka\u0137\u0101\u0161i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459158
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1fdf868c31f83886357a7190f3c8d9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293032121,
+            "region_id":85685875
+        }
+    ],
+    "wof:id":1293032121,
+    "wof:lastmodified":1537663163,
+    "wof:name":"Katishi",
+    "wof:parent_id":85685875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33333,
+    56.28333000000001,
+    25.33333,
+    56.28333000000001
+],
+  "geometry": {"coordinates":[25.33333,56.28333000000001],"type":"Point"}
+}

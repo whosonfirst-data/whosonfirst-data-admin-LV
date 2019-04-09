@@ -1,0 +1,71 @@
+{
+  "id": 1260218965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04341,56.74602,24.04341,56.74602",
+    "geom:latitude":56.74602,
+    "geom:longitude":24.04341,
+    "gn:admin1_code":"80",
+    "gn:admin2_code":"800870.0",
+    "gn:asciiname":"Ratnieki",
+    "gn:country_code":"LV",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456289,
+    "gn:latitude":56.74602,
+    "gn:longitude":24.04341,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Ratnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rateniyeki",
+        "Ratenieki",
+        "Ratnieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456289
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"923dfa0bf72b171ce568785010631e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260218965,
+            "region_id":85685999
+        }
+    ],
+    "wof:id":1260218965,
+    "wof:lastmodified":1537663077,
+    "wof:name":"Ratnieki",
+    "wof:parent_id":85685999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04341,
+    56.74602,
+    24.04341,
+    56.74602
+],
+  "geometry": {"coordinates":[24.04341,56.74602],"type":"Point"}
+}

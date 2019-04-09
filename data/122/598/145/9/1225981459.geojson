@@ -1,0 +1,69 @@
+{
+  "id": 1225981459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.59404,56.65134,27.59404,56.65134",
+    "geom:latitude":56.65134,
+    "geom:longitude":27.59404,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"681070.0",
+    "gn:asciiname":"Bringi",
+    "gn:country_code":"LV",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460792,
+    "gn:latitude":56.65134,
+    "gn:longitude":27.59404,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Bringi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bringas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460792
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"2efe9b766a64e02c7abc2a28b9513d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1225981459,
+            "region_id":85686139
+        }
+    ],
+    "wof:id":1225981459,
+    "wof:lastmodified":1537663211,
+    "wof:name":"Bringi",
+    "wof:parent_id":85686139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59404,
+    56.65134000000001,
+    27.59404,
+    56.65134000000001
+],
+  "geometry": {"coordinates":[27.59404,56.65134000000001],"type":"Point"}
+}

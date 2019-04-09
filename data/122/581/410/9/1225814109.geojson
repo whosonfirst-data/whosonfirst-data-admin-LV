@@ -1,0 +1,71 @@
+{
+  "id": 1225814109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76098,56.26624,26.76098,56.26624",
+    "geom:latitude":56.26624,
+    "geom:longitude":26.76098,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"760258.0",
+    "gn:asciiname":"Anspoki",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461462,
+    "gn:latitude":56.26624,
+    "gn:longitude":26.76098,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Anspoki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anspaki",
+        "Anspoki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461462
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"298e04d314bd0b37c342ed1d7535c198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1225814109,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":1225814109,
+    "wof:lastmodified":1537663232,
+    "wof:name":"Anspoki",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76098,
+    56.26624,
+    26.76098,
+    56.26624
+],
+  "geometry": {"coordinates":[26.76098,56.26624],"type":"Point"}
+}

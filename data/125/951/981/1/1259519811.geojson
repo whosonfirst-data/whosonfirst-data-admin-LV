@@ -1,0 +1,71 @@
+{
+  "id": 1259519811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55218,56.50061,21.55218,56.50061",
+    "geom:latitude":56.50061,
+    "geom:longitude":21.55218,
+    "gn:admin1_code":"A8",
+    "gn:admin2_code":"641646.0",
+    "gn:asciiname":"Usaikukrogs",
+    "gn:country_code":"LV",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454661,
+    "gn:latitude":56.50061,
+    "gn:longitude":21.55218,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Usai\u0137ukrogs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Usayti",
+        "Usai\u0137i",
+        "Usai\u0137ukrogs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454661
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f1cfd956cb1827b18b93b2f8b5db5e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259519811,
+            "region_id":85685803
+        }
+    ],
+    "wof:id":1259519811,
+    "wof:lastmodified":1537663031,
+    "wof:name":"Usaikukrogs",
+    "wof:parent_id":85685803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55218,
+    56.50061,
+    21.55218,
+    56.50061
+],
+  "geometry": {"coordinates":[21.55218,56.50061],"type":"Point"}
+}

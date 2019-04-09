@@ -1,0 +1,71 @@
+{
+  "id": 1277001925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23883,56.53313,23.23883,56.53313",
+    "geom:latitude":56.53313,
+    "geom:longitude":23.23883,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"460280.0",
+    "gn:asciiname":"Apgulde",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461441,
+    "gn:latitude":56.53313,
+    "gn:longitude":23.23883,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Apgulde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vecapgulde",
+        "Apgulde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461441
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fc9d167bded538e90e6dc9387d9f1ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1277001925,
+            "region_id":85685925
+        }
+    ],
+    "wof:id":1277001925,
+    "wof:lastmodified":1537663231,
+    "wof:name":"Apgulde",
+    "wof:parent_id":85685925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23883,
+    56.53313000000001,
+    23.23883,
+    56.53313000000001
+],
+  "geometry": {"coordinates":[23.23883,56.53313000000001],"type":"Point"}
+}

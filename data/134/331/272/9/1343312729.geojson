@@ -1,0 +1,66 @@
+{
+  "id": 1343312729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98503,56.8486,22.98503,56.8486",
+    "geom:latitude":56.8486,
+    "geom:longitude":22.98503,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"900254.0",
+    "gn:asciiname":"Snapji",
+    "gn:country_code":"LV",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455397,
+    "gn:latitude":56.8486,
+    "gn:longitude":22.98503,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Snapji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455397
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3435d5769c00210a44713aeef84e7562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343312729,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":1343312729,
+    "wof:lastmodified":1536959594,
+    "wof:name":"Snapji",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98503,
+    56.8486,
+    22.98503,
+    56.8486
+],
+  "geometry": {"coordinates":[22.98503,56.8486],"type":"Point"}
+}

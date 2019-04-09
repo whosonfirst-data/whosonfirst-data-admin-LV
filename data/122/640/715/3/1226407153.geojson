@@ -1,0 +1,70 @@
+{
+  "id": 1226407153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.40664,57.03683,26.40664,57.03683",
+    "geom:latitude":57.03683,
+    "geom:longitude":26.40664,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700250.0",
+    "gn:asciiname":"Tujani",
+    "gn:country_code":"LV",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454774,
+    "gn:latitude":57.03683,
+    "gn:longitude":26.40664,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"T\u016bj\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuyany",
+        "T\u016bj\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454774
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"919f376672330331719a7628a54564e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226407153,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1226407153,
+    "wof:lastmodified":1537663034,
+    "wof:name":"Tujani",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.40664,
+    57.03683,
+    26.40664,
+    57.03683
+],
+  "geometry": {"coordinates":[26.40664,57.03683],"type":"Point"}
+}

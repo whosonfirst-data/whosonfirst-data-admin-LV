@@ -1,0 +1,66 @@
+{
+  "id": 1226100045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.05767,56.1781,27.05767,56.1781",
+    "geom:latitude":56.1781,
+    "geom:longitude":27.05767,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780252.0",
+    "gn:asciiname":"Kondrasova",
+    "gn:country_code":"LV",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458676,
+    "gn:latitude":56.1781,
+    "gn:longitude":27.05767,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Kondra\u0161ova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458676
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4a3b59cc50686e197ea3f4c274ba4f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226100045,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1226100045,
+    "wof:lastmodified":1536646433,
+    "wof:name":"Kondrasova",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.05767,
+    56.1781,
+    27.05767,
+    56.1781
+],
+  "geometry": {"coordinates":[27.05767,56.1781],"type":"Point"}
+}

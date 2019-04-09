@@ -1,0 +1,71 @@
+{
+  "id": 1276266085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58333,56.7,22.58333,56.7",
+    "geom:latitude":56.7,
+    "geom:longitude":22.58333,
+    "gn:admin1_code":"51",
+    "gn:admin2_code":"840625.0",
+    "gn:asciiname":"Kazenieki",
+    "gn:country_code":"LV",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458907,
+    "gn:latitude":56.7,
+    "gn:longitude":22.58333,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Kazenieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101znieki",
+        "Kazinieki",
+        "Kazenieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458907
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b2aa9b9eee9c5ba667d43bf338d71f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276266085,
+            "region_id":85685885
+        }
+    ],
+    "wof:id":1276266085,
+    "wof:lastmodified":1537663157,
+    "wof:name":"Kazenieki",
+    "wof:parent_id":85685885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58333,
+    56.7,
+    22.58333,
+    56.7
+],
+  "geometry": {"coordinates":[22.58333,56.7],"type":"Point"}
+}

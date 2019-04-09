@@ -1,0 +1,66 @@
+{
+  "id": 1226050179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.36386,56.91762,27.36386,56.91762",
+    "geom:latitude":56.91762,
+    "geom:longitude":27.36386,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"380286.0",
+    "gn:asciiname":"Akmenruci",
+    "gn:country_code":"LV",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461567,
+    "gn:latitude":56.91762,
+    "gn:longitude":27.36386,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Akme\u0146r\u016b\u010di",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461567
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"11047d49852dc81d02b90d1540881ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226050179,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":1226050179,
+    "wof:lastmodified":1536719063,
+    "wof:name":"Akmenruci",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.36386,
+    56.91761999999999,
+    27.36386,
+    56.91761999999999
+],
+  "geometry": {"coordinates":[27.36386,56.91761999999999],"type":"Point"}
+}

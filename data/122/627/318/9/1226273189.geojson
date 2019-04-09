@@ -1,0 +1,70 @@
+{
+  "id": 1226273189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.94095,56.61115,23.94095,56.61115",
+    "geom:latitude":56.61115,
+    "geom:longitude":23.94095,
+    "gn:admin1_code":"A3",
+    "gn:admin2_code":"546778.0",
+    "gn:asciiname":"Plani",
+    "gn:country_code":"LV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456662,
+    "gn:latitude":56.61115,
+    "gn:longitude":23.94095,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Pl\u0101\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pl\u0101\u0146i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456662,
+        "wk:page":"Pl%C4%81%C5%86i"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"49fd8d07397d5abea78585a19aea4b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226273189,
+            "region_id":85685907
+        }
+    ],
+    "wof:id":1226273189,
+    "wof:lastmodified":1537663086,
+    "wof:name":"Plani",
+    "wof:parent_id":85685907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.94095,
+    56.61115,
+    23.94095,
+    56.61115
+],
+  "geometry": {"coordinates":[23.94095,56.61115],"type":"Point"}
+}

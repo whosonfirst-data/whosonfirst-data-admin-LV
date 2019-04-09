@@ -1,0 +1,123 @@
+{
+  "id": 101847145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":308489.700777,
+    "geom:bbox":"24.6231409231,56.9694984642,24.6353439508,56.9767330361",
+    "geom:latitude":56.973317,
+    "geom:longitude":24.629775,
+    "iso:country":"LV",
+    "lbl:latitude":56.973161,
+    "lbl:longitude":24.629775,
+    "mps:latitude":56.973161,
+    "mps:longitude":24.629775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ropa\u017ei"
+    ],
+    "name:deu_x_preferred":[
+        "Ropa\u017ei"
+    ],
+    "name:dut_x_preferred":[
+        "Ropa\u017ei"
+    ],
+    "name:eng_x_preferred":[
+        "Ropa\u017ei"
+    ],
+    "name:est_x_preferred":[
+        "Ropa\u017ei"
+    ],
+    "name:fre_x_preferred":[
+        "Ropa\u017ei"
+    ],
+    "name:ger_x_preferred":[
+        "Ropa\u017ei"
+    ],
+    "name:lav_x_preferred":[
+        "Ropa\u017ei"
+    ],
+    "name:lit_x_preferred":[
+        "Ruopa\u017eai"
+    ],
+    "name:oci_x_preferred":[
+        "Ropa\u017ei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043f\u0430\u0436\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Ropa\u017ei"
+    ],
+    "name:swe_x_preferred":[
+        "Ropa\u017ei"
+    ],
+    "name:unk_x_variant":[
+        "Myza Ropazhu"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Ropa\u017eu novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Ropa\u017eu novads",
+    "qs:la_lc":"*LV8084",
+    "qs:level":"locality",
+    "qs:loc":"Ropa\u017ei",
+    "qs:loc_alt":"Ropazi",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":56.971817,
+    "wd:longitude":24.631764,
+    "wd:population":1803,
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456090,
+        "gp:id":854882,
+        "qs:id":5,
+        "wd:id":"Q120761",
+        "wk:page":"Ropa\u017ei"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"17054cb428a468f9d7e6c9ec2ce54fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101847145,
+            "region_id":85686069
+        }
+    ],
+    "wof:id":101847145,
+    "wof:lastmodified":1527714972,
+    "wof:name":"Ropa\u017ei",
+    "wof:parent_id":85686069,
+    "wof:placetype":"locality",
+    "wof:population":1803,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62314092310015,
+    56.96949846415475,
+    24.63534395084417,
+    56.97673303606501
+],
+  "geometry": {"coordinates":[[[24.63223564447492,56.9761854936076],[24.63154496793601,56.97443138148577],[24.63315670688456,56.97424883742019],[24.63281136174822,56.97337178465324],[24.63442305087636,56.97318922563255],[24.63373234687549,56.97143512668646],[24.63534395084417,56.97125255753093],[24.63465325210814,56.96949846415475],[24.62981860883127,56.97004608339114],[24.63016384268752,56.97092314504306],[24.62694060414941,56.97128813530634],[24.62763098742568,56.97304227483136],[24.62601927576429,56.97322474993661],[24.62636446052238,56.97410182299234],[24.62314092310015,56.97446672351157],[24.62383120814246,56.97622088584393],[24.62705488698043,56.97585596605677],[24.62740012868358,56.97673303606501],[24.63223564447492,56.9761854936076]]],"type":"Polygon"}
+}

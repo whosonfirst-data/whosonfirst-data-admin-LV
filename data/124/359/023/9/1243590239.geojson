@@ -1,0 +1,71 @@
+{
+  "id": 1243590239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79394,56.92832,22.79394,56.92832",
+    "geom:latitude":56.92832,
+    "geom:longitude":22.79394,
+    "gn:admin1_code":"77",
+    "gn:admin2_code":"901294.0",
+    "gn:asciiname":"Zemite",
+    "gn:country_code":"LV",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453899,
+    "gn:latitude":56.92832,
+    "gn:longitude":22.79394,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Zem\u012bte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Zemites",
+        "Zem\u012btes Mui\u017ea",
+        "Zem\u012bte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453899
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"626d998fa7c0e0311baa5de8969f234c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243590239,
+            "region_id":85686061
+        }
+    ],
+    "wof:id":1243590239,
+    "wof:lastmodified":1537663005,
+    "wof:name":"Zemite",
+    "wof:parent_id":85686061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79394,
+    56.92831999999999,
+    22.79394,
+    56.92831999999999
+],
+  "geometry": {"coordinates":[22.79394,56.92831999999999],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243330285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33333,56.66667,22.33333,56.66667",
+    "geom:latitude":56.66667,
+    "geom:longitude":22.33333,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"840296.0",
+    "gn:asciiname":"Celmenieki",
+    "gn:country_code":"LV",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460632,
+    "gn:latitude":56.66667,
+    "gn:longitude":22.33333,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Celmenieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460632
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3eb025bbf8036679959c9a012767d787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243330285,
+            "region_id":85685935
+        }
+    ],
+    "wof:id":1243330285,
+    "wof:lastmodified":1536972726,
+    "wof:name":"Celmenieki",
+    "wof:parent_id":85685935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33333,
+    56.66667,
+    22.33333,
+    56.66667
+],
+  "geometry": {"coordinates":[22.33333,56.66667],"type":"Point"}
+}

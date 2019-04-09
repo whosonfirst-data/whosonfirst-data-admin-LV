@@ -1,0 +1,66 @@
+{
+  "id": 1309948287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.74389,57.38167,24.74389,57.38167",
+    "geom:latitude":57.38167,
+    "geom:longitude":24.74389,
+    "gn:admin1_code":"84",
+    "gn:admin2_code":"806956.0",
+    "gn:asciiname":"Aijazi",
+    "gn:country_code":"LV",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461629,
+    "gn:latitude":57.38167,
+    "gn:longitude":24.74389,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Aija\u017ei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461629
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"8d60057f171fce7a4242c5338e13f62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1309948287,
+            "region_id":85686203
+        }
+    ],
+    "wof:id":1309948287,
+    "wof:lastmodified":1536726245,
+    "wof:name":"Aijazi",
+    "wof:parent_id":85686203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.74389,
+    57.38166999999999,
+    24.74389,
+    57.38166999999999
+],
+  "geometry": {"coordinates":[24.74389,57.38166999999999],"type":"Point"}
+}

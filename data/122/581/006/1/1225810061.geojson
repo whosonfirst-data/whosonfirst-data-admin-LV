@@ -1,0 +1,70 @@
+{
+  "id": 1225810061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6087,56.73549,26.6087,56.73549",
+    "geom:latitude":56.73549,
+    "geom:longitude":26.6087,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700244.0",
+    "gn:asciiname":"Malnieki",
+    "gn:country_code":"LV",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457678,
+    "gn:latitude":56.73549,
+    "gn:longitude":26.6087,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"M\u0101lnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malenieki",
+        "M\u0101lnieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457678
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c45a1b68a950a84431be0f21d884b080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1225810061,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1225810061,
+    "wof:lastmodified":1537663119,
+    "wof:name":"Malnieki",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6087,
+    56.73549000000001,
+    26.6087,
+    56.73549000000001
+],
+  "geometry": {"coordinates":[26.6087,56.73549000000001],"type":"Point"}
+}

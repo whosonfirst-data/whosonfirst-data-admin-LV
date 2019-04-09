@@ -1,0 +1,66 @@
+{
+  "id": 1276726975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34117,56.70694,26.34117,56.70694",
+    "geom:latitude":56.70694,
+    "geom:longitude":26.34117,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700276.0",
+    "gn:asciiname":"Degli",
+    "gn:country_code":"LV",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460390,
+    "gn:latitude":56.70694,
+    "gn:longitude":26.34117,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"D\u0113g\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460390
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"bd25a5407f4e8119175c08efd40e75e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276726975,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1276726975,
+    "wof:lastmodified":1536748326,
+    "wof:name":"Degli",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34117,
+    56.70694,
+    26.34117,
+    56.70694
+],
+  "geometry": {"coordinates":[26.34117,56.70694],"type":"Point"}
+}

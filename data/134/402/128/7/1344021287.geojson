@@ -1,0 +1,66 @@
+{
+  "id": 1344021287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71561,57.53606,24.71561,57.53606",
+    "geom:latitude":57.53606,
+    "geom:longitude":24.71561,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"660201.0",
+    "gn:asciiname":"Viekazi",
+    "gn:country_code":"LV",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454225,
+    "gn:latitude":57.53606,
+    "gn:longitude":24.71561,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Vieka\u017ei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454225
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4481cf00c7705ed9cb8a3e97c92ae4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1344021287,
+            "region_id":85686265
+        }
+    ],
+    "wof:id":1344021287,
+    "wof:lastmodified":1536933049,
+    "wof:name":"Viekazi",
+    "wof:parent_id":85686265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71561,
+    57.53606,
+    24.71561,
+    57.53606
+],
+  "geometry": {"coordinates":[24.71561,57.53606],"type":"Point"}
+}

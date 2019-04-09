@@ -1,0 +1,69 @@
+{
+  "id": 1326817427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.84247,56.37308,23.84247,56.37308",
+    "geom:latitude":56.37308,
+    "geom:longitude":23.84247,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540274.0",
+    "gn:asciiname":"Klavi",
+    "gn:country_code":"LV",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458747,
+    "gn:latitude":56.37308,
+    "gn:longitude":23.84247,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Kl\u0101vi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Kl\u0101vi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458747
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f874ec00031001467ea3dd730f922634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326817427,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1326817427,
+    "wof:lastmodified":1537663153,
+    "wof:name":"Klavi",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.84247,
+    56.37308,
+    23.84247,
+    56.37308
+],
+  "geometry": {"coordinates":[23.84247,56.37308],"type":"Point"}
+}

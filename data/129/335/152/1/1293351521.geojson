@@ -1,0 +1,70 @@
+{
+  "id": 1293351521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36667,56.88333,23.36667,56.88333",
+    "geom:latitude":56.88333,
+    "geom:longitude":23.36667,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"900280.0",
+    "gn:asciiname":"Punduri",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456434,
+    "gn:latitude":56.88333,
+    "gn:longitude":23.36667,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Punduri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pundurmuyzha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456434
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3c41c77d9105dbe7ea2e0f9d7188f86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293351521,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":1293351521,
+    "wof:lastmodified":1537663080,
+    "wof:name":"Punduri",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36667000000001,
+    56.88333000000001,
+    23.36667000000001,
+    56.88333000000001
+],
+  "geometry": {"coordinates":[23.36667000000001,56.88333000000001],"type":"Point"}
+}

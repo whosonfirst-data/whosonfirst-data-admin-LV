@@ -1,0 +1,114 @@
+{
+  "id": 101816273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":746446.92735,
+    "geom:bbox":"21.0555129185,56.3379516455,21.071947762,56.3504987906",
+    "geom:latitude":56.344335,
+    "geom:longitude":21.063741,
+    "iso:country":"LV",
+    "lbl:latitude":56.343581,
+    "lbl:longitude":21.062247,
+    "mps:latitude":56.343581,
+    "mps:longitude":21.062247,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "N\u012bca"
+    ],
+    "name:dut_x_preferred":[
+        "N\u012bca"
+    ],
+    "name:eng_x_preferred":[
+        "N\u012bca"
+    ],
+    "name:est_x_preferred":[
+        "N\u012bca"
+    ],
+    "name:ger_x_preferred":[
+        "N\u012bca"
+    ],
+    "name:lav_x_preferred":[
+        "N\u012bca"
+    ],
+    "name:lit_x_preferred":[
+        "Nyca"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0446\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "N\u012bca"
+    ],
+    "name:swe_x_preferred":[
+        "N\u012bca"
+    ],
+    "name:unk_x_variant":[
+        "N\u012bcas Mui\u017ea"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Nicas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"N\u012bcas pagasts",
+    "qs:la_lc":"*LV6478",
+    "qs:level":"locality",
+    "qs:loc":"N\u012bca",
+    "qs:loc_alt":"Nica",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":56.345833,
+    "wd:longitude":21.064444,
+    "wd:population":981,
+    "wd:wordcount":15,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457142,
+        "gp:id":854215,
+        "qs:id":1145180,
+        "wd:id":"Q987165",
+        "wk:page":"N\u012bca"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fbdfe441412b3fca91897048f886143e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101816273,
+            "region_id":85685791
+        }
+    ],
+    "wof:id":101816273,
+    "wof:lastmodified":1527642282,
+    "wof:name":"N\u012bca",
+    "wof:parent_id":85685791,
+    "wof:placetype":"locality",
+    "wof:population":981,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05551291851708,
+    56.33795164546996,
+    21.07194776196008,
+    56.35049879062518
+],
+  "geometry": {"coordinates":[[[21.07137331986598,56.35022256393955],[21.07034900860492,56.34667714836917],[21.07194776196008,56.34653901979908],[21.07143561915245,56.34476631606935],[21.06983693677859,56.34490443743294],[21.06958092181253,56.34401808117696],[21.06798226430482,56.34415617917898],[21.06747034723378,56.34238345788708],[21.06587175007996,56.34252152892702],[21.06484822536555,56.33897606563875],[21.06644668059329,56.33883800900327],[21.0661907988233,56.33795164546996],[21.06139550773321,56.33836574530739],[21.06165128307009,56.33925211964134],[21.05845429833204,56.33952809461823],[21.0587100166548,56.34041447562612],[21.05551291851708,56.34069037877197],[21.05627994424805,56.34334954024274],[21.0578786050832,56.34321158775344],[21.05864586281132,56.345870733715],[21.05704709549667,56.34600869700097],[21.05755859940967,56.34778146555516],[21.06395388895635,56.34722946504831],[21.06446573267715,56.34900220270384],[21.06606459951644,56.34886414597122],[21.06632057781917,56.34975051041033],[21.06791946953615,56.34961243031347],[21.06817549730476,56.35049879062518],[21.07137331986598,56.35022256393955]]],"type":"Polygon"}
+}

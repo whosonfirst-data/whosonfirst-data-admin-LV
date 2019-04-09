@@ -1,0 +1,72 @@
+{
+  "id": 1192967045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58213,57.09346,21.58213,57.09346",
+    "geom:latitude":57.09346,
+    "geom:longitude":21.58213,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"980290.0",
+    "gn:asciiname":"Teranda",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454919,
+    "gn:latitude":57.09346,
+    "gn:longitude":21.58213,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"T\u0113randa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teranda Muizas Centrs",
+        "Taranda",
+        "T\u0113randa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454919
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"471fd9a9fb8e6b8dc60f63a2b917597a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1192967045,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1192967045,
+    "wof:lastmodified":1537663038,
+    "wof:name":"Teranda",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58213,
+    57.09346,
+    21.58213,
+    57.09346
+],
+  "geometry": {"coordinates":[21.58213,57.09346],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242725345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57416,57.651,22.57416,57.651",
+    "geom:latitude":57.651,
+    "geom:longitude":22.57416,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Melnsils",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457432,
+    "gn:latitude":57.651,
+    "gn:longitude":22.57416,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Melnsils",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melnsil",
+        "Melsils",
+        "Melnsils"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457432,
+        "wk:page":"Melnsils"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a038b17b07d3b3a0abe2b79556900a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1242725345,
+            "region_id":85686211
+        }
+    ],
+    "wof:id":1242725345,
+    "wof:lastmodified":1537663111,
+    "wof:name":"Melnsils",
+    "wof:parent_id":85686211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57416,
+    57.651,
+    22.57416,
+    57.651
+],
+  "geometry": {"coordinates":[22.57416,57.651],"type":"Point"}
+}

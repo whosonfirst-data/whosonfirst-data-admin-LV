@@ -1,0 +1,181 @@
+{
+  "id": 101816411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000248,
+    "geom:area_square_m":1681858.444611,
+    "geom:bbox":"27.6588576733,56.7772683342,27.694883494,56.7946824939",
+    "geom:latitude":56.787029,
+    "geom:longitude":27.67799,
+    "gn:population":2645,
+    "iso:country":"LV",
+    "lbl:latitude":56.787797,
+    "lbl:longitude":27.679764,
+    "mps:latitude":56.787797,
+    "mps:longitude":27.679764,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u0633\u0627\u0641\u0627"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0440\u0441\u0430\u045e\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0441\u0430\u0432\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Municipi de K\u0101rsava"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u723e\u85a9\u74e6"
+    ],
+    "name:cze_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:dan_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:deu_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:dsb_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:dut_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:eng_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:est_x_preferred":[
+        "K\u0101rsava piirkond"
+    ],
+    "name:fra_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:fre_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:ger_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05e1\u05d0\u05d5\u05d5\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:ita_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30b5\u30f4\u30a1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10e1\u10d0\u10d5\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u0441\u0430\u0432\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ub974\uc0ac\ubc14 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:lit_x_preferred":[
+        "Karsavos savivaldyb\u0117"
+    ],
+    "name:ltg_x_preferred":[
+        "Kuorsova"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0631\u0633\u0627\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0441\u0430\u0432\u0430"
+    ],
+    "name:sgs_x_preferred":[
+        "Karsava"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de K\u0101rsava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0441\u0430\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Korsovka"
+    ],
+    "name:wel_x_preferred":[
+        "K\u0101rsava"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Karsavas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:id":0,
+    "qs:la":"Malnavas pagasts",
+    "qs:la_lc":"*LV6868",
+    "qs:level":"locality",
+    "qs:loc":"K\u0101rsava",
+    "qs:loc_alt":"Karsava",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458972,
+        "gp:id":853035,
+        "qs:id":124645,
+        "qs_pg:id":124645,
+        "wd:id":"Q849147",
+        "wk:page":"K\u0101rsava Municipality"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d34472f3a444743248d91cb91d36553e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101816411,
+            "region_id":85686139
+        }
+    ],
+    "wof:id":101816411,
+    "wof:lastmodified":1514484053,
+    "wof:name":"K\u0101rsava",
+    "wof:parent_id":85686139,
+    "wof:placetype":"locality",
+    "wof:population":2645,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.65885767331491,
+    56.77726833424123,
+    27.69488349404986,
+    56.79468249393574
+],
+  "geometry": {"coordinates":[[[27.66639528134601,56.79184997960937],[27.67434548867971,56.79075116631179],[27.67517222792424,56.79248523571312],[27.67676228496265,56.79226540373628],[27.67758918033775,56.79399945547283],[27.67917928701161,56.79377959277554],[27.67959280159045,56.79464661059023],[27.68277303048473,56.79420681587277],[27.68235944923157,56.79333980948127],[27.68394950477551,56.79311988888509],[27.68353591256169,56.79225288664298],[27.68671590584802,56.79181299897891],[27.68547506346647,56.78921201714809],[27.68706493456079,56.78899206150703],[27.68665133185402,56.78812507014902],[27.68824115258263,56.78790510092398],[27.68617330798395,56.78357014924262],[27.69094216818314,56.78291021148146],[27.69052856643009,56.78204323358949],[27.69211811911015,56.78182322146279],[27.69170450641747,56.78095624771879],[27.69488349404986,56.7805161770159],[27.6936425903545,56.77791528067064],[27.69205320495877,56.77813530853075],[27.69163964842062,56.77726833424123],[27.69005027928796,56.77748833710052],[27.6904638025274,56.77835531710122],[27.68728494656267,56.77879527637202],[27.68769842555878,56.77966226623039],[27.68451943485627,56.78010215975877],[27.68493286959904,56.78096915947435],[27.68334331539205,56.78118908301082],[27.68375673918325,56.7820560868733],[27.66627015259064,56.78447403518027],[27.66668323222444,56.78534110026527],[27.66509340706261,56.7855608036802],[27.66591956670197,56.78729494058285],[27.66432965785719,56.78751463611098],[27.66515584020908,56.78924877818798],[27.66356584767072,56.78946846582852],[27.66439205273366,56.79120261308083],[27.66121188322353,56.79164195328377],[27.66162495259175,56.79250903598313],[27.66003480895472,56.79272868283812],[27.66044786732431,56.79359576968437],[27.65885767331491,56.79381540294264],[27.65927072068263,56.79468249393574],[27.66245115837359,56.79424319670568],[27.66203804430796,56.79337611712367],[27.66680847309436,56.79271704363083],[27.66639528134601,56.79184997960937]]],"type":"Polygon"}
+}

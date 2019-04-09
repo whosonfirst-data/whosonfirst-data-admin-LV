@@ -1,0 +1,93 @@
+{
+  "id": 101872925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.166082,56.898451,24.166082,56.898451",
+    "geom:latitude":56.898451,
+    "geom:longitude":24.166082,
+    "iso:country":"LV",
+    "lbl:latitude":56.898451,
+    "lbl:longitude":24.166082,
+    "mps:latitude":56.898451,
+    "mps:longitude":24.166082,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Parr\u00f2quia de \u0136ekavas"
+    ],
+    "name:dut_x_preferred":[
+        "Valdlau\u010di"
+    ],
+    "name:eng_x_preferred":[
+        "Valdlau\u010di"
+    ],
+    "name:lav_x_preferred":[
+        "\u0136ekavas pagasts"
+    ],
+    "name:ltg_x_preferred":[
+        "Valdlau\u010di"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0434\u043b\u0430\u0443\u0447\u0438"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Kekavas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Valdlau\u010di",
+    "qs:loc_alt":"Valdlauci",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469098,
+        "gp:id":56069694,
+        "wd:id":"Q4102737"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a4ce6e024fb7e4b277176d4d1622e4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101872925,
+            "region_id":85685999
+        }
+    ],
+    "wof:id":101872925,
+    "wof:lastmodified":1544751392,
+    "wof:name":"Valdlau\u010di",
+    "wof:parent_id":85685999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.166082,
+    56.898451,
+    24.166082,
+    56.898451
+],
+  "geometry": {"coordinates":[24.166082,56.898451],"type":"Point"}
+}

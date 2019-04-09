@@ -1,0 +1,71 @@
+{
+  "id": 1210047245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45,56.61667,25.45,56.61667",
+    "geom:latitude":56.61667,
+    "geom:longitude":25.45,
+    "gn:admin1_code":"71",
+    "gn:admin2_code":"321078.0",
+    "gn:asciiname":"Pastamuiza",
+    "gn:country_code":"LV",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456867,
+    "gn:latitude":56.61667,
+    "gn:longitude":25.45,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Pastamui\u017ea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Pasta",
+        "Pastmui\u017ea",
+        "Pastamui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456867
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"8c0b59ac9c62cd9eaf940def5215effb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1210047245,
+            "region_id":85685947
+        }
+    ],
+    "wof:id":1210047245,
+    "wof:lastmodified":1537663092,
+    "wof:name":"Pastamuiza",
+    "wof:parent_id":85685947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45,
+    56.61666999999999,
+    25.45,
+    56.61666999999999
+],
+  "geometry": {"coordinates":[25.45,56.61666999999999],"type":"Point"}
+}

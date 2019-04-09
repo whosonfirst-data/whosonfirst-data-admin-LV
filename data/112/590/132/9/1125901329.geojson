@@ -1,0 +1,102 @@
+{
+  "id": 1125901329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73406,57.3719,22.73406,57.3719",
+    "geom:latitude":57.3719,
+    "geom:longitude":22.73406,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LV",
+    "lbl:latitude":57.3719,
+    "lbl:longitude":22.73406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nogale"
+    ],
+    "name:eng_x_preferred":[
+        "Nogale"
+    ],
+    "name:est_x_preferred":[
+        "Nogale"
+    ],
+    "name:lav_x_preferred":[
+        "Nogale"
+    ],
+    "name:unk_x_variant":[
+        "Myza Nogale"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":457108,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nogale",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Talsi Novads",
+    "qs_pg:photos":23,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":57726,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":854239,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Talsi Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457108,
+        "gp:id":854239,
+        "qs_pg:id":57726,
+        "wd:id":"Q19912151"
+    },
+    "wof:country":"LV",
+    "wof:created":1497295820,
+    "wof:geomhash":"388085b0f6d56f5d386b4ba721c5886d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125901329,
+            "region_id":85686157
+        }
+    ],
+    "wof:id":1125901329,
+    "wof:lastmodified":1514484076,
+    "wof:name":"Nogale",
+    "wof:parent_id":85686157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73406,
+    57.3719,
+    22.73406,
+    57.3719
+],
+  "geometry": {"coordinates":[22.73406,57.3719],"type":"Point"}
+}

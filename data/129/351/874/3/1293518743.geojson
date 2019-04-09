@@ -1,0 +1,69 @@
+{
+  "id": 1293518743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74789,57.0057,22.74789,57.0057",
+    "geom:latitude":57.0057,
+    "geom:longitude":22.74789,
+    "gn:admin1_code":"77",
+    "gn:admin2_code":"901262.0",
+    "gn:asciiname":"Mustene",
+    "gn:country_code":"LV",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458143,
+    "gn:latitude":57.0057,
+    "gn:longitude":22.74789,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Mustene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lejasmui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458143
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"27c915f3c4a7eb5843f7764b45a94c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293518743,
+            "region_id":85686061
+        }
+    ],
+    "wof:id":1293518743,
+    "wof:lastmodified":1537663133,
+    "wof:name":"Mustene",
+    "wof:parent_id":85686061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74789,
+    57.0057,
+    22.74789,
+    57.0057
+],
+  "geometry": {"coordinates":[22.74789,57.0057],"type":"Point"}
+}

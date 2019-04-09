@@ -1,0 +1,72 @@
+{
+  "id": 1327171035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99426,56.55608,21.99426,56.55608",
+    "geom:latitude":56.55608,
+    "geom:longitude":21.99426,
+    "gn:admin1_code":"C9",
+    "gn:admin2_code":"621268.0",
+    "gn:asciiname":"Tukums",
+    "gn:country_code":"LV",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454770,
+    "gn:latitude":56.55608,
+    "gn:longitude":21.99426,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Tukums",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tukummui\u017ea",
+        "T\u016bkumi",
+        "Tukums",
+        "Tukuma Mui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454770
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"551c6950512371f28fab92b78f643f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327171035,
+            "region_id":85685871
+        }
+    ],
+    "wof:id":1327171035,
+    "wof:lastmodified":1537663034,
+    "wof:name":"Tukums",
+    "wof:parent_id":85685871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99426,
+    56.55608,
+    21.99426,
+    56.55608
+],
+  "geometry": {"coordinates":[21.99426,56.55608],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243584935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.10868,56.1904,28.10868,56.1904",
+    "geom:latitude":56.1904,
+    "geom:longitude":28.10868,
+    "gn:admin1_code":"E9",
+    "gn:admin2_code":"681884.0",
+    "gn:asciiname":"Pinti",
+    "gn:country_code":"LV",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456681,
+    "gn:latitude":56.1904,
+    "gn:longitude":28.10868,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Pinti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456681
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fff2cfcbd5dbea8d4df7f27a8c7e9cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243584935,
+            "region_id":85685987
+        }
+    ],
+    "wof:id":1243584935,
+    "wof:lastmodified":1536602996,
+    "wof:name":"Pinti",
+    "wof:parent_id":85685987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10868,
+    56.1904,
+    28.10868,
+    56.1904
+],
+  "geometry": {"coordinates":[28.10868,56.1904],"type":"Point"}
+}

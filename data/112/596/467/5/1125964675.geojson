@@ -1,0 +1,102 @@
+{
+  "id": 1125964675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.05126,56.45016,27.05126,56.45016",
+    "geom:latitude":56.45016,
+    "geom:longitude":27.05126,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LV",
+    "lbl:latitude":56.45016,
+    "lbl:longitude":27.05126,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Tisk\u0101di"
+    ],
+    "name:eng_x_preferred":[
+        "Tisk\u0101di"
+    ],
+    "name:lav_x_preferred":[
+        "Tisk\u0101di"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0441\u043a\u0430\u0434\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Tiskati"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":454830,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tisk\u0101di",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"R\u0157zekne Novads",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":989627,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":55847310,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"R\u0157zekne Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454830,
+        "gp:id":55847310,
+        "qs_pg:id":989627,
+        "wd:id":"Q15219895"
+    },
+    "wof:country":"LV",
+    "wof:created":1497297927,
+    "wof:geomhash":"e793fb7e88ae527b04532c7d5fda942d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125964675,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1125964675,
+    "wof:lastmodified":1514484153,
+    "wof:name":"Tisk\u0101di",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.05126,
+    56.45016,
+    27.05126,
+    56.45016
+],
+  "geometry": {"coordinates":[27.05126,56.45016],"type":"Point"}
+}

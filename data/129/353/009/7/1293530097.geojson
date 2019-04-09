@@ -1,0 +1,72 @@
+{
+  "id": 1293530097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.30338,56.13576,27.30338,56.13576",
+    "geom:latitude":56.13576,
+    "geom:longitude":27.30338,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"604372.0",
+    "gn:asciiname":"Jaunokra",
+    "gn:country_code":"LV",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459367,
+    "gn:latitude":56.13576,
+    "gn:longitude":27.30338,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Jaunokra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jaunokra"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0443\u043d\u043e\u043a\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459367
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"2223052a45ba50ca7be44e631e4a94b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293530097,
+            "region_id":85685855
+        }
+    ],
+    "wof:id":1293530097,
+    "wof:lastmodified":1537663171,
+    "wof:name":"Jaunokra",
+    "wof:parent_id":85685855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.30338,
+    56.13576,
+    27.30338,
+    56.13576
+],
+  "geometry": {"coordinates":[27.30338,56.13576],"type":"Point"}
+}

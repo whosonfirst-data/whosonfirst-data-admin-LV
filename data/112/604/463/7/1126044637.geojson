@@ -1,0 +1,98 @@
+{
+  "id": 1126044637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.30556,57.06167,23.30556,57.06167",
+    "geom:latitude":57.06167,
+    "geom:longitude":23.30556,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":210,
+    "gn:population":210,
+    "iso:country":"LV",
+    "lbl:latitude":57.06167,
+    "lbl:longitude":23.30556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ap\u0161uciems"
+    ],
+    "name:eng_x_preferred":[
+        "Ap\u0161uciems"
+    ],
+    "name:ger_x_preferred":[
+        "Ap\u0161uciems"
+    ],
+    "name:lav_x_preferred":[
+        "Ap\u0161uciems"
+    ],
+    "name:lit_x_preferred":[
+        "Ap\u0161uciemis"
+    ],
+    "name:pol_x_preferred":[
+        "Ap\u0161uciems"
+    ],
+    "name:unk_x_variant":[
+        "Apshutsiyem"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":461413,
+    "qs_pg:gn_pop":210,
+    "qs_pg:name":"Ap\u0161uciems",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":548833,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461413,
+        "qs_pg:id":548833,
+        "wd:id":"Q622691"
+    },
+    "wof:country":"LV",
+    "wof:created":1497302359,
+    "wof:geomhash":"2161ca5b6bb88d565921f48c5768527c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1126044637,
+            "region_id":85686103
+        }
+    ],
+    "wof:id":1126044637,
+    "wof:lastmodified":1514483964,
+    "wof:name":"Ap\u0161uciems",
+    "wof:parent_id":85686103,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30556,
+    57.06167,
+    23.30556,
+    57.06167
+],
+  "geometry": {"coordinates":[23.30556,57.06167],"type":"Point"}
+}

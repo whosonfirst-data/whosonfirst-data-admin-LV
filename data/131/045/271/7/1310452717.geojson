@@ -1,0 +1,71 @@
+{
+  "id": 1310452717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72703,57.44371,22.72703,57.44371",
+    "geom:latitude":57.44371,
+    "geom:longitude":22.72703,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"880274.0",
+    "gn:asciiname":"Markciems",
+    "gn:country_code":"LV",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457637,
+    "gn:latitude":57.44371,
+    "gn:longitude":22.72703,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"M\u0101rkciems",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101rkas",
+        "Maarktsiyems",
+        "M\u0101rkciems"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457637
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"866d5ee523c47f3007d094bd078eca3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310452717,
+            "region_id":85686157
+        }
+    ],
+    "wof:id":1310452717,
+    "wof:lastmodified":1537663118,
+    "wof:name":"Markciems",
+    "wof:parent_id":85686157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72703,
+    57.44371,
+    22.72703,
+    57.44371
+],
+  "geometry": {"coordinates":[22.72703,57.44371],"type":"Point"}
+}

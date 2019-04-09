@@ -1,0 +1,81 @@
+{
+  "id": 1259804931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36835,56.13575,26.36835,56.13575",
+    "geom:latitude":56.13575,
+    "geom:longitude":26.36835,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440276.0",
+    "gn:asciiname":"Nicgale",
+    "gn:country_code":"LV",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457141,
+    "gn:latitude":56.13575,
+    "gn:longitude":26.36835,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"N\u012bcgale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "N\u012bcgale"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0446\u0433\u0430\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Nitsgale",
+        "Polumyza Nitsgales",
+        "Nitsgales",
+        "Nicgales Pusmui\u017ea",
+        "N\u012bcgale",
+        "Neicga\u013cs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457141,
+        "wk:page":"N%C4%ABcgale"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"8ee6ef2147c91b5a306de042a19d7507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259804931,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1259804931,
+    "wof:lastmodified":1537663101,
+    "wof:name":"Nicgale",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36835,
+    56.13575,
+    26.36835,
+    56.13575
+],
+  "geometry": {"coordinates":[26.36835,56.13575],"type":"Point"}
+}

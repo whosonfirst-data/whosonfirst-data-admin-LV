@@ -1,0 +1,98 @@
+{
+  "id": 1125839319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39399,57.00948,21.39399,57.00948",
+    "geom:latitude":57.00948,
+    "geom:longitude":21.39399,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":368,
+    "gn:population":368,
+    "iso:country":"LV",
+    "lbl:latitude":57.00948,
+    "lbl:longitude":21.39399,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "J\u016brkalne"
+    ],
+    "name:eng_x_preferred":[
+        "J\u016brkalne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30eb\u30b9\u30d9\u30eb\u30b8"
+    ],
+    "name:lav_x_preferred":[
+        "J\u016brkalne"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0440\u043a\u0430\u043b\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "J\u016brkalne"
+    ],
+    "name:unk_x_variant":[
+        "Yurkalne"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":459204,
+    "qs_pg:gn_pop":368,
+    "qs_pg:name":"J\u016brkalne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":80373,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459204,
+        "qs_pg:id":80373,
+        "wd:id":"Q15229937"
+    },
+    "wof:country":"LV",
+    "wof:created":1497292860,
+    "wof:geomhash":"fe4632c3cd64a55259d5bf60852b27b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125839319,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1125839319,
+    "wof:lastmodified":1514484030,
+    "wof:name":"J\u016brkalne",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:population":368,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39399,
+    57.00948,
+    21.39399,
+    57.00948
+],
+  "geometry": {"coordinates":[21.39399,57.00948],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293525595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.09732,56.52585,21.09732,56.52585",
+    "geom:latitude":56.52585,
+    "geom:longitude":21.09732,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"641060.0",
+    "gn:asciiname":"Cimdenieki",
+    "gn:country_code":"LV",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460540,
+    "gn:latitude":56.52585,
+    "gn:longitude":21.09732,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Cimdenieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460540,
+        "wk:page":"Cimdenieki"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"bbb00345eb5717c6139e617974c9b660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293525595,
+            "region_id":85685811
+        }
+    ],
+    "wof:id":1293525595,
+    "wof:lastmodified":1537568201,
+    "wof:name":"Cimdenieki",
+    "wof:parent_id":85685811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.09732,
+    56.52585,
+    21.09732,
+    56.52585
+],
+  "geometry": {"coordinates":[21.09732,56.52585],"type":"Point"}
+}

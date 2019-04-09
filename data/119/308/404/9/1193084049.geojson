@@ -1,0 +1,66 @@
+{
+  "id": 1193084049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2225,56.87889,23.2225,56.87889",
+    "geom:latitude":56.87889,
+    "geom:longitude":23.2225,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"900280.0",
+    "gn:asciiname":"Vecvagari",
+    "gn:country_code":"LV",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454377,
+    "gn:latitude":56.87889,
+    "gn:longitude":23.2225,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Vecvagari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454377
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"312bc8e9f376493fff75953e91f91bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193084049,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":1193084049,
+    "wof:lastmodified":1536377666,
+    "wof:name":"Vecvagari",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2225,
+    56.87889000000001,
+    23.2225,
+    56.87889000000001
+],
+  "geometry": {"coordinates":[23.2225,56.87889000000001],"type":"Point"}
+}

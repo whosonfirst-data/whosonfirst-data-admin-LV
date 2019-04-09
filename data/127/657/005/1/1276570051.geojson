@@ -1,0 +1,66 @@
+{
+  "id": 1276570051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.84959,57.30168,26.84959,57.30168",
+    "geom:latitude":57.30168,
+    "geom:longitude":26.84959,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"500244.0",
+    "gn:asciiname":"Letes",
+    "gn:country_code":"LV",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458102,
+    "gn:latitude":57.30168,
+    "gn:longitude":26.84959,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Letes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458102
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"cfc3a355a48e62f73745c72e7c5c4842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276570051,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":1276570051,
+    "wof:lastmodified":1536959018,
+    "wof:name":"Letes",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84959000000001,
+    57.30168000000001,
+    26.84959000000001,
+    57.30168000000001
+],
+  "geometry": {"coordinates":[26.84959000000001,57.30168000000001],"type":"Point"}
+}

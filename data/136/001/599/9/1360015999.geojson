@@ -1,0 +1,70 @@
+{
+  "id": 1360015999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.06578,56.74587,23.06578,56.74587",
+    "geom:latitude":56.74587,
+    "geom:longitude":23.06578,
+    "gn:admin1_code":"73",
+    "gn:admin2_code":"905756.0",
+    "gn:asciiname":"Brandavas",
+    "gn:country_code":"LV",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460853,
+    "gn:latitude":56.74587,
+    "gn:longitude":23.06578,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Brandavas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brandavi",
+        "Brandavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460853
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"bff5e18e46f783617005de010410c7d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360015999,
+            "region_id":85685921
+        }
+    ],
+    "wof:id":1360015999,
+    "wof:lastmodified":1537663213,
+    "wof:name":"Brandavas",
+    "wof:parent_id":85685921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06578,
+    56.74587,
+    23.06578,
+    56.74587
+],
+  "geometry": {"coordinates":[23.06578,56.74587],"type":"Point"}
+}

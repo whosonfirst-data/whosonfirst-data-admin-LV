@@ -1,0 +1,80 @@
+{
+  "id": 1193052243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06868,57.21984,25.06868,57.21984",
+    "geom:latitude":57.21984,
+    "geom:longitude":25.06868,
+    "gn:admin1_code":"88",
+    "gn:admin2_code":"421262.0",
+    "gn:asciiname":"Kempji",
+    "gn:country_code":"LV",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459392,
+    "gn:latitude":57.21984,
+    "gn:longitude":25.06868,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"\u0136empji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jaun\u0137empji"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043c\u043f\u044c\u0438"
+    ],
+    "name:und_x_variant":[
+        "Myza Kemp\u2019i",
+        "\u0136empji",
+        "Myza Kempyu",
+        "Kempju Mui\u017ea",
+        "Jaun\u0137empji",
+        "Kemoji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459392
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"230cef833798a54e94c1c3e0edd5fa0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193052243,
+            "region_id":85686153
+        }
+    ],
+    "wof:id":1193052243,
+    "wof:lastmodified":1537663172,
+    "wof:name":"Kempji",
+    "wof:parent_id":85686153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06868,
+    57.21984000000001,
+    25.06868,
+    57.21984000000001
+],
+  "geometry": {"coordinates":[25.06868,57.21984000000001],"type":"Point"}
+}

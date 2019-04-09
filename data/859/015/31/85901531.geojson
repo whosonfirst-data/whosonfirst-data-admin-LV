@@ -1,0 +1,123 @@
+{
+  "id": 85901531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.12795,57.0235,24.12795,57.0235",
+    "geom:latitude":57.0235,
+    "geom:longitude":24.12795,
+    "iso:country":"LV",
+    "lbl:latitude":57.0235,
+    "lbl:longitude":24.12795,
+    "mps:latitude":57.014196,
+    "mps:longitude":24.141055,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Myulgraben"
+    ],
+    "name:eng_x_variant":[
+        "Yaunmilgravis",
+        "New Milgravis",
+        "Jaunm\u012blgr\u0101vis"
+    ],
+    "name:lav_x_preferred":[
+        "Jaunm\u012blgr\u0101vis"
+    ],
+    "name:lav_x_variant":[
+        "Yaunmilgravis"
+    ],
+    "name:und_x_colloquial":[
+        "Jaunmilgravis",
+        "Novyy Myul'graben"
+    ],
+    "name:und_x_preferred":[
+        "Jaunm\u012blgr\u0101vis"
+    ],
+    "name:und_x_variant":[
+        "N\u00f3vyy My\u00fal'graben"
+    ],
+    "name:unk_x_variant":[
+        "Jaunm\u012blgr\u0101vis"
+    ],
+    "qs:gn_adm0_cc":"LV",
+    "qs:gn_id":0,
+    "qs:gn_local":456172,
+    "qs:id":0,
+    "qs:local_max":23404,
+    "qs:local_sum":42602,
+    "qs:localhoods":31,
+    "qs:name":"Jaunm\u012blgr\u0101vis",
+    "qs:name_adm0":"Latvija",
+    "qs:name_adm1":"R\u013cga",
+    "qs:name_adm2":"R\u013cga",
+    "qs:name_local":"R\u012bga",
+    "qs:photo_max":249,
+    "qs:photo_sum":589,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424874,
+    "qs:woe_adm1":20070121,
+    "qs:woe_adm2":55844479,
+    "qs:woe_funk":"Parented by a neighborhood",
+    "qs:woe_lau":0,
+    "qs:woe_local":854823,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751789,
+        85633279,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":852765
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c55a9301e8e4e99b5688d21892e7dd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751789,
+            "neighbourhood_id":85901531,
+            "region_id":85686065
+        }
+    ],
+    "wof:id":85901531,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1536864510,
+    "wof:name":"Jaunmilgravis",
+    "wof:parent_id":101751789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.12795,
+    57.0235,
+    24.12795,
+    57.0235
+],
+  "geometry": {"coordinates":[24.12795,57.0235],"type":"Point"}
+}

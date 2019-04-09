@@ -1,0 +1,70 @@
+{
+  "id": 1326531563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.48128,57.25122,27.48128,57.25122",
+    "geom:latitude":57.25122,
+    "geom:longitude":27.48128,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"380294.0",
+    "gn:asciiname":"Maksinava",
+    "gn:country_code":"LV",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457702,
+    "gn:latitude":57.25122,
+    "gn:longitude":27.48128,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Mak\u0161inava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mak\u0161inava",
+        "Mak\u0161inova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457702
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5d06493dc2723b4e4a91409361a00927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326531563,
+            "region_id":85686235
+        }
+    ],
+    "wof:id":1326531563,
+    "wof:lastmodified":1537663120,
+    "wof:name":"Maksinava",
+    "wof:parent_id":85686235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.48128,
+    57.25122,
+    27.48128,
+    57.25122
+],
+  "geometry": {"coordinates":[27.48128,57.25122],"type":"Point"}
+}

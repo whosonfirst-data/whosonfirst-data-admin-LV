@@ -1,0 +1,71 @@
+{
+  "id": 1292908305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.41123,57.21258,25.41123,57.21258",
+    "geom:latitude":57.21258,
+    "geom:longitude":25.41123,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"420290.0",
+    "gn:asciiname":"Ramuli",
+    "gn:country_code":"LV",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456311,
+    "gn:latitude":57.21258,
+    "gn:longitude":25.41123,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"R\u0101mu\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Ramuli",
+        "R\u0101mu\u013cu Mui\u017ea",
+        "R\u0101mu\u013ci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456311
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"3ebf173f4a770064b0c88dc9af79cc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1292908305,
+            "region_id":85686193
+        }
+    ],
+    "wof:id":1292908305,
+    "wof:lastmodified":1537663077,
+    "wof:name":"Ramuli",
+    "wof:parent_id":85686193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41123,
+    57.21258,
+    25.41123,
+    57.21258
+],
+  "geometry": {"coordinates":[25.41123,57.21258],"type":"Point"}
+}

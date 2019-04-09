@@ -1,0 +1,76 @@
+{
+  "id": 1327463147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6134,56.72633,27.6134,56.72633",
+    "geom:latitude":56.72633,
+    "geom:longitude":27.6134,
+    "gn:admin1_code":"78",
+    "gn:admin2_code":"681070.0",
+    "gn:asciiname":"Mortuzani",
+    "gn:country_code":"LV",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457632,
+    "gn:latitude":56.72633,
+    "gn:longitude":27.6134,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Mortuz\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Martuz\u0101ni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0443\u0437\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Martuz\u0101ni",
+        "Mortuz\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457632
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"2670bed978b883e94361a6256fd75d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327463147,
+            "region_id":85686139
+        }
+    ],
+    "wof:id":1327463147,
+    "wof:lastmodified":1537663117,
+    "wof:name":"Mortuzani",
+    "wof:parent_id":85686139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6134,
+    56.72633,
+    27.6134,
+    56.72633
+],
+  "geometry": {"coordinates":[27.6134,56.72633],"type":"Point"}
+}

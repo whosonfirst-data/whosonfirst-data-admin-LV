@@ -1,0 +1,70 @@
+{
+  "id": 1259915631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.82839,56.97185,26.82839,56.97185",
+    "geom:latitude":56.97185,
+    "geom:longitude":26.82839,
+    "gn:admin1_code":"91",
+    "gn:admin2_code":"701458.0",
+    "gn:asciiname":"Roznieki",
+    "gn:country_code":"LV",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456068,
+    "gn:latitude":56.97185,
+    "gn:longitude":26.82839,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Roznieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rozenek",
+        "Roznieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456068
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"f88f553b3be185cbe88061d332f6c016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259915631,
+            "region_id":85686131
+        }
+    ],
+    "wof:id":1259915631,
+    "wof:lastmodified":1537663070,
+    "wof:name":"Roznieki",
+    "wof:parent_id":85686131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.82839,
+    56.97185,
+    26.82839,
+    56.97185
+],
+  "geometry": {"coordinates":[26.82839,56.97185],"type":"Point"}
+}

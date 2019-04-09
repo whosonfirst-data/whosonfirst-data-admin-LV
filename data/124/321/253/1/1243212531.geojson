@@ -1,0 +1,61 @@
+{
+  "id": 1243212531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05,57.61667,22.05,57.61667",
+    "geom:latitude":57.61667,
+    "geom:longitude":22.05,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Pusstorpas",
+    "gn:country_code":"LV",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456382,
+    "gn:latitude":57.61667,
+    "gn:longitude":22.05,
+    "gn:modification_date":"1994-06-30",
+    "gn:name":"Pusstorpas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456382
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"33f3a51edd3f24836b6b9ec2cee2ff3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243212531,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243212531,
+    "wof:lastmodified":1536645293,
+    "wof:name":"Pusstorpas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05,
+    57.61666999999999,
+    22.05,
+    57.61666999999999
+],
+  "geometry": {"coordinates":[22.05,57.61666999999999],"type":"Point"}
+}

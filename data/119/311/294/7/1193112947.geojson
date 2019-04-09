@@ -1,0 +1,77 @@
+{
+  "id": 1193112947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61085,57.61121,24.61085,57.61121",
+    "geom:latitude":57.61121,
+    "geom:longitude":24.61085,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"660288.0",
+    "gn:asciiname":"Vilkene",
+    "gn:country_code":"LV",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454147,
+    "gn:latitude":57.61121,
+    "gn:longitude":24.61085,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Vi\u013c\u0137ene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vi\u013c\u0137ene"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u043a\u0435\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Myza Vilteny",
+        "Vi\u013c\u0137enu Mui\u017ea",
+        "Vi\u013c\u0137ene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454147
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"82d7c26c16b3c60816970cb073e0de58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193112947,
+            "region_id":85686265
+        }
+    ],
+    "wof:id":1193112947,
+    "wof:lastmodified":1537663014,
+    "wof:name":"Vilkene",
+    "wof:parent_id":85686265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61085,
+    57.61121,
+    24.61085,
+    57.61121
+],
+  "geometry": {"coordinates":[24.61085,57.61121],"type":"Point"}
+}

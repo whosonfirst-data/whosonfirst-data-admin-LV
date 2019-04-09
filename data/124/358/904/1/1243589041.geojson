@@ -1,0 +1,71 @@
+{
+  "id": 1243589041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.31492,57.00049,26.31492,57.00049",
+    "geom:latitude":57.00049,
+    "geom:longitude":26.31492,
+    "gn:admin1_code":"55",
+    "gn:admin2_code":"700827.0",
+    "gn:asciiname":"Kraukli",
+    "gn:country_code":"LV",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458603,
+    "gn:latitude":57.00049,
+    "gn:longitude":26.31492,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Krauk\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Kraukli",
+        "Krauk\u013cu Mui\u017ea",
+        "Krauk\u013ci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458603
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e4f4c9dfb81835e5238cb986b4cb78b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243589041,
+            "region_id":85686151
+        }
+    ],
+    "wof:id":1243589041,
+    "wof:lastmodified":1537663147,
+    "wof:name":"Kraukli",
+    "wof:parent_id":85686151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.31492,
+    57.00049,
+    26.31492,
+    57.00049
+],
+  "geometry": {"coordinates":[26.31492,57.00049],"type":"Point"}
+}

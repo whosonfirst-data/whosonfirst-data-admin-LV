@@ -1,0 +1,72 @@
+{
+  "id": 1226820023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1031,55.89959,27.1031,55.89959",
+    "geom:latitude":55.89959,
+    "geom:longitude":27.1031,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600296.0",
+    "gn:asciiname":"Rakuti",
+    "gn:country_code":"LV",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456318,
+    "gn:latitude":55.89959,
+    "gn:longitude":27.1031,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Rakuti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rakutsi",
+        "Rakuti",
+        "Rakuty",
+        "Rakuci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456318
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"cf5a9f4be6a40230c6d77a47e6d1b385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226820023,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":1226820023,
+    "wof:lastmodified":1537663077,
+    "wof:name":"Rakuti",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1031,
+    55.89959,
+    27.1031,
+    55.89959
+],
+  "geometry": {"coordinates":[27.1031,55.89959],"type":"Point"}
+}

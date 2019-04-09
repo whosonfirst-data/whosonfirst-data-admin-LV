@@ -1,0 +1,70 @@
+{
+  "id": 1259425817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41578,56.75114,21.41578,56.75114",
+    "geom:latitude":56.75114,
+    "geom:longitude":21.41578,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"640648.0",
+    "gn:asciiname":"Dzerves Skola",
+    "gn:country_code":"LV",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460116,
+    "gn:latitude":56.75114,
+    "gn:longitude":21.41578,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Dz\u0113rves Skola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dz\u0113rves Skola",
+        "Dz\u0113rve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460116
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4e963cc0ddee47bf7643b34ea2400091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1259425817,
+            "region_id":85685867
+        }
+    ],
+    "wof:id":1259425817,
+    "wof:lastmodified":1537663195,
+    "wof:name":"Dzerves Skola",
+    "wof:parent_id":85685867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41578,
+    56.75114,
+    21.41578,
+    56.75114
+],
+  "geometry": {"coordinates":[21.41578,56.75114],"type":"Point"}
+}

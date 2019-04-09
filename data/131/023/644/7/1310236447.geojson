@@ -1,0 +1,71 @@
+{
+  "id": 1310236447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6085,56.09322,27.6085,56.09322",
+    "geom:latitude":56.09322,
+    "geom:longitude":27.6085,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"601090.0",
+    "gn:asciiname":"Muraniski",
+    "gn:country_code":"LV",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457222,
+    "gn:latitude":56.09322,
+    "gn:longitude":27.6085,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Murani\u0161ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murenishki",
+        "Murani\u0161\u0137i",
+        "Murani\u0161ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457222
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b73fd6b67165642033d9a81656e13f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310236447,
+            "region_id":85685893
+        }
+    ],
+    "wof:id":1310236447,
+    "wof:lastmodified":1537663104,
+    "wof:name":"Muraniski",
+    "wof:parent_id":85685893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6085,
+    56.09322,
+    27.6085,
+    56.09322
+],
+  "geometry": {"coordinates":[27.6085,56.09322],"type":"Point"}
+}

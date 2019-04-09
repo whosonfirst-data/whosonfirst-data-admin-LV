@@ -1,0 +1,66 @@
+{
+  "id": 1260204851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.94674,56.05613,26.94674,56.05613",
+    "geom:latitude":56.05613,
+    "geom:longitude":26.94674,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440242.0",
+    "gn:asciiname":"Guta",
+    "gn:country_code":"LV",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459642,
+    "gn:latitude":56.05613,
+    "gn:longitude":26.94674,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Guta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459642
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c80277eb821bc476373a73ec9cd2996b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260204851,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1260204851,
+    "wof:lastmodified":1536817891,
+    "wof:name":"Guta",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.94674,
+    56.05613,
+    26.94674,
+    56.05613
+],
+  "geometry": {"coordinates":[26.94674,56.05613],"type":"Point"}
+}

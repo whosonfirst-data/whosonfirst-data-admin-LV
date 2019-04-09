@@ -1,0 +1,71 @@
+{
+  "id": 1327165123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91283,56.99359,24.91283,56.99359",
+    "geom:latitude":56.99359,
+    "geom:longitude":24.91283,
+    "gn:admin1_code":"94",
+    "gn:admin2_code":"807400.0",
+    "gn:asciiname":"Upmalas",
+    "gn:country_code":"LV",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457139,
+    "gn:latitude":56.99359,
+    "gn:longitude":24.91283,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Upmalas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sovkhoz Malpils",
+        "Ni\u010di",
+        "Upmalas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457139
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5001055ce5cd413d6bbe346be8b53af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327165123,
+            "region_id":85686099
+        }
+    ],
+    "wof:id":1327165123,
+    "wof:lastmodified":1537663100,
+    "wof:name":"Upmalas",
+    "wof:parent_id":85686099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91283,
+    56.99359000000001,
+    24.91283,
+    56.99359000000001
+],
+  "geometry": {"coordinates":[24.91283,56.99359000000001],"type":"Point"}
+}

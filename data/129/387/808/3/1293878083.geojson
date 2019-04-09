@@ -1,0 +1,70 @@
+{
+  "id": 1293878083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73119,57.13343,26.73119,57.13343",
+    "geom:latitude":57.13343,
+    "geom:longitude":26.73119,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"500290.0",
+    "gn:asciiname":"Staki",
+    "gn:country_code":"LV",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455296,
+    "gn:latitude":57.13343,
+    "gn:longitude":26.73119,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"St\u0101\u0137i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stati",
+        "St\u0101\u0137i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455296
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"556d4ae78431efbe9fb3c2784c9fa929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293878083,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":1293878083,
+    "wof:lastmodified":1537663048,
+    "wof:name":"Staki",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73119,
+    57.13343,
+    26.73119,
+    57.13343
+],
+  "geometry": {"coordinates":[26.73119,57.13343],"type":"Point"}
+}

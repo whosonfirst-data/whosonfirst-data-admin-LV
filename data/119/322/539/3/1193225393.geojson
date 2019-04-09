@@ -1,0 +1,74 @@
+{
+  "id": 1193225393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2256,57.65973,22.2256,57.65973",
+    "geom:latitude":57.65973,
+    "geom:longitude":22.2256,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Sikrags",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455712,
+    "gn:latitude":57.65973,
+    "gn:longitude":22.2256,
+    "gn:modification_date":"2010-11-05",
+    "gn:name":"S\u012bkrags",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u012bkraga",
+        "S\u012bkraguciems",
+        "Sikrag",
+        "Sikragutsiyems",
+        "S\u012bkrags"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455712,
+        "wk:page":"S%C4%ABkrags"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e48111ee6e86926c4d0536f42f4629f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193225393,
+            "region_id":85686221
+        }
+    ],
+    "wof:id":1193225393,
+    "wof:lastmodified":1537663060,
+    "wof:name":"Sikrags",
+    "wof:parent_id":85686221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2256,
+    57.65973,
+    22.2256,
+    57.65973
+],
+  "geometry": {"coordinates":[22.2256,57.65973],"type":"Point"}
+}

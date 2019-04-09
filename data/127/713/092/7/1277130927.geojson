@@ -1,0 +1,66 @@
+{
+  "id": 1277130927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58891,57.27799,21.58891,57.27799",
+    "geom:latitude":57.27799,
+    "geom:longitude":21.58891,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"980284.0",
+    "gn:asciiname":"Leci",
+    "gn:country_code":"LV",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458187,
+    "gn:latitude":57.27799,
+    "gn:longitude":21.58891,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"L\u0113\u010di",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458187
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ed7a9e22c3b680419c5e46544aed6781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1277130927,
+            "region_id":85686197
+        }
+    ],
+    "wof:id":1277130927,
+    "wof:lastmodified":1536698576,
+    "wof:name":"Leci",
+    "wof:parent_id":85686197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58891,
+    57.27799,
+    21.58891,
+    57.27799
+],
+  "geometry": {"coordinates":[21.58891,57.27799],"type":"Point"}
+}

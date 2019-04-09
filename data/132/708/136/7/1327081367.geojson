@@ -1,0 +1,74 @@
+{
+  "id": 1327081367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95024,57.05344,22.95024,57.05344",
+    "geom:latitude":57.05344,
+    "geom:longitude":22.95024,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"900274.0",
+    "gn:asciiname":"Kalneji",
+    "gn:country_code":"LV",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457212,
+    "gn:latitude":57.05344,
+    "gn:longitude":22.95024,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Kaln\u0113ji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Kaln\u0113ji"
+    ],
+    "name:und_x_variant":[
+        "Myza Murmuyzha",
+        "M\u016bri",
+        "M\u016brmui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457212
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"8b4e4de2a4e2618162311ed8cbdd5c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327081367,
+            "region_id":85686083
+        }
+    ],
+    "wof:id":1327081367,
+    "wof:lastmodified":1537663103,
+    "wof:name":"Kalneji",
+    "wof:parent_id":85686083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95024,
+    57.05344,
+    22.95024,
+    57.05344
+],
+  "geometry": {"coordinates":[22.95024,57.05344],"type":"Point"}
+}

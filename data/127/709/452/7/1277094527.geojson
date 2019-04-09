@@ -1,0 +1,69 @@
+{
+  "id": 1277094527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.03724,56.16315,26.03724,56.16315",
+    "geom:latitude":56.16315,
+    "geom:longitude":26.03724,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"560282.0",
+    "gn:asciiname":"Izabelina",
+    "gn:country_code":"LV",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459503,
+    "gn:latitude":56.16315,
+    "gn:longitude":26.03724,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Izabelina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zabalina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459503
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"2df20dda43391475c506860e1bdd3524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1277094527,
+            "region_id":85685889
+        }
+    ],
+    "wof:id":1277094527,
+    "wof:lastmodified":1537663177,
+    "wof:name":"Izabelina",
+    "wof:parent_id":85685889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.03724,
+    56.16315,
+    26.03724,
+    56.16315
+],
+  "geometry": {"coordinates":[26.03724,56.16315],"type":"Point"}
+}

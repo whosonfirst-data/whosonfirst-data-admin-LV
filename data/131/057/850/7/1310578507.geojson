@@ -1,0 +1,72 @@
+{
+  "id": 1310578507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4797,56.43482,23.4797,56.43482",
+    "geom:latitude":56.43482,
+    "geom:longitude":23.4797,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540290.0",
+    "gn:asciiname":"Ziedkalne",
+    "gn:country_code":"LV",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453880,
+    "gn:latitude":56.43482,
+    "gn:longitude":23.4797,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ziedkalne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ber\u0137ene",
+        "Zedkalne",
+        "Lielber\u0137ene",
+        "Ziedkalne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453880
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"bba802b1502abc16bdc3320dbdc9811f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310578507,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1310578507,
+    "wof:lastmodified":1537663004,
+    "wof:name":"Ziedkalne",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4797,
+    56.43482,
+    23.4797,
+    56.43482
+],
+  "geometry": {"coordinates":[23.4797,56.43482],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309914763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.67583,57.37264,26.67583,57.37264",
+    "geom:latitude":57.37264,
+    "geom:longitude":26.67583,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"360252.0",
+    "gn:asciiname":"Jaunzemji",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459299,
+    "gn:latitude":57.37264,
+    "gn:longitude":26.67583,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Jaunzemji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaunzemi",
+        "Jaunzemji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459299
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e2567f74a4956887b14161b1752c23e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1309914763,
+            "region_id":85686279
+        }
+    ],
+    "wof:id":1309914763,
+    "wof:lastmodified":1537663169,
+    "wof:name":"Jaunzemji",
+    "wof:parent_id":85686279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.67583,
+    57.37264,
+    26.67583,
+    57.37264
+],
+  "geometry": {"coordinates":[26.67583,57.37264],"type":"Point"}
+}

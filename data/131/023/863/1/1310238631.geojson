@@ -1,0 +1,73 @@
+{
+  "id": 1310238631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.75011,56.17336,27.75011,56.17336",
+    "geom:latitude":56.17336,
+    "geom:longitude":27.75011,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"601056.0",
+    "gn:asciiname":"Liela Zogotova",
+    "gn:country_code":"LV",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458032,
+    "gn:latitude":56.17336,
+    "gn:longitude":27.75011,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Liel\u0101 \u017dogotova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zogotova",
+        "Liyel Zhogotova",
+        "Liel\u017eogotovo",
+        "Liel\u0101\u017eogotova",
+        "Liel\u0101 \u017dogotova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458032
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c536743296d117ee5a36648073c9ddd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310238631,
+            "region_id":85685893
+        }
+    ],
+    "wof:id":1310238631,
+    "wof:lastmodified":1537663130,
+    "wof:name":"Liela Zogotova",
+    "wof:parent_id":85685893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.75011,
+    56.17336,
+    27.75011,
+    56.17336
+],
+  "geometry": {"coordinates":[27.75011,56.17336],"type":"Point"}
+}

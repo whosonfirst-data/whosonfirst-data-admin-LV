@@ -1,0 +1,72 @@
+{
+  "id": 1326967149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.86935,56.72822,22.86935,56.72822",
+    "geom:latitude":56.72822,
+    "geom:longitude":22.86935,
+    "gn:admin1_code":"73",
+    "gn:admin2_code":"905756.0",
+    "gn:asciiname":"Jurgi",
+    "gn:country_code":"LV",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459210,
+    "gn:latitude":56.72822,
+    "gn:longitude":22.86935,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Jur\u0123i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yurdy",
+        "Jurgu Mui\u017ea",
+        "Yurgi",
+        "Jur\u0123i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459210
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"91b007906bd11bbd335e0b7b1505804a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326967149,
+            "region_id":85685921
+        }
+    ],
+    "wof:id":1326967149,
+    "wof:lastmodified":1537663166,
+    "wof:name":"Jurgi",
+    "wof:parent_id":85685921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86935,
+    56.72821999999999,
+    22.86935,
+    56.72821999999999
+],
+  "geometry": {"coordinates":[22.86935,56.72821999999999],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343328329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45,56.46667,22.45,56.46667",
+    "geom:latitude":56.46667,
+    "geom:longitude":22.45,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"840262.0",
+    "gn:asciiname":"Jostnieki",
+    "gn:country_code":"LV",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459247,
+    "gn:latitude":56.46667,
+    "gn:longitude":22.45,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Jostnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459247
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"962e65cd2529a3efe024adbc3fa8efc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343328329,
+            "region_id":85685935
+        }
+    ],
+    "wof:id":1343328329,
+    "wof:lastmodified":1536937849,
+    "wof:name":"Jostnieki",
+    "wof:parent_id":85685935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45,
+    56.46666999999999,
+    22.45,
+    56.46666999999999
+],
+  "geometry": {"coordinates":[22.45,56.46666999999999],"type":"Point"}
+}

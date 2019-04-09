@@ -1,0 +1,66 @@
+{
+  "id": 1360068351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25,56.93333,22.25,56.93333",
+    "geom:latitude":56.93333,
+    "geom:longitude":22.25,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"620258.0",
+    "gn:asciiname":"Silmani",
+    "gn:country_code":"LV",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455631,
+    "gn:latitude":56.93333,
+    "gn:longitude":22.25,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Silma\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455631
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4779e20aef917b537c0f40ff5770ac62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360068351,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1360068351,
+    "wof:lastmodified":1536969541,
+    "wof:name":"Silmani",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25,
+    56.93333000000001,
+    22.25,
+    56.93333000000001
+],
+  "geometry": {"coordinates":[22.25,56.93333000000001],"type":"Point"}
+}

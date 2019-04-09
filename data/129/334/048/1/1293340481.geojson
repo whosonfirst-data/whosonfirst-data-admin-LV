@@ -1,0 +1,71 @@
+{
+  "id": 1293340481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.14211,57.73363,26.14211,57.73363",
+    "geom:latitude":57.73363,
+    "geom:longitude":26.14211,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Zuldinas",
+    "gn:country_code":"LV",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":453814,
+    "gn:latitude":57.73363,
+    "gn:longitude":26.14211,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"\u017duldi\u0146as",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhuldini",
+        "\u017duldi\u0146u",
+        "\u017duldi\u0146i",
+        "\u017duldi\u0146as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":453814
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"66e61c4166145ec55909968785a9d883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293340481,
+            "region_id":85686295
+        }
+    ],
+    "wof:id":1293340481,
+    "wof:lastmodified":1537663002,
+    "wof:name":"Zuldinas",
+    "wof:parent_id":85686295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.14211,
+    57.73363000000001,
+    26.14211,
+    57.73363000000001
+],
+  "geometry": {"coordinates":[26.14211,57.73363000000001],"type":"Point"}
+}

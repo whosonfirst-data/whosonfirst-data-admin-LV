@@ -1,0 +1,66 @@
+{
+  "id": 1310039479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.78733,56.13282,27.78733,56.13282",
+    "geom:latitude":56.13282,
+    "geom:longitude":27.78733,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"601090.0",
+    "gn:asciiname":"Pusca",
+    "gn:country_code":"LV",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456388,
+    "gn:latitude":56.13282,
+    "gn:longitude":27.78733,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Pu\u0161\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456388
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1a527b843e219f71dbdc5c471c7bb7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310039479,
+            "region_id":85685893
+        }
+    ],
+    "wof:id":1310039479,
+    "wof:lastmodified":1537088520,
+    "wof:name":"Pusca",
+    "wof:parent_id":85685893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.78733,
+    56.13282,
+    27.78733,
+    56.13282
+],
+  "geometry": {"coordinates":[27.78733,56.13282],"type":"Point"}
+}

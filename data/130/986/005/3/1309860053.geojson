@@ -1,0 +1,72 @@
+{
+  "id": 1309860053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20314,56.46615,22.20314,56.46615",
+    "geom:latitude":56.46615,
+    "geom:longitude":22.20314,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"840294.0",
+    "gn:asciiname":"Baltaiskrogs",
+    "gn:country_code":"LV",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458982,
+    "gn:latitude":56.46615,
+    "gn:longitude":22.20314,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Baltaiskrogs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baltayskrogs",
+        "Baltaiskrogs",
+        "K\u0101r\u013ci",
+        "Za\u0146a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458982
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6b054d70951227b71da82e7657920832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1309860053,
+            "region_id":85685935
+        }
+    ],
+    "wof:id":1309860053,
+    "wof:lastmodified":1537663159,
+    "wof:name":"Baltaiskrogs",
+    "wof:parent_id":85685935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20314,
+    56.46615,
+    22.20314,
+    56.46615
+],
+  "geometry": {"coordinates":[22.20314,56.46615],"type":"Point"}
+}

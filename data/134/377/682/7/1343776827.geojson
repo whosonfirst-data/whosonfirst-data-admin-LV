@@ -1,0 +1,73 @@
+{
+  "id": 1343776827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.1,56.3,23.1,56.3",
+    "geom:latitude":56.3,
+    "geom:longitude":23.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vitoli",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454060,
+    "gn:latitude":56.3,
+    "gn:longitude":23.1,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"V\u012btoli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lulaici",
+        "Lulaytsy",
+        "L\u016braici"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454060
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b48ec27ee8f845740508f5a3ffcd8b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1343776827,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343776827,
+    "wof:lastmodified":1537663011,
+    "wof:name":"Vitoli",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.1,
+    56.3,
+    23.1,
+    56.3
+],
+  "geometry": {"coordinates":[23.1,56.3],"type":"Point"}
+}

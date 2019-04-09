@@ -1,0 +1,104 @@
+{
+  "id": 101816335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000225,
+    "geom:area_square_m":1542593.482377,
+    "geom:bbox":"23.6768488508,56.399755109,23.6971972085,56.4211836014",
+    "geom:latitude":56.410126,
+    "geom:longitude":23.685769,
+    "iso:country":"LV",
+    "lbl:latitude":56.412333,
+    "lbl:longitude":23.684227,
+    "mps:latitude":56.412333,
+    "mps:longitude":23.684227,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "eleja"
+    ],
+    "name:eng_x_preferred":[
+        "Eleja"
+    ],
+    "name:est_x_preferred":[
+        "Eleja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30ec\u30e4"
+    ],
+    "name:lav_x_preferred":[
+        "Eleja"
+    ],
+    "name:lit_x_preferred":[
+        "El\u0117ja"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u0435\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Eleya"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Jelgavas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Elejas pagasts",
+    "qs:la_lc":"*LV5448",
+    "qs:level":"locality",
+    "qs:loc":"Eleja",
+    "qs:loc_alt":"Eleja",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":56.406667,
+    "wd:longitude":23.6875,
+    "wd:population":819,
+    "wd:wordcount":379,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460046,
+        "gp:id":852313,
+        "qs:id":967235,
+        "wd:id":"Q4531175"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6dc01d9e9b6c34af39c9702227907423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101816335,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":101816335,
+    "wof:lastmodified":1527642289,
+    "wof:name":"Eleja",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:population":819,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.67684885082491,
+    56.3997551089895,
+    23.69719720847195,
+    56.42118360139756
+],
+  "geometry": {"coordinates":[[[23.68414019924614,56.41732347864968],[23.69369522884551,56.4163001313795],[23.69401223411978,56.41717988811484],[23.69719720847195,56.41683860703716],[23.69561200823722,56.41243985889116],[23.69401970053997,56.41261048704558],[23.69306889055207,56.40997121430763],[23.69466109451008,56.40980059944781],[23.69434415766176,56.408920844541],[23.69275198828018,56.40909145496954],[23.69243510320166,56.40821169475237],[23.68765862030375,56.40872339543148],[23.68670837937299,56.40608406963963],[23.68989250694011,56.40574298198123],[23.68862548303974,56.40222390405461],[23.6902173889448,56.40205334861514],[23.68958391096112,56.40029381323569],[23.68640022432646,56.4006348868532],[23.686083580223,56.3997551089895],[23.67971618839408,56.4004370039346],[23.68003269424798,56.40131679950383],[23.67684885082491,56.40165763853298],[23.67748177576954,56.40341724474007],[23.68066575746491,56.40307638800948],[23.68161548108503,56.40571576418614],[23.67843129195558,56.40605664747233],[23.67906438860712,56.40781624490808],[23.67747220528668,56.40798666607435],[23.6822221018914,56.42118360139756],[23.68540749323199,56.42084260666729],[23.68414019924614,56.41732347864968]]],"type":"Polygon"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 101816309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":597122.823665,
+    "geom:bbox":"23.7997549892,56.6392736704,23.8183347063,56.6486031838",
+    "geom:latitude":56.643343,
+    "geom:longitude":23.808657,
+    "iso:country":"LV",
+    "lbl:latitude":56.643793,
+    "lbl:longitude":23.80929,
+    "mps:latitude":56.643793,
+    "mps:longitude":23.80929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "\u0100ne"
+    ],
+    "name:eng_x_preferred":[
+        "\u0100ne"
+    ],
+    "name:lav_x_preferred":[
+        "\u0100ne"
+    ],
+    "name:lit_x_preferred":[
+        "An\u0117"
+    ],
+    "name:swe_x_preferred":[
+        "\u0100ne"
+    ],
+    "name:unk_x_variant":[
+        "Krasnaya Glina"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Ozolnieku novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:id":0,
+    "qs:la":"Ozolnieku novads",
+    "qs:la_lc":"*LV5467",
+    "qs:level":"locality",
+    "qs:loc":"\u0100ne",
+    "qs:loc_alt":"Ane",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:elevation":2.0,
+    "wd:latitude":56.647089,
+    "wd:longitude":23.812339,
+    "wd:population":1780,
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461477,
+        "gp:id":851391,
+        "qs:id":1127358,
+        "wd:id":"Q5619823",
+        "wk:page":"\u0100ne"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"d93f9ebb399bdaa8ee98e4d2e76cb693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101816309,
+            "region_id":85685907
+        }
+    ],
+    "wof:id":101816309,
+    "wof:lastmodified":1527642280,
+    "wof:name":"\u0100ne",
+    "wof:parent_id":85685907,
+    "wof:placetype":"locality",
+    "wof:population":1780,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79975498920101,
+    56.63927367036626,
+    23.81833470626611,
+    56.64860318382495
+],
+  "geometry": {"coordinates":[[[23.81450877137223,56.64825873104024],[23.81289685815369,56.64386161293828],[23.81449817951471,56.64368937957079],[23.81353113774276,56.64105111151679],[23.81833470626611,56.64053433394639],[23.81801228917027,56.63965492299735],[23.81000644969714,56.64051609805693],[23.80968422525905,56.63963666368221],[23.80488066586418,56.64015311914636],[23.80455856405888,56.63927367036626],[23.79975498920101,56.63978993527371],[23.80007698595489,56.64066939756248],[23.80167822597951,56.64049732442953],[23.80264442679811,56.64313569244194],[23.80104308170797,56.64330777908373],[23.80136514879422,56.64418723780898],[23.80296652890928,56.64401514666372],[23.80328864860854,56.64489459999453],[23.80489005035736,56.64472248467075],[23.80553441258354,56.64648137964923],[23.80713587099189,56.64630923564084],[23.8077803736561,56.64806811804215],[23.81098339039437,56.6477237529752],[23.81130573818706,56.64860318382495],[23.81450877137223,56.64825873104024]]],"type":"Polygon"}
+}

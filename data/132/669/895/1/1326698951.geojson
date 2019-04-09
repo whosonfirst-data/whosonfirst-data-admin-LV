@@ -1,0 +1,66 @@
+{
+  "id": 1326698951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.74564,56.28078,26.74564,56.28078",
+    "geom:latitude":56.28078,
+    "geom:longitude":26.74564,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"760258.0",
+    "gn:asciiname":"Litavnieki",
+    "gn:country_code":"LV",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457864,
+    "gn:latitude":56.28078,
+    "gn:longitude":26.74564,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Litavnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457864
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"02c53eccde71bdcab194161ef63ac09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326698951,
+            "region_id":85685929
+        }
+    ],
+    "wof:id":1326698951,
+    "wof:lastmodified":1536743543,
+    "wof:name":"Litavnieki",
+    "wof:parent_id":85685929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.74564,
+    56.28078000000001,
+    26.74564,
+    56.28078000000001
+],
+  "geometry": {"coordinates":[26.74564,56.28078000000001],"type":"Point"}
+}

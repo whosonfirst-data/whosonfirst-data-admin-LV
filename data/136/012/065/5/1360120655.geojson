@@ -1,0 +1,65 @@
+{
+  "id": 1360120655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.00935,57.94973,25.00935,57.94973",
+    "geom:latitude":57.94973,
+    "geom:longitude":25.00935,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Ramata",
+    "gn:country_code":"LV",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457446,
+    "gn:latitude":57.94973,
+    "gn:longitude":25.00935,
+    "gn:modification_date":"2010-11-27",
+    "gn:name":"Ramata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457446
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0f64ecf43b365659eb37d3079b32d3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360120655,
+            "region_id":85686303
+        }
+    ],
+    "wof:id":1360120655,
+    "wof:lastmodified":1536894018,
+    "wof:name":"Ramata",
+    "wof:parent_id":85686303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.00935,
+    57.94973,
+    25.00935,
+    57.94973
+],
+  "geometry": {"coordinates":[25.00935,57.94973],"type":"Point"}
+}

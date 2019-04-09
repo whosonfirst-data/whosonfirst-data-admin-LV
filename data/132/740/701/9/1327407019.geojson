@@ -1,0 +1,74 @@
+{
+  "id": 1327407019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30167,57.04904,22.30167,57.04904",
+    "geom:latitude":57.04904,
+    "geom:longitude":22.30167,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"620280.0",
+    "gn:asciiname":"Kronrenda",
+    "gn:country_code":"LV",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458543,
+    "gn:latitude":57.04904,
+    "gn:longitude":22.30167,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Kro\u0146renda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Renda",
+        "Kro\u0146 Renda Mui\u017eas Centrs",
+        "Myza Renda",
+        "Rug\u0101\u013ci",
+        "Kro\u0146renda",
+        "Rendsmui\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458543
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4a4fd44e88368adef1dccb2617e387c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327407019,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1327407019,
+    "wof:lastmodified":1537663145,
+    "wof:name":"Kronrenda",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30167,
+    57.04904000000001,
+    22.30167,
+    57.04904000000001
+],
+  "geometry": {"coordinates":[22.30167,57.04904000000001],"type":"Point"}
+}

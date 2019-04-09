@@ -1,0 +1,70 @@
+{
+  "id": 1293464917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88215,56.25467,27.88215,56.25467",
+    "geom:latitude":56.25467,
+    "geom:longitude":27.88215,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"680260.0",
+    "gn:asciiname":"Cegelna",
+    "gn:country_code":"LV",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460649,
+    "gn:latitude":56.25467,
+    "gn:longitude":27.88215,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Cege\u013c\u0146a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsegel\u2019nya",
+        "Cege\u013c\u0146a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460649
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1c9a056b54ce81eb1c745e940ebfdd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293464917,
+            "region_id":85686037
+        }
+    ],
+    "wof:id":1293464917,
+    "wof:lastmodified":1537663208,
+    "wof:name":"Cegelna",
+    "wof:parent_id":85686037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88215,
+    56.25467,
+    27.88215,
+    56.25467
+],
+  "geometry": {"coordinates":[27.88215,56.25467],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226273695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.74646,56.66537,26.74646,56.66537",
+    "geom:latitude":56.66537,
+    "geom:longitude":26.74646,
+    "gn:admin1_code":"E1",
+    "gn:admin2_code":"701878.0",
+    "gn:asciiname":"Lielie Strodi",
+    "gn:country_code":"LV",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457980,
+    "gn:latitude":56.66537,
+    "gn:longitude":26.74646,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Lielie Strodi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lielie-Stradi",
+        "Liyelstrodi",
+        "Lielstrodi",
+        "Lielie Strodi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457980
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"e29370c6c0b16a8e07b98723136e9c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226273695,
+            "region_id":85686051
+        }
+    ],
+    "wof:id":1226273695,
+    "wof:lastmodified":1537663127,
+    "wof:name":"Lielie Strodi",
+    "wof:parent_id":85686051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.74646,
+    56.66537,
+    26.74646,
+    56.66537
+],
+  "geometry": {"coordinates":[26.74646,56.66537],"type":"Point"}
+}

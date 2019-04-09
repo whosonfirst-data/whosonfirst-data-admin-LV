@@ -1,0 +1,65 @@
+{
+  "id": 1293234923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88605,57.04531,25.88605,57.04531",
+    "geom:latitude":57.04531,
+    "geom:longitude":25.88605,
+    "gn:admin1_code":"E3",
+    "gn:asciiname":"Roni",
+    "gn:country_code":"LV",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456093,
+    "gn:latitude":57.04531,
+    "gn:longitude":25.88605,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Ro\u0146i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456093
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"66914941641bea637a0c499baf282160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293234923,
+            "region_id":85686189
+        }
+    ],
+    "wof:id":1293234923,
+    "wof:lastmodified":1536654201,
+    "wof:name":"Roni",
+    "wof:parent_id":85686189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88605,
+    57.04531,
+    25.88605,
+    57.04531
+],
+  "geometry": {"coordinates":[25.88605,57.04531],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310688413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85445,56.55747,23.85445,56.55747",
+    "geom:latitude":56.55747,
+    "geom:longitude":23.85445,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540256.0",
+    "gn:asciiname":"Biteni",
+    "gn:country_code":"LV",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460927,
+    "gn:latitude":56.55747,
+    "gn:longitude":23.85445,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Bit\u0113ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bit\u0113n",
+        "Bit\u0113ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460927
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"20ee97aa1d8b23c496e146cb231e972f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310688413,
+            "region_id":85685971
+        }
+    ],
+    "wof:id":1310688413,
+    "wof:lastmodified":1537663215,
+    "wof:name":"Biteni",
+    "wof:parent_id":85685971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85445,
+    56.55747,
+    23.85445,
+    56.55747
+],
+  "geometry": {"coordinates":[23.85445,56.55747],"type":"Point"}
+}

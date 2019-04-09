@@ -1,0 +1,70 @@
+{
+  "id": 1360115429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.63333,56.63543,27.63333,56.63543",
+    "geom:latitude":56.63543,
+    "geom:longitude":27.63333,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"684990.0",
+    "gn:asciiname":"Mezerniki",
+    "gn:country_code":"LV",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457367,
+    "gn:latitude":56.63543,
+    "gn:longitude":27.63333,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Me\u017eern\u012bki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Me\u017eern\u012bki",
+        "Me\u017eernieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457367
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"be96959c9c53335fa0052a155ad50751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1360115429,
+            "region_id":85686089
+        }
+    ],
+    "wof:id":1360115429,
+    "wof:lastmodified":1537663108,
+    "wof:name":"Mezerniki",
+    "wof:parent_id":85686089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.63333,
+    56.63543000000001,
+    27.63333,
+    56.63543000000001
+],
+  "geometry": {"coordinates":[27.63333,56.63543000000001],"type":"Point"}
+}

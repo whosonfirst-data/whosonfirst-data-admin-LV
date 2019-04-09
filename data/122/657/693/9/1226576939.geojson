@@ -1,0 +1,70 @@
+{
+  "id": 1226576939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.04136,57.02349,27.04136,57.02349",
+    "geom:latitude":57.02349,
+    "geom:longitude":27.04136,
+    "gn:admin1_code":"B7",
+    "gn:admin2_code":"387574.0",
+    "gn:asciiname":"Laptava",
+    "gn:country_code":"LV",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458271,
+    "gn:latitude":57.02349,
+    "gn:longitude":27.04136,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"L\u0101ptava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laptevo",
+        "L\u0101ptava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458271
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6d84123a418f0025a00477435cd06f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1226576939,
+            "region_id":85686185
+        }
+    ],
+    "wof:id":1226576939,
+    "wof:lastmodified":1537663137,
+    "wof:name":"Laptava",
+    "wof:parent_id":85686185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.04136,
+    57.02349,
+    27.04136,
+    57.02349
+],
+  "geometry": {"coordinates":[27.04136,57.02349],"type":"Point"}
+}

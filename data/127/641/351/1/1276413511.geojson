@@ -1,0 +1,70 @@
+{
+  "id": 1276413511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90766,57.01943,21.90766,57.01943",
+    "geom:latitude":57.01943,
+    "geom:longitude":21.90766,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"620272.0",
+    "gn:asciiname":"Padure",
+    "gn:country_code":"LV",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456932,
+    "gn:latitude":57.01943,
+    "gn:longitude":21.90766,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Padure",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Padure",
+        "Padure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456932
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a04df548d0da752d089d449c65a96bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276413511,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1276413511,
+    "wof:lastmodified":1537663094,
+    "wof:name":"Padure",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90766,
+    57.01943000000001,
+    21.90766,
+    57.01943000000001
+],
+  "geometry": {"coordinates":[21.90766,57.01943000000001],"type":"Point"}
+}

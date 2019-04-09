@@ -1,0 +1,66 @@
+{
+  "id": 1243080555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.25,57.3,27.25,57.3",
+    "geom:latitude":57.3,
+    "geom:longitude":27.25,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"360274.0",
+    "gn:asciiname":"Cirnava",
+    "gn:country_code":"LV",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460527,
+    "gn:latitude":57.3,
+    "gn:longitude":27.25,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Cirnava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460527
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"1d80ced87887ff74efae5113c5269924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1243080555,
+            "region_id":85686279
+        }
+    ],
+    "wof:id":1243080555,
+    "wof:lastmodified":1536834843,
+    "wof:name":"Cirnava",
+    "wof:parent_id":85686279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.25,
+    57.3,
+    27.25,
+    57.3
+],
+  "geometry": {"coordinates":[27.25,57.3],"type":"Point"}
+}

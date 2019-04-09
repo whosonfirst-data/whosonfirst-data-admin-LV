@@ -1,0 +1,65 @@
+{
+  "id": 1242883031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55335,57.48363,26.55335,57.48363",
+    "geom:latitude":57.48363,
+    "geom:longitude":26.55335,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rupnieki",
+    "gn:country_code":"LV",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7602826,
+    "gn:latitude":57.48363,
+    "gn:longitude":26.55335,
+    "gn:modification_date":"2010-11-27",
+    "gn:name":"R\u016bpnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602826
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"ffe333ef06895c0f13a39ef8f6f32bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1242883031,
+            "region_id":85686269
+        }
+    ],
+    "wof:id":1242883031,
+    "wof:lastmodified":1536621595,
+    "wof:name":"Rupnieki",
+    "wof:parent_id":85686269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55335,
+    57.48363000000001,
+    26.55335,
+    57.48363000000001
+],
+  "geometry": {"coordinates":[26.55335,57.48363000000001],"type":"Point"}
+}

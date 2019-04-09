@@ -1,0 +1,72 @@
+{
+  "id": 1344246715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.40919,57.08939,26.40919,57.08939",
+    "geom:latitude":57.08939,
+    "geom:longitude":26.40919,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"500294.0",
+    "gn:asciiname":"Vecaduliena",
+    "gn:country_code":"LV",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454477,
+    "gn:latitude":57.08939,
+    "gn:longitude":26.40919,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Vecaduliena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Vetsadulyena",
+        "Vecadulienas",
+        "Vecadulienas Mui\u017ea",
+        "Vecaduliena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454477
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"bf5336a9b391a9d98517b956c196db75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1344246715,
+            "region_id":85686241
+        }
+    ],
+    "wof:id":1344246715,
+    "wof:lastmodified":1537663025,
+    "wof:name":"Vecaduliena",
+    "wof:parent_id":85686241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.40919,
+    57.08939,
+    26.40919,
+    57.08939
+],
+  "geometry": {"coordinates":[26.40919,57.08939],"type":"Point"}
+}

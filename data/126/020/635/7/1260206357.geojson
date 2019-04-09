@@ -1,0 +1,65 @@
+{
+  "id": 1260206357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06732,57.22054,25.06732,57.22054",
+    "geom:latitude":57.22054,
+    "geom:longitude":25.06732,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kempji",
+    "gn:country_code":"LV",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458868,
+    "gn:latitude":57.22054,
+    "gn:longitude":25.06732,
+    "gn:modification_date":"2010-12-18",
+    "gn:name":"\u0136empji",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458868
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"5a70c2cb67708656cbbaad5e18a21179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260206357,
+            "region_id":85686153
+        }
+    ],
+    "wof:id":1260206357,
+    "wof:lastmodified":1536815925,
+    "wof:name":"Kempji",
+    "wof:parent_id":85686153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06732,
+    57.22054,
+    25.06732,
+    57.22054
+],
+  "geometry": {"coordinates":[25.06732,57.22054],"type":"Point"}
+}

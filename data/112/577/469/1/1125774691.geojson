@@ -1,0 +1,115 @@
+{
+  "id": 1125774691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23111,57.11472,23.23111,57.11472",
+    "geom:latitude":57.11472,
+    "geom:longitude":23.23111,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":220,
+    "gn:population":220,
+    "iso:country":"LV",
+    "lbl:latitude":57.11472,
+    "lbl:longitude":23.23111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u0136esterciems"
+    ],
+    "name:eng_x_preferred":[
+        "\u0136esterciems"
+    ],
+    "name:est_x_preferred":[
+        "\u0136esterciems"
+    ],
+    "name:lav_x_preferred":[
+        "\u0136esterciems"
+    ],
+    "name:pol_x_preferred":[
+        "\u0136esterciems"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0441\u0442\u0435\u0440\u0446\u0438\u0435\u043c\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "\u0136esterciems"
+    ],
+    "name:unk_x_variant":[
+        "Testertsiems"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":458850,
+    "qs_pg:gn_pop":220,
+    "qs_pg:name":"\u0136esterciems",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Engures Novads",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":267440,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":853109,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Engures Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458850,
+        "gp:id":853109,
+        "qs_pg:id":267440,
+        "wd:id":"Q4219795"
+    },
+    "wof:country":"LV",
+    "wof:created":1497290209,
+    "wof:geomhash":"4594c86923e65d2b673cc745516751ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125774691,
+            "region_id":85686103
+        }
+    ],
+    "wof:id":1125774691,
+    "wof:lastmodified":1514484181,
+    "wof:name":"\u0136esterciems",
+    "wof:parent_id":85686103,
+    "wof:placetype":"locality",
+    "wof:population":220,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23111,
+    57.11472,
+    23.23111,
+    57.11472
+],
+  "geometry": {"coordinates":[23.23111,57.11472],"type":"Point"}
+}

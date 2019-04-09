@@ -1,0 +1,99 @@
+{
+  "id": 1125959753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.03194,57.26556,23.03194,57.26556",
+    "geom:latitude":57.26556,
+    "geom:longitude":23.03194,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":320,
+    "gn:population":320,
+    "iso:country":"LV",
+    "lbl:latitude":57.26556,
+    "lbl:longitude":23.03194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u0136\u016b\u013cciems"
+    ],
+    "name:eng_x_preferred":[
+        "\u0136\u016b\u013cciems"
+    ],
+    "name:lav_x_preferred":[
+        "\u0136\u016b\u013cciems"
+    ],
+    "name:unk_x_variant":[
+        "Tul\u2019tsiems"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":458455,
+    "qs_pg:gn_pop":320,
+    "qs_pg:name":"\u0136u\u013cciems",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Talsi Novads",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":408067,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":853374,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Talsi Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458455,
+        "gp:id":853374,
+        "qs_pg:id":408067,
+        "wd:id":"Q15220206"
+    },
+    "wof:country":"LV",
+    "wof:created":1497297752,
+    "wof:geomhash":"5f2d87465d084df6147cfb8561836571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125959753,
+            "region_id":85686157
+        }
+    ],
+    "wof:id":1125959753,
+    "wof:lastmodified":1514484181,
+    "wof:name":"\u0136u\u013cciems",
+    "wof:parent_id":85686157,
+    "wof:placetype":"locality",
+    "wof:population":320,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.03194,
+    57.26556,
+    23.03194,
+    57.26556
+],
+  "geometry": {"coordinates":[23.03194,57.26556],"type":"Point"}
+}

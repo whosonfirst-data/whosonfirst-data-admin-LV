@@ -1,0 +1,107 @@
+{
+  "id": 85907791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5648780.55914,
+    "geom:bbox":"24.054874,56.914292,24.054874,56.914292",
+    "geom:latitude":56.914292,
+    "geom:longitude":24.054874,
+    "gn:id":"",
+    "iso:country":"LV",
+    "lbl:latitude":56.914292,
+    "lbl:longitude":24.054874,
+    "mps:latitude":56.912525,
+    "mps:longitude":24.059378,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"stadium?",
+    "mz:tier_locality":1,
+    "mz:tier_metro":30,
+    "name:und_x_preferred":[
+        "Ozolciems"
+    ],
+    "name:unk_x_variant":[
+        "Ozolciems"
+    ],
+    "qs:gn_adm0_cc":"LV",
+    "qs:gn_id":0,
+    "qs:gn_local":864723,
+    "qs:gn_nam_loc":"marupe",
+    "qs:gn_namadm1":"26",
+    "qs:local_max":46,
+    "qs:local_sum":46,
+    "qs:localhoods":1,
+    "qs:name":"Ozolciems",
+    "qs:name_adm0":"Latvija",
+    "qs:name_adm1":"R\u013cga",
+    "qs:name_adm2":"R\u013cga",
+    "qs:name_local":"Marupe",
+    "qs:photo_max":41,
+    "qs:photo_sum":46,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424874,
+    "qs:woe_adm1":20070121,
+    "qs:woe_adm2":55844479,
+    "qs:woe_lau":0,
+    "qs:woe_local":10645010,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751789,
+        85633279,
+        85686065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23701361,
+        "qs:id":368072,
+        "qs_pg:id":368072
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"93ae3084135e632aed5ef18928c8f47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101751789,
+            "neighbourhood_id":85907791,
+            "region_id":85686065
+        }
+    ],
+    "wof:id":85907791,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531936635,
+    "wof:name":"Ozolciems",
+    "wof:parent_id":101751789,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.054874,
+    56.914292,
+    24.054874,
+    56.914292
+],
+  "geometry": {"coordinates":[24.054874,56.914292],"type":"Point"}
+}

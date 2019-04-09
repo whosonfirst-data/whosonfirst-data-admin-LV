@@ -1,0 +1,120 @@
+{
+  "id": 1125970973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31729,57.68317,22.31729,57.68317",
+    "geom:latitude":57.68317,
+    "geom:longitude":22.31729,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LV",
+    "lbl:latitude":57.68317,
+    "lbl:longitude":22.31729,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Mazirbe"
+    ],
+    "name:dut_x_preferred":[
+        "Mazirbe"
+    ],
+    "name:eng_x_preferred":[
+        "Mazirbe"
+    ],
+    "name:est_x_preferred":[
+        "Mazirbe"
+    ],
+    "name:fin_x_preferred":[
+        "Mazirbe"
+    ],
+    "name:lav_x_preferred":[
+        "Mazirbe"
+    ],
+    "name:lit_x_preferred":[
+        "Mazirb\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Mazirbe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u0438\u0440\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mazirbe"
+    ],
+    "name:unk_x_variant":[
+        "Mazirve"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":457557,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mazirbe",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Dundagas Novads",
+    "qs_pg:photos":57,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":57,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1175007,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":853924,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Dundagas Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457557,
+        "gp:id":853924,
+        "qs_pg:id":1175007,
+        "wd:id":"Q2667982"
+    },
+    "wof:country":"LV",
+    "wof:created":1497298162,
+    "wof:geomhash":"68f61ab1658b740ad762b09a14fa3fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125970973,
+            "region_id":85686221
+        }
+    ],
+    "wof:id":1125970973,
+    "wof:lastmodified":1514484070,
+    "wof:name":"Mazirbe",
+    "wof:parent_id":85686221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31729,
+    57.68317,
+    22.31729,
+    57.68317
+],
+  "geometry": {"coordinates":[22.31729,57.68317],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1125988181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98528,56.42667,23.98528,56.42667",
+    "geom:latitude":56.42667,
+    "geom:longitude":23.98528,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":900,
+    "gn:population":900,
+    "iso:country":"LV",
+    "lbl:latitude":56.42667,
+    "lbl:longitude":23.98528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "En\u012bteni"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":455976,
+    "qs_pg:gn_pop":900,
+    "qs_pg:name":"Rund\u0101le",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Rund\u0105les Novads",
+    "qs_pg:photos":64,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":64,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1349970,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":854960,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Rund\u0105les Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455976,
+        "gp:id":854960,
+        "qs_pg:id":1349970
+    },
+    "wof:country":"LV",
+    "wof:created":1497298913,
+    "wof:geomhash":"3745b1b93e58fb5ac3d6c02a71935228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125988181,
+            "region_id":85685845
+        }
+    ],
+    "wof:id":1125988181,
+    "wof:lastmodified":1509405211,
+    "wof:name":"Rund\u0101le",
+    "wof:parent_id":85685845,
+    "wof:placetype":"locality",
+    "wof:population":900,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98528,
+    56.42667,
+    23.98528,
+    56.42667
+],
+  "geometry": {"coordinates":[23.98528,56.42667],"type":"Point"}
+}

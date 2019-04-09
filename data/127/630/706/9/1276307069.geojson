@@ -1,0 +1,72 @@
+{
+  "id": 1276307069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.03142,56.80868,26.03142,56.80868",
+    "geom:latitude":56.80868,
+    "geom:longitude":26.03142,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700246.0",
+    "gn:asciiname":"Berzaune",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":461045,
+    "gn:latitude":56.80868,
+    "gn:longitude":26.03142,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"B\u0113rzaune",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Berzaune",
+        "B\u0113rzaunes Mui\u017ea",
+        "B\u0113rzaune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":461045
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a49d5e5d3d6e5d3eb02c7fc0df731b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276307069,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1276307069,
+    "wof:lastmodified":1537663219,
+    "wof:name":"Berzaune",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.03142,
+    56.80868,
+    26.03142,
+    56.80868
+],
+  "geometry": {"coordinates":[26.03142,56.80868],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1193019195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.33889,57.49483,27.33889,57.49483",
+    "geom:latitude":57.49483,
+    "geom:longitude":27.33889,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"360276.0",
+    "gn:asciiname":"Ponkuli",
+    "gn:country_code":"LV",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456552,
+    "gn:latitude":57.49483,
+    "gn:longitude":27.33889,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ponku\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456552
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c22785ba04fc29a63def60e15304c020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1193019195,
+            "region_id":85686279
+        }
+    ],
+    "wof:id":1193019195,
+    "wof:lastmodified":1536375103,
+    "wof:name":"Ponkuli",
+    "wof:parent_id":85686279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.33889000000001,
+    57.49483000000001,
+    27.33889000000001,
+    57.49483000000001
+],
+  "geometry": {"coordinates":[27.33889000000001,57.49483000000001],"type":"Point"}
+}

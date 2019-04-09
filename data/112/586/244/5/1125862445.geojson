@@ -1,0 +1,96 @@
+{
+  "id": 1125862445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.26571,56.87806,24.26571,56.87806",
+    "geom:latitude":56.87806,
+    "geom:longitude":24.26571,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LV",
+    "lbl:latitude":56.87806,
+    "lbl:longitude":24.26571,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Rumbula"
+    ],
+    "name:eng_x_preferred":[
+        "Rumbula"
+    ],
+    "name:lav_x_preferred":[
+        "Rumbula"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":455986,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rumbula",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Stopi\u0144u Novads",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1182518,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":55844782,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Stopi\u0144u Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455986,
+        "gp:id":55844782,
+        "qs_pg:id":1182518,
+        "wd:id":"Q7379207"
+    },
+    "wof:country":"LV",
+    "wof:created":1497293886,
+    "wof:geomhash":"5bcfa1c44e2597b9a3bd7a82b8da01c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125862445,
+            "region_id":85686033
+        }
+    ],
+    "wof:id":1125862445,
+    "wof:lastmodified":1553816581,
+    "wof:name":"Rumbula",
+    "wof:parent_id":85686033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26571,
+    56.87806,
+    24.26571,
+    56.87806
+],
+  "geometry": {"coordinates":[24.26571,56.87806],"type":"Point"}
+}

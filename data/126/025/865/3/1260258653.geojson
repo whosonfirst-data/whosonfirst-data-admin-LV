@@ -1,0 +1,71 @@
+{
+  "id": 1260258653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61808,57.40303,24.61808,57.40303",
+    "geom:latitude":57.40303,
+    "geom:longitude":24.61808,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"660264.0",
+    "gn:asciiname":"Inte",
+    "gn:country_code":"LV",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":459538,
+    "gn:latitude":57.40303,
+    "gn:longitude":24.61808,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Inte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Intes",
+        "Inteye",
+        "Inte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459538
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"af5a16efb96e288368d6288a59f8d565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260258653,
+            "region_id":85686265
+        }
+    ],
+    "wof:id":1260258653,
+    "wof:lastmodified":1537663178,
+    "wof:name":"Inte",
+    "wof:parent_id":85686265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61808,
+    57.40303,
+    24.61808,
+    57.40303
+],
+  "geometry": {"coordinates":[24.61808,57.40303],"type":"Point"}
+}

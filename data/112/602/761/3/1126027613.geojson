@@ -1,0 +1,118 @@
+{
+  "id": 1126027613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36147,57.315,25.36147,57.315",
+    "geom:latitude":57.315,
+    "geom:longitude":25.36147,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":2532,
+    "iso:country":"LV",
+    "lbl:latitude":57.315,
+    "lbl:longitude":25.36147,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:eng_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:est_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:ger_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:lav_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:lit_x_preferred":[
+        "Priekuliai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0435\u043a\u0443\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:unk_x_variant":[
+        "Prieku\u013cu Mui\u017ea"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":456503,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Priekul\u0327i",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Priekuau Novads",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894638,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":854621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Priekuau Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456503,
+        "gp:id":854621,
+        "qs_pg:id":894638,
+        "wd:id":"Q1240381"
+    },
+    "wof:country":"LV",
+    "wof:created":1497301240,
+    "wof:geomhash":"9439905a27664b9782908c4211217f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1126027613,
+            "region_id":85686229
+        }
+    ],
+    "wof:id":1126027613,
+    "wof:lastmodified":1514484093,
+    "wof:name":"Priekul\u0327i",
+    "wof:parent_id":85686229,
+    "wof:placetype":"locality",
+    "wof:population":2532,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36147,
+    57.315,
+    25.36147,
+    57.315
+],
+  "geometry": {"coordinates":[25.36147,57.315],"type":"Point"}
+}

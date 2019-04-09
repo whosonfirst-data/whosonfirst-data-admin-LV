@@ -1,0 +1,66 @@
+{
+  "id": 1293136995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33528,56.72306,24.33528,56.72306",
+    "geom:latitude":56.72306,
+    "geom:longitude":24.33528,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"800625.0",
+    "gn:asciiname":"Lafonteine",
+    "gn:country_code":"LV",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458336,
+    "gn:latitude":56.72306,
+    "gn:longitude":24.33528,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Lafonteine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458336
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"42099b75daeaf46e210188e72cc302a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1293136995,
+            "region_id":85685957
+        }
+    ],
+    "wof:id":1293136995,
+    "wof:lastmodified":1536795566,
+    "wof:name":"Lafonteine",
+    "wof:parent_id":85685957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33528,
+    56.72306,
+    24.33528,
+    56.72306
+],
+  "geometry": {"coordinates":[24.33528,56.72306],"type":"Point"}
+}

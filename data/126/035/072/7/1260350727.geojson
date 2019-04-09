@@ -1,0 +1,70 @@
+{
+  "id": 1260350727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34014,56.71749,26.34014,56.71749",
+    "geom:latitude":56.71749,
+    "geom:longitude":26.34014,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700276.0",
+    "gn:asciiname":"Lielnieki",
+    "gn:country_code":"LV",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457993,
+    "gn:latitude":56.71749,
+    "gn:longitude":26.34014,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Lielnieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lelnyeki",
+        "Lelnieki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457993
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"85a175bca3ba3996f9ca59fe2281e6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260350727,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1260350727,
+    "wof:lastmodified":1537663127,
+    "wof:name":"Lielnieki",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34014,
+    56.71749000000001,
+    26.34014,
+    56.71749000000001
+],
+  "geometry": {"coordinates":[26.34014,56.71749000000001],"type":"Point"}
+}

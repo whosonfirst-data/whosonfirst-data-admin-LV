@@ -1,0 +1,72 @@
+{
+  "id": 1276945791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.36969,56.57253,27.36969,56.57253",
+    "geom:latitude":56.57253,
+    "geom:longitude":27.36969,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"780296.0",
+    "gn:asciiname":"Sondori",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455368,
+    "gn:latitude":56.57253,
+    "gn:longitude":27.36969,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Sondori",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shkeneva",
+        "\u0160keni",
+        "Sondori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455368
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fb68d9269c2dfe82100348bc568f80de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276945791,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1276945791,
+    "wof:lastmodified":1537663050,
+    "wof:name":"Sondori",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.36969,
+    56.57253000000001,
+    27.36969,
+    56.57253000000001
+],
+  "geometry": {"coordinates":[27.36969,56.57253000000001],"type":"Point"}
+}

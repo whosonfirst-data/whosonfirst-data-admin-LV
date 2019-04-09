@@ -1,0 +1,69 @@
+{
+  "id": 1309941049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.42116,57.69057,25.42116,57.69057",
+    "geom:latitude":57.69057,
+    "geom:longitude":25.42116,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Lizdeni",
+    "gn:country_code":"LV",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457846,
+    "gn:latitude":57.69057,
+    "gn:longitude":25.42116,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Lizd\u0113ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lizd\u0113nu Mui\u017ea",
+        "Lizd\u0113ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457846
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"af21f11e688288727f257628e3f5ec79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1309941049,
+            "region_id":85686283
+        }
+    ],
+    "wof:id":1309941049,
+    "wof:lastmodified":1537663124,
+    "wof:name":"Lizdeni",
+    "wof:parent_id":85686283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.42116,
+    57.69057,
+    25.42116,
+    57.69057
+],
+  "geometry": {"coordinates":[25.42116,57.69057],"type":"Point"}
+}

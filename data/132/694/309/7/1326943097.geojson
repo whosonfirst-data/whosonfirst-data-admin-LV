@@ -1,0 +1,74 @@
+{
+  "id": 1326943097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.52576,57.47648,26.52576,57.47648",
+    "geom:latitude":57.47648,
+    "geom:longitude":26.52576,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lizespasts",
+    "gn:country_code":"LV",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457842,
+    "gn:latitude":57.47648,
+    "gn:longitude":26.52576,
+    "gn:modification_date":"2010-11-27",
+    "gn:name":"L\u012bzespasts",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "L\u012bzespasts"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0437\u0435\u0441\u043f\u0430\u0441\u0442\u0441"
+    ],
+    "name:und_x_variant":[
+        "L\u012bzespasts"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457842
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"4e2136c653208f9c72df9ae3fec1816e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326943097,
+            "region_id":85686269
+        }
+    ],
+    "wof:id":1326943097,
+    "wof:lastmodified":1537663124,
+    "wof:name":"Lizespasts",
+    "wof:parent_id":85686269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.52576,
+    57.47648,
+    26.52576,
+    57.47648
+],
+  "geometry": {"coordinates":[26.52576,57.47648],"type":"Point"}
+}

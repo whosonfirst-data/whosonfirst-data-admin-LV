@@ -1,0 +1,71 @@
+{
+  "id": 1260362621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71964,57.10104,21.71964,57.10104",
+    "geom:latitude":57.10104,
+    "geom:longitude":21.71964,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"620246.0",
+    "gn:asciiname":"Kapciems",
+    "gn:country_code":"LV",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":459013,
+    "gn:latitude":57.10104,
+    "gn:longitude":21.71964,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"K\u0101pciems",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polumyza Kapas",
+        "K\u0101pas",
+        "K\u0101pciems"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459013
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0103900659509910d734423f53e72569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1260362621,
+            "region_id":85686043
+        }
+    ],
+    "wof:id":1260362621,
+    "wof:lastmodified":1537663160,
+    "wof:name":"Kapciems",
+    "wof:parent_id":85686043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71964,
+    57.10104000000001,
+    21.71964,
+    57.10104000000001
+],
+  "geometry": {"coordinates":[21.71964,57.10104000000001],"type":"Point"}
+}

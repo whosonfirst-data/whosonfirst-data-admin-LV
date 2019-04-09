@@ -1,0 +1,71 @@
+{
+  "id": 1225787909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76938,56.09655,25.76938,56.09655",
+    "geom:latitude":56.09655,
+    "geom:longitude":25.76938,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"560862.0",
+    "gn:asciiname":"Butkeni",
+    "gn:country_code":"LV",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":460680,
+    "gn:latitude":56.09655,
+    "gn:longitude":25.76938,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"But\u0137\u0113ni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butkani",
+        "Butkany",
+        "But\u0137\u0113ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":460680
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"bd74e2eb4ddd942c3848f4273e18ad1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1225787909,
+            "region_id":85685819
+        }
+    ],
+    "wof:id":1225787909,
+    "wof:lastmodified":1537663209,
+    "wof:name":"Butkeni",
+    "wof:parent_id":85685819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76938,
+    56.09655,
+    25.76938,
+    56.09655
+],
+  "geometry": {"coordinates":[25.76938,56.09655],"type":"Point"}
+}

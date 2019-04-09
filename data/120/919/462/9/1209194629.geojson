@@ -1,0 +1,65 @@
+{
+  "id": 1209194629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64164,56.75944,23.64164,56.75944",
+    "geom:latitude":56.75944,
+    "geom:longitude":23.64164,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"540258.0",
+    "gn:asciiname":"Krasta Ciems",
+    "gn:country_code":"LV",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864344,
+    "gn:latitude":56.75944,
+    "gn:longitude":23.64164,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Krasta Ciems",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krastaciems"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864344
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"93daaaa109d1f5ac44a0becc89ffb990",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209194629
+        }
+    ],
+    "wof:id":1209194629,
+    "wof:lastmodified":1537663242,
+    "wof:name":"Krasta Ciems",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64164,
+    56.75944000000001,
+    23.64164,
+    56.75944000000001
+],
+  "geometry": {"coordinates":[23.64164,56.75944000000001],"type":"Point"}
+}

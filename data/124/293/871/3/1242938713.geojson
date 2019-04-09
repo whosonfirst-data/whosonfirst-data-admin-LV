@@ -1,0 +1,68 @@
+{
+  "id": 1242938713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41406,56.74265,27.41406,56.74265",
+    "geom:latitude":56.74265,
+    "geom:longitude":27.41406,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Miglinieki",
+    "gn:country_code":"LV",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457316,
+    "gn:latitude":56.74265,
+    "gn:longitude":27.41406,
+    "gn:modification_date":"2010-12-04",
+    "gn:name":"Miglinieki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miglin\u012bki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457316
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"806ddc2473a751416d116c5166f42538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1242938713,
+            "region_id":85686095
+        }
+    ],
+    "wof:id":1242938713,
+    "wof:lastmodified":1537663107,
+    "wof:name":"Miglinieki",
+    "wof:parent_id":85686095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41406,
+    56.74265,
+    27.41406,
+    56.74265
+],
+  "geometry": {"coordinates":[27.41406,56.74265],"type":"Point"}
+}

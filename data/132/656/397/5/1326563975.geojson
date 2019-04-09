@@ -1,0 +1,70 @@
+{
+  "id": 1326563975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60167,56.91972,23.60167,56.91972",
+    "geom:latitude":56.91972,
+    "geom:longitude":23.60167,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"804988.0",
+    "gn:asciiname":"Likumciems",
+    "gn:country_code":"LV",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864263,
+    "gn:latitude":56.91972,
+    "gn:longitude":23.60167,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"L\u012bkumciems",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Likumtsiyems",
+        "L\u012bkumciems"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864263
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"c2d907de378d53180b2b7551c37bc930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326563975,
+            "region_id":85686027
+        }
+    ],
+    "wof:id":1326563975,
+    "wof:lastmodified":1537663241,
+    "wof:name":"Likumciems",
+    "wof:parent_id":85686027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60167,
+    56.91972,
+    23.60167,
+    56.91972
+],
+  "geometry": {"coordinates":[23.60167,56.91972],"type":"Point"}
+}

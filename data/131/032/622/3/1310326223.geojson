@@ -1,0 +1,73 @@
+{
+  "id": 1310326223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.89671,55.98877,26.89671,55.98877",
+    "geom:latitude":55.98877,
+    "geom:longitude":26.89671,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"440246.0",
+    "gn:asciiname":"Pavlovskoje",
+    "gn:country_code":"LV",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":456826,
+    "gn:latitude":55.98877,
+    "gn:longitude":26.89671,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Pavlovskoje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paulovskaja",
+        "Pavlovskaya",
+        "Pavlovskaja",
+        "Pavlova",
+        "Pavlovskoje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":456826
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"69aaf057f33cd4c6ac25b316a8fbb13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1310326223,
+            "region_id":85685825
+        }
+    ],
+    "wof:id":1310326223,
+    "wof:lastmodified":1537663090,
+    "wof:name":"Pavlovskoje",
+    "wof:parent_id":85685825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.89671,
+    55.98877,
+    26.89671,
+    55.98877
+],
+  "geometry": {"coordinates":[26.89671,55.98877],"type":"Point"}
+}

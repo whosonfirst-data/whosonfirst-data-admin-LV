@@ -1,0 +1,73 @@
+{
+  "id": 1209562813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25633,56.43251,22.25633,56.43251",
+    "geom:latitude":56.43251,
+    "geom:longitude":22.25633,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"840248.0",
+    "gn:asciiname":"Marijas",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457645,
+    "gn:latitude":56.43251,
+    "gn:longitude":22.25633,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Marijas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Marijasmui\u017ea"
+    ],
+    "name:lav_x_variant":[
+        "Marijas mui\u017ea"
+    ],
+    "name:und_x_variant":[
+        "Mariyasmuyzha",
+        "Marijas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457645
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6005afa96bd9318bd7b30df7dd824467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209562813
+        }
+    ],
+    "wof:id":1209562813,
+    "wof:lastmodified":1537663118,
+    "wof:name":"Marijas",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25633,
+    56.43251,
+    22.25633,
+    56.43251
+],
+  "geometry": {"coordinates":[22.25633,56.43251],"type":"Point"}
+}

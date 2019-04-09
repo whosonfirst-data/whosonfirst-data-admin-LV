@@ -1,0 +1,66 @@
+{
+  "id": 1209043753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.92323,56.32075,26.92323,56.32075",
+    "geom:latitude":56.32075,
+    "geom:longitude":26.92323,
+    "gn:admin1_code":"B3",
+    "gn:admin2_code":"766376.0",
+    "gn:asciiname":"Spaki",
+    "gn:country_code":"LV",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455922,
+    "gn:latitude":56.32075,
+    "gn:longitude":26.92323,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"\u0160paki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160paki",
+        "\u0160aki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455922
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6edb745981668e5c88a8d8410c6c3742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633279,
+            "locality_id":1209043753
+        }
+    ],
+    "wof:id":1209043753,
+    "wof:lastmodified":1537663065,
+    "wof:name":"Spaki",
+    "wof:parent_id":85633279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.92323,
+    56.32075,
+    26.92323,
+    56.32075
+],
+  "geometry": {"coordinates":[26.92323,56.32075],"type":"Point"}
+}

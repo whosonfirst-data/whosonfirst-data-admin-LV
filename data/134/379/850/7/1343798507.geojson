@@ -1,0 +1,66 @@
+{
+  "id": 1343798507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71308,57.10641,25.71308,57.10641",
+    "geom:latitude":57.10641,
+    "geom:longitude":25.71308,
+    "gn:admin1_code":"E3",
+    "gn:admin2_code":"429392.0",
+    "gn:asciiname":"Ludi",
+    "gn:country_code":"LV",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457779,
+    "gn:latitude":57.10641,
+    "gn:longitude":25.71308,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"\u013b\u016bdi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457779
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"fc99ee9026e6a2e94c0f5688a48a8f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1343798507,
+            "region_id":85686189
+        }
+    ],
+    "wof:id":1343798507,
+    "wof:lastmodified":1536756090,
+    "wof:name":"Ludi",
+    "wof:parent_id":85686189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71308,
+    57.10641,
+    25.71308,
+    57.10641
+],
+  "geometry": {"coordinates":[25.71308,57.10641],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327481015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72865,57.29644,22.72865,57.29644",
+    "geom:latitude":57.29644,
+    "geom:longitude":22.72865,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"880294.0",
+    "gn:asciiname":"Ladzere",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":458337,
+    "gn:latitude":57.29644,
+    "gn:longitude":22.72865,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"L\u0101dzere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fol\u2019vark Ladezre",
+        "L\u0101dzere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":458337
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"6030761a7e5f103b6564f2c2e087aaf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1327481015,
+            "region_id":85686157
+        }
+    ],
+    "wof:id":1327481015,
+    "wof:lastmodified":1537663140,
+    "wof:name":"Ladzere",
+    "wof:parent_id":85686157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72865,
+    57.29644,
+    22.72865,
+    57.29644
+],
+  "geometry": {"coordinates":[22.72865,57.29644],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326695037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34894,56.83151,26.34894,56.83151",
+    "geom:latitude":56.83151,
+    "geom:longitude":26.34894,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"700286.0",
+    "gn:asciiname":"Vecpoli",
+    "gn:country_code":"LV",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":454404,
+    "gn:latitude":56.83151,
+    "gn:longitude":26.34894,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Vecpo\u013ci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vecpo\u013ci",
+        "Po\u013ci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":454404
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"b29ae67f3402e73c3293ae311e988d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1326695037,
+            "region_id":85686143
+        }
+    ],
+    "wof:id":1326695037,
+    "wof:lastmodified":1537663022,
+    "wof:name":"Vecpoli",
+    "wof:parent_id":85686143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34894,
+    56.83151,
+    26.34894,
+    56.83151
+],
+  "geometry": {"coordinates":[26.34894,56.83151],"type":"Point"}
+}

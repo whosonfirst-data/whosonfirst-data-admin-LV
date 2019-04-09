@@ -1,0 +1,74 @@
+{
+  "id": 1276854593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.07735,55.93589,27.07735,55.93589",
+    "geom:latitude":55.93589,
+    "geom:longitude":27.07735,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"600296.0",
+    "gn:asciiname":"Ludvikova",
+    "gn:cc2":"LV",
+    "gn:country_code":"LV",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":457777,
+    "gn:latitude":55.93589,
+    "gn:longitude":27.07735,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"\u013budvikova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myza Ludvigavas",
+        "Ludvigovas",
+        "Ludvigavas",
+        "Ludvigovo",
+        "\u013budvikova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457777
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"0c99ba702b4304c143fbe00ff20c6d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1276854593,
+            "region_id":85685833
+        }
+    ],
+    "wof:id":1276854593,
+    "wof:lastmodified":1537663121,
+    "wof:name":"Ludvikova",
+    "wof:parent_id":85685833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.07735,
+    55.93589,
+    27.07735,
+    55.93589
+],
+  "geometry": {"coordinates":[27.07735,55.93589],"type":"Point"}
+}

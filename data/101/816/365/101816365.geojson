@@ -1,0 +1,85 @@
+{
+  "id": 101816365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":338352.019683,
+    "geom:bbox":"24.4183041753,56.8430093315,24.4289644007,56.8507502181",
+    "geom:latitude":56.846942,
+    "geom:longitude":24.424045,
+    "iso:country":"LV",
+    "lbl:latitude":56.846989,
+    "lbl:longitude":24.423943,
+    "mps:latitude":56.846989,
+    "mps:longitude":24.423943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Saulkalne"
+    ],
+    "name:eng_x_preferred":[
+        "Saulkalne"
+    ],
+    "name:lav_x_preferred":[
+        "Saulkalne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0443\u043b\u043a\u0430\u043b\u043d\u0435"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Salaspils novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Salaspils novads",
+    "qs:la_lc":"*LV8012",
+    "qs:level":"locality",
+    "qs:loc":"Saulkalne",
+    "qs:loc_alt":"Saulkalne",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":455814,
+        "gp:id":855068,
+        "qs:id":424295,
+        "wd:id":"Q15219723"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"41bc0f5add7fc753349a2a9e8d96ed88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101816365,
+            "region_id":85686015
+        }
+    ],
+    "wof:id":101816365,
+    "wof:lastmodified":1514484136,
+    "wof:name":"Saulkalne",
+    "wof:parent_id":85686015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41830417528092,
+    56.84300933150286,
+    24.428964400665,
+    56.85075021809877
+],
+  "geometry": {"coordinates":[[[24.428964400665,56.84703780243018],[24.42760842984649,56.84352717110517],[24.42439415032447,56.8438870012609],[24.42405527439786,56.84300933150286],[24.42244814857293,56.84318921226628],[24.42278698933353,56.84406688675529],[24.42117981419085,56.84424675252683],[24.42151863835602,56.84512443076164],[24.41830417528092,56.8454841125951],[24.41864294767453,56.84636179930578],[24.42025022146009,56.84618196352113],[24.42126675560172,56.84881500355777],[24.41965937628765,56.84899485353395],[24.42033708823766,56.85075021809877],[24.42676680199236,56.85003066198681],[24.42642779600993,56.84915299912427],[24.42803515387277,56.8489730655142],[24.42735712730934,56.8472177462989],[24.428964400665,56.84703780243018]]],"type":"Polygon"}
+}

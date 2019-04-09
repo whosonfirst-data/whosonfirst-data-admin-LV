@@ -1,0 +1,115 @@
+{
+  "id": 101847111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000162,
+    "geom:area_square_m":1114722.95638,
+    "geom:bbox":"25.2967498751,56.1941751943,25.3193620819,56.212400065",
+    "geom:latitude":56.203421,
+    "geom:longitude":25.307355,
+    "gn:population":1282,
+    "iso:country":"LV",
+    "lbl:latitude":56.204486,
+    "lbl:longitude":25.303586,
+    "mps:latitude":56.204486,
+    "mps:longitude":25.303586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Nereta"
+    ],
+    "name:dut_x_preferred":[
+        "Nereta"
+    ],
+    "name:eng_x_preferred":[
+        "Nereta"
+    ],
+    "name:est_x_preferred":[
+        "Nereta"
+    ],
+    "name:fre_x_preferred":[
+        "Nereta"
+    ],
+    "name:ger_x_preferred":[
+        "Nereta"
+    ],
+    "name:lav_x_preferred":[
+        "Nereta"
+    ],
+    "name:lit_x_preferred":[
+        "Nereta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0440\u0435\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Nereta"
+    ],
+    "name:unk_x_variant":[
+        "Myza Nereta"
+    ],
+    "qs:a0":"Latvija",
+    "qs:a1":"*Neretas novads",
+    "qs:a1r":"0",
+    "qs:adm0":"Latvija",
+    "qs:la":"Neretas pagasts",
+    "qs:la_lc":"*LV3270",
+    "qs:level":"locality",
+    "qs:loc":"Nereta",
+    "qs:loc_alt":"Nereta",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":56.204444,
+    "wd:longitude":25.307778,
+    "wd:population":1282,
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85685863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":457148,
+        "gp:id":854211,
+        "qs:id":5,
+        "wd:id":"Q987161",
+        "wk:page":"Nereta"
+    },
+    "wof:country":"LV",
+    "wof:geomhash":"a35c21db124a1d6724b4c8c5cf6f95f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":101847111,
+            "region_id":85685863
+        }
+    ],
+    "wof:id":101847111,
+    "wof:lastmodified":1527714972,
+    "wof:name":"Nereta",
+    "wof:parent_id":85685863,
+    "wof:placetype":"locality",
+    "wof:population":1282,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29674987508366,
+    56.19417519427014,
+    25.3193620818929,
+    56.21240006501927
+],
+  "geometry": {"coordinates":[[[25.3193620818929,56.20360953897654],[25.31795605214268,56.20010963082001],[25.31637889631736,56.20030011159724],[25.31532467218926,56.19767515385774],[25.31847876916169,56.19729420237496],[25.31777591379432,56.1955442444106],[25.31619893924642,56.19573472000536],[25.31584757322514,56.19485973442698],[25.31427061772865,56.19505018587432],[25.31391930393886,56.19417519427014],[25.31076541672456,56.19455602961159],[25.31217051788155,56.19805602829638],[25.31059341923009,56.19824643662355],[25.31094470824536,56.19912143833784],[25.31252184028938,56.19893102512356],[25.31357592061903,56.2015560087782],[25.30726690569344,56.2023176047046],[25.30691566032624,56.20144259174174],[25.30533840416518,56.20163293767644],[25.30428488133407,56.19900787731024],[25.29797611423157,56.19976900978867],[25.29832713606646,56.2006440505844],[25.29674987508366,56.20083429042768],[25.29710088235032,56.20170933497155],[25.29867817673767,56.20151909024491],[25.30078481639896,56.2067693043615],[25.29920732155256,56.2069595783945],[25.29955846070021,56.2078346149911],[25.29798091810886,56.20802487464107],[25.29973672945852,56.21240006501927],[25.30604748223294,56.21163881308399],[25.30464226073218,56.20813874123525],[25.30621977941087,56.20794839962667],[25.30586848775607,56.20707338371039],[25.31060085753961,56.20650225794276],[25.31024948450829,56.20562725555254],[25.31182687902054,56.20543684665182],[25.3114754914393,56.20456184801242],[25.3193620818929,56.20360953897654]]],"type":"Polygon"}
+}

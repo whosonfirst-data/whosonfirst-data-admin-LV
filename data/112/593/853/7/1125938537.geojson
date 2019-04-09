@@ -1,0 +1,112 @@
+{
+  "id": 1125938537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.15917,57.08111,24.15917,57.08111",
+    "geom:latitude":57.08111,
+    "geom:longitude":24.15917,
+    "gn:gn_country":"LV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":775,
+    "gn:population":775,
+    "iso:country":"LV",
+    "lbl:latitude":57.08111,
+    "lbl:longitude":24.15917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kalngale"
+    ],
+    "name:eng_x_preferred":[
+        "Kalngale"
+    ],
+    "name:est_x_preferred":[
+        "Kalngale"
+    ],
+    "name:lav_x_preferred":[
+        "Kalngale"
+    ],
+    "name:pol_x_preferred":[
+        "Kalngale"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u043d\u0433\u0430\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Kalngala"
+    ],
+    "qs_pg:aaroncc":"LV",
+    "qs_pg:gn_country":"LV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":459099,
+    "qs_pg:gn_pop":775,
+    "qs_pg:name":"Kalngale",
+    "qs_pg:name_adm0":"Latvija",
+    "qs_pg:name_adm1":"Carnikavas Novads",
+    "qs_pg:photos":145,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":145,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":229131,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424874,
+    "qs_pg:woe_id":852957,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424874,
+    "woe:name_adm0":"Latvija",
+    "woe:name_adm1":"Carnikavas Novads",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633279,
+        85686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":459099,
+        "gp:id":852957,
+        "qs_pg:id":229131,
+        "wd:id":"Q4210254"
+    },
+    "wof:country":"LV",
+    "wof:created":1497297043,
+    "wof:geomhash":"7a4e9cdd026e40fb5e6667372e76648a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633279,
+            "locality_id":1125938537,
+            "region_id":85686107
+        }
+    ],
+    "wof:id":1125938537,
+    "wof:lastmodified":1514484034,
+    "wof:name":"Kalngale",
+    "wof:parent_id":85686107,
+    "wof:placetype":"locality",
+    "wof:population":775,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15917,
+    57.08111,
+    24.15917,
+    57.08111
+],
+  "geometry": {"coordinates":[24.15917,57.08111],"type":"Point"}
+}
