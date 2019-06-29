@@ -42,8 +42,8 @@
     "name:deu_x_preferred":[
         "Bezirk Rug\u0101ji"
     ],
-    "name:dut_x_preferred":[
-        "Rug\u0101ju novads"
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03c5\u03b3\u03ba\u03ac\u03c4\u03b6\u03b9"
     ],
     "name:eng_x_preferred":[
         "Rugaju"
@@ -56,18 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Rug\u0101ji"
-    ],
-    "name:fre_x_preferred":[
-        "Rug\u0101ji"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10e3\u10d2\u10d0\u10d8\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Rug\u0101ji"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03bf\u03c5\u03b3\u03ba\u03ac\u03c4\u03b6\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac1\u0a97\u0abe\u0a9c\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -102,14 +90,17 @@
     "name:ltg_x_preferred":[
         "Ruguoju n\u016bvods"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0443\u0433\u0430\u0458\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0930\u0941\u0917\u093e\u091c\u0940 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0420\u0443\u0433\u0430\u0458\u0438"
+    ],
+    "name:msa_x_preferred":[
         "Rugaji municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Rug\u0101ju novads"
     ],
     "name:nob_x_preferred":[
         "Rugaju novads"
@@ -270,7 +261,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550867,
+    "wof:lastmodified":1561839425,
     "wof:name":"Rugaju",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

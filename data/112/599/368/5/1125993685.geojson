@@ -28,13 +28,13 @@
     "name:cat_x_preferred":[
         "P\u013cavi\u0146as"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u62c9\u7dad\u7d0d\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "P\u013cavi\u0146as"
     ],
     "name:dan_x_preferred":[
+        "P\u013cavi\u0146as"
+    ],
+    "name:deu_x_preferred":[
         "P\u013cavi\u0146as"
     ],
     "name:eng_x_preferred":[
@@ -43,10 +43,10 @@
     "name:est_x_preferred":[
         "P\u013cavi\u0146as"
     ],
-    "name:fre_x_preferred":[
-        "P\u013cavi\u0146as"
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0627\u0648\u06cc\u0646\u0627\u0633"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "P\u013cavi\u0146as"
     ],
     "name:hun_x_preferred":[
@@ -60,9 +60,6 @@
     ],
     "name:lit_x_preferred":[
         "Pliavinios"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0644\u0627\u0648\u06cc\u0646\u0627\u0633"
     ],
     "name:pol_x_preferred":[
         "P\u013cavi\u0146as"
@@ -84,6 +81,9 @@
     ],
     "name:unk_x_variant":[
         "Plyavinas"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u7dad\u7d0d\u65af"
     ],
     "qs_pg:aaroncc":"LV",
     "qs_pg:gn_country":"LV",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1125993685,
-    "wof:lastmodified":1514484087,
+    "wof:lastmodified":1561839447,
     "wof:name":"Pl\u0327avin\u0327as",
     "wof:parent_id":85686055,
     "wof:placetype":"locality",

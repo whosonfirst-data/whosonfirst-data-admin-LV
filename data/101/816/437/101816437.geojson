@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000388,
-    "geom:area_square_m":2577095.762922,
+    "geom:area_square_m":2577095.762924,
     "geom:bbox":"22.783721531,57.4898304381,22.8326587445,57.5111631179",
     "geom:latitude":57.500796,
     "geom:longitude":22.808085,
@@ -20,7 +20,7 @@
     "name:dan_x_preferred":[
         "Roja"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Roja"
     ],
     "name:eng_x_preferred":[
@@ -30,9 +30,6 @@
         "Roja"
     ],
     "name:fra_x_preferred":[
-        "Roja"
-    ],
-    "name:ger_x_preferred":[
         "Roja"
     ],
     "name:hin_x_preferred":[
@@ -52,6 +49,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0930\u094b\u091c\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Roja"
     ],
     "name:pol_x_preferred":[
         "Roja"
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":101816437,
-    "wof:lastmodified":1527642284,
+    "wof:lastmodified":1561839440,
     "wof:name":"Roja",
     "wof:parent_id":85686211,
     "wof:placetype":"locality",

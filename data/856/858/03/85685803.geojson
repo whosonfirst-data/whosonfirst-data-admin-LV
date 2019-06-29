@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075683,
-    "geom:area_square_m":517427213.591887,
+    "geom:area_square_m":517427213.591894,
     "geom:bbox":"21.3509425,56.2889875,21.769554,56.5750525",
     "geom:latitude":56.433245,
     "geom:longitude":21.564644,
@@ -36,8 +36,11 @@
     "name:dan_x_preferred":[
         "Priekule municipality"
     ],
-    "name:dut_x_preferred":[
-        "Priekules novads"
+    "name:deu_x_preferred":[
+        "Gemeinde Priekule"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03b9\u03b5\u03ba\u03bf\u03cd\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Priekules"
@@ -52,17 +55,8 @@
     "name:fin_x_preferred":[
         "Priekulen kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Priekule"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e0\u10d8\u10d4\u10d9\u10e3\u10da\u10d4\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Gemeinde Priekule"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c1\u03b9\u03b5\u03ba\u03bf\u03cd\u03bb\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0abf\u0a95\u0ac1\u0ab2\u0ac7 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -82,6 +76,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccd\u0cb0\u0cbf\u0c8f\u0c95\u0cc1\u0cb2\u0cc6 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d8\u10d4\u10d9\u10e3\u10da\u10d4\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ud504\ub9ac\uc5d0\ucfe8\ub808 \uc2dc"
     ],
@@ -91,14 +88,17 @@
     "name:lit_x_preferred":[
         "Priekul\u0117s savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0440\u0438\u0435\u043a\u0443\u043b\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u0940\u090f\u0915\u0941\u0932\u0947 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0438\u0435\u043a\u0443\u043b\u0435"
+    ],
+    "name:msa_x_preferred":[
         "Priekule municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Priekules novads"
     ],
     "name:nob_x_preferred":[
         "Priekule kommune"
@@ -256,7 +256,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553814886,
+    "wof:lastmodified":1561839428,
     "wof:name":"Priekules",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

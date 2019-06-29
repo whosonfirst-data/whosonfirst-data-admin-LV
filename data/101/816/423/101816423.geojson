@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00042,
-    "geom:area_square_m":2816131.945171,
+    "geom:area_square_m":2816131.945172,
     "geom:bbox":"22.5233956261,57.1243677442,22.5575671343,57.1545998261",
     "geom:latitude":57.140448,
     "geom:longitude":22.536815,
@@ -33,12 +33,6 @@
     "name:ces_x_preferred":[
         "Stende"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u6ed5\u4ee3"
-    ],
-    "name:cze_x_preferred":[
-        "Stende"
-    ],
     "name:dan_x_preferred":[
         "Stende"
     ],
@@ -54,10 +48,7 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0646\u062f"
     ],
-    "name:fre_x_preferred":[
-        "Stende"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Stende"
     ],
     "name:hun_x_preferred":[
@@ -71,9 +62,6 @@
     ],
     "name:lit_x_preferred":[
         "Stend\u0117"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0646\u062f"
     ],
     "name:pol_x_preferred":[
         "Stende"
@@ -140,7 +128,7 @@
         }
     ],
     "wof:id":101816423,
-    "wof:lastmodified":1527642284,
+    "wof:lastmodified":1561839439,
     "wof:name":"Stende",
     "wof:parent_id":85686157,
     "wof:placetype":"locality",

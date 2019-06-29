@@ -36,17 +36,14 @@
     "name:cat_x_preferred":[
         "Municipi de N\u012bca"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u5bdf\u81ea\u6cbb\u5e02"
-    ],
     "name:dan_x_preferred":[
         "N\u012bca municipality"
     ],
     "name:deu_x_preferred":[
         "Bezirk N\u012bca"
     ],
-    "name:dut_x_preferred":[
-        "N\u012bcas novads"
+    "name:ell_x_preferred":[
+        "\u039d\u03af\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nicas"
@@ -65,17 +62,8 @@
     "name:fra_x_preferred":[
         "N\u012bca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "N\u012bcas novads"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10ea\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk N\u012bca"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03af\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac0\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -107,14 +95,17 @@
     "name:lit_x_preferred":[
         "Nycos savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0438\u0446\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u093f\u092f\u093e\u0938 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Nica municipality"
+    ],
+    "name:nld_x_preferred":[
+        "N\u012bcas novads"
     ],
     "name:nob_x_preferred":[
         "Nica kommune"
@@ -157,6 +148,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Nica"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u5bdf\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -272,7 +266,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550863,
+    "wof:lastmodified":1561839426,
     "wof:name":"Nicas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

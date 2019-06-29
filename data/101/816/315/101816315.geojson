@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000942,
-    "geom:area_square_m":6409086.449713,
+    "geom:area_square_m":6409086.449714,
     "geom:bbox":"23.2572181834,56.604147034,23.3072733248,56.6413168102",
     "geom:latitude":56.625077,
     "geom:longitude":23.281052,
@@ -35,19 +35,10 @@
     "name:ces_x_preferred":[
         "Dobele"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u8c9d\u840a"
-    ],
-    "name:cze_x_preferred":[
-        "Dobele"
-    ],
     "name:dan_x_preferred":[
         "Dobele"
     ],
     "name:deu_x_preferred":[
-        "Dobele"
-    ],
-    "name:dut_x_preferred":[
         "Dobele"
     ],
     "name:eng_x_preferred":[
@@ -63,12 +54,6 @@
         "Dobele"
     ],
     "name:fra_x_preferred":[
-        "Dobele"
-    ],
-    "name:fre_x_preferred":[
-        "Dobele"
-    ],
-    "name:ger_x_preferred":[
         "Dobele"
     ],
     "name:heb_x_preferred":[
@@ -100,9 +85,6 @@
     ],
     "name:nld_x_preferred":[
         "Dobele"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0628\u0644\u060c \u0644\u062a\u0648\u0646\u06cc"
     ],
     "name:pol_x_preferred":[
         "Dobele"
@@ -180,7 +162,7 @@
         }
     ],
     "wof:id":101816315,
-    "wof:lastmodified":1514483997,
+    "wof:lastmodified":1561839441,
     "wof:name":"Dobele",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

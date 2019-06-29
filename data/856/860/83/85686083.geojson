@@ -36,14 +36,17 @@
     "name:cat_x_preferred":[
         "Municipi de Tukums"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tukums"
     ],
     "name:dan_x_preferred":[
         "Tukums Municipality"
     ],
-    "name:dut_x_preferred":[
-        "Tukuma novads"
+    "name:deu_x_preferred":[
+        "Bezirk Tukums"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03ba\u03bf\u03cd\u03bc\u03c2"
     ],
     "name:eng_x_preferred":[
         "Tukuma"
@@ -54,17 +57,8 @@
     "name:fin_x_preferred":[
         "Tukumsin kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tukums"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e3\u10d9\u10e3\u10db\u10e1\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Tukums"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c5\u03ba\u03bf\u03cd\u03bc\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac1\u0a95\u0ac1\u0aae\u0acd\u0ab8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -87,6 +81,9 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0cc1\u0c95\u0cae\u0ccd\u0cb8\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e3\u10d9\u10e3\u10db\u10e1\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ud22c\ucff0\uc2a4 \uc2dc"
     ],
@@ -96,14 +93,17 @@
     "name:lit_x_preferred":[
         "Tukumo savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0443\u043a\u0443\u043c\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u0941\u092e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0422\u0443\u043a\u0443\u043c\u0441"
+    ],
+    "name:msa_x_preferred":[
         "Tukums Municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Tukuma novads"
     ],
     "name:nob_x_preferred":[
         "Tukums kommune"
@@ -268,7 +268,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550863,
+    "wof:lastmodified":1561839428,
     "wof:name":"Tukuma",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

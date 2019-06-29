@@ -19,9 +19,6 @@
     "name:cat_x_preferred":[
         "Casa Senyorial de Sunta\u017ei"
     ],
-    "name:dut_x_preferred":[
-        "Sunta\u017ei"
-    ],
     "name:eng_x_preferred":[
         "Sunta\u017ei"
     ],
@@ -30,6 +27,9 @@
     ],
     "name:lav_x_preferred":[
         "Sunta\u017eu mui\u017ea"
+    ],
+    "name:nld_x_preferred":[
+        "Sunta\u017ei"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043d\u0442\u0430\u0436\u0438"
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101847147,
-    "wof:lastmodified":1514484149,
+    "wof:lastmodified":1561839445,
     "wof:name":"Sunta\u017ei",
     "wof:parent_id":85686079,
     "wof:placetype":"locality",

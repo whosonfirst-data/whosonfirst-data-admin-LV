@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0644\u064a\u0645\u0628\u0627\u062c\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0574\u0562\u0561\u056a\u056b\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09ae\u09cd\u09ac\u09be\u099c\u09bf \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
@@ -39,20 +36,20 @@
     "name:cat_x_preferred":[
         "Raion de Limba\u017eu"
     ],
-    "name:chi_x_preferred":[
-        "\u6797\u5df4\u6fdf\u81ea\u6cbb\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Limba\u017eis distrikt"
     ],
     "name:deu_x_preferred":[
         "Landkreis Limba\u017ei"
     ],
-    "name:dut_x_preferred":[
-        "Limba\u017eu novads"
+    "name:deu_x_variant":[
+        "Limba\u017ei"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039b\u03af\u03bc\u03c0\u03b1\u03b6\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03bc\u03c0\u03ac\u03b6\u03b9"
     ],
     "name:eng_x_preferred":[
         "Limbazi"
@@ -69,26 +66,20 @@
     "name:fra_x_preferred":[
         "Rajons de Limba\u017ei"
     ],
-    "name:fre_x_preferred":[
-        "Limba\u017ei"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10db\u10d1\u10d0\u10df\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Limba\u017ei"
     ],
     "name:glg_x_preferred":[
         "Condado de Limbazu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03bc\u03c0\u03ac\u03b6\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aae\u0acd\u0aac\u0ac7\u0a9d\u0abf \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0940\u092e\u094d\u092c\u093e\u091c\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0574\u0562\u0561\u056a\u056b\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Limba\u017ei"
@@ -102,6 +93,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cbf\u0c82\u0cac\u0cbe\u0c9d\u0cbf \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10db\u10d1\u10d0\u10df\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ub9bc\ubc14\uc9c0 \uc2dc"
     ],
@@ -111,14 +105,17 @@
     "name:lit_x_preferred":[
         "Limba\u017ei\u0173 savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u043c\u0431\u0430\u0436\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u092e\u094d\u092c\u094b \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u043c\u0431\u0430\u0436\u0438"
+    ],
+    "name:msa_x_preferred":[
         "Limbazi municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Limba\u017eu novads"
     ],
     "name:nob_x_preferred":[
         "Limbazi kommune"
@@ -164,6 +161,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Limbazi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u5df4\u6fdf\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -279,7 +279,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550869,
+    "wof:lastmodified":1561839432,
     "wof:name":"Limba\u017eu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

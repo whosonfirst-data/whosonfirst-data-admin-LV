@@ -28,16 +28,13 @@
     "name:cat_x_preferred":[
         "Mazsalaca"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u8332\u85a9\u62c9\u5bdf"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mazsalaca"
     ],
     "name:dan_x_preferred":[
         "Mazsalaca"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mazsalaca"
     ],
     "name:eng_x_preferred":[
@@ -46,13 +43,13 @@
     "name:est_x_preferred":[
         "Mazsalaca"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0632\u0633\u0627\u0644\u0627\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Mazsalaca"
     ],
-    "name:fre_x_preferred":[
-        "Mazsalaca"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mazsalaca"
     ],
     "name:hun_x_preferred":[
@@ -70,8 +67,8 @@
     "name:lit_x_preferred":[
         "Mazsalaca"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0632\u0633\u0627\u0644\u0627\u06a9\u0627"
+    "name:nld_x_preferred":[
+        "Mazsalaca"
     ],
     "name:pol_x_preferred":[
         "Mazsalaca"
@@ -90,6 +87,9 @@
     ],
     "name:unk_x_variant":[
         "Salisburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u8332\u85a9\u62c9\u5bdf"
     ],
     "qs_pg:aaroncc":"LV",
     "qs_pg:gn_country":"LV",
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":1126038855,
-    "wof:lastmodified":1514484071,
+    "wof:lastmodified":1561839447,
     "wof:name":"Mazsalace",
     "wof:parent_id":85686303,
     "wof:placetype":"locality",

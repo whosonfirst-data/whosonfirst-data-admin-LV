@@ -17,22 +17,16 @@
     "mps:longitude":24.229559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u056f\u0561\u057e\u0561"
-    ],
     "name:cat_x_preferred":[
         "\u0136ekava"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0136ekava"
     ],
     "name:dan_x_preferred":[
         "\u0136ekava"
     ],
     "name:deu_x_preferred":[
-        "\u0136ekava"
-    ],
-    "name:dut_x_preferred":[
         "\u0136ekava"
     ],
     "name:eng_x_preferred":[
@@ -44,17 +38,17 @@
     "name:fra_x_preferred":[
         "\u0136ekava"
     ],
-    "name:fre_x_preferred":[
-        "\u0136ekava"
-    ],
-    "name:ger_x_preferred":[
-        "\u0136ekava"
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u056f\u0561\u057e\u0561"
     ],
     "name:lav_x_preferred":[
         "\u0136ekava"
     ],
     "name:lit_x_preferred":[
         "Kekava"
+    ],
+    "name:nld_x_preferred":[
+        "\u0136ekava"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u043a\u0430\u0432\u0430"
@@ -109,7 +103,7 @@
         }
     ],
     "wof:id":101847135,
-    "wof:lastmodified":1527714966,
+    "wof:lastmodified":1561839444,
     "wof:name":"\u0136ekava",
     "wof:parent_id":85685999,
     "wof:placetype":"locality",

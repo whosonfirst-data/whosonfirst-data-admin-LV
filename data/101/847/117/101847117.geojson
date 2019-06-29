@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":1353391.693381,
+    "geom:area_square_m":1353391.69338,
     "geom:bbox":"21.1689821996,56.8808239132,21.2151562287,56.8924834225",
     "geom:latitude":56.886362,
     "geom:longitude":21.190575,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u064a\u0644\u0648\u0633\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u057e\u056b\u056c\u0578\u057d\u057f\u0561"
-    ],
     "name:bel_x_variant":[
         "\u041f\u0430\u0432\u0456\u043b\u0430\u0441\u0442\u0430"
     ],
@@ -33,12 +30,6 @@
         "P\u0101vilosta"
     ],
     "name:ces_x_preferred":[
-        "P\u0101vilosta"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e15\u7dad\u6d1b\u65af\u5854"
-    ],
-    "name:cze_x_preferred":[
         "P\u0101vilosta"
     ],
     "name:dan_x_preferred":[
@@ -59,14 +50,14 @@
     "name:fin_x_preferred":[
         "P\u0101vilosta"
     ],
-    "name:fre_x_preferred":[
-        "P\u0101vilosta"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "P\u0101vilosta"
     ],
     "name:hun_x_preferred":[
         "P\u0101vilosta"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u057e\u056b\u056c\u0578\u057d\u057f\u0561"
     ],
     "name:kaz_x_preferred":[
         "\u041f\u0430\u0432\u0438\u043b\u043e\u0441\u0442\u0430"
@@ -76,9 +67,6 @@
     ],
     "name:lit_x_preferred":[
         "Paviluostas"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0648\u06cc\u0644\u0648\u0633\u062a\u0627"
     ],
     "name:pol_x_preferred":[
         "P\u0101vilosta"
@@ -100,6 +88,9 @@
     ],
     "name:unk_x_variant":[
         "\u0100kagals"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7dad\u6d1b\u65af\u5854"
     ],
     "qs:a0":"Latvija",
     "qs:a1":"*Pavilostas novads",
@@ -145,7 +136,7 @@
         }
     ],
     "wof:id":101847117,
-    "wof:lastmodified":1527714974,
+    "wof:lastmodified":1561839445,
     "wof:name":"P\u0101vilosta",
     "wof:parent_id":85685901,
     "wof:placetype":"locality",

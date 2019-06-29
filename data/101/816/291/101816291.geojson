@@ -35,19 +35,10 @@
     "name:ces_x_preferred":[
         "Auce"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u91c7"
-    ],
-    "name:cze_x_preferred":[
-        "Auce"
-    ],
     "name:dan_x_preferred":[
         "Auce"
     ],
     "name:deu_x_preferred":[
-        "Auce"
-    ],
-    "name:dut_x_preferred":[
         "Auce"
     ],
     "name:eng_x_preferred":[
@@ -62,20 +53,14 @@
     "name:fra_x_preferred":[
         "Auce"
     ],
-    "name:fre_x_preferred":[
-        "Auce"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e3\u10ea\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Auce"
-    ],
     "name:hun_x_preferred":[
         "Auce"
     ],
     "name:ita_x_preferred":[
         "Auce"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e3\u10ea\u10d4"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0443\u0446\u0435"
@@ -86,8 +71,8 @@
     "name:lit_x_preferred":[
         "Auc\u0117"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u06a9\u0647"
+    "name:nld_x_preferred":[
+        "Auce"
     ],
     "name:pol_x_preferred":[
         "Auce"
@@ -163,7 +148,7 @@
         }
     ],
     "wof:id":101816291,
-    "wof:lastmodified":1527642293,
+    "wof:lastmodified":1561839442,
     "wof:name":"Auce",
     "wof:parent_id":85685839,
     "wof:placetype":"locality",

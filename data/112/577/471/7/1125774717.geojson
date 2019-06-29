@@ -18,9 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "T\u0101rgale"
-    ],
     "name:eng_x_preferred":[
         "T\u0101rgale"
     ],
@@ -29,6 +26,9 @@
     ],
     "name:lit_x_preferred":[
         "Targal\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "T\u0101rgale"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u0433\u0430\u043b\u0435"
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1125774717,
-    "wof:lastmodified":1514484156,
+    "wof:lastmodified":1561839448,
     "wof:name":"T\u0101rgale",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",

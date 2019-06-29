@@ -36,14 +36,14 @@
     "name:cat_x_preferred":[
         "Municipi de Salacgr\u012bva"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u62c9\u8328\u683c\u91cc\u74e6\u81ea\u6cbb\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Salacgr\u012bva municipality"
     ],
-    "name:dut_x_preferred":[
-        "Salacgr\u012bvas novads"
+    "name:deu_x_preferred":[
+        "Gemeinde Salacgr\u012bva"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bb\u03b1\u03ba\u03b3\u03ba\u03c1\u03af\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Salacgrivas"
@@ -56,18 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Salacgr\u012bva"
-    ],
-    "name:fre_x_preferred":[
-        "Salacgr\u012bva"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10da\u10d0\u10ea\u10d2\u10e0\u10d8\u10d5\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Gemeinde Salacgr\u012bva"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bb\u03b1\u03ba\u03b3\u03ba\u03c1\u03af\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab2\u0abe\u0ab8\u0a97\u0acd\u0ab0\u0ac0\u0ab5\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -99,17 +87,17 @@
     "name:lit_x_preferred":[
         "Salacgryvos savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043b\u0430\u0446\u0433\u0440\u0438\u0432\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0932\u0915\u0917\u094d\u0930\u0940\u0935\u093e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Salacgriva municipality"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043b\u0430\u0446\u0433\u0440\u0438\u0432\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Salacgriva municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Salacgr\u012bvas novads"
     ],
     "name:nob_x_preferred":[
         "Salacgriva Kommune"
@@ -155,6 +143,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Salacgriva"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u62c9\u8328\u683c\u91cc\u74e6\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -270,7 +261,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550906,
+    "wof:lastmodified":1561839432,
     "wof:name":"Salacgrivas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

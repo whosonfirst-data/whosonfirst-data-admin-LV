@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u063a\u0631\u0648\u0628\u064a\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0580\u0578\u0562\u056b\u0576\u0575\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u0440\u043e\u0431\u0456\u043d\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
@@ -39,17 +36,14 @@
     "name:cat_x_preferred":[
         "Municipi de Grobi\u0146a"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u7f85\u6bd4\u7d0d\u81ea\u6cbb\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Grobi\u0146a municipality"
     ],
     "name:deu_x_preferred":[
         "Bezirk Grobi\u0146a"
     ],
-    "name:dut_x_preferred":[
-        "Grobi\u0146as novads"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03bf\u03bc\u03c0\u03af\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Grobinas"
@@ -67,18 +61,6 @@
     ],
     "name:fra_x_preferred":[
         "Grobi\u0146a"
-    ],
-    "name:fre_x_preferred":[
-        "Grobi\u0146a"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10dd\u10d1\u10d8\u10dc\u10d8\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Grobi\u0146a"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03c1\u03bf\u03bc\u03c0\u03af\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab0\u0acb\u0aac\u0abf\u0aa8\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -113,14 +95,17 @@
     "name:lit_x_preferred":[
         "Gruobinios savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0440\u043e\u0431\u0438\u045a\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u0949\u092c\u094d\u0930\u093f\u092a\u093e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0413\u0440\u043e\u0431\u0438\u045a\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Grobina municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Grobi\u0146as novads"
     ],
     "name:nob_x_preferred":[
         "Grobina Kommune"
@@ -166,6 +151,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Grobina"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u7f85\u6bd4\u7d0d\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -281,7 +269,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550864,
+    "wof:lastmodified":1561839429,
     "wof:name":"Grobinas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0644\u064a\u0644\u0641\u0627\u0631\u062f"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0565\u056c\u057e\u0561\u0580\u0564\u0565\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:bel_x_variant":[
         "\u041b\u0456\u0435\u043b\u0432\u0430\u0440\u0434\u0437\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
@@ -39,14 +36,14 @@
     "name:cat_x_preferred":[
         "Municipi de Lielv\u0101rde"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u8036\u723e\u74e6\u723e\u4ee3\u81ea\u6cbb\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Lielv\u0101rde municipality"
     ],
-    "name:dut_x_preferred":[
-        "Lielv\u0101rdes novads"
+    "name:deu_x_preferred":[
+        "Bezirk Lielv\u0101rde"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b5\u03bb\u03b2\u03ac\u03c1\u03bd\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Lielvardes"
@@ -64,18 +61,6 @@
     ],
     "name:fra_x_preferred":[
         "Lielv\u0101rde"
-    ],
-    "name:fre_x_preferred":[
-        "Lielv\u0101rde"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10d4\u10da\u10d5\u10d0\u10e0\u10d3\u10d4\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Lielv\u0101rde"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03b5\u03bb\u03b2\u03ac\u03c1\u03bd\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0ab2\u0ab5\u0abe\u0ab0\u0acd\u0aa1\u0ac7 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -110,14 +95,17 @@
     "name:lit_x_preferred":[
         "Lielvard\u0117s savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u0435\u043b\u0432\u0430\u0440\u0434\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u0932\u0947\u0935\u094d\u0939\u093e\u0930\u094d\u0921 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u0435\u043b\u0432\u0430\u0440\u0434\u0435"
+    ],
+    "name:msa_x_preferred":[
         "Lielvarde municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Lielv\u0101rdes novads"
     ],
     "name:nob_x_preferred":[
         "Lielvarde kommune"
@@ -160,6 +148,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Lielvarde"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u8036\u723e\u74e6\u723e\u4ee3\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -275,7 +266,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550867,
+    "wof:lastmodified":1561839421,
     "wof:name":"Lielvardes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000161,
-    "geom:area_square_m":1104742.525593,
+    "geom:area_square_m":1104742.525592,
     "geom:bbox":"25.5481026738,56.3375870719,25.568667641,56.3534165054",
     "geom:latitude":56.345781,
     "geom:longitude":25.558675,
@@ -32,19 +32,13 @@
     "name:ces_x_preferred":[
         "Vies\u012bte"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u8036\u897f\u6cf0"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Vies\u012bte"
     ],
     "name:dan_x_preferred":[
         "Vies\u012bte"
     ],
     "name:deu_x_preferred":[
-        "Vies\u012bte"
-    ],
-    "name:dut_x_preferred":[
         "Vies\u012bte"
     ],
     "name:eng_x_preferred":[
@@ -56,10 +50,7 @@
     "name:fas_x_preferred":[
         "\u0648\u06cc\u0633\u06cc\u062a"
     ],
-    "name:fre_x_preferred":[
-        "Vies\u012bte"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vies\u012bte"
     ],
     "name:hun_x_preferred":[
@@ -74,8 +65,8 @@
     "name:lit_x_preferred":[
         "Viesyt\u0117"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0633\u06cc\u062a"
+    "name:nld_x_preferred":[
+        "Vies\u012bte"
     ],
     "name:pol_x_preferred":[
         "Vies\u012bte"
@@ -98,8 +89,8 @@
     "name:unk_x_variant":[
         "Eckengrafen"
     ],
-    "name:wel_x_preferred":[
-        "Vies\u012bte"
+    "name:zho_x_preferred":[
+        "\u7dad\u8036\u897f\u6cf0"
     ],
     "qs:a0":"Latvija",
     "qs:a1":"*Viesites novads",
@@ -145,7 +136,7 @@
         }
     ],
     "wof:id":101816301,
-    "wof:lastmodified":1527642281,
+    "wof:lastmodified":1561839439,
     "wof:name":"Vies\u012bte",
     "wof:parent_id":85685875,
     "wof:placetype":"locality",

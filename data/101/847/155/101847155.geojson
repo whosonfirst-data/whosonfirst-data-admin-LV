@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000556,
-    "geom:area_square_m":3741659.088134,
+    "geom:area_square_m":3741659.088133,
     "geom:bbox":"23.4794381421,56.9820181966,23.545943403,57.0329494297",
     "geom:latitude":57.005417,
     "geom:longitude":23.511301,
@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "Lapme\u017eciema pagasts"
     ],
-    "name:dut_x_preferred":[
-        "Lapme\u017eciems"
-    ],
     "name:eng_x_preferred":[
         "Lapme\u017eciems"
     ],
@@ -30,6 +27,9 @@
     ],
     "name:lit_x_preferred":[
         "Lapme\u017eciemas"
+    ],
+    "name:nld_x_preferred":[
+        "Lapme\u017eciems"
     ],
     "name:unk_x_variant":[
         "Lapmezhtsiems"
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":101847155,
-    "wof:lastmodified":1527714975,
+    "wof:lastmodified":1561839445,
     "wof:name":"Lapme\u017eciems",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

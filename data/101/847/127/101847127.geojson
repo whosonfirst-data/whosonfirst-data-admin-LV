@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":965266.03331,
+    "geom:area_square_m":965266.033311,
     "geom:bbox":"21.5542408964,56.9696948516,21.5734667016,56.9839855152",
     "geom:latitude":56.977959,
     "geom:longitude":21.564204,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Alsunga"
     ],
-    "name:dut_x_preferred":[
-        "Alsunga"
-    ],
     "name:eng_x_preferred":[
         "Alsunga"
     ],
@@ -39,12 +36,6 @@
         "\u0627\u0644\u0633\u0627\u0646\u06af\u0627"
     ],
     "name:fra_x_preferred":[
-        "Alsunga"
-    ],
-    "name:fre_x_preferred":[
-        "Alsunga"
-    ],
-    "name:ger_x_preferred":[
         "Alsunga"
     ],
     "name:ita_x_preferred":[
@@ -64,9 +55,6 @@
     ],
     "name:oci_x_preferred":[
         "Alsunga"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0633\u0627\u0646\u06af\u0627"
     ],
     "name:pol_x_preferred":[
         "Alsunga"
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":101847127,
-    "wof:lastmodified":1527714973,
+    "wof:lastmodified":1561839445,
     "wof:name":"Alsunga",
     "wof:parent_id":85685961,
     "wof:placetype":"locality",

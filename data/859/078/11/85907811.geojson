@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7959696.913955,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.010275,56.942724,24.010275,56.942724",
     "geom:latitude":56.942724,
     "geom:longitude":24.010275,
@@ -36,9 +36,6 @@
         "Zolit\u016bde"
     ],
     "name:est_x_preferred":[
-        "Zolit\u016bde"
-    ],
-    "name:ger_x_preferred":[
         "Zolit\u016bde"
     ],
     "name:lav_x_preferred":[
@@ -114,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936641,
+    "wof:lastmodified":1561839421,
     "wof:name":"Zolitude",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

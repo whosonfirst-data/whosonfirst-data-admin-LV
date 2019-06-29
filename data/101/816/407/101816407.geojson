@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
-    "geom:area_square_m":1711629.691414,
+    "geom:area_square_m":1711629.691416,
     "geom:bbox":"26.7054511778,56.8905048226,26.7333995454,56.9128132259",
     "geom:latitude":56.901751,
     "geom:longitude":26.717854,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0628\u0627\u0646\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0578\u0582\u0562\u0561\u0576\u0561"
-    ],
     "name:bel_x_variant":[
         "\u041b\u0443\u0431\u0430\u043d\u0430"
     ],
@@ -35,12 +32,6 @@
     "name:ces_x_preferred":[
         "Lub\u0101na"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u5df4\u7d0d"
-    ],
-    "name:cze_x_preferred":[
-        "Lub\u0101na"
-    ],
     "name:dan_x_preferred":[
         "Lub\u0101na"
     ],
@@ -50,23 +41,26 @@
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03cd\u03bc\u03c0\u03b1\u03bd\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039b\u03bf\u03c5\u03bc\u03c0\u03ac\u03bd\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Lub\u0101na"
     ],
     "name:est_x_preferred":[
         "Lub\u0101na"
     ],
-    "name:fre_x_preferred":[
-        "Lub\u0101na"
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0628\u0627\u0646\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lub\u0101na"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03bc\u03c0\u03ac\u03bd\u03b1"
     ],
     "name:hun_x_preferred":[
         "Lub\u0101na"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u0562\u0561\u0576\u0561"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u0443\u0431\u0430\u043d\u0430"
@@ -76,9 +70,6 @@
     ],
     "name:lit_x_preferred":[
         "Lubana"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0628\u0627\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Lub\u0101na"
@@ -97,6 +88,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0431\u0430\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5df4\u7d0d"
     ],
     "qs:a0":"Latvija",
     "qs:a1":"*Lubanas novads",
@@ -142,7 +136,7 @@
         }
     ],
     "wof:id":101816407,
-    "wof:lastmodified":1527642285,
+    "wof:lastmodified":1561839440,
     "wof:name":"Lub\u0101na",
     "wof:parent_id":85686131,
     "wof:placetype":"locality",

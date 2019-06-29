@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001321,
-    "geom:area_square_m":8856303.12857,
+    "geom:area_square_m":8856303.128575,
     "geom:bbox":"24.8194791763,57.1368802802,24.8989831307,57.170169267",
     "geom:latitude":57.153439,
     "geom:longitude":24.864961,
@@ -20,12 +20,6 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u063a\u0648\u0644\u062f\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0563\u0578\u0582\u056c\u0564\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Sigulda"
-    ],
     "name:bel_x_variant":[
         "\u0421\u0456\u0433\u0443\u043b\u0434\u0430"
     ],
@@ -38,19 +32,10 @@
     "name:ces_x_preferred":[
         "Sigulda"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u53e4\u723e\u9054"
-    ],
-    "name:cze_x_preferred":[
-        "Sigulda"
-    ],
     "name:dan_x_preferred":[
         "Sigulda"
     ],
     "name:deu_x_preferred":[
-        "Sigulda"
-    ],
-    "name:dut_x_preferred":[
         "Sigulda"
     ],
     "name:eng_x_preferred":[
@@ -77,20 +62,14 @@
     "name:fra_x_preferred":[
         "Sigulda"
     ],
-    "name:fre_x_preferred":[
-        "Sigulda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10d2\u10e3\u10da\u10d3\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Sigulda"
-    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d2\u05d5\u05dc\u05d3\u05d4"
     ],
     "name:hun_x_preferred":[
         "Sigulda"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0563\u0578\u0582\u056c\u0564\u0561"
     ],
     "name:ile_x_preferred":[
         "Sigulda"
@@ -115,9 +94,6 @@
     ],
     "name:nld_x_preferred":[
         "Sigulda"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u06af\u0648\u0644\u062f\u0627"
     ],
     "name:pol_x_preferred":[
         "Sigulda"
@@ -206,7 +182,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642285,
+    "wof:lastmodified":1561839440,
     "wof:name":"Sigulda",
     "wof:parent_id":85686135,
     "wof:placetype":"locality",

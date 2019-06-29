@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0628\u0648\u0633\u0643\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0578\u0582\u057d\u056f\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u045e\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
@@ -42,8 +39,11 @@
     "name:dan_x_preferred":[
         "Bauska municipality"
     ],
-    "name:dut_x_preferred":[
-        "Bauskas novads"
+    "name:deu_x_preferred":[
+        "Bezirk Bauska"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bf\u03c5\u03c3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bauskas"
@@ -54,23 +54,17 @@
     "name:fin_x_preferred":[
         "Bauskan kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bauska"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e3\u10e1\u10d9\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Bauska"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03bf\u03c5\u03c3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a89\u0ab8\u0acd\u0a95\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0909\u0938\u094d\u0915\u093e \u0928\u0917\u0930 \u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0578\u0582\u057d\u056f\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Bauska"
@@ -84,6 +78,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cbe\u0cb8\u0ccd\u0c95\u0cbe \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e3\u10e1\u10d9\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ubc14\uc6b0\uc2a4\uce74 \uc2dc"
     ],
@@ -93,14 +90,17 @@
     "name:lit_x_preferred":[
         "Bausk\u0117s savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u0443\u0441\u043a\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u090a\u0938\u0915\u093e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0443\u0441\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Bauska municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Bauskas novads"
     ],
     "name:nob_x_preferred":[
         "Bauska kommune"
@@ -262,7 +262,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550865,
+    "wof:lastmodified":1561839429,
     "wof:name":"Bauskas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

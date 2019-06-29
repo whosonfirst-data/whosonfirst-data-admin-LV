@@ -16,13 +16,13 @@
     "mps:longitude":24.423943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Saulkalne"
-    ],
     "name:eng_x_preferred":[
         "Saulkalne"
     ],
     "name:lav_x_preferred":[
+        "Saulkalne"
+    ],
+    "name:nld_x_preferred":[
         "Saulkalne"
     ],
     "name:rus_x_preferred":[
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":101816365,
-    "wof:lastmodified":1514484136,
+    "wof:lastmodified":1561839439,
     "wof:name":"Saulkalne",
     "wof:parent_id":85686015,
     "wof:placetype":"locality",

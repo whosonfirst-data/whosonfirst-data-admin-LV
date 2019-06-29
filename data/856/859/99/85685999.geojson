@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0643\u064a\u0643\u0627\u0641\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u056f\u0561\u057e\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:bel_x_variant":[
         "\u041a\u0435\u043a\u0430\u045e\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
@@ -39,14 +36,14 @@
     "name:cat_x_preferred":[
         "Municipi de \u0136ekava"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5361\u74e6\u65af\u81ea\u6cbb\u5e02"
-    ],
     "name:dan_x_preferred":[
         "\u0136ekava municipality"
     ],
-    "name:dut_x_preferred":[
-        "\u0136ekavas novads"
+    "name:deu_x_preferred":[
+        "Bezirk \u0136ekava"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ad\u03ba\u03b1\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kekavas"
@@ -65,23 +62,14 @@
     "name:fra_x_preferred":[
         "\u0136ekava"
     ],
-    "name:fre_x_preferred":[
-        "\u0136ekava"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d4\u10d9\u10d0\u10d5\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk \u0136ekava"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ad\u03ba\u03b1\u03b2\u03b1"
-    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0a95\u0abe\u0ab5\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0947\u0915\u093e\u0935\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u056f\u0561\u057e\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya \u0136ekava"
@@ -110,14 +98,17 @@
     "name:lit_x_preferred":[
         "Kekavos savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u040c\u0435\u043a\u0430\u0432\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0910\u0915\u094d\u0935\u093e \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u040c\u0435\u043a\u0430\u0432\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Kekava municipality"
+    ],
+    "name:nld_x_preferred":[
+        "\u0136ekavas novads"
     ],
     "name:nob_x_preferred":[
         "Kekava kommune"
@@ -160,6 +151,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Kekava"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5361\u74e6\u65af\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -275,7 +269,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550869,
+    "wof:lastmodified":1561839423,
     "wof:name":"Kekavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
