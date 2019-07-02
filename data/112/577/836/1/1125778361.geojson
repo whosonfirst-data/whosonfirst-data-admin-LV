@@ -25,9 +25,6 @@
     "name:afr_x_preferred":[
         "Riga"
     ],
-    "name:alb_x_preferred":[
-        "Riga"
-    ],
     "name:amh_x_preferred":[
         "\u122a\u130b"
     ],
@@ -40,9 +37,6 @@
     "name:arg_x_preferred":[
         "Riga"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u056b\u0563\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0631\u064a\u062c\u0627"
     ],
@@ -51,9 +45,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0420\u0438\u0433\u0430"
-    ],
-    "name:baq_x_preferred":[
-        "Riga"
     ],
     "name:bar_x_preferred":[
         "Riga"
@@ -79,9 +70,6 @@
     "name:bul_x_preferred":[
         "\u0420\u0438\u0433\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u101b\u102e\u1002\u102b\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Riga"
     ],
@@ -90,9 +78,6 @@
     ],
     "name:che_x_preferred":[
         "\u0420\u0438\u0433\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u91cc\u52a0"
     ],
     "name:chu_x_preferred":[
         "\u0420\u0438\u0433\u0430"
@@ -109,7 +94,7 @@
     "name:csb_x_preferred":[
         "Riga"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Riga"
     ],
     "name:dan_x_preferred":[
@@ -122,9 +107,6 @@
         "Riga"
     ],
     "name:dsb_x_preferred":[
-        "Riga"
-    ],
-    "name:dut_x_preferred":[
         "Riga"
     ],
     "name:ell_x_preferred":[
@@ -160,9 +142,6 @@
     "name:fra_x_variant":[
         "R\u012bga"
     ],
-    "name:fre_x_preferred":[
-        "Riga"
-    ],
     "name:frp_x_preferred":[
         "Riga"
     ],
@@ -173,12 +152,6 @@
         "Riga"
     ],
     "name:gag_x_preferred":[
-        "Riga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Riga"
     ],
     "name:gla_x_preferred":[
@@ -192,9 +165,6 @@
     ],
     "name:glv_x_preferred":[
         "R\u012bga"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03af\u03b3\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Riga"
@@ -228,9 +198,6 @@
     ],
     "name:hye_x_preferred":[
         "\u054c\u056b\u0563\u0561"
-    ],
-    "name:ice_x_preferred":[
-        "R\u00edga"
     ],
     "name:ido_x_preferred":[
         "Riga"
@@ -325,20 +292,11 @@
     "name:lzh_x_preferred":[
         "\u91cc\u52a0"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0438\u0433\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d31\u0d3f\u0d17"
     ],
-    "name:mao_x_preferred":[
-        "Riga"
-    ],
     "name:mar_x_preferred":[
         "\u0930\u093f\u0917\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Riga"
     ],
     "name:mdf_x_preferred":[
         "\u0420\u0438\u0433\u0430"
@@ -358,8 +316,17 @@
     "name:mon_x_preferred":[
         "\u0420\u0438\u0433\u0430"
     ],
+    "name:mri_x_preferred":[
+        "Riga"
+    ],
     "name:mrj_x_preferred":[
         "\u0420\u0438\u0433\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Riga"
+    ],
+    "name:mya_x_preferred":[
+        "\u101b\u102e\u1002\u102b\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:myv_x_preferred":[
         "\u0420\u0438\u0433\u0430 \u043e\u0448"
@@ -397,9 +364,6 @@
     "name:pan_x_preferred":[
         "\u0a30\u0a40\u0a17\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u06af\u0627"
-    ],
     "name:pih_x_preferred":[
         "Riigaa"
     ],
@@ -427,9 +391,6 @@
     "name:rue_x_preferred":[
         "\u0420\u0456\u0491\u0430"
     ],
-    "name:rum_x_preferred":[
-        "Riga"
-    ],
     "name:rup_x_preferred":[
         "Riga"
     ],
@@ -452,9 +413,6 @@
         "\u0dbb\u0dd2\u0d9c\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Riga"
-    ],
-    "name:slo_x_preferred":[
         "Riga"
     ],
     "name:slv_x_preferred":[
@@ -511,9 +469,6 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e35\u0e01\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f62\u0f72\u0f0b\u0f42"
-    ],
     "name:tpi_x_preferred":[
         "Riga"
     ],
@@ -562,9 +517,6 @@
     "name:war_x_preferred":[
         "Riga"
     ],
-    "name:wel_x_preferred":[
-        "Riga"
-    ],
     "name:wol_x_preferred":[
         "Riga"
     ],
@@ -579,6 +531,9 @@
     ],
     "name:zea_x_preferred":[
         "Riga"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u52a0"
     ],
     "name:zul_x_preferred":[
         "IRiga"
@@ -620,7 +575,7 @@
         }
     ],
     "wof:id":1125778361,
-    "wof:lastmodified":1514484104,
+    "wof:lastmodified":1561839448,
     "wof:name":"Riga",
     "wof:parent_id":85686065,
     "wof:placetype":"locality",

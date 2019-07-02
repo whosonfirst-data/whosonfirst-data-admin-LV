@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
-    "geom:area_square_m":676658.473349,
+    "geom:area_square_m":676658.473348,
     "geom:bbox":"24.5382528802,57.0870564616,24.5613452602,57.0965557235",
     "geom:latitude":57.092928,
     "geom:longitude":24.547592,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0646\u063a\u0627\u062c\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u0561\u0576\u0563\u0561\u056a\u056b"
     ],
     "name:bel_x_preferred":[
         "\u0412\u0430\u043d\u0433\u0430\u0436\u044b"
@@ -38,19 +35,10 @@
     "name:ces_x_preferred":[
         "Vanga\u017ei"
     ],
-    "name:chi_x_preferred":[
-        "\u842c\u52a0\u65e5"
-    ],
-    "name:cze_x_preferred":[
-        "Vanga\u017ei"
-    ],
     "name:dan_x_preferred":[
         "Vanga\u017ei"
     ],
     "name:deu_x_preferred":[
-        "Vanga\u017ei"
-    ],
-    "name:dut_x_preferred":[
         "Vanga\u017ei"
     ],
     "name:eng_x_preferred":[
@@ -65,14 +53,14 @@
     "name:fas_x_preferred":[
         "\u0648\u0627\u0646\u06af\u0627\u0698\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Vanga\u017ei"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vanga\u017ei"
     ],
     "name:hun_x_preferred":[
         "Vanga\u017ei"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0576\u0563\u0561\u056a\u056b"
     ],
     "name:kaz_x_preferred":[
         "\u0412\u0430\u043d\u0433\u0430\u0436\u0438"
@@ -83,8 +71,8 @@
     "name:lit_x_preferred":[
         "Vanga\u017eiai"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0646\u06af\u0627\u0698\u06cc"
+    "name:nld_x_preferred":[
+        "Vanga\u017ei"
     ],
     "name:pol_x_preferred":[
         "Vanga\u017ei"
@@ -109,6 +97,9 @@
     ],
     "name:unk_x_variant":[
         "Vangazhi"
+    ],
+    "name:zho_x_preferred":[
+        "\u842c\u52a0\u65e5"
     ],
     "qs:a0":"Latvija",
     "qs:a1":"*Incukalna novads",
@@ -158,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714967,
+    "wof:lastmodified":1561839444,
     "wof:name":"Vanga\u017ei",
     "wof:parent_id":85686117,
     "wof:placetype":"locality",

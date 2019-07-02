@@ -18,7 +18,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "M\u0101rupe"
     ],
     "name:eng_x_preferred":[
@@ -27,10 +27,7 @@
     "name:est_x_preferred":[
         "M\u0101rupe"
     ],
-    "name:fre_x_preferred":[
-        "M\u0101rupe"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "M\u0101rupe"
     ],
     "name:lav_x_preferred":[
@@ -38,6 +35,9 @@
     ],
     "name:lit_x_preferred":[
         "Marup\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "M\u0101rupe"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0443\u043f\u0435"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125930441,
-    "wof:lastmodified":1514484069,
+    "wof:lastmodified":1561839446,
     "wof:name":"Marupe",
     "wof:parent_id":85686007,
     "wof:placetype":"locality",

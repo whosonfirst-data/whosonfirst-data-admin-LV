@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2345800.655593,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.107883,56.948979,24.107883,56.948979",
     "geom:latitude":56.948979,
     "geom:longitude":24.107883,
@@ -26,23 +26,14 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
-    "name:alb_x_preferred":[
-        "Vecr\u012bga"
-    ],
     "name:aze_x_preferred":[
         "\u018fski Riqa"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u044f \u0420\u044b\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u52a0\u8001\u57ce"
-    ],
     "name:dan_x_preferred":[
         "Vecr\u012bga"
-    ],
-    "name:dut_x_preferred":[
-        "Historisch centrum van Riga"
     ],
     "name:eng_x_preferred":[
         "Vecr\u012bga"
@@ -56,11 +47,8 @@
     "name:fin_x_preferred":[
         "Riian vanhakaupunki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vecr\u012bga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10eb\u10d5\u10d4\u10da\u10d8 \u10e0\u10d8\u10d2\u10d0"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05e7\u05e8\u05d9\u05d2\u05d4"
@@ -80,11 +68,14 @@
     "name:lit_x_preferred":[
         "Vecryga"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0420\u0438\u0433\u0430"
     ],
     "name:nld_x_preferred":[
         "Oude Stad"
+    ],
+    "name:nld_x_variant":[
+        "Historisch centrum van Riga"
     ],
     "name:pol_x_preferred":[
         "Stare Miasto w Rydze"
@@ -94,6 +85,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b\u0439 \u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:sqi_x_preferred":[
+        "Vecr\u012bga"
     ],
     "name:swe_x_preferred":[
         "Vecr\u012bga"
@@ -170,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936637,
+    "wof:lastmodified":1561839421,
     "wof:name":"Vecriga",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

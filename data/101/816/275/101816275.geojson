@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
-    "geom:area_square_m":3403721.22091,
+    "geom:area_square_m":3403721.220909,
     "geom:bbox":"21.5720650757,56.4334492788,21.6198319776,56.4546930166",
     "geom:latitude":56.444552,
     "geom:longitude":21.593977,
@@ -32,19 +32,10 @@
     "name:ces_x_preferred":[
         "Priekule"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u5217\u5eab\u840a"
-    ],
-    "name:cze_x_preferred":[
-        "Priekule"
-    ],
     "name:dan_x_preferred":[
         "Priekule"
     ],
     "name:deu_x_preferred":[
-        "Priekule"
-    ],
-    "name:dut_x_preferred":[
         "Priekule"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "\u067e\u0631\u06cc\u06a9\u0648\u0644\u060c \u0644\u062a\u0648\u0646\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Priekule"
-    ],
-    "name:fre_x_preferred":[
-        "Priekule"
-    ],
-    "name:ger_x_preferred":[
         "Priekule"
     ],
     "name:hun_x_preferred":[
@@ -83,8 +68,8 @@
     "name:lit_x_preferred":[
         "Priekul\u0117"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u06cc\u06a9\u0648\u0644\u060c \u0644\u062a\u0648\u0646\u06cc"
+    "name:nld_x_preferred":[
+        "Priekule"
     ],
     "name:pol_x_preferred":[
         "Priekule"
@@ -151,7 +136,7 @@
         }
     ],
     "wof:id":101816275,
-    "wof:lastmodified":1527642284,
+    "wof:lastmodified":1561839440,
     "wof:name":"Priekule",
     "wof:parent_id":85685803,
     "wof:placetype":"locality",

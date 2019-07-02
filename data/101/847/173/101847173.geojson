@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":885597.493681,
+    "geom:area_square_m":885597.493682,
     "geom:bbox":"25.602024717,57.3258147069,25.6259894186,57.336113757",
     "geom:latitude":57.331512,
     "geom:longitude":25.614186,
@@ -22,25 +22,22 @@
     "name:deu_x_variant":[
         "Ronneburg"
     ],
-    "name:dut_x_preferred":[
-        "Rauna"
-    ],
     "name:eng_x_preferred":[
         "Rauna"
     ],
     "name:est_x_preferred":[
         "Rauna"
     ],
-    "name:fre_x_preferred":[
-        "Rauna"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rauna"
     ],
     "name:lav_x_preferred":[
         "Rauna"
     ],
     "name:lit_x_preferred":[
+        "Rauna"
+    ],
+    "name:nld_x_preferred":[
         "Rauna"
     ],
     "name:pol_x_preferred":[
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":101847173,
-    "wof:lastmodified":1527714972,
+    "wof:lastmodified":1561839444,
     "wof:name":"Rauna",
     "wof:parent_id":85686225,
     "wof:placetype":"locality",

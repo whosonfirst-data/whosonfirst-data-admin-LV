@@ -16,9 +16,6 @@
     "mps:longitude":23.80929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "\u0100ne"
-    ],
     "name:eng_x_preferred":[
         "\u0100ne"
     ],
@@ -27,6 +24,9 @@
     ],
     "name:lit_x_preferred":[
         "An\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "\u0100ne"
     ],
     "name:swe_x_preferred":[
         "\u0100ne"
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101816309,
-    "wof:lastmodified":1527642280,
+    "wof:lastmodified":1561839438,
     "wof:name":"\u0100ne",
     "wof:parent_id":85685907,
     "wof:placetype":"locality",

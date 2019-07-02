@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":1432947.505571,
+    "geom:area_square_m":1432947.505572,
     "geom:bbox":"24.6698024011,57.0911753163,24.6975110037,57.1067113617",
     "geom:latitude":57.097916,
     "geom:longitude":24.683559,
@@ -26,16 +26,10 @@
     "name:deu_x_preferred":[
         "In\u010dukalns"
     ],
-    "name:dut_x_preferred":[
-        "In\u010dukalns"
-    ],
     "name:eng_x_preferred":[
         "In\u010dukalns"
     ],
     "name:est_x_preferred":[
-        "In\u010dukalns"
-    ],
-    "name:ger_x_preferred":[
         "In\u010dukalns"
     ],
     "name:jpn_x_preferred":[
@@ -46,6 +40,9 @@
     ],
     "name:lit_x_preferred":[
         "In\u010dukalnis"
+    ],
+    "name:nld_x_preferred":[
+        "In\u010dukalns"
     ],
     "name:rus_x_preferred":[
         "\u0418\u043d\u0447\u0443\u043a\u0430\u043b\u043d\u0441"
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":101816403,
-    "wof:lastmodified":1527642294,
+    "wof:lastmodified":1561839442,
     "wof:name":"In\u010dukalns",
     "wof:parent_id":85686117,
     "wof:placetype":"locality",

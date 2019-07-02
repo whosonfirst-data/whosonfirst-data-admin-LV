@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001134,
-    "geom:area_square_m":7702793.429581,
+    "geom:area_square_m":7702793.429578,
     "geom:bbox":"22.4568316992,56.6476094483,22.527420929,56.6889017836",
     "geom:latitude":56.667134,
     "geom:longitude":22.487521,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u062f\u0648\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u056c\u0564\u0578\u0582\u057d"
-    ],
     "name:bel_x_variant":[
         "\u0421\u0430\u043b\u0434\u0443\u0441"
     ],
@@ -38,19 +35,10 @@
     "name:ces_x_preferred":[
         "Saldus"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u723e\u675c\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Saldus"
-    ],
     "name:dan_x_preferred":[
         "Saldus"
     ],
     "name:deu_x_preferred":[
-        "Saldus"
-    ],
-    "name:dut_x_preferred":[
         "Saldus"
     ],
     "name:eng_x_preferred":[
@@ -71,17 +59,14 @@
     "name:fra_x_preferred":[
         "Saldus"
     ],
-    "name:fre_x_preferred":[
-        "Saldus"
-    ],
-    "name:ger_x_preferred":[
-        "Saldus"
-    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d0\u05dc\u05d3\u05d5\u05e1"
     ],
     "name:hun_x_preferred":[
         "Saldus"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056c\u0564\u0578\u0582\u057d"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30eb\u30c0\u30b9"
@@ -112,9 +97,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3e\u0a32\u0a26\u0a41\u0a38"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0644\u062f\u0648\u0633"
     ],
     "name:pol_x_preferred":[
         "Saldus"
@@ -189,7 +171,7 @@
         }
     ],
     "wof:id":101816319,
-    "wof:lastmodified":1514484135,
+    "wof:lastmodified":1561839443,
     "wof:name":"Saldus",
     "wof:parent_id":85685935,
     "wof:placetype":"locality",

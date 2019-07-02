@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000137,
-    "geom:area_square_m":527429.08213,
+    "geom:area_square_m":925489.23598,
     "geom:bbox":"24.1078438262,56.8641716834,24.1447608108,56.883160238",
     "geom:latitude":56.87277,
     "geom:longitude":24.12631,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0648\u062c\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u056c\u0578\u056a\u056b"
-    ],
     "name:bel_x_variant":[
         "\u0411\u0430\u043b\u0430\u0436\u044b"
     ],
@@ -35,23 +32,17 @@
     "name:ces_x_preferred":[
         "Balo\u017ei"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u6d1b\u65e5"
-    ],
-    "name:cze_x_preferred":[
-        "Balo\u017ei"
-    ],
     "name:dan_x_preferred":[
         "Balo\u017ei"
     ],
     "name:deu_x_preferred":[
         "Balo\u017ei"
     ],
-    "name:dut_x_preferred":[
-        "Balo\u017ei"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ac\u03bb\u03bf\u03b6\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03b1\u03bb\u03cc\u03b6\u03b9"
     ],
     "name:eng_x_preferred":[
         "Balo\u017ei"
@@ -59,26 +50,26 @@
     "name:est_x_preferred":[
         "Balo\u017ei"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0648\u0698\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Balo\u017ei"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Balo\u017ei"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10da\u10dd\u10df\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Balo\u017ei"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bb\u03cc\u03b6\u03b9"
     ],
     "name:hun_x_preferred":[
         "Balo\u017ei"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056c\u0578\u056a\u056b"
+    ],
     "name:ita_x_preferred":[
         "Balo\u017ei"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10dd\u10df\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u043b\u043e\u0436\u0438"
@@ -89,8 +80,8 @@
     "name:lit_x_preferred":[
         "Baluo\u017eiai"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0644\u0648\u0698\u06cc"
+    "name:nld_x_preferred":[
+        "Balo\u017ei"
     ],
     "name:pol_x_preferred":[
         "Balo\u017ei"
@@ -106,6 +97,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043e\u0436\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u6d1b\u65e5"
     ],
     "qs:a0":"Latvija",
     "qs:a1":"*Kekavas novads",
@@ -146,7 +140,7 @@
         }
     ],
     "wof:id":1175612925,
-    "wof:lastmodified":1534985959,
+    "wof:lastmodified":1561839437,
     "wof:name":"Balo\u017ei",
     "wof:parent_id":85685999,
     "wof:placetype":"locality",

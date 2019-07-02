@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000224,
-    "geom:area_square_m":1532703.252851,
+    "geom:area_square_m":1532703.25285,
     "geom:bbox":"26.7833538271,56.3320854409,26.808898586,56.355091569",
     "geom:latitude":56.34061,
     "geom:longitude":26.797494,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Riebi\u0146i"
     ],
-    "name:dut_x_preferred":[
-        "Riebi\u0146i"
-    ],
     "name:eng_x_preferred":[
         "Riebi\u0146i"
     ],
@@ -36,12 +33,6 @@
         "Riebi\u0146i"
     ],
     "name:fra_x_preferred":[
-        "Riebi\u0146i"
-    ],
-    "name:fre_x_preferred":[
-        "Riebi\u0146i"
-    ],
-    "name:ger_x_preferred":[
         "Riebi\u0146i"
     ],
     "name:heb_x_preferred":[
@@ -52,6 +43,9 @@
     ],
     "name:lit_x_preferred":[
         "Riebiniai"
+    ],
+    "name:nld_x_preferred":[
+        "Riebi\u0146i"
     ],
     "name:pol_x_preferred":[
         "Riebi\u0146i"
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":101816345,
-    "wof:lastmodified":1527642295,
+    "wof:lastmodified":1561839443,
     "wof:name":"Riebi\u0146i",
     "wof:parent_id":85685977,
     "wof:placetype":"locality",

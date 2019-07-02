@@ -36,14 +36,14 @@
     "name:cat_x_preferred":[
         "Municipi de Stopi\u0146i"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u6258\u76ae\u52aa\u81ea\u6cbb\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Stopi\u0146i municipality"
     ],
-    "name:dut_x_preferred":[
-        "Stopi\u0146u novads"
+    "name:deu_x_preferred":[
+        "Bezirk Stopi\u0146i"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03bf\u03c0\u03af\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Stopinu"
@@ -56,18 +56,6 @@
     ],
     "name:fra_x_preferred":[
         "Stopi\u0146i"
-    ],
-    "name:fre_x_preferred":[
-        "Stopi\u0146i"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e2\u10dd\u10de\u10d8\u10dc\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Stopi\u0146i"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c4\u03bf\u03c0\u03af\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0acb\u0aaa\u0abf\u0aa8\u0ac0 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -99,14 +87,17 @@
     "name:lit_x_preferred":[
         "Stopini\u0173 savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0442\u043e\u043f\u0438\u045a\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u091f\u0949\u092a\u0928\u091c\u0940 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u043e\u043f\u0438\u045a\u0438"
+    ],
+    "name:msa_x_preferred":[
         "Stopini municipality"
+    ],
+    "name:nld_x_preferred":[
+        "Stopi\u0146u novads"
     ],
     "name:nob_x_preferred":[
         "Stopini kommune"
@@ -152,6 +143,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Stopini"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6258\u76ae\u52aa\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -267,7 +261,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550861,
+    "wof:lastmodified":1561839426,
     "wof:name":"Stopinu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001803,
-    "geom:area_square_m":11969969.757131,
+    "geom:area_square_m":11969969.757129,
     "geom:bbox":"25.3796629385,57.5140182115,25.4623749592,57.56800799",
     "geom:latitude":57.536576,
     "geom:longitude":25.425353,
@@ -18,14 +18,8 @@
     "mps:longitude":25.424726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Valmiera"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0645\u064a\u0631\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u0561\u056c\u0574\u056b\u0565\u0580\u0561"
     ],
     "name:aze_x_preferred":[
         "Valmiera"
@@ -48,22 +42,13 @@
     "name:ces_x_preferred":[
         "Valmiera"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u723e\u7c73\u8036\u62c9"
-    ],
     "name:cym_x_preferred":[
-        "Valmiera"
-    ],
-    "name:cze_x_preferred":[
         "Valmiera"
     ],
     "name:dan_x_preferred":[
         "Valmiera"
     ],
     "name:deu_x_preferred":[
-        "Valmiera"
-    ],
-    "name:dut_x_preferred":[
         "Valmiera"
     ],
     "name:ell_x_preferred":[
@@ -87,18 +72,6 @@
     "name:fra_x_preferred":[
         "Valmiera"
     ],
-    "name:fre_x_preferred":[
-        "Valmiera"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10da\u10db\u10d8\u10d4\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Valmiera"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03ac\u03bb\u03bc\u03b9\u03b5\u03c1\u03b1"
-    ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abe\u0ab2\u0aae\u0abf\u0a8f\u0ab0\u0abe"
     ],
@@ -111,10 +84,13 @@
     "name:hun_x_preferred":[
         "Valmiera"
     ],
-    "name:ice_x_preferred":[
-        "Valmiera"
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u056c\u0574\u056b\u0565\u0580\u0561"
     ],
     "name:ind_x_preferred":[
+        "Valmiera"
+    ],
+    "name:isl_x_preferred":[
         "Valmiera"
     ],
     "name:ita_x_preferred":[
@@ -147,7 +123,7 @@
     "name:mar_x_preferred":[
         "\u0935\u0945\u0932\u092e\u0940\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Valmiera"
     ],
     "name:nds_x_preferred":[
@@ -167,9 +143,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a35\u0a3e\u0a32\u0a2e\u0a40\u0a30\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0644\u0645\u06cc\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Valmiera"
@@ -192,10 +165,10 @@
     "name:slk_x_preferred":[
         "Valmiera"
     ],
-    "name:slo_x_preferred":[
+    "name:spa_x_preferred":[
         "Valmiera"
     ],
-    "name:spa_x_preferred":[
+    "name:sqi_x_preferred":[
         "Valmiera"
     ],
     "name:srp_x_preferred":[
@@ -232,9 +205,6 @@
         "Valmiera"
     ],
     "name:vol_x_preferred":[
-        "Valmiera"
-    ],
-    "name:wel_x_preferred":[
         "Valmiera"
     ],
     "name:zho_x_preferred":[
@@ -287,7 +257,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514484163,
+    "wof:lastmodified":1561839439,
     "wof:name":"Valmiera",
     "wof:parent_id":85686243,
     "wof:placetype":"locality",

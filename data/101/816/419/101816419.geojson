@@ -35,19 +35,10 @@
     "name:ces_x_preferred":[
         "Valdem\u0101rpils"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u723e\u4ee3\u99ac\u723e\u76ae\u723e\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Valdem\u0101rpils"
-    ],
     "name:dan_x_preferred":[
         "Valdem\u0101rpils"
     ],
     "name:deu_x_preferred":[
-        "Valdem\u0101rpils"
-    ],
-    "name:dut_x_preferred":[
         "Valdem\u0101rpils"
     ],
     "name:eng_x_preferred":[
@@ -56,17 +47,17 @@
     "name:est_x_preferred":[
         "Valdem\u0101rpils"
     ],
-    "name:fre_x_preferred":[
-        "Valdem\u0101rpils"
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u062f\u0645\u0627\u0631\u067e\u06cc\u0644\u0633"
     ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10da\u10d3\u10d4\u10db\u10d0\u10e0\u10de\u10d8\u10da\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Valdem\u0101rpils"
     ],
     "name:hun_x_preferred":[
         "Valdem\u0101rpils"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10da\u10d3\u10d4\u10db\u10d0\u10e0\u10de\u10d8\u10da\u10e1\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0412\u0430\u043b\u0434\u0435\u043c\u0430\u0440\u043f\u0438\u043b\u0441"
@@ -77,8 +68,8 @@
     "name:lit_x_preferred":[
         "Valdemarpilis"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0644\u062f\u0645\u0627\u0631\u067e\u06cc\u0644\u0633"
+    "name:nld_x_preferred":[
+        "Valdem\u0101rpils"
     ],
     "name:pol_x_preferred":[
         "Valdem\u0101rpils"
@@ -97,6 +88,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u0434\u0435\u043c\u0430\u0440\u043f\u0456\u043b\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u723e\u4ee3\u99ac\u723e\u76ae\u723e\u65af"
     ],
     "qs:a0":"Latvija",
     "qs:a1":"*Talsu novads",
@@ -142,7 +136,7 @@
         }
     ],
     "wof:id":101816419,
-    "wof:lastmodified":1535390429,
+    "wof:lastmodified":1561839441,
     "wof:name":"Valdem\u0101rpils",
     "wof:parent_id":85686157,
     "wof:placetype":"locality",

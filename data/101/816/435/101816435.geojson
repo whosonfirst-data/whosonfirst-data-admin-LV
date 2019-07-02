@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":955292.459399,
+    "geom:area_square_m":955292.4594,
     "geom:bbox":"21.6572865678,57.219947757,21.6882914591,57.2329049328",
     "geom:latitude":57.225145,
     "geom:longitude":21.674914,
@@ -32,17 +32,14 @@
     "name:ces_x_preferred":[
         "Piltene"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u5c14\u6cf0\u5185"
-    ],
-    "name:cze_x_preferred":[
-        "Piltene"
-    ],
     "name:dan_x_preferred":[
         "Piltene"
     ],
     "name:deu_x_preferred":[
         "Piltene"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03bb\u03c4\u03ad\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Piltene"
@@ -55,15 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "Piltene"
-    ],
-    "name:fre_x_preferred":[
-        "Piltene"
-    ],
-    "name:ger_x_preferred":[
-        "Piltene"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b9\u03bb\u03c4\u03ad\u03bd\u03b5"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05dc\u05d8\u05df"
@@ -88,9 +76,6 @@
     ],
     "name:nor_x_preferred":[
         "Pilten"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u0644\u062a\u0646\u0647"
     ],
     "name:pol_x_preferred":[
         "Pilty\u0144"
@@ -157,7 +142,7 @@
         }
     ],
     "wof:id":101816435,
-    "wof:lastmodified":1527642294,
+    "wof:lastmodified":1561839442,
     "wof:name":"Piltene",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",

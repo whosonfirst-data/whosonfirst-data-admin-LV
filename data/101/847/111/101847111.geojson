@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
-    "geom:area_square_m":1114722.95638,
+    "geom:area_square_m":1114722.956379,
     "geom:bbox":"25.2967498751,56.1941751943,25.3193620819,56.212400065",
     "geom:latitude":56.203421,
     "geom:longitude":25.307355,
@@ -20,25 +20,22 @@
     "name:deu_x_preferred":[
         "Nereta"
     ],
-    "name:dut_x_preferred":[
-        "Nereta"
-    ],
     "name:eng_x_preferred":[
         "Nereta"
     ],
     "name:est_x_preferred":[
         "Nereta"
     ],
-    "name:fre_x_preferred":[
-        "Nereta"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nereta"
     ],
     "name:lav_x_preferred":[
         "Nereta"
     ],
     "name:lit_x_preferred":[
+        "Nereta"
+    ],
+    "name:nld_x_preferred":[
         "Nereta"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":101847111,
-    "wof:lastmodified":1527714972,
+    "wof:lastmodified":1561839445,
     "wof:name":"Nereta",
     "wof:parent_id":85685863,
     "wof:placetype":"locality",

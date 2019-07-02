@@ -19,9 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "\u0136esterciems"
-    ],
     "name:eng_x_preferred":[
         "\u0136esterciems"
     ],
@@ -29,6 +26,9 @@
         "\u0136esterciems"
     ],
     "name:lav_x_preferred":[
+        "\u0136esterciems"
+    ],
+    "name:nld_x_preferred":[
         "\u0136esterciems"
     ],
     "name:pol_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125774691,
-    "wof:lastmodified":1514484181,
+    "wof:lastmodified":1561839448,
     "wof:name":"\u0136esterciems",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

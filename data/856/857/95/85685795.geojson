@@ -27,14 +27,8 @@
     "name:afr_x_preferred":[
         "Daugavpils"
     ],
-    "name:alb_x_preferred":[
-        "Daugavpils"
-    ],
     "name:ara_x_preferred":[
         "\u062f\u0627\u0648\u063a\u0627\u0641\u0628\u064a\u0644\u0633"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u0561\u0578\u0582\u0563\u0561\u057e\u057a\u056b\u056c\u057d"
     ],
     "name:arz_x_preferred":[
         "\u062f\u0648\u062c\u0627\u0641\u064a\u0644\u0633"
@@ -44,9 +38,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441"
-    ],
-    "name:baq_x_preferred":[
-        "Daugavpils"
     ],
     "name:bel_x_preferred":[
         "\u0414\u0430\u045e\u0433\u0430\u045e\u043f\u0456\u043b\u0441"
@@ -63,11 +54,11 @@
     "name:cat_x_preferred":[
         "Daugavpils"
     ],
+    "name:ces_x_preferred":[
+        "Daugavpils"
+    ],
     "name:che_x_preferred":[
         "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441"
-    ],
-    "name:chi_x_preferred":[
-        "\u9676\u683c\u592b\u5339\u5c14\u65af"
     ],
     "name:chv_x_preferred":[
         "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441"
@@ -75,17 +66,20 @@
     "name:csb_x_preferred":[
         "Daugavpils"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Daugavpils"
     ],
     "name:dan_x_preferred":[
         "Daugavpils"
     ],
+    "name:deu_x_preferred":[
+        "Daugavpils"
+    ],
     "name:dsb_x_preferred":[
         "Daugavpils"
     ],
-    "name:dut_x_preferred":[
-        "Daugavpils"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bf\u03c5\u03b3\u03ba\u03ac\u03b2\u03c0\u03b9\u03bb\u03c2"
     ],
     "name:eng_x_preferred":[
         "Daugavpils"
@@ -96,19 +90,19 @@
     "name:est_x_preferred":[
         "Daugavpils"
     ],
+    "name:eus_x_preferred":[
+        "Daugavpils"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u06af\u0627\u067e\u06cc\u0644\u0633"
+    ],
     "name:fin_x_preferred":[
         "Daugavpils"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Daugavpils"
     ],
     "name:fry_x_preferred":[
-        "Daugavpils"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e3\u10d2\u10d0\u10d5\u10de\u10d8\u10da\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Daugavpils"
     ],
     "name:glg_x_preferred":[
@@ -119,9 +113,6 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf33\ud800\udf30\ud800\udf45\ud800\udf32\ud800\udf30\ud800\udf45\ud800\udf40\ud800\udf39\ud800\udf3b\ud800\udf43"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03bf\u03c5\u03b3\u03ba\u03ac\u03b2\u03c0\u03b9\u03bb\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acc\u0a97\u0ac7\u0ab5\u0aaa\u0abf\u0ab2\u0acd\u0ab8"
@@ -137,6 +128,9 @@
     ],
     "name:hun_x_preferred":[
         "Daugavpils"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0578\u0582\u0563\u0561\u057e\u057a\u056b\u056c\u057d"
     ],
     "name:ile_x_preferred":[
         "Daugavpils"
@@ -156,6 +150,9 @@
     "name:kan_x_preferred":[
         "\u0ca6\u0cbe\u0cb5\u0ccd\u0c97\u0cb5\u0ccd\u0caa\u0cbf\u0cb2\u0ccd\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e3\u10d2\u10d0\u10d5\u10de\u10d8\u10da\u10e1\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441"
     ],
@@ -174,19 +171,22 @@
     "name:ltg_x_preferred":[
         "Daugpi\u013cs"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u0926\u094c\u0917\u094c\u092a\u093f\u0932\u094d\u0938"
-    ],
-    "name:may_x_preferred":[
-        "Daugavpils"
     ],
     "name:mhr_x_preferred":[
         "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441"
     ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Daugavpils"
+    ],
     "name:nds_x_preferred":[
+        "Daugavpils"
+    ],
+    "name:nld_x_preferred":[
         "Daugavpils"
     ],
     "name:nno_x_preferred":[
@@ -198,20 +198,17 @@
     "name:oci_x_preferred":[
         "Daugavpils"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u06af\u0627\u067e\u06cc\u0644\u0633"
-    ],
     "name:pol_x_preferred":[
         "Dyneburg"
     ],
     "name:por_x_preferred":[
         "Daugavpils"
     ],
+    "name:ron_x_preferred":[
+        "Daugavpils"
+    ],
     "name:rue_x_preferred":[
         "\u0414\u0430\u0443\u0491\u0430\u0432\u043f\u0456\u043b\u0441"
-    ],
-    "name:rum_x_preferred":[
-        "Daugavpils"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441"
@@ -225,13 +222,16 @@
     "name:sin_x_preferred":[
         "\u0da9\u0ddc\u0d9c\u0dc0\u0dca\u0db4\u0dd2\u0dbd\u0dca\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Daugavpils"
     ],
     "name:slv_x_preferred":[
         "Daugavpils"
     ],
     "name:spa_x_preferred":[
+        "Daugavpils"
+    ],
+    "name:sqi_x_preferred":[
         "Daugavpils"
     ],
     "name:srp_x_preferred":[
@@ -279,11 +279,11 @@
     "name:war_x_preferred":[
         "Daugavpils"
     ],
-    "name:wel_x_preferred":[
-        "Daugavpils"
-    ],
     "name:yid_x_preferred":[
         "\u05d3\u05e2\u05e0\u05e2\u05e0\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u9676\u683c\u592b\u5339\u5c14\u65af"
     ],
     "qs:a0":"Latvija",
     "qs:a0_lc":"LV000000",
@@ -340,7 +340,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550863,
+    "wof:lastmodified":1561839425,
     "wof:name":"Daugavpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

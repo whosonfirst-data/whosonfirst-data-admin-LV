@@ -30,14 +30,8 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u0627\u062c\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0565\u057a\u0561\u0575\u0561"
-    ],
     "name:aze_x_preferred":[
         "Liepaya"
-    ],
-    "name:baq_x_preferred":[
-        "Liep\u0101ja"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0456\u0435\u043f\u0430\u044f"
@@ -54,16 +48,16 @@
     "name:cat_x_preferred":[
         "Liep\u0101ja"
     ],
+    "name:ces_x_preferred":[
+        "Liep\u0101ja"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0438\u0435\u043f\u0430\u044f"
-    ],
-    "name:chi_x_preferred":[
-        "\u5229\u8036\u5e15\u4e9a"
     ],
     "name:chv_x_preferred":[
         "\u041b\u0438\u0435\u043f\u0430\u044f"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Liep\u0101ja"
     ],
     "name:dan_x_preferred":[
@@ -72,11 +66,14 @@
     "name:deu_x_preferred":[
         "Libau"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Liep\u0101ja"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03ad\u03c0\u03b1\u03b3\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03b5\u03c0\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Liepaja"
@@ -87,26 +84,20 @@
     "name:est_x_preferred":[
         "Liep\u0101ja"
     ],
+    "name:eus_x_preferred":[
+        "Liep\u0101ja"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u067e\u0627\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Liep\u0101ja"
     ],
-    "name:fre_x_preferred":[
-        "Liep\u0101ja"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10d4\u10de\u10d0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Liep\u0101ja"
     ],
     "name:glg_x_preferred":[
         "Liep\u0101ja"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03b5\u03c0\u03ac\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac0\u0aaa\u0ac7\u0a9c\u0abe"
@@ -165,11 +156,14 @@
     "name:mar_x_preferred":[
         "\u0932\u0940\u092a\u093e\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Liep\u0101ja"
-    ],
     "name:mhr_x_preferred":[
         "\u041b\u0438\u0435\u043f\u0430\u0439"
+    ],
+    "name:msa_x_preferred":[
+        "Liep\u0101ja"
+    ],
+    "name:nld_x_preferred":[
+        "Liep\u0101ja"
     ],
     "name:nno_x_preferred":[
         "Liep\u0101ja"
@@ -186,16 +180,13 @@
     "name:pan_x_preferred":[
         "\u0a32\u0a3f\u0a2a\u0a3e\u0a2f\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u067e\u0627\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Lipawa"
     ],
     "name:por_x_preferred":[
         "Liep\u0101ja"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Liep\u0101ja"
     ],
     "name:rus_x_preferred":[
@@ -210,7 +201,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dd3\u0db4\u0da2\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Liep\u0101ja"
     ],
     "name:spa_x_preferred":[
@@ -253,9 +244,6 @@
         "Liep\u0101ja"
     ],
     "name:vol_x_preferred":[
-        "Liep\u0101ja"
-    ],
-    "name:wel_x_preferred":[
         "Liep\u0101ja"
     ],
     "name:zho_x_preferred":[
@@ -378,7 +366,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550863,
+    "wof:lastmodified":1561839426,
     "wof:name":"Liepaja",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

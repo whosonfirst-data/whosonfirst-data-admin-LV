@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0623\u0648\u063a\u0631\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u0563\u0580\u0565\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u0997\u09cd\u09b0\u09c7 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
@@ -45,17 +42,17 @@
     "name:ces_x_preferred":[
         "Zlobr"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u683c\u96f7\u81ea\u6cbb\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Ogre municipality"
     ],
     "name:deu_x_preferred":[
         "Oger"
     ],
-    "name:dut_x_preferred":[
-        "Ogres novads"
+    "name:deu_x_variant":[
+        "Bezirk Ogre"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03b3\u03ba\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Ogres"
@@ -76,18 +73,6 @@
     "name:fra_x_preferred":[
         "Ogre"
     ],
-    "name:fre_x_preferred":[
-        "Ogre"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10d2\u10e0\u10d4\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Ogre"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03b3\u03ba\u03c1\u03b5"
-    ],
     "name:guj_x_preferred":[
         "\u0a93\u0a97\u0acd\u0ab0\u0ac7 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
@@ -103,6 +88,9 @@
     "name:hun_x_preferred":[
         "Ogre"
     ],
+    "name:hye_x_preferred":[
+        "\u0555\u0563\u0580\u0565\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Ogre"
     ],
@@ -115,6 +103,9 @@
     "name:kan_x_preferred":[
         "\u0c93\u0c97\u0ccd\u0cb0\u0cc6 \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d2\u10e0\u10d4\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uc624\uac70"
     ],
@@ -124,23 +115,26 @@
     "name:lit_x_preferred":[
         "Uogr\u0117s savivaldyb\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0433\u0440\u0435"
-    ],
     "name:mal_x_preferred":[
         "\u0d13\u0d17\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u0913\u0917\u0930\u0940 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Ogre municipality"
-    ],
     "name:mkd_x_preferred":[
         "\u041e\u0433\u0430\u0440"
     ],
+    "name:mkd_x_variant":[
+        "\u041e\u0433\u0440\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Ogre municipality"
+    ],
     "name:nld_x_preferred":[
         "Oger"
+    ],
+    "name:nld_x_variant":[
+        "Ogres novads"
     ],
     "name:nob_x_preferred":[
         "Ogre Kommune"
@@ -189,6 +183,9 @@
     ],
     "name:zho_x_preferred":[
         "\u98df\u4eba\u9b54"
+    ],
+    "name:zho_x_variant":[
+        "\u5967\u683c\u96f7\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -305,7 +302,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550872,
+    "wof:lastmodified":1561839428,
     "wof:name":"Ogres",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

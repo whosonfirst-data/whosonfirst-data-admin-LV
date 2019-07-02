@@ -16,9 +16,6 @@
     "mps:longitude":23.496287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u0574\u0565\u0580\u056b"
-    ],
     "name:cat_x_preferred":[
         "\u0136emeri"
     ],
@@ -101,7 +98,7 @@
         }
     ],
     "wof:id":101911719,
-    "wof:lastmodified":1527715549,
+    "wof:lastmodified":1561839446,
     "wof:name":"\u0136emeri",
     "wof:parent_id":85686031,
     "wof:placetype":"locality",

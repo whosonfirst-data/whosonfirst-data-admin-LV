@@ -18,13 +18,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Kaunata"
-    ],
     "name:eng_x_preferred":[
         "Kaunata"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kaunata"
     ],
     "name:lav_x_preferred":[
@@ -32,6 +29,9 @@
     ],
     "name:ltg_x_preferred":[
         "Kaunota"
+    ],
+    "name:nld_x_preferred":[
+        "Kaunata"
     ],
     "name:pol_x_preferred":[
         "Kownata"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125875083,
-    "wof:lastmodified":1514484038,
+    "wof:lastmodified":1561839447,
     "wof:name":"Kaunata",
     "wof:parent_id":85686095,
     "wof:placetype":"locality",

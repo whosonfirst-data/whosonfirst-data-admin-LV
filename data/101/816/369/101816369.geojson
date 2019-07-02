@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":457764.790182,
+    "geom:area_square_m":457764.790181,
     "geom:bbox":"24.2761355193,56.9364024959,24.3012497508,56.9445233919",
     "geom:latitude":56.940711,
     "geom:longitude":24.289153,
@@ -20,16 +20,10 @@
     "name:afr_x_preferred":[
         "Ulbroka"
     ],
-    "name:alb_x_preferred":[
-        "Ulbroka"
-    ],
     "name:arg_x_preferred":[
         "Ulbroka"
     ],
     "name:ast_x_preferred":[
-        "Ulbroka"
-    ],
-    "name:baq_x_preferred":[
         "Ulbroka"
     ],
     "name:bar_x_preferred":[
@@ -47,19 +41,19 @@
     "name:cat_x_preferred":[
         "Ulbroka"
     ],
+    "name:ces_x_preferred":[
+        "Ulbroka"
+    ],
     "name:cos_x_preferred":[
         "Ulbroka"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Ulbroka"
     ],
     "name:dan_x_preferred":[
         "Ulbroka"
     ],
     "name:deu_x_preferred":[
-        "Ulbroka"
-    ],
-    "name:dut_x_preferred":[
         "Ulbroka"
     ],
     "name:eng_x_preferred":[
@@ -71,16 +65,16 @@
     "name:est_x_preferred":[
         "Ulbroka"
     ],
+    "name:eus_x_preferred":[
+        "Ulbroka"
+    ],
     "name:fin_x_preferred":[
         "Ulbroka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ulbroka"
     ],
     "name:fur_x_preferred":[
-        "Ulbroka"
-    ],
-    "name:ger_x_preferred":[
         "Ulbroka"
     ],
     "name:gla_x_preferred":[
@@ -101,7 +95,7 @@
     "name:hun_x_preferred":[
         "Ulbroka"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Ulbroka"
     ],
     "name:ita_x_preferred":[
@@ -131,6 +125,9 @@
     "name:nds_x_preferred":[
         "Ulbroka"
     ],
+    "name:nld_x_preferred":[
+        "Ulbroka"
+    ],
     "name:nno_x_preferred":[
         "Ulbroka"
     ],
@@ -152,7 +149,7 @@
     "name:roh_x_preferred":[
         "Ulbroka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ulbroka"
     ],
     "name:rus_x_preferred":[
@@ -164,13 +161,16 @@
     "name:sco_x_preferred":[
         "Ulbroka"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ulbroka"
     ],
     "name:slv_x_preferred":[
         "Ulbroka"
     ],
     "name:spa_x_preferred":[
+        "Ulbroka"
+    ],
+    "name:sqi_x_preferred":[
         "Ulbroka"
     ],
     "name:srd_x_preferred":[
@@ -189,9 +189,6 @@
         "Ulbroka"
     ],
     "name:vls_x_preferred":[
-        "Ulbroka"
-    ],
-    "name:wel_x_preferred":[
         "Ulbroka"
     ],
     "name:wln_x_preferred":[
@@ -244,7 +241,7 @@
         }
     ],
     "wof:id":101816369,
-    "wof:lastmodified":1527642289,
+    "wof:lastmodified":1561839441,
     "wof:name":"Ulbroka",
     "wof:parent_id":85686033,
     "wof:placetype":"locality",

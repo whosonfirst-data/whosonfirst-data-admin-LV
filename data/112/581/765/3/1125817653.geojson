@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0643\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u056c\u0575\u0561\u056f\u0561"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u043b\u044f\u043a\u0430"
     ],
@@ -34,20 +31,20 @@
     "name:cat_x_preferred":[
         "Vi\u013caka"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u5229\u4e9e\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Vi\u013caka"
     ],
     "name:dan_x_preferred":[
         "Vi\u013caka"
     ],
+    "name:deu_x_preferred":[
+        "Vi\u013caka"
+    ],
     "name:dsb_x_preferred":[
         "Vi\u013caka"
     ],
-    "name:dut_x_preferred":[
-        "Vi\u013caka"
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03bb\u03b9\u03ac\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Vilyaka"
@@ -55,23 +52,23 @@
     "name:est_x_preferred":[
         "Vi\u013caka"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0627\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Vi\u013caka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vi\u013caka"
-    ],
-    "name:ger_x_preferred":[
-        "Vi\u013caka"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b9\u03bb\u03b9\u03ac\u03ba\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05dc\u05d0\u05e7\u05d4"
     ],
     "name:hun_x_preferred":[
         "Vi\u013caka"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561\u056f\u0561"
     ],
     "name:ita_x_preferred":[
         "Vi\u013caka"
@@ -88,11 +85,11 @@
     "name:ltg_x_preferred":[
         "Vileks"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Vi\u013caka"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0644\u0627\u06a9\u0627"
+    "name:oci_x_preferred":[
+        "Vi\u013caka"
     ],
     "name:pol_x_preferred":[
         "Vi\u013caka"
@@ -111,6 +108,9 @@
     ],
     "name:unk_x_variant":[
         "Vi\u013caka"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u5229\u4e9e\u5361"
     ],
     "qs_pg:aaroncc":"LV",
     "qs_pg:gn_country":"LV",
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":1125817653,
-    "wof:lastmodified":1514484176,
+    "wof:lastmodified":1561839447,
     "wof:name":"Vil\u0327aka",
     "wof:parent_id":85686251,
     "wof:placetype":"locality",
