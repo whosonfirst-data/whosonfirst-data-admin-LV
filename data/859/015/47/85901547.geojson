@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Vecm\u012blgr\u0101vis"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u0581\u0574\u056b\u056c\u0563\u0580\u0561\u057e\u056b\u057d"
+    ],
     "name:lav_x_preferred":[
         "Vecm\u012blgr\u0101vis"
     ],
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536864510,
+    "wof:lastmodified":1563343838,
     "wof:name":"Vecmilgravis",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

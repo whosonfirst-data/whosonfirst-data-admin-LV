@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":1512686.708174,
+    "geom:area_square_m":1512686.708175,
     "geom:bbox":"23.778360562,56.6815828706,23.8053107894,56.6965343216",
     "geom:latitude":56.688657,
     "geom:longitude":23.789949,
@@ -17,10 +17,25 @@
     "mps:longitude":23.790868,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0437\u043e\u043b\u043d\u0438\u0435\u043a\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Ozolnieki"
+    ],
     "name:deu_x_preferred":[
         "Ozolnieki"
     ],
+    "name:eng_x_preferred":[
+        "Ozolnieki"
+    ],
     "name:est_x_preferred":[
+        "Ozolnieki"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0632\u0648\u0646\u06cc\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Ozolnieki"
     ],
     "name:lav_x_preferred":[
@@ -28,6 +43,12 @@
     ],
     "name:lit_x_preferred":[
         "Ozolniekai"
+    ],
+    "name:lit_x_variant":[
+        "Uozuolniekai"
+    ],
+    "name:nld_x_preferred":[
+        "Ozolnieki"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0437\u043e\u043b\u043d\u0438\u0435\u043a\u0438"
@@ -86,7 +107,7 @@
         }
     ],
     "wof:id":101816311,
-    "wof:lastmodified":1527642295,
+    "wof:lastmodified":1563344393,
     "wof:name":"Ozolnieki",
     "wof:parent_id":85685907,
     "wof:placetype":"locality",

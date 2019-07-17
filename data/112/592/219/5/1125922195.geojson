@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "T\u016bja"
     ],
+    "name:est_x_preferred":[
+        "T\u016bja"
+    ],
     "name:lav_x_preferred":[
         "T\u016bja"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125922195,
-    "wof:lastmodified":1561839446,
+    "wof:lastmodified":1563344457,
     "wof:name":"Tuja",
     "wof:parent_id":85686287,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "\u0136ekava"
     ],
+    "name:ceb_x_preferred":[
+        "\u0136ekava"
+    ],
     "name:ces_x_preferred":[
         "\u0136ekava"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:est_x_preferred":[
         "\u0136ekava"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06a9\u0627\u0648\u0627"
     ],
     "name:fra_x_preferred":[
         "\u0136ekava"
@@ -50,8 +56,14 @@
     "name:nld_x_preferred":[
         "\u0136ekava"
     ],
+    "name:pol_x_preferred":[
+        "\u0136ekava"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u043a\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u0136ekava"
     ],
     "name:unk_x_variant":[
         "Tekava"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":101847135,
-    "wof:lastmodified":1561839444,
+    "wof:lastmodified":1563344418,
     "wof:name":"\u0136ekava",
     "wof:parent_id":85685999,
     "wof:placetype":"locality",

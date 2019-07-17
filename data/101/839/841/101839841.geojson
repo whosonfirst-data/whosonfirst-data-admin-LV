@@ -17,11 +17,17 @@
     "mps:longitude":23.909683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pi\u0146\u0137i"
+    ],
     "name:eng_x_preferred":[
         "Pi\u0146\u0137i"
     ],
     "name:est_x_preferred":[
         "Pi\u0146\u0137i"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0646\u06a9\u06cc"
     ],
     "name:lav_x_preferred":[
         "Pi\u0146\u0137i"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":101839841,
-    "wof:lastmodified":1561839446,
+    "wof:lastmodified":1563344435,
     "wof:name":"Pi\u0146\u0137i",
     "wof:parent_id":85686027,
     "wof:placetype":"locality",

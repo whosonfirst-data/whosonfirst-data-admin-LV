@@ -23,13 +23,16 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u0628\u064a\u0646\u0627"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0413\u0440\u043e\u0431\u0456\u043d\u044f"
     ],
     "name:bul_x_preferred":[
         "\u0413\u0440\u043e\u0431\u0438\u043d\u044f"
     ],
     "name:cat_x_preferred":[
+        "Grobi\u0146a"
+    ],
+    "name:ceb_x_preferred":[
         "Grobi\u0146a"
     ],
     "name:ces_x_preferred":[
@@ -51,6 +54,9 @@
         "\u06af\u0631\u0648\u0628\u06cc\u0646\u0627"
     ],
     "name:fra_x_preferred":[
+        "Grobi\u0146a"
+    ],
+    "name:hsb_x_preferred":[
         "Grobi\u0146a"
     ],
     "name:hun_x_preferred":[
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":101847099,
-    "wof:lastmodified":1561839444,
+    "wof:lastmodified":1563344422,
     "wof:name":"Grobi\u0146a",
     "wof:parent_id":85685811,
     "wof:placetype":"locality",

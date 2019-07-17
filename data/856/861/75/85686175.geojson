@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Municipi de Jaunpiebalga"
     ],
+    "name:ceb_x_preferred":[
+        "Jaunpiebalgas Novads"
+    ],
     "name:dan_x_preferred":[
         "Jaunpiebalga municipality"
     ],
@@ -50,10 +53,17 @@
     ],
     "name:eng_x_variant":[
         "Jaunpiebalga",
-        "Jaunpiebalga municipality"
+        "Jaunpiebalga municipality",
+        "Jaunpiebalga Municipality"
     ],
     "name:est_x_preferred":[
         "Jaunpiebalga piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Jaunpiebalga udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u06cc\u0627\u0646\u067e\u06cc\u0628\u0627\u0644\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Jaunpiebalgan kunta"
@@ -87,6 +97,9 @@
     ],
     "name:lav_x_preferred":[
         "Jaunpiebalgas Novads"
+    ],
+    "name:lav_x_variant":[
+        "Jaunpiebalgas novads"
     ],
     "name:lit_x_preferred":[
         "Jaunpiebalgos savivaldyb\u0117"
@@ -262,7 +275,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839424,
+    "wof:lastmodified":1563343862,
     "wof:name":"Jaunpiepalgas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

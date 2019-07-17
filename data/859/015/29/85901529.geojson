@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8440223.458581,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.755333,56.965984,23.755333,56.965984",
     "geom:latitude":56.965984,
     "geom:longitude":23.755333,
@@ -30,7 +30,7 @@
         "Yaundubulty"
     ],
     "name:eng_x_variant":[
-        "Yaundubulty"
+        "Jaundubulti"
     ],
     "name:est_x_preferred":[
         "Jaundubulti"
@@ -40,6 +40,9 @@
     ],
     "name:lit_x_preferred":[
         "Jaundubultai"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0443\u043d\u0434\u0443\u0431\u0443\u043b\u0442\u044b"
     ],
     "name:und_x_preferred":[
         "Jaundubulti"
@@ -110,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932525,
+    "wof:lastmodified":1563343834,
     "wof:name":"Jaundubulti",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

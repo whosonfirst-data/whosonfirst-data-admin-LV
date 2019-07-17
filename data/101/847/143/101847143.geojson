@@ -20,13 +20,16 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0643\u0644\u0627\u0646\u064a"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0412\u0430\u0440\u0430\u043a\u043b\u044f\u043d\u044b"
     ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0440\u0430\u043a\u043b\u044f\u043d\u0438"
     ],
     "name:cat_x_preferred":[
+        "Varak\u013c\u0101ni"
+    ],
+    "name:ceb_x_preferred":[
         "Varak\u013c\u0101ni"
     ],
     "name:ces_x_preferred":[
@@ -44,6 +47,9 @@
     "name:dsb_x_preferred":[
         "Varak\u013c\u0101ni"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c1\u03b1\u03ba\u03bb\u03ac\u03bd\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Varak\u013c\u0101ni"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05e8\u05e7\u05dc\u05d9\u05d0\u05e0\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Varak\u013c\u0101ni"
     ],
     "name:hun_x_preferred":[
         "Varak\u013c\u0101ni"
@@ -86,7 +95,13 @@
     "name:sgs_x_preferred":[
         "Varaklen\u0113"
     ],
+    "name:spa_x_preferred":[
+        "Varak\u013c\u0101ni"
+    ],
     "name:swe_x_preferred":[
+        "Varak\u013c\u0101ni"
+    ],
+    "name:szl_x_preferred":[
         "Varak\u013c\u0101ni"
     ],
     "name:ukr_x_preferred":[
@@ -139,7 +154,7 @@
         }
     ],
     "wof:id":101847143,
-    "wof:lastmodified":1561839445,
+    "wof:lastmodified":1563344425,
     "wof:name":"Varak\u013c\u0101ni",
     "wof:parent_id":85686051,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Vi\u013caka"
     ],
+    "name:ceb_x_preferred":[
+        "Vi\u013caka"
+    ],
     "name:ces_x_preferred":[
         "Vi\u013caka"
     ],
@@ -50,6 +53,9 @@
     "name:eng_x_preferred":[
         "Vilyaka"
     ],
+    "name:eng_x_variant":[
+        "Vi\u013caka"
+    ],
     "name:est_x_preferred":[
         "Vi\u013caka"
     ],
@@ -64,6 +70,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05dc\u05d0\u05e7\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d5\u05d9\u05dc\u05d9\u05d0\u05e7\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Vi\u013caka"
     ],
     "name:hun_x_preferred":[
         "Vi\u013caka"
@@ -100,6 +112,9 @@
     ],
     "name:sgs_x_preferred":[
         "Viliaka"
+    ],
+    "name:spa_x_preferred":[
+        "Vi\u013caka"
     ],
     "name:swe_x_preferred":[
         "Vi\u013caka"
@@ -154,7 +169,7 @@
         }
     ],
     "wof:id":101816455,
-    "wof:lastmodified":1561839440,
+    "wof:lastmodified":1563344351,
     "wof:name":"Vi\u013caka",
     "wof:parent_id":85686251,
     "wof:placetype":"locality",

@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Kr\u0101slava"
     ],
+    "name:ceb_x_preferred":[
+        "Kr\u0101slava"
+    ],
     "name:ces_x_preferred":[
         "Kr\u0101slava"
     ],
@@ -131,6 +134,9 @@
     ],
     "name:jam_x_preferred":[
         "Kr\u0101slava"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30fc\u30b9\u30e9\u30f4\u30a1"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043b\u0430\u0432\u0430"
@@ -216,6 +222,9 @@
     "name:swe_x_preferred":[
         "Kr\u0101slava"
     ],
+    "name:szl_x_preferred":[
+        "Kr\u0101slava"
+    ],
     "name:tgl_x_preferred":[
         "Kr\u0101slava"
     ],
@@ -283,7 +292,7 @@
         }
     ],
     "wof:id":101816285,
-    "wof:lastmodified":1561839442,
+    "wof:lastmodified":1563344381,
     "wof:name":"Kr\u0101slava",
     "wof:parent_id":85685833,
     "wof:placetype":"locality",

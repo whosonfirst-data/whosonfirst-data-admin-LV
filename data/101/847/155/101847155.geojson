@@ -22,8 +22,14 @@
     "name:eng_x_preferred":[
         "Lapme\u017eciems"
     ],
+    "name:est_x_preferred":[
+        "Lapme\u017eciems"
+    ],
     "name:lav_x_preferred":[
         "Lapme\u017eciema pagasts"
+    ],
+    "name:lav_x_variant":[
+        "Lapme\u017eciems"
     ],
     "name:lit_x_preferred":[
         "Lapme\u017eciemas"
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":101847155,
-    "wof:lastmodified":1561839445,
+    "wof:lastmodified":1563344431,
     "wof:name":"Lapme\u017eciems",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

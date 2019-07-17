@@ -24,6 +24,9 @@
     "name:aze_x_preferred":[
         "Valmiera"
     ],
+    "name:bak_x_preferred":[
+        "\u0412\u0430\u043b\u043c\u0438\u0435\u0440\u0430"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u043b\u043c\u0456\u0435\u0440\u0430"
     ],
@@ -37,6 +40,9 @@
         "\u0412\u0430\u043b\u043c\u0438\u0435\u0440\u0430"
     ],
     "name:cat_x_preferred":[
+        "Valmiera"
+    ],
+    "name:ceb_x_preferred":[
         "Valmiera"
     ],
     "name:ces_x_preferred":[
@@ -63,6 +69,9 @@
     "name:est_x_preferred":[
         "Valmiera"
     ],
+    "name:eus_x_preferred":[
+        "Valmiera"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u0644\u0645\u06cc\u0631\u0627"
     ],
@@ -80,6 +89,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0935\u093e\u0932\u094d\u092e\u0940\u0930\u093e"
+    ],
+    "name:hsb_x_preferred":[
+        "Valmiera"
     ],
     "name:hun_x_preferred":[
         "Valmiera"
@@ -120,8 +132,17 @@
     "name:lit_x_preferred":[
         "Valmiera"
     ],
+    "name:ltg_x_preferred":[
+        "Volm\u012bra"
+    ],
+    "name:lzh_x_preferred":[
+        "\u74e6\u723e\u746a"
+    ],
     "name:mar_x_preferred":[
         "\u0935\u0945\u0932\u092e\u0940\u0930\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u043b\u043c\u0438\u0435\u0440\u0430"
     ],
     "name:msa_x_preferred":[
         "Valmiera"
@@ -180,6 +201,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0bbe\u0bb2\u0bcd\u0bae\u0bc0\u0bb0\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043b\u043c\u0438\u0435\u0440\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3e\u0c32\u0c4d\u0c2e\u0c40\u0c30\u0c3e"
     ],
@@ -205,6 +229,9 @@
         "Valmiera"
     ],
     "name:vol_x_preferred":[
+        "Valmiera"
+    ],
+    "name:vro_x_preferred":[
         "Valmiera"
     ],
     "name:zho_x_preferred":[
@@ -257,7 +284,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561839439,
+    "wof:lastmodified":1563344342,
     "wof:name":"Valmiera",
     "wof:parent_id":85686243,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5294157.078199,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.806098,56.972604,23.806098,56.972604",
     "geom:latitude":56.972604,
     "geom:longitude":23.806098,
@@ -26,15 +26,21 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Majorenhof"
+    ],
     "name:eng_x_preferred":[
         "Mayori"
     ],
     "name:eng_x_variant":[
         "Majorenhof",
-        "Mayori"
+        "Majori"
     ],
     "name:est_x_preferred":[
         "Majori"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e8\u30ea"
     ],
     "name:lav_x_preferred":[
         "Majori"
@@ -111,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932528,
+    "wof:lastmodified":1563343837,
     "wof:name":"Majori",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

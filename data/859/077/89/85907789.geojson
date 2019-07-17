@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6815986.910822,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.103181,56.909713,24.103181,56.909713",
     "geom:latitude":56.909713,
     "geom:longitude":24.103181,
@@ -26,6 +26,12 @@
     "mz:tier_locality":3,
     "mz:tier_metro":30,
     "name:dan_x_preferred":[
+        "Ziepniekkalns"
+    ],
+    "name:deu_x_preferred":[
+        "Ziepniekkalns"
+    ],
+    "name:eng_x_preferred":[
         "Ziepniekkalns"
     ],
     "name:est_x_preferred":[
@@ -102,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936634,
+    "wof:lastmodified":1563343840,
     "wof:name":"Ziepniekkalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

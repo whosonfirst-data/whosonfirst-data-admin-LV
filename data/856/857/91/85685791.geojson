@@ -27,7 +27,7 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0646\u064a\u062a\u0633\u0627"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041d\u0456\u0446\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
     "name:ben_x_preferred":[
@@ -35,6 +35,9 @@
     ],
     "name:cat_x_preferred":[
         "Municipi de N\u012bca"
+    ],
+    "name:ceb_x_preferred":[
+        "N\u012bcas Novads"
     ],
     "name:dan_x_preferred":[
         "N\u012bca municipality"
@@ -51,10 +54,17 @@
     "name:eng_x_variant":[
         "N\u012bca",
         "Nica",
-        "N\u012bca municipality"
+        "N\u012bca municipality",
+        "N\u012bca Municipality"
     ],
     "name:est_x_preferred":[
         "N\u012bca piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "N\u012bca udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0646\u06cc\u062a\u0633\u0627"
     ],
     "name:fin_x_preferred":[
         "N\u012bcan kunta"
@@ -70,6 +80,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0928\u093f\u0915\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u0581\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya N\u012bca"
@@ -91,6 +104,9 @@
     ],
     "name:lav_x_preferred":[
         "N\u012bcas Novads"
+    ],
+    "name:lav_x_variant":[
+        "N\u012bcas novads"
     ],
     "name:lit_x_preferred":[
         "Nycos savivaldyb\u0117"
@@ -127,6 +143,9 @@
     ],
     "name:swe_x_preferred":[
         "N\u012bcas novads"
+    ],
+    "name:swe_x_variant":[
+        "N\u012bca kommun"
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbf\u0b95\u0bcd\u0b95\u0bbe \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
@@ -266,7 +285,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839426,
+    "wof:lastmodified":1563343872,
     "wof:name":"Nicas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

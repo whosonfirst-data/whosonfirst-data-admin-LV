@@ -24,11 +24,23 @@
     "name:bul_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:deu_x_preferred":[
+        "Zentralbezirk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03cc \u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Central District"
     ],
     "name:est_x_preferred":[
         "Keskrajoon"
+    ],
+    "name:fra_x_preferred":[
+        "District central"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto centrale"
     ],
     "name:lav_x_preferred":[
         "Centra rajons"
@@ -38,6 +50,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u592e\u5340"
@@ -66,7 +81,7 @@
         }
     ],
     "wof:id":1108941599,
-    "wof:lastmodified":1561839437,
+    "wof:lastmodified":1563344245,
     "wof:name":"Central district",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Alksn\u0101ji"
     ],
+    "name:est_x_preferred":[
+        "Alksn\u0101ji"
+    ],
     "name:lav_x_preferred":[
         "Alksn\u0101ji"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125872567,
-    "wof:lastmodified":1561839447,
+    "wof:lastmodified":1563344467,
     "wof:name":"Alksn\u0101jciems",
     "wof:parent_id":85686125,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Kuivi\u017ei"
     ],
+    "name:est_x_preferred":[
+        "Kuivi\u017ei"
+    ],
     "name:lav_x_preferred":[
         "Kuivi\u017ei"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125826211,
-    "wof:lastmodified":1561839448,
+    "wof:lastmodified":1563344476,
     "wof:name":"Kuivi\u017ei",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

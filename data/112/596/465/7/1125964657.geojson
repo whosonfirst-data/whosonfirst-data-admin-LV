@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Ska\u013cupes"
     ],
+    "name:est_x_preferred":[
+        "Ska\u013cupes"
+    ],
     "name:lav_x_preferred":[
         "Ska\u013cupes"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125964657,
-    "wof:lastmodified":1561839447,
+    "wof:lastmodified":1563344471,
     "wof:name":"Ska\u013cupes",
     "wof:parent_id":85686153,
     "wof:placetype":"locality",

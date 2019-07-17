@@ -17,6 +17,9 @@
     "mps:longitude":24.973695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Jumprava"
+    ],
     "name:eng_x_preferred":[
         "Jumprava"
     ],
@@ -27,6 +30,12 @@
         "Jumprava"
     ],
     "name:nld_x_preferred":[
+        "Jumprava"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043c\u043f\u0440\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Jumprava"
     ],
     "name:unk_x_variant":[
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":101816351,
-    "wof:lastmodified":1561839441,
+    "wof:lastmodified":1563344366,
     "wof:name":"Jumprava",
     "wof:parent_id":85685995,
     "wof:placetype":"locality",

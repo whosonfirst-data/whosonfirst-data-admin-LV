@@ -39,8 +39,14 @@
     "name:cat_x_preferred":[
         "Raion d'Al\u016bksnes"
     ],
+    "name:cat_x_variant":[
+        "municipi d'Al\u016bksne"
+    ],
     "name:dan_x_preferred":[
         "Al\u016bksnes distrikt"
+    ],
+    "name:dan_x_variant":[
+        "Al\u016bksne municipality"
     ],
     "name:deu_x_preferred":[
         "Bezirk Al\u016bksne"
@@ -54,17 +60,29 @@
     "name:eng_x_preferred":[
         "Aluksnes"
     ],
+    "name:eng_x_variant":[
+        "Al\u016bksne Municipality"
+    ],
     "name:est_x_preferred":[
         "Al\u016bksne rajoon"
     ],
+    "name:est_x_variant":[
+        "Al\u016bksne piirkond"
+    ],
     "name:eus_x_preferred":[
         "Aluksne Barrutia"
+    ],
+    "name:eus_x_variant":[
+        "Al\u016bksne udalerria"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631 \u0627\u0644\u0627\u06a9\u0633\u0646"
     ],
     "name:fin_x_preferred":[
         "Al\u016bksnen piiri"
+    ],
+    "name:fin_x_variant":[
+        "Al\u016bksnen kunta"
     ],
     "name:fra_x_preferred":[
         "Rajons d'Al\u016bksne"
@@ -173,6 +191,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Aluksne"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u76e7\u514b\u65af\u5167\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -288,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839432,
+    "wof:lastmodified":1563343911,
     "wof:name":"Aluksnes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

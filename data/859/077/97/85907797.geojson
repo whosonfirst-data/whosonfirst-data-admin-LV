@@ -25,6 +25,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0441\u043a\u043e\u045e\u0441\u043a\u0456 \u0444\u0430\u0440\u0448\u0442\u0430\u0442"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u043a\u0430\u0432\u0430\u0441 \u0424\u043e\u0440\u0449\u0430\u0442\u0435"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:deu_x_preferred":[
         "Maskavas for\u0161tate"
+    ],
+    "name:eng_x_preferred":[
+        "Maskavas For\u0161tate"
     ],
     "name:est_x_preferred":[
         "Maskavas for\u0161tate"
@@ -114,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536864518,
+    "wof:lastmodified":1563343841,
     "wof:name":"Maskavas Forstate",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

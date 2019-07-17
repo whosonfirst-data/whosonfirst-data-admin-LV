@@ -32,7 +32,13 @@
     "name:cat_x_preferred":[
         "\u0136egums"
     ],
+    "name:ceb_x_preferred":[
+        "\u0136egums"
+    ],
     "name:ces_x_preferred":[
+        "\u0136egums"
+    ],
+    "name:cym_x_preferred":[
         "\u0136egums"
     ],
     "name:dan_x_preferred":[
@@ -59,8 +65,14 @@
     "name:fra_x_preferred":[
         "\u0136egums"
     ],
+    "name:hsb_x_preferred":[
+        "\u0136egums"
+    ],
     "name:hun_x_preferred":[
         "\u0136egums"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0563\u0578\u0582\u0574\u057d"
     ],
     "name:jpn_x_preferred":[
         "\u30b1\u30b0\u30e0\u30b9"
@@ -78,6 +90,9 @@
         "\u0136egums"
     ],
     "name:pol_x_preferred":[
+        "\u0136egums"
+    ],
+    "name:ron_x_preferred":[
         "\u0136egums"
     ],
     "name:rus_x_preferred":[
@@ -143,7 +158,7 @@
         }
     ],
     "wof:id":101816357,
-    "wof:lastmodified":1561839441,
+    "wof:lastmodified":1563344364,
     "wof:name":"\u0136egums",
     "wof:parent_id":85686011,
     "wof:placetype":"locality",

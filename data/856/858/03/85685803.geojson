@@ -27,11 +27,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0628\u0631\u064a\u0643\u0648\u0644"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0435\u043a\u0443\u043b\u044c\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b0\u09bf\u0995\u09c1\u09b2\u09c7 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
     "name:cat_x_preferred":[
         "Municipi de Priekule"
+    ],
+    "name:ceb_x_preferred":[
+        "Priekules Novads"
     ],
     "name:dan_x_preferred":[
         "Priekule municipality"
@@ -47,10 +53,17 @@
     ],
     "name:eng_x_variant":[
         "Priekule",
-        "Priekule municipality"
+        "Priekule municipality",
+        "Priekule Municipality"
     ],
     "name:est_x_preferred":[
         "Priekule piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Priekule udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u067e\u0631\u06cc\u06a9\u0648\u0644"
     ],
     "name:fin_x_preferred":[
         "Priekulen kunta"
@@ -84,6 +97,9 @@
     ],
     "name:lav_x_preferred":[
         "Priekules Novads"
+    ],
+    "name:lav_x_variant":[
+        "Priekules novads"
     ],
     "name:lit_x_preferred":[
         "Priekul\u0117s savivaldyb\u0117"
@@ -121,6 +137,9 @@
     "name:swe_x_preferred":[
         "Priekules novads"
     ],
+    "name:swe_x_variant":[
+        "Priekule kommun"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0bb0\u0bbf\u0baf\u0b95\u0bc1\u0bb2\u0bc7  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
@@ -141,6 +160,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Priekule"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5217\u5eab\u840a\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -256,7 +278,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839428,
+    "wof:lastmodified":1563343887,
     "wof:name":"Priekules",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

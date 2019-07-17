@@ -17,10 +17,13 @@
     "mps:longitude":24.859438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ang_x_preferred":[
+        "Sigulda"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u063a\u0648\u0644\u062f\u0627"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0421\u0456\u0433\u0443\u043b\u0434\u0430"
     ],
     "name:bul_x_preferred":[
@@ -29,7 +32,13 @@
     "name:cat_x_preferred":[
         "Sigulda"
     ],
+    "name:ceb_x_preferred":[
+        "Sigulda"
+    ],
     "name:ces_x_preferred":[
+        "Sigulda"
+    ],
+    "name:cym_x_preferred":[
         "Sigulda"
     ],
     "name:dan_x_preferred":[
@@ -37,6 +46,9 @@
     ],
     "name:deu_x_preferred":[
         "Sigulda"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03b3\u03ba\u03bf\u03cd\u03bb\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Segewold"
@@ -64,6 +76,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d2\u05d5\u05dc\u05d3\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Sigulda"
     ],
     "name:hun_x_preferred":[
         "Sigulda"
@@ -95,6 +110,9 @@
     "name:nld_x_preferred":[
         "Sigulda"
     ],
+    "name:nob_x_preferred":[
+        "Sigulda"
+    ],
     "name:pol_x_preferred":[
         "Sigulda"
     ],
@@ -117,6 +135,9 @@
         "\u0421\u0438\u0433\u0443\u043b\u0434\u0430"
     ],
     "name:swe_x_preferred":[
+        "Sigulda"
+    ],
+    "name:tur_x_preferred":[
         "Sigulda"
     ],
     "name:ukr_x_preferred":[
@@ -182,7 +203,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561839440,
+    "wof:lastmodified":1563344352,
     "wof:name":"Sigulda",
     "wof:parent_id":85686135,
     "wof:placetype":"locality",

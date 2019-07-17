@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10352485.847197,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.828735,56.976186,23.828735,56.976186",
     "geom:latitude":56.976186,
     "geom:longitude":23.828735,
@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Dzintari"
+    ],
     "name:eng_x_preferred":[
         "Edinburg"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0437\u0438\u043d\u0442\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dzintari"
     ],
     "name:und_x_preferred":[
         "Dzintari"
@@ -114,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932524,
+    "wof:lastmodified":1563343839,
     "wof:name":"Dzintari",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

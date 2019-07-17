@@ -27,7 +27,7 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0645\u0627\u0631\u0648\u0628"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u0443\u043f\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
     "name:ben_x_preferred":[
@@ -35,6 +35,9 @@
     ],
     "name:cat_x_preferred":[
         "Municipi de M\u0101rupe"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u0101rupes Novads"
     ],
     "name:dan_x_preferred":[
         "M\u0101rupe municipality"
@@ -51,10 +54,17 @@
     "name:eng_x_variant":[
         "M\u0101rupe",
         "Marupe",
-        "M\u0101rupe municipality"
+        "M\u0101rupe municipality",
+        "M\u0101rupe Municipality"
     ],
     "name:est_x_preferred":[
         "M\u0101rupe piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "M\u0101rupe udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0645\u0627\u0631\u0648\u067e\u0647"
     ],
     "name:fin_x_preferred":[
         "M\u0101rupen kunta"
@@ -127,6 +137,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dcf\u0dbb\u0dd4\u0db4\u0dda \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:slv_x_preferred":[
+        "M\u0101rupe"
     ],
     "name:spa_x_preferred":[
         "Municipio de M\u0101rupe"
@@ -272,7 +285,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839427,
+    "wof:lastmodified":1563343877,
     "wof:name":"Marupes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

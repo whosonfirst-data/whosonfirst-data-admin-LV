@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Pried\u0101ji"
     ],
+    "name:est_x_preferred":[
+        "Pried\u0101ji"
+    ],
     "name:lav_x_preferred":[
         "Pried\u0101ji"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125939587,
-    "wof:lastmodified":1561839446,
+    "wof:lastmodified":1563344455,
     "wof:name":"Pried\u0101ji",
     "wof:parent_id":85686303,
     "wof:placetype":"locality",

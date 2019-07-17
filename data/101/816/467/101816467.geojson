@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Aina\u017ei"
     ],
+    "name:ceb_x_preferred":[
+        "Aina\u017ei"
+    ],
     "name:ces_x_preferred":[
         "Aina\u017ei"
     ],
@@ -54,6 +57,9 @@
         "Aina\u017ei"
     ],
     "name:fra_x_preferred":[
+        "Aina\u017ei"
+    ],
+    "name:hsb_x_preferred":[
         "Aina\u017ei"
     ],
     "name:hun_x_preferred":[
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":101816467,
-    "wof:lastmodified":1561839442,
+    "wof:lastmodified":1563344385,
     "wof:name":"Aina\u017ei",
     "wof:parent_id":85686287,
     "wof:placetype":"locality",

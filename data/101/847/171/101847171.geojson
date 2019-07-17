@@ -25,6 +25,9 @@
     "name:est_x_preferred":[
         "Ragana"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0563\u0561\u0576\u0561"
+    ],
     "name:lav_x_preferred":[
         "Ragana"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101847171,
-    "wof:lastmodified":1561839446,
+    "wof:lastmodified":1563344434,
     "wof:name":"Ragana",
     "wof:parent_id":85686203,
     "wof:placetype":"locality",

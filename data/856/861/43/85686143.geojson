@@ -27,11 +27,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0645\u0627\u062f\u0648\u0646\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u043d\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u09a1\u09cb\u09a8\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
     "name:cat_x_preferred":[
         "Municipi de Madona"
+    ],
+    "name:ceb_x_preferred":[
+        "Madona Municipality"
     ],
     "name:dan_x_preferred":[
         "Madona municipality"
@@ -45,8 +51,17 @@
     "name:eng_x_preferred":[
         "Madonas"
     ],
+    "name:eng_x_variant":[
+        "Madona Municipality"
+    ],
     "name:est_x_preferred":[
         "Madona piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Madona udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0645\u0627\u062f\u0648\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "Madona"
@@ -262,7 +277,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839424,
+    "wof:lastmodified":1563343863,
     "wof:name":"Madonas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
