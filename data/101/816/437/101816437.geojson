@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Roya"
     ],
+    "name:eng_x_variant":[
+        "Roja"
+    ],
     "name:est_x_preferred":[
         "Roja"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101816437,
-    "wof:lastmodified":1561839440,
+    "wof:lastmodified":1563344349,
     "wof:name":"Roja",
     "wof:parent_id":85686211,
     "wof:placetype":"locality",

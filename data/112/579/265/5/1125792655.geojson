@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Krusti\u0146i"
     ],
+    "name:est_x_preferred":[
+        "Krusti\u0146i"
+    ],
     "name:lav_x_preferred":[
         "Krusti\u0146i"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125792655,
-    "wof:lastmodified":1561839448,
+    "wof:lastmodified":1563344482,
     "wof:name":"Krusti\u0146i",
     "wof:parent_id":85686117,
     "wof:placetype":"locality",

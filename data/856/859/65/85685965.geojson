@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0625\u064a\u0632\u0643\u0631\u0648\u0643\u0644"
     ],
+    "name:aze_x_preferred":[
+        "Ayzqrauql diyar\u0131"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0439\u0437\u043a\u0440\u0430\u045e\u043a\u043b\u044c\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:cat_x_preferred":[
         "Municipi d'Aizkraukle"
+    ],
+    "name:cat_x_variant":[
+        "municipi d'Aizkraukle"
     ],
     "name:dan_x_preferred":[
         "Aizkraukle municipality"
@@ -47,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Aizkraukles"
+    ],
+    "name:eng_x_variant":[
+        "Aizkraukle Municipality"
     ],
     "name:est_x_preferred":[
         "Aizkraukle piirkond"
@@ -155,6 +164,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Aizkraukle"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u8332\u514b\u52de\u514b\u840a\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -270,7 +282,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839422,
+    "wof:lastmodified":1563343853,
     "wof:name":"Aizkraukles",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

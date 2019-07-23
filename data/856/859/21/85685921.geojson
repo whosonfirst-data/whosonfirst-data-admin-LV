@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Municipi de Jaunpils"
     ],
+    "name:ceb_x_preferred":[
+        "Jaunpils Novads"
+    ],
     "name:dan_x_preferred":[
         "Jaunpils municipality"
     ],
@@ -48,8 +51,17 @@
     "name:eng_x_preferred":[
         "Jaunpils"
     ],
+    "name:eng_x_variant":[
+        "Jaunpils Municipality"
+    ],
     "name:est_x_preferred":[
         "Jaunpilsi piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Jaunpils udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u06cc\u0627\u0646\u067e\u06cc\u0644\u0633"
     ],
     "name:fin_x_preferred":[
         "Jaunpilsin kunta"
@@ -83,6 +95,9 @@
     ],
     "name:lav_x_preferred":[
         "Jaunpils Novads"
+    ],
+    "name:lav_x_variant":[
+        "Jaunpils novads"
     ],
     "name:lit_x_preferred":[
         "Jaunpilio savivaldyb\u0117"
@@ -140,6 +155,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Jaunpils"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u76ae\u723e\u65af\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -257,7 +275,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839422,
+    "wof:lastmodified":1563343851,
     "wof:name":"Jaunpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

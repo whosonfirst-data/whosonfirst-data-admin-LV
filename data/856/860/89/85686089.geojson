@@ -27,11 +27,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0633\u064a\u0628\u0644\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0426\u044b\u0431\u043b\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09ac\u09cd\u09b2\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
     "name:cat_x_preferred":[
         "Municipi de Cibla"
+    ],
+    "name:ceb_x_preferred":[
+        "Ciblas Novads"
     ],
     "name:dan_x_preferred":[
         "Cibla municipality"
@@ -47,10 +53,17 @@
     ],
     "name:eng_x_variant":[
         "Cibla",
-        "Cibla municipality"
+        "Cibla municipality",
+        "Cibla Municipality"
     ],
     "name:est_x_preferred":[
         "Cibla piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Cibla udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0633\u06cc\u0628\u0644\u0627"
     ],
     "name:fin_x_preferred":[
         "Ciblan kunta"
@@ -63,6 +76,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u092c\u0932\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0551\u056b\u0562\u056c\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Cibla"
@@ -142,6 +158,9 @@
     "name:ukr_x_preferred":[
         "\u0426\u0456\u0431\u043b\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
+    "name:ukr_x_variant":[
+        "\u0426\u0438\u0431\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    ],
     "name:unk_x_variant":[
         "Ciblas Novads"
     ],
@@ -150,6 +169,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Cibla"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f4a\u5e03\u62c9\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -265,7 +287,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839426,
+    "wof:lastmodified":1563343876,
     "wof:name":"Ciblas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

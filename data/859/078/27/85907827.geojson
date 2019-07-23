@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1948972.148362,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.12173,56.931793,24.12173,56.931793",
     "geom:latitude":56.931793,
     "geom:longitude":24.12173,
@@ -25,10 +25,22 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Za\u0137usala"
+    ],
     "name:dan_x_preferred":[
         "Za\u0137usala"
     ],
+    "name:deu_x_preferred":[
+        "Za\u0137usala"
+    ],
+    "name:eng_x_preferred":[
+        "Za\u0137usala"
+    ],
     "name:est_x_preferred":[
+        "Za\u0137usala"
+    ],
+    "name:eus_x_preferred":[
         "Za\u0137usala"
     ],
     "name:fra_x_preferred":[
@@ -43,10 +55,16 @@
     "name:lit_x_preferred":[
         "Zakiusala"
     ],
+    "name:nld_x_preferred":[
+        "Za\u0137usala"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043a\u044e\u0441\u0430\u043b\u0430"
     ],
     "name:spa_x_preferred":[
+        "Za\u0137usala"
+    ],
+    "name:swe_x_preferred":[
         "Za\u0137usala"
     ],
     "name:und_x_preferred":[
@@ -111,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936646,
+    "wof:lastmodified":1563343843,
     "wof:name":"Zakusala",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

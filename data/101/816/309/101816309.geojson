@@ -16,8 +16,14 @@
     "mps:longitude":23.80929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u0100ne"
+    ],
     "name:eng_x_preferred":[
         "\u0100ne"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u0647"
     ],
     "name:lav_x_preferred":[
         "\u0100ne"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":101816309,
-    "wof:lastmodified":1561839438,
+    "wof:lastmodified":1563344332,
     "wof:name":"\u0100ne",
     "wof:parent_id":85685907,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u043d\u0446\u0438\u0435\u043c\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Kalnciems"
+    ],
     "name:dan_x_preferred":[
         "Kalnciems"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101816337,
-    "wof:lastmodified":1561839439,
+    "wof:lastmodified":1563344336,
     "wof:name":"Kalnciems",
     "wof:parent_id":85685971,
     "wof:placetype":"locality",

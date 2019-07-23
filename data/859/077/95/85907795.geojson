@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6740761.576239,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.175269,56.943476,24.175269,56.943476",
     "geom:latitude":56.943476,
     "geom:longitude":24.175269,
@@ -30,11 +30,17 @@
     "name:dan_x_preferred":[
         "D\u0101rzciems"
     ],
+    "name:eng_x_preferred":[
+        "D\u0101rzciems"
+    ],
     "name:est_x_preferred":[
         "D\u0101rzciems"
     ],
     "name:lav_x_preferred":[
         "D\u0101rzciems"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440\u0437\u0446\u0438\u0435\u043c\u0441"
     ],
     "name:und_x_preferred":[
         "Darzciems"
@@ -96,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936636,
+    "wof:lastmodified":1563343840,
     "wof:name":"Darzciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

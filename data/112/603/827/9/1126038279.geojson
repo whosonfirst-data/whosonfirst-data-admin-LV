@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Upesgr\u012bva"
     ],
+    "name:est_x_preferred":[
+        "Upesgr\u012bva"
+    ],
     "name:lav_x_preferred":[
         "Upesgr\u012bva"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1126038279,
-    "wof:lastmodified":1561839447,
+    "wof:lastmodified":1563344461,
     "wof:name":"Upesgr\u012bva",
     "wof:parent_id":85686125,
     "wof:placetype":"locality",

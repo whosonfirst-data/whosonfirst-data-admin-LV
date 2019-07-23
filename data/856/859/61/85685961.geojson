@@ -36,6 +36,12 @@
     "name:cat_x_preferred":[
         "Municipi d'Alsunga"
     ],
+    "name:cat_x_variant":[
+        "municipi d'Alsunga"
+    ],
+    "name:ceb_x_preferred":[
+        "Alsungas Novads"
+    ],
     "name:dan_x_preferred":[
         "Alsunga municipality"
     ],
@@ -50,10 +56,14 @@
     ],
     "name:eng_x_variant":[
         "Alsunga",
-        "Alsunga municipality"
+        "Alsunga municipality",
+        "Alsunga Municipality"
     ],
     "name:est_x_preferred":[
         "Alsunga piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Alsunga udalerria"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631 \u0627\u0644\u0633\u0627\u0646\u06af\u0627"
@@ -156,6 +166,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Alsunga"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u677e\u52a0\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -271,7 +284,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839421,
+    "wof:lastmodified":1563343847,
     "wof:name":"Alsungas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

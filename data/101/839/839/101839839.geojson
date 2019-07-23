@@ -37,6 +37,9 @@
     "name:est_x_preferred":[
         "Bab\u012bte piirkond"
     ],
+    "name:est_x_variant":[
+        "Bab\u012bte"
+    ],
     "name:fra_x_preferred":[
         "Bab\u012bte"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101839839,
-    "wof:lastmodified":1561839446,
+    "wof:lastmodified":1563344436,
     "wof:name":"Bab\u012bte",
     "wof:parent_id":85686027,
     "wof:placetype":"locality",

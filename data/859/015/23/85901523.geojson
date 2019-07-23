@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2510599.145555,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.772225,56.97025,23.772225,56.97025",
     "geom:latitude":56.97025,
     "geom:longitude":23.772225,
@@ -30,10 +30,13 @@
     ],
     "name:eng_x_variant":[
         "Dubbeln",
-        "Dubulty"
+        "Dubulti"
     ],
     "name:est_x_preferred":[
         "Dubulti"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d1\u05dc\u05df"
     ],
     "name:lav_x_preferred":[
         "Dubulti"
@@ -110,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932523,
+    "wof:lastmodified":1563343837,
     "wof:name":"Dubulti",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

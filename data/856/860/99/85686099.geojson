@@ -27,11 +27,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0645\u0627\u0644\u0628\u064a\u0644\u0633"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043b\u043f\u0456\u043b\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09cd\u09aa\u09bf\u09b2\u09b8 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
     "name:cat_x_preferred":[
         "Municipi de M\u0101lpils"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u0101lpils Novads"
     ],
     "name:dan_x_preferred":[
         "M\u0101lpils municipality"
@@ -47,10 +53,17 @@
     ],
     "name:eng_x_variant":[
         "M\u0101lpils",
-        "M\u0101lpils municipality"
+        "M\u0101lpils municipality",
+        "M\u0101lpils Municipality"
     ],
     "name:est_x_preferred":[
         "M\u0101lpilsi piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "M\u0101lpils udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0645\u0627\u0644\u067e\u06cc\u0644\u0633"
     ],
     "name:fin_x_preferred":[
         "M\u0101lpilsin kunta"
@@ -87,6 +100,9 @@
     ],
     "name:lav_x_preferred":[
         "M\u0101lpils Novads"
+    ],
+    "name:lav_x_variant":[
+        "M\u0101lpils novads"
     ],
     "name:lit_x_preferred":[
         "Malpilio savivaldyb\u0117"
@@ -144,6 +160,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Malpils"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u723e\u76ae\u723e\u65af\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -261,7 +280,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839427,
+    "wof:lastmodified":1563343882,
     "wof:name":"Malpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -27,11 +27,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0643\u0627\u0631\u0633\u0627\u0641\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0441\u0430\u045e\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09b8\u09be\u09ad\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
     "name:cat_x_preferred":[
         "Municipi de K\u0101rsava"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u0101rsavas Novads"
     ],
     "name:dan_x_preferred":[
         "K\u0101rsava municipality"
@@ -47,10 +53,17 @@
     ],
     "name:eng_x_variant":[
         "Karsava",
-        "K\u0101rsava municipality"
+        "K\u0101rsava municipality",
+        "K\u0101rsava Municipality"
     ],
     "name:est_x_preferred":[
         "K\u0101rsava piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "K\u0101rsava udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u06a9\u0627\u0631\u0633\u0627\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "K\u0101rsavan kunta"
@@ -84,6 +97,9 @@
     ],
     "name:lav_x_preferred":[
         "K\u0101rsavas Novads"
+    ],
+    "name:lav_x_variant":[
+        "K\u0101rsavas novads"
     ],
     "name:lit_x_preferred":[
         "Karsavos savivaldyb\u0117"
@@ -147,6 +163,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Karsava"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u85a9\u74e6\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -262,7 +281,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839425,
+    "wof:lastmodified":1563343864,
     "wof:name":"Karsavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -27,7 +27,7 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0628\u0631\u064a\u0643\u0648\u0644\u064a"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041f\u0440\u044b\u0435\u043a\u0443\u043b\u044c\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
     "name:ben_x_preferred":[
@@ -35,6 +35,9 @@
     ],
     "name:cat_x_preferred":[
         "Municipi de Prieku\u013ci"
+    ],
+    "name:ceb_x_preferred":[
+        "Prieku\u013ci Municipality"
     ],
     "name:dan_x_preferred":[
         "Prieku\u013ci municipality"
@@ -48,8 +51,17 @@
     "name:eng_x_preferred":[
         "Priekulu"
     ],
+    "name:eng_x_variant":[
+        "Prieku\u013ci Municipality"
+    ],
     "name:est_x_preferred":[
         "Prieku\u013ci piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Prieku\u013ci udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u067e\u0631\u06cc\u06a9\u0648\u0644\u06cc"
     ],
     "name:fin_x_preferred":[
         "Prieku\u013cin kunta"
@@ -122,6 +134,9 @@
     ],
     "name:swe_x_preferred":[
         "Prieku\u013cu novads"
+    ],
+    "name:swe_x_variant":[
+        "Prieku\u013ci kommun"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0bb0\u0bbf\u0baf\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bbf   \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
@@ -264,7 +279,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839431,
+    "wof:lastmodified":1563343907,
     "wof:name":"Priekulu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

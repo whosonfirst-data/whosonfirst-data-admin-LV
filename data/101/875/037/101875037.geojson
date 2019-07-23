@@ -43,6 +43,9 @@
     "name:eng_x_preferred":[
         "Peltes"
     ],
+    "name:est_x_preferred":[
+        "Peltes"
+    ],
     "name:fra_x_preferred":[
         "Peltaste"
     ],
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101875037,
-    "wof:lastmodified":1561839444,
+    "wof:lastmodified":1563344407,
     "wof:name":"Peltes",
     "wof:parent_id":85686135,
     "wof:placetype":"locality",

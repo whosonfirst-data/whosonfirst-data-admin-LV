@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u0437\u043a\u0430\u043b\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Milzkalne"
+    ],
     "name:eng_x_preferred":[
         "Milzkalne"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125938561,
-    "wof:lastmodified":1561839446,
+    "wof:lastmodified":1563344455,
     "wof:name":"Milzkalne",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

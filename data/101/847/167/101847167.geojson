@@ -20,7 +20,7 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0628\u064a\u0644"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0421\u0430\u0431\u0456\u043b\u044d"
     ],
     "name:bul_x_preferred":[
@@ -56,6 +56,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d1\u05d9\u05dc\u05d4"
     ],
+    "name:hsb_x_preferred":[
+        "Sabile"
+    ],
     "name:hun_x_preferred":[
         "Sabile"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:sgs_x_preferred":[
         "Sabil\u0117"
+    ],
+    "name:slv_x_preferred":[
+        "Sabile"
     ],
     "name:spa_x_preferred":[
         "Sabile"
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":101847167,
-    "wof:lastmodified":1561839444,
+    "wof:lastmodified":1563344420,
     "wof:name":"Sabile",
     "wof:parent_id":85686157,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6751099.5473,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.181289,56.958616,24.181289,56.958616",
     "geom:latitude":56.958616,
     "geom:longitude":24.181289,
@@ -26,6 +26,9 @@
     "mz:tier_locality":3,
     "mz:tier_metro":30,
     "name:dan_x_preferred":[
+        "Purvciems"
+    ],
+    "name:eng_x_preferred":[
         "Purvciems"
     ],
     "name:est_x_preferred":[
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936642,
+    "wof:lastmodified":1563343846,
     "wof:name":"Purvciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

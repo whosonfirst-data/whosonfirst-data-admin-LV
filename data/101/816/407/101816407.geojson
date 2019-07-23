@@ -20,13 +20,16 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0628\u0627\u0646\u064a\u0627"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041b\u0443\u0431\u0430\u043d\u0430"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0443\u0431\u0430\u043d\u0430"
     ],
     "name:cat_x_preferred":[
+        "Lub\u0101na"
+    ],
+    "name:ceb_x_preferred":[
         "Lub\u0101na"
     ],
     "name:ces_x_preferred":[
@@ -54,6 +57,9 @@
         "\u0644\u0648\u0628\u0627\u0646\u0627"
     ],
     "name:fra_x_preferred":[
+        "Lub\u0101na"
+    ],
+    "name:hsb_x_preferred":[
         "Lub\u0101na"
     ],
     "name:hun_x_preferred":[
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":101816407,
-    "wof:lastmodified":1561839440,
+    "wof:lastmodified":1563344354,
     "wof:name":"Lub\u0101na",
     "wof:parent_id":85686131,
     "wof:placetype":"locality",

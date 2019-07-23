@@ -30,6 +30,9 @@
     "name:bel_x_preferred":[
         "\u0412\u043e\u0437\u0435\u0440\u0430 \u041b\u0443\u0431\u0430\u043d\u0441"
     ],
+    "name:bel_x_variant":[
+        "\u041b\u0443\u0431\u0430\u043d\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u09ac\u09be\u09a8\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
@@ -39,6 +42,9 @@
     "name:cat_x_preferred":[
         "Municipi de Lub\u0101na"
     ],
+    "name:ceb_x_preferred":[
+        "Lub\u0101nas Novads"
+    ],
     "name:ces_x_preferred":[
         "Lubanas"
     ],
@@ -47,6 +53,9 @@
     ],
     "name:dan_x_preferred":[
         "Lub\u0101ns"
+    ],
+    "name:dan_x_variant":[
+        "Lub\u0101na municipality"
     ],
     "name:deu_x_preferred":[
         "Lub\u0101n-See"
@@ -63,10 +72,20 @@
     "name:eng_x_variant":[
         "Lub\u0101na",
         "Lubana",
-        "Lub\u0101na municipality"
+        "Lub\u0101na municipality",
+        "Lub\u0101na Municipality"
     ],
     "name:est_x_preferred":[
         "Lub\u0101ns"
+    ],
+    "name:est_x_variant":[
+        "Lub\u0101na piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Lub\u0101na udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0644\u0648\u0628\u0627\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "Lub\u0101nan kunta"
@@ -106,6 +125,9 @@
     ],
     "name:lav_x_preferred":[
         "Lub\u0101nas Novads"
+    ],
+    "name:lav_x_variant":[
+        "Lub\u0101nas novads"
     ],
     "name:lit_x_preferred":[
         "Lubanos savivaldyb\u0117"
@@ -163,6 +185,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Lubana"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5df4\u7d0d\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -278,7 +303,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839425,
+    "wof:lastmodified":1563343864,
     "wof:name":"Lubanas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

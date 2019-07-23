@@ -29,6 +29,9 @@
     "name:aze_x_preferred":[
         "\u018fski Riqa"
     ],
+    "name:aze_x_variant":[
+        "Vekriqa"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u044f \u0420\u044b\u0433\u0430"
     ],
@@ -59,6 +62,9 @@
     "name:ind_x_preferred":[
         "Vecr\u012bga"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30af\u30ea\u30ac"
+    ],
     "name:kat_x_preferred":[
         "\u10eb\u10d5\u10d4\u10da\u10d8 \u10e0\u10d8\u10d2\u10d0"
     ],
@@ -80,8 +86,14 @@
     "name:pol_x_preferred":[
         "Stare Miasto w Rydze"
     ],
+    "name:pol_x_variant":[
+        "Stare miasto"
+    ],
     "name:por_x_preferred":[
         "Centro Hist\u00f3rico de Riga"
+    ],
+    "name:ron_x_preferred":[
+        "Vecr\u012bga"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b\u0439 \u0433\u043e\u0440\u043e\u0434"
@@ -90,6 +102,9 @@
         "Vecr\u012bga"
     ],
     "name:swe_x_preferred":[
+        "Vecr\u012bga"
+    ],
+    "name:tur_x_preferred":[
         "Vecr\u012bga"
     ],
     "name:ukr_x_preferred":[
@@ -164,7 +179,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561839421,
+    "wof:lastmodified":1563343845,
     "wof:name":"Vecriga",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

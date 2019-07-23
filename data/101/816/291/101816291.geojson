@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Auce"
     ],
+    "name:ceb_x_preferred":[
+        "Auce"
+    ],
     "name:ces_x_preferred":[
         "Auce"
     ],
@@ -53,8 +56,14 @@
     "name:fra_x_preferred":[
         "Auce"
     ],
+    "name:hsb_x_preferred":[
+        "Auce"
+    ],
     "name:hun_x_preferred":[
         "Auce"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0578\u0582\u0581\u0565"
     ],
     "name:ita_x_preferred":[
         "Auce"
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":101816291,
-    "wof:lastmodified":1561839442,
+    "wof:lastmodified":1563344387,
     "wof:name":"Auce",
     "wof:parent_id":85685839,
     "wof:placetype":"locality",

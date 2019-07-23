@@ -25,6 +25,9 @@
     "name:lav_x_preferred":[
         "\u0136ekavas pagasts"
     ],
+    "name:lav_x_variant":[
+        "Valdlau\u010di"
+    ],
     "name:ltg_x_preferred":[
         "Valdlau\u010di"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101872925,
-    "wof:lastmodified":1561839443,
+    "wof:lastmodified":1563344404,
     "wof:name":"Valdlau\u010di",
     "wof:parent_id":85685999,
     "wof:placetype":"locality",

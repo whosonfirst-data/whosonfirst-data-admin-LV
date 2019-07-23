@@ -19,7 +19,13 @@
     "name:eng_x_preferred":[
         "Kadaga"
     ],
+    "name:est_x_preferred":[
+        "Kadaga"
+    ],
     "name:lav_x_preferred":[
+        "Kadaga"
+    ],
+    "name:nld_x_preferred":[
         "Kadaga"
     ],
     "name:pol_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":101847157,
-    "wof:lastmodified":1527714967,
+    "wof:lastmodified":1563344419,
     "wof:name":"Kadaga",
     "wof:parent_id":85686113,
     "wof:placetype":"locality",

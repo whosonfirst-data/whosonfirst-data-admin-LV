@@ -31,7 +31,8 @@
         "Agenkalne Inlet"
     ],
     "name:eng_x_variant":[
-        "\u00c5genskalns"
+        "\u00c5genskalns",
+        "\u0100genskalns"
     ],
     "name:est_x_preferred":[
         "\u0100genskalns"
@@ -121,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536864510,
+    "wof:lastmodified":1563343839,
     "wof:name":"Agenskalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

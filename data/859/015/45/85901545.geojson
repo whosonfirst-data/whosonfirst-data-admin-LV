@@ -33,7 +33,8 @@
         "Tor\u00f1akalns"
     ],
     "name:eng_x_variant":[
-        "Tornakaln"
+        "Tornakaln",
+        "Tor\u0146akalns"
     ],
     "name:est_x_preferred":[
         "Tor\u0146akalns"
@@ -120,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536864510,
+    "wof:lastmodified":1563343836,
     "wof:name":"Tornakalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

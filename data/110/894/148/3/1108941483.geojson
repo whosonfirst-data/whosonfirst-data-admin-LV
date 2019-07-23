@@ -21,6 +21,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Daugavgr\u012bva"
+    ],
     "name:deu_x_preferred":[
         "D\u00fcnam\u00fcnde"
     ],
@@ -63,6 +66,9 @@
     "name:swe_x_preferred":[
         "Daugavgr\u012bva"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0443\u0433\u0430\u0432\u0433\u0440\u0456\u0432\u0430"
+    ],
     "name:zho_x_preferred":[
         "\u9053\u52a0\u683c\u91cc\u4f10"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108941483,
-    "wof:lastmodified":1561839437,
+    "wof:lastmodified":1563344255,
     "wof:name":"Daugavgriva",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -27,11 +27,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0633\u064a\u064a\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u0439\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u099c\u09be \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
     "name:cat_x_preferred":[
         "Municipi de S\u0113ja"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u0113jas Novads"
     ],
     "name:dan_x_preferred":[
         "S\u0113ja municipality"
@@ -45,8 +51,17 @@
     "name:eng_x_preferred":[
         "Sejas"
     ],
+    "name:eng_x_variant":[
+        "S\u0113ja Municipality"
+    ],
     "name:est_x_preferred":[
         "S\u0113ja piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "S\u0113ja udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0633\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "S\u0113jan kunta"
@@ -59,6 +74,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0916\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0575\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya S\u0113ja"
@@ -105,6 +123,9 @@
     "name:por_x_preferred":[
         "N\u00e3o Sejas Mau para Mim"
     ],
+    "name:por_x_variant":[
+        "Munic\u00edpio Seja"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
@@ -116,6 +137,9 @@
     ],
     "name:swe_x_preferred":[
         "S\u0113jas novads"
+    ],
+    "name:swe_x_variant":[
+        "S\u0113ja kommun"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0b9c\u0bbe  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
@@ -140,6 +164,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Seja"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u4e9e\u81ea\u6cbb\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -255,7 +282,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839423,
+    "wof:lastmodified":1563343858,
     "wof:name":"Sejas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

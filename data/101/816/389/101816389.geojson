@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Slampe"
     ],
+    "name:est_x_preferred":[
+        "Slampe"
+    ],
     "name:lav_x_preferred":[
         "Slampe"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101816389,
-    "wof:lastmodified":1561839442,
+    "wof:lastmodified":1563344394,
     "wof:name":"Slampe",
     "wof:parent_id":85686083,
     "wof:placetype":"locality",

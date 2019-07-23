@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3469216.498263,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.051783,56.947333,24.051783,56.947333",
     "geom:latitude":56.947333,
     "geom:longitude":24.051783,
@@ -27,6 +27,9 @@
     "mz:tier_metro":30,
     "name:bul_x_preferred":[
         "\u0417\u0430\u0441\u0443\u043b\u0430\u0443\u043a\u0441"
+    ],
+    "name:eng_x_preferred":[
+        "Zasulauks"
     ],
     "name:est_x_preferred":[
         "Zasulauks"
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936639,
+    "wof:lastmodified":1563343844,
     "wof:name":"Zasulauks",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

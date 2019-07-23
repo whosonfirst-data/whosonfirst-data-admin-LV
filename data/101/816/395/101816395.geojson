@@ -17,6 +17,9 @@
     "mps:longitude":23.224644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Engure"
+    ],
     "name:deu_x_preferred":[
         "Engure"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:est_x_preferred":[
         "Engure"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u06af\u0648\u0631\u0647"
     ],
     "name:lav_x_preferred":[
         "Engure"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":101816395,
-    "wof:lastmodified":1561839441,
+    "wof:lastmodified":1563344363,
     "wof:name":"Engure",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

@@ -18,7 +18,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "U\u017eava"
+    ],
     "name:eng_x_preferred":[
+        "U\u017eava"
+    ],
+    "name:est_x_preferred":[
         "U\u017eava"
     ],
     "name:lav_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1126003403,
-    "wof:lastmodified":1561839448,
+    "wof:lastmodified":1563344475,
     "wof:name":"U\u017eava",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",

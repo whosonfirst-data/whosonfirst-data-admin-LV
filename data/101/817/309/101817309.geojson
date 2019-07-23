@@ -18,11 +18,17 @@
     "mps:longitude":23.939256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:bel_x_variant":[
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u064a\u0646"
+    ],
+    "name:bel_x_preferred":[
         "\u041e\u043b\u0430\u0439\u043d\u044d"
     ],
     "name:bul_x_preferred":[
         "\u041e\u043b\u0430\u0439\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Olaines Novads"
     ],
     "name:ces_x_preferred":[
         "Olaine"
@@ -46,6 +52,9 @@
         "Olaine"
     ],
     "name:fra_x_preferred":[
+        "Olaine"
+    ],
+    "name:hsb_x_preferred":[
         "Olaine"
     ],
     "name:hun_x_preferred":[
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":101817309,
-    "wof:lastmodified":1561839443,
+    "wof:lastmodified":1563344402,
     "wof:name":"Olaine",
     "wof:parent_id":85685981,
     "wof:placetype":"locality",

@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u064a\u0643\u0644"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0439\u0446\u044d\u043b\u044d"
+    ],
     "name:bel_x_variant":[
         "\u0421\u0442\u0430\u0439\u0446\u044d\u043b\u044d"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0439\u0446\u0435\u043b\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Staicele"
     ],
     "name:ces_x_preferred":[
         "Staicele"
@@ -48,6 +54,9 @@
         "Staicele"
     ],
     "name:fra_x_preferred":[
+        "Staicele"
+    ],
+    "name:hsb_x_preferred":[
         "Staicele"
     ],
     "name:hun_x_preferred":[
@@ -143,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561839445,
+    "wof:lastmodified":1563344426,
     "wof:name":"Staicele",
     "wof:parent_id":85686293,
     "wof:placetype":"locality",

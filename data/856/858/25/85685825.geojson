@@ -54,6 +54,9 @@
     "name:cat_x_preferred":[
         "Daugavpils"
     ],
+    "name:ceb_x_preferred":[
+        "Daugavpils"
+    ],
     "name:ces_x_preferred":[
         "Daugavpils"
     ],
@@ -124,6 +127,9 @@
         "\u0921\u094c\u0917\u093e\u0935\u094d\u092a\u093f\u0932\u094d\u0938"
     ],
     "name:hrv_x_preferred":[
+        "Daugavpils"
+    ],
+    "name:hsb_x_preferred":[
         "Daugavpils"
     ],
     "name:hun_x_preferred":[
@@ -342,7 +348,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839430,
+    "wof:lastmodified":1563343898,
     "wof:name":"Daugavpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

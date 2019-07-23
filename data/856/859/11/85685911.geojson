@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "J\u0113kabpils"
     ],
+    "name:ceb_x_preferred":[
+        "J\u0113kabpils"
+    ],
     "name:ces_x_preferred":[
         "J\u0113kabpils"
     ],
@@ -66,10 +69,16 @@
     "name:eng_x_preferred":[
         "Jekabpils"
     ],
+    "name:eng_x_variant":[
+        "J\u0113kabpils"
+    ],
     "name:epo_x_preferred":[
         "J\u0113kabpils"
     ],
     "name:est_x_preferred":[
+        "J\u0113kabpils"
+    ],
+    "name:eus_x_preferred":[
         "J\u0113kabpils"
     ],
     "name:fas_x_preferred":[
@@ -91,6 +100,9 @@
         "\u091c\u0947\u0915\u0949\u092c\u094d\u092a\u093f\u0932\u094d\u0938"
     ],
     "name:hrv_x_preferred":[
+        "J\u0113kabpils"
+    ],
+    "name:hsb_x_preferred":[
         "J\u0113kabpils"
     ],
     "name:hun_x_preferred":[
@@ -180,6 +192,9 @@
     "name:spa_x_preferred":[
         "J\u0113kabpils"
     ],
+    "name:sqi_x_preferred":[
+        "J\u0113kabpils"
+    ],
     "name:srp_x_preferred":[
         "\u0408\u0435\u043a\u0430\u0431\u043f\u0438\u043b\u0441"
     ],
@@ -191,6 +206,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9c\u0b95\u0bbe\u0baa\u0bbf\u0bb3\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0415\u043a\u0430\u0431\u043f\u0438\u043b\u0441"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c47\u0c15\u0c3e\u0c2c\u0c4d\u0c2a\u0c3f\u0c32\u0c4d\u0c38\u0c4d"
@@ -271,7 +289,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1561839422,
+    "wof:lastmodified":1563343850,
     "wof:name":"Jekabpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

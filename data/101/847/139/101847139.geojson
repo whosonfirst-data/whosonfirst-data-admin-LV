@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Priedaine"
     ],
+    "name:est_x_preferred":[
+        "Priedaine"
+    ],
     "name:lav_x_preferred":[
         "Priedaine"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101847139,
-    "wof:lastmodified":1561839445,
+    "wof:lastmodified":1563344431,
     "wof:name":"Priedaine",
     "wof:parent_id":85686043,
     "wof:placetype":"locality",

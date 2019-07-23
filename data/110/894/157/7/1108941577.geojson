@@ -21,6 +21,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Sloka"
+    ],
     "name:eng_x_preferred":[
         "Sloka"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u043e\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sloka"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043b\u043e\u043a\u0430"
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108941577,
-    "wof:lastmodified":1514484143,
+    "wof:lastmodified":1563344243,
     "wof:name":"Sloka",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

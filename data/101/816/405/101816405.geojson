@@ -30,6 +30,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u044d\u043d\u0442\u0441\u043f\u0456\u043b\u0441"
     ],
+    "name:bel_x_variant":[
+        "\u0412\u044d\u043d\u0442\u0441\u043f\u0456\u043b\u0441"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09c7\u09a8\u09cd\u099f\u09b8\u09cd\u09aa\u09bf\u09b2\u09b8"
     ],
@@ -40,6 +43,9 @@
         "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441"
     ],
     "name:cat_x_preferred":[
+        "Ventspils"
+    ],
+    "name:ceb_x_preferred":[
         "Ventspils"
     ],
     "name:ces_x_preferred":[
@@ -111,6 +117,12 @@
     "name:hin_x_preferred":[
         "\u0935\u0947\u0902\u091f\u0938\u092a\u093f\u0932\u094d\u0938"
     ],
+    "name:hrv_x_preferred":[
+        "Ventspils"
+    ],
+    "name:hsb_x_preferred":[
+        "Ventspils"
+    ],
     "name:hun_x_preferred":[
         "Ventspils"
     ],
@@ -135,6 +147,9 @@
     "name:kan_x_preferred":[
         "\u0cb5\u0cc6\u0c82\u0c9f\u0ccd\u0cb8\u0ccd\u0caa\u0cbf\u0cb2\u0ccd\u0cb8\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0cb5\u0cc6\u0c82\u0c9f\u0ccd\u0cb8\u0ccd\u0caa\u0cbf\u0cb2\u0ccd\u0cb8\u0ccd,"
+    ],
     "name:kat_x_preferred":[
         "\u10d5\u10d4\u10dc\u10e2\u10e1\u10de\u10d8\u10da\u10e1\u10d8"
     ],
@@ -153,10 +168,16 @@
     "name:lit_x_preferred":[
         "Ventspilis"
     ],
+    "name:ltg_x_preferred":[
+        "Ventspi\u013cs"
+    ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0928\u094d\u091f\u0938\u094d\u092a\u093f\u0932\u094d\u0938"
     ],
     "name:mhr_x_preferred":[
+        "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441"
+    ],
+    "name:mkd_x_preferred":[
         "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441"
     ],
     "name:msa_x_preferred":[
@@ -216,6 +237,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0bc6\u0ba9\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd\u0baa\u0bcd\u0baa\u0bbf\u0bb3\u0bcd\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c46\u0c02\u0c1f\u0c4d\u0c38\u0c4d\u200c\u0c2a\u0c3f\u0c32\u0c4d\u0c38\u0c4d"
     ],
@@ -244,6 +268,9 @@
         "Ventspils"
     ],
     "name:vol_x_preferred":[
+        "Ventspils"
+    ],
+    "name:war_x_preferred":[
         "Ventspils"
     ],
     "name:zho_x_preferred":[
@@ -387,7 +414,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561839442,
+    "wof:lastmodified":1563344386,
     "wof:name":"Ventspils",
     "wof:parent_id":85686123,
     "wof:placetype":"locality",

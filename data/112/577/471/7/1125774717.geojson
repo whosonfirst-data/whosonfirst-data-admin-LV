@@ -21,6 +21,12 @@
     "name:eng_x_preferred":[
         "T\u0101rgale"
     ],
+    "name:est_x_preferred":[
+        "T\u0101rgale"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0631\u06af\u0627\u0644\u0647"
+    ],
     "name:lav_x_preferred":[
         "T\u0101rgale"
     ],
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125774717,
-    "wof:lastmodified":1561839448,
+    "wof:lastmodified":1563344483,
     "wof:name":"T\u0101rgale",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",
