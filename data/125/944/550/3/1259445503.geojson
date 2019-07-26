@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Lauderi"
     ],
+    "name:lav_x_preferred":[
+        "Lauderi"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0443\u0434\u0435\u0440\u0438"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1259445503,
-    "wof:lastmodified":1537663136,
+    "wof:lastmodified":1564104072,
     "wof:name":"Lauderi",
     "wof:parent_id":85685987,
     "wof:placetype":"locality",

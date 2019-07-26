@@ -26,6 +26,21 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Emburga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u0631\u06af\u0627"
+    ],
+    "name:lav_x_preferred":[
+        "Emburga"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043c\u0431\u0443\u0440\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Emburga"
+    ],
     "name:und_x_variant":[
         "Annaskalni"
     ],
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1360021313,
-    "wof:lastmodified":1537663232,
+    "wof:lastmodified":1564103936,
     "wof:name":"Emburga",
     "wof:parent_id":85685885,
     "wof:placetype":"locality",

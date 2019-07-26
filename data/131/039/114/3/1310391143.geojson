@@ -26,6 +26,18 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Krim\u016bnas"
+    ],
+    "name:lav_x_preferred":[
+        "Krim\u016bnas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u043c\u0443\u043d\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Krim\u016bnas"
+    ],
     "name:und_x_variant":[
         "Krim\u016bnas"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310391143,
-    "wof:lastmodified":1537663146,
+    "wof:lastmodified":1564103887,
     "wof:name":"Krimunas",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

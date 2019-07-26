@@ -27,6 +27,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Penkule"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043d\u043a\u0443\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Penkules Mui\u017ea",
         "Penkule"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276356257,
-    "wof:lastmodified":1537663090,
+    "wof:lastmodified":1564103691,
     "wof:name":"Penkule",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

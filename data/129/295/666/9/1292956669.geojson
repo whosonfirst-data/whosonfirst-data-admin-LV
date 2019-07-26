@@ -26,6 +26,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Seili"
+    ],
+    "name:swe_x_preferred":[
+        "Seili"
+    ],
     "name:und_x_variant":[
         "Sei\u013ci",
         "S\u012b\u013ci"
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1292956669,
-    "wof:lastmodified":1537663058,
+    "wof:lastmodified":1564103611,
     "wof:name":"Seili",
     "wof:parent_id":85686095,
     "wof:placetype":"locality",

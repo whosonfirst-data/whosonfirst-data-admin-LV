@@ -26,6 +26,21 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Basi"
+    ],
+    "name:ilo_x_preferred":[
+        "Basi"
+    ],
+    "name:ita_x_preferred":[
+        "Basi"
+    ],
+    "name:lit_x_preferred":[
+        "Basis"
+    ],
+    "name:spa_x_preferred":[
+        "Basi"
+    ],
     "name:und_x_variant":[
         "Base",
         "Basi",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293174105,
-    "wof:lastmodified":1537663222,
+    "wof:lastmodified":1564103656,
     "wof:name":"Basi",
     "wof:parent_id":85686043,
     "wof:placetype":"locality",

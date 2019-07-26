@@ -26,11 +26,26 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Skaistkalne"
+    ],
     "name:eng_x_preferred":[
         "Skaistkalne"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u06a9\u0627\u06cc\u0633\u062a\u06a9\u0627\u0644\u0646\u0647"
+    ],
+    "name:lav_x_preferred":[
+        "Skaistkalne"
+    ],
+    "name:lit_x_preferred":[
+        "Skaistkaln\u0117"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043a\u0430\u0439\u0441\u0442\u043a\u0430\u043b\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Skaistkalne"
     ],
     "name:und_x_variant":[
         "Myasto Skaystkalne",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1242814871,
-    "wof:lastmodified":1537663057,
+    "wof:lastmodified":1564103983,
     "wof:name":"Skaistkalne",
     "wof:parent_id":85685939,
     "wof:placetype":"locality",

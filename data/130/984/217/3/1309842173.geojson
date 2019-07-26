@@ -26,6 +26,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nauk\u0161\u0113ni"
+    ],
+    "name:deu_x_preferred":[
+        "Nauk\u0161\u0113ni"
+    ],
     "name:eng_x_preferred":[
         "Nauk\u0161\u0113ni"
     ],
@@ -35,8 +41,23 @@
     "name:est_x_preferred":[
         "Nausk\u00fcla"
     ],
+    "name:est_x_variant":[
+        "Nauk\u0161\u0113ni"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0648\u06a9\u0634\u0646\u06cc"
+    ],
+    "name:lav_x_preferred":[
+        "Nauk\u0161\u0113ni"
+    ],
+    "name:lit_x_preferred":[
+        "Nauk\u0161\u0117nai"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0443\u043a\u0448\u0435\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Nauk\u0161\u0113ni"
     ],
     "name:und_x_variant":[
         "Nauksheny",
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":1309842173,
-    "wof:lastmodified":1537663102,
+    "wof:lastmodified":1564103947,
     "wof:name":"Naukseni",
     "wof:parent_id":85686299,
     "wof:placetype":"locality",

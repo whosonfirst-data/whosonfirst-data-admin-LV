@@ -16,6 +16,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:est_x_preferred":[
+        "Bulduri"
+    ],
+    "name:fra_x_preferred":[
+        "Bilderlingshof"
+    ],
+    "name:lav_x_preferred":[
+        "Bulduri"
+    ],
+    "name:lit_x_preferred":[
+        "Buldurai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0434\u0443\u0440\u0438"
+    ],
     "qs_pg:aaroncc":"LV",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Bulduri",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1125994501,
-    "wof:lastmodified":1509405634,
+    "wof:lastmodified":1564103962,
     "wof:name":"Bulduri",
     "wof:parent_id":85686065,
     "wof:placetype":"locality",

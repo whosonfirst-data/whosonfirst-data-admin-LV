@@ -27,6 +27,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0112r\u0123eme"
+    ],
+    "name:deu_x_preferred":[
+        "\u0112r\u0123eme"
+    ],
     "name:eng_x_preferred":[
         "\u0112r\u0123eme"
     ],
@@ -36,8 +42,20 @@
     "name:est_x_preferred":[
         "H\u00e4rgm\u00e4e"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u06af\u0645\u0647"
+    ],
+    "name:lav_x_preferred":[
+        "\u0112r\u0123eme"
+    ],
+    "name:pol_x_preferred":[
+        "\u0112r\u0123eme"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u0433\u0435\u043c\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u0112r\u0123eme"
     ],
     "name:und_x_variant":[
         "\u0112r\u0123enies Mui\u017ea"
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":1242627627,
-    "wof:lastmodified":1537663192,
+    "wof:lastmodified":1564104017,
     "wof:name":"Ergeme",
     "wof:parent_id":85686295,
     "wof:placetype":"locality",

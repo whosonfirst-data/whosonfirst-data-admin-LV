@@ -26,6 +26,15 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "B\u0113rzkalni"
+    ],
+    "name:lav_x_preferred":[
+        "B\u0113rzkalni"
+    ],
+    "name:pol_x_preferred":[
+        "B\u0113rzkalni"
+    ],
     "name:und_x_variant":[
         "B\u0113rzkalni"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1310243363,
-    "wof:lastmodified":1537663218,
+    "wof:lastmodified":1564103862,
     "wof:name":"Berzkalni",
     "wof:parent_id":85685961,
     "wof:placetype":"locality",

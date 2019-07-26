@@ -26,7 +26,31 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Straupe"
+    ],
     "name:eng_x_preferred":[
+        "Straupe"
+    ],
+    "name:est_x_preferred":[
+        "Straupe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0631\u0627\u0648\u067e\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Straupe"
+    ],
+    "name:lav_x_preferred":[
+        "Straupe"
+    ],
+    "name:nds_x_preferred":[
+        "Straupe"
+    ],
+    "name:nor_x_preferred":[
+        "Straupe"
+    ],
+    "name:pol_x_preferred":[
         "Straupe"
     ],
     "name:rus_x_preferred":[
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1360008489,
-    "wof:lastmodified":1537663127,
+    "wof:lastmodified":1564103918,
     "wof:name":"Straupe",
     "wof:parent_id":85686215,
     "wof:placetype":"locality",

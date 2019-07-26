@@ -21,6 +21,24 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Asari"
+    ],
+    "name:deu_x_preferred":[
+        "Asari"
+    ],
+    "name:epo_x_preferred":[
+        "Asari"
+    ],
+    "name:lav_x_preferred":[
+        "Asari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Asari"
+    ],
     "name:unk_x_variant":[
         "Assern"
     ],
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1108941573,
-    "wof:lastmodified":1504309719,
+    "wof:lastmodified":1564103852,
     "wof:name":"Asari",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

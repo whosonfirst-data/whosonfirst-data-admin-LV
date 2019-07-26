@@ -26,6 +26,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Naud\u012bte"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u0434\u0438\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Naudites",
         "R\u016bsas",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243283827,
-    "wof:lastmodified":1537663102,
+    "wof:lastmodified":1564104029,
     "wof:name":"Naudite",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

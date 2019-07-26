@@ -29,6 +29,12 @@
     "name:eng_x_preferred":[
         "S\u0113lpils"
     ],
+    "name:est_x_preferred":[
+        "S\u0113lpils"
+    ],
+    "name:lav_x_preferred":[
+        "S\u0113lpils"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043b\u043f\u0438\u043b\u0441"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1260116431,
-    "wof:lastmodified":1537663061,
+    "wof:lastmodified":1564103839,
     "wof:name":"Vecselpils",
     "wof:parent_id":85685953,
     "wof:placetype":"locality",

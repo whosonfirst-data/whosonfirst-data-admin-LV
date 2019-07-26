@@ -26,6 +26,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Valteri"
+    ],
+    "name:lav_x_preferred":[
+        "Valteri"
+    ],
     "name:und_x_variant":[
         "Val\u2019tery",
         "Valteri"
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259461903,
-    "wof:lastmodified":1537663028,
+    "wof:lastmodified":1564104049,
     "wof:name":"Valteri",
     "wof:parent_id":85685833,
     "wof:placetype":"locality",

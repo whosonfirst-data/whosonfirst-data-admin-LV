@@ -26,6 +26,9 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30b9\u30da\u30a2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1293845309,
-    "wof:lastmodified":1536768979,
+    "wof:lastmodified":1564103620,
     "wof:name":"Spare",
     "wof:parent_id":85686157,
     "wof:placetype":"locality",

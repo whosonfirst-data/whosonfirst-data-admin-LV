@@ -26,11 +26,26 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Demene"
+    ],
     "name:eng_x_preferred":[
         "Demene"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0645\u0646\u0647"
+    ],
+    "name:lav_x_preferred":[
+        "Demene"
+    ],
+    "name:lit_x_preferred":[
+        "Demen\u0117"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u043c\u0435\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Demene"
     ],
     "name:und_x_variant":[
         "Myza Demmen",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1293283949,
-    "wof:lastmodified":1537663201,
+    "wof:lastmodified":1564103656,
     "wof:name":"Demene",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

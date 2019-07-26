@@ -27,6 +27,75 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ad\u09be\u09b0\u09cd\u09ad"
+    ],
+    "name:cat_x_preferred":[
+        "Varva"
+    ],
+    "name:ces_x_preferred":[
+        "Varva"
+    ],
+    "name:dan_x_preferred":[
+        "Varv"
+    ],
+    "name:deu_x_preferred":[
+        "Warve"
+    ],
+    "name:est_x_preferred":[
+        "Varv"
+    ],
+    "name:fin_x_preferred":[
+        "Lustosavikronologia"
+    ],
+    "name:fra_x_preferred":[
+        "Varve"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00e1t\u00fa varbh"
+    ],
+    "name:glg_x_preferred":[
+        "Varva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e8\u05d5\u05d5\u05ea"
+    ],
+    "name:hun_x_preferred":[
+        "Varv"
+    ],
+    "name:isl_x_preferred":[
+        "Hvarf"
+    ],
+    "name:ita_x_preferred":[
+        "Varva"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d28\u0d41\u0d35\u0d7c\u0d37\u0d38\u0d4d\u0d24\u0d30\u0d3f"
+    ],
+    "name:nld_x_preferred":[
+        "Warve"
+    ],
+    "name:nno_x_preferred":[
+        "Varv"
+    ],
+    "name:nor_x_preferred":[
+        "Varv"
+    ],
+    "name:pol_x_preferred":[
+        "Warwa"
+    ],
+    "name:por_x_preferred":[
+        "Varvito"
+    ],
+    "name:spa_x_preferred":[
+        "Varva"
+    ],
+    "name:swe_x_preferred":[
+        "Varvig lera"
+    ],
+    "name:tur_x_preferred":[
+        "Varv"
+    ],
     "name:und_x_variant":[
         "Myza Varve",
         "V\u0101rva",
@@ -56,7 +125,7 @@
         }
     ],
     "wof:id":1293815249,
-    "wof:lastmodified":1537663026,
+    "wof:lastmodified":1564103660,
     "wof:name":"Varve",
     "wof:parent_id":85685829,
     "wof:placetype":"locality",

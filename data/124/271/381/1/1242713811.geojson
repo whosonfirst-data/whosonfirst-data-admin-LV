@@ -26,6 +26,9 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Skujaine"
+    ],
     "name:und_x_variant":[
         "Kl\u016bnas",
         "Sovkhoz Gaysma",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242713811,
-    "wof:lastmodified":1537663054,
+    "wof:lastmodified":1564104017,
     "wof:name":"Skujaine",
     "wof:parent_id":85685837,
     "wof:placetype":"locality",

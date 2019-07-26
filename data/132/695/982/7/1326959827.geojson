@@ -26,6 +26,15 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Pumpuri"
+    ],
+    "name:lav_x_preferred":[
+        "Pumpuri"
+    ],
+    "name:pol_x_preferred":[
+        "Pumpuri"
+    ],
     "name:und_x_variant":[
         "Jaunmui\u017ea",
         "Pumpuri"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1326959827,
-    "wof:lastmodified":1537663080,
+    "wof:lastmodified":1564103481,
     "wof:name":"Pumpuri",
     "wof:parent_id":85685871,
     "wof:placetype":"locality",

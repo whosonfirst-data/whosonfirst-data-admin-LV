@@ -26,11 +26,23 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kruki"
+    ],
     "name:eng_x_preferred":[
+        "Kruki"
+    ],
+    "name:fra_x_preferred":[
+        "Kruki"
+    ],
+    "name:pol_x_preferred":[
         "Kruki"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0443\u043a\u0456"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1259739129,
-    "wof:lastmodified":1537663144,
+    "wof:lastmodified":1564104069,
     "wof:name":"Kruki",
     "wof:parent_id":85686095,
     "wof:placetype":"locality",

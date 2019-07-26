@@ -25,6 +25,36 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vecumnieki"
+    ],
+    "name:deu_x_preferred":[
+        "Vecumnieki"
+    ],
+    "name:est_x_preferred":[
+        "Vecumnieki"
+    ],
+    "name:fra_x_preferred":[
+        "Vecumnieki"
+    ],
+    "name:lav_x_preferred":[
+        "Vecumnieki"
+    ],
+    "name:lit_x_preferred":[
+        "Vecumniekai"
+    ],
+    "name:pol_x_preferred":[
+        "Vecumnieki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0446\u0443\u043c\u043d\u0438\u0435\u043a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Vecumnieki"
+    ],
+    "name:swe_x_preferred":[
+        "Vecumnieki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +76,7 @@
         }
     ],
     "wof:id":1344218855,
-    "wof:lastmodified":1536646752,
+    "wof:lastmodified":1564103575,
     "wof:name":"Vecumnieki",
     "wof:parent_id":85686051,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kili"
+    ],
+    "name:deu_x_preferred":[
+        "Kili"
+    ],
+    "name:fin_x_preferred":[
+        "Kili"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05dc\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Kili"
+    ],
+    "name:pol_x_preferred":[
+        "Kili"
+    ],
+    "name:spa_x_preferred":[
+        "Kili"
+    ],
+    "name:swe_x_preferred":[
+        "Kili"
+    ],
     "name:und_x_variant":[
         "K\u012b\u013ci",
         "\u0136i\u013ci",
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1276235575,
-    "wof:lastmodified":1537663155,
+    "wof:lastmodified":1564103709,
     "wof:name":"Kili",
     "wof:parent_id":85686235,
     "wof:placetype":"locality",

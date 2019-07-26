@@ -26,6 +26,15 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Franci"
+    ],
+    "name:ita_x_preferred":[
+        "Franci"
+    ],
+    "name:ron_x_preferred":[
+        "Franci"
+    ],
     "name:und_x_variant":[
         "Spran\u010di",
         "Franchi",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226108915,
-    "wof:lastmodified":1537663190,
+    "wof:lastmodified":1564104082,
     "wof:name":"Franci",
     "wof:parent_id":85685935,
     "wof:placetype":"locality",

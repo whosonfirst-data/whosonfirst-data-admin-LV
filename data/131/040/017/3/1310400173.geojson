@@ -29,6 +29,15 @@
     "name:eng_x_preferred":[
         "Eglaine"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06af\u0627\u06cc\u0646\u0647"
+    ],
+    "name:lav_x_preferred":[
+        "Eglaine"
+    ],
+    "name:lit_x_preferred":[
+        "Eglain\u0117"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0433\u043b\u0430\u0439\u043d\u0435"
     ],
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1310400173,
-    "wof:lastmodified":1537663194,
+    "wof:lastmodified":1564103871,
     "wof:name":"Eglaine",
     "wof:parent_id":85685815,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "lbl:latitude":56.931334,
     "lbl:longitude":23.546512,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -22,6 +23,9 @@
     "mz:tier_metro":30,
     "name:lav_x_preferred":[
         "K\u016bdra"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u062f\u0631\u0627"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1108941593,
-    "wof:lastmodified":1497292359,
+    "wof:lastmodified":1564103853,
     "wof:name":"Kudra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

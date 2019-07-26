@@ -26,6 +26,15 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "P\u0113rkone"
+    ],
+    "name:lav_x_preferred":[
+        "P\u0113rkone"
+    ],
+    "name:swe_x_preferred":[
+        "P\u0113rkone"
+    ],
     "name:und_x_variant":[
         "P\u0113rkones Mui\u017ea",
         "P\u0113rko\u0146i",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1326459389,
-    "wof:lastmodified":1537663090,
+    "wof:lastmodified":1564103468,
     "wof:name":"Perkone",
     "wof:parent_id":85685791,
     "wof:placetype":"locality",

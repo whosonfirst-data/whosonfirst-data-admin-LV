@@ -26,6 +26,21 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0633\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0633\u06cc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30a7\u30b7\u30de\u30a6\u30ed\u30fb\u30b8\u30e7\u30bc\u30fb\u30dc\u30eb\u30b2\u30b9"
+    ],
+    "name:por_x_preferred":[
+        "Jeci"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0416\u0435\u0441\u0438"
+    ],
     "name:und_x_variant":[
         "Iyetsi",
         "J\u0113c",
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209040663,
-    "wof:lastmodified":1537663168,
+    "wof:lastmodified":1564103776,
     "wof:name":"Jeci",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

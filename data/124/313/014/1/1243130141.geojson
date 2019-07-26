@@ -26,6 +26,36 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dundas"
+    ],
+    "name:deu_x_preferred":[
+        "Dundas"
+    ],
+    "name:fra_x_preferred":[
+        "Dundas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30f3\u30c0\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub358\ub2e4\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Dundas"
+    ],
+    "name:por_x_preferred":[
+        "Dundas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0434\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Dundas"
+    ],
+    "name:tur_x_preferred":[
+        "Dundas"
+    ],
     "name:und_x_variant":[
         "Dundi"
     ],
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1243130141,
-    "wof:lastmodified":1537663196,
+    "wof:lastmodified":1564103997,
     "wof:name":"Dundas",
     "wof:parent_id":85686095,
     "wof:placetype":"locality",

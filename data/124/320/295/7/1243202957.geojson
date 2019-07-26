@@ -26,15 +26,45 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0442\u0438\u043d\u0430\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Baltinava"
+    ],
+    "name:deu_x_preferred":[
+        "Baltinava"
+    ],
     "name:eng_x_preferred":[
+        "Baltinava"
+    ],
+    "name:est_x_preferred":[
+        "Baltinava"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u062a\u06cc\u0646\u0627\u0648\u0627"
+    ],
+    "name:lav_x_preferred":[
+        "Baltinava"
+    ],
+    "name:lit_x_preferred":[
+        "Baltinava"
+    ],
+    "name:pol_x_preferred":[
         "Baltinava"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0442\u0438\u043d\u0430\u0432\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Baltinava"
+    ],
     "name:und_x_variant":[
         "Baltinova",
         "Baltinava"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0644\u062a\u06cc\u0646\u0627\u0648\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1243202957,
-    "wof:lastmodified":1537663223,
+    "wof:lastmodified":1564104023,
     "wof:name":"Baltinava",
     "wof:parent_id":85686179,
     "wof:placetype":"locality",

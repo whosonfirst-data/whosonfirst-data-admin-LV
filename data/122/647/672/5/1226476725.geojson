@@ -26,6 +26,15 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Milites"
+    ],
+    "name:ita_x_preferred":[
+        "Milites"
+    ],
+    "name:spa_x_preferred":[
+        "Milites"
+    ],
     "name:und_x_variant":[
         "Myza Milite",
         "M\u012blites Mui\u017ea",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226476725,
-    "wof:lastmodified":1537663106,
+    "wof:lastmodified":1564104128,
     "wof:name":"Milites",
     "wof:parent_id":85686283,
     "wof:placetype":"locality",

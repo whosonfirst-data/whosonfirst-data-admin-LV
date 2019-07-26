@@ -26,6 +26,15 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Pumpuri"
+    ],
+    "name:lav_x_preferred":[
+        "Pumpuri"
+    ],
+    "name:pol_x_preferred":[
+        "Pumpuri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1276728905,
-    "wof:lastmodified":1536745598,
+    "wof:lastmodified":1564103668,
     "wof:name":"Pumpuri",
     "wof:parent_id":85685935,
     "wof:placetype":"locality",

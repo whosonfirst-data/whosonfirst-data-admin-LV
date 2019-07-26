@@ -26,11 +26,80 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0646\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u062d\u0646\u0627\u0646\u064a\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u043d\u043d\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Annas"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Ann\u00e0s"
+    ],
+    "name:ces_x_preferred":[
+        "Ann\u00e1\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Hannas"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03bd\u03b1\u03c2"
+    ],
+    "name:fra_x_preferred":[
+        "An\u00e2n"
+    ],
+    "name:ind_x_preferred":[
+        "Hanas"
+    ],
+    "name:ita_x_preferred":[
+        "Anna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30ca\u30b9"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d28\u0d4d\u0d28\u0d3e\u0d38\u0d4d"
+    ],
+    "name:nld_x_preferred":[
+        "Annas"
+    ],
+    "name:por_x_preferred":[
+        "An\u00e1s"
+    ],
+    "name:ron_x_preferred":[
+        "Ana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "An\u00e1s"
+    ],
+    "name:swe_x_preferred":[
+        "Hannas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Myza Annas",
         "Anna",
         "Annas Mui\u017ea",
         "Annas"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0646\u0627\u06c1"
+    ],
+    "name:wol_x_preferred":[
+        "Anas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +118,7 @@
         }
     ],
     "wof:id":1209550173,
-    "wof:lastmodified":1537663233,
+    "wof:lastmodified":1564103750,
     "wof:name":"Annas",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

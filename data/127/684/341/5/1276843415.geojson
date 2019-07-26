@@ -27,6 +27,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Renda"
+    ],
+    "name:por_x_preferred":[
+        "Renda"
+    ],
     "name:und_x_variant":[
         "Liels Renda Biju\u0161\u0101s Mui\u017eas Centrs",
         "Renda"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276843415,
-    "wof:lastmodified":1537663074,
+    "wof:lastmodified":1564103715,
     "wof:name":"Renda",
     "wof:parent_id":85686043,
     "wof:placetype":"locality",

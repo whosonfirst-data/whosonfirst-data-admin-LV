@@ -26,6 +26,15 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Paulini"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\uc6b8\ub9ac\ub2c8"
+    ],
+    "name:spa_x_preferred":[
+        "Paulini"
+    ],
     "name:und_x_variant":[
         "Pauliny",
         "Pauli\u0146i"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1310039629,
-    "wof:lastmodified":1537663091,
+    "wof:lastmodified":1564103899,
     "wof:name":"Paulini",
     "wof:parent_id":85685893,
     "wof:placetype":"locality",

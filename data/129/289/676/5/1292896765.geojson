@@ -27,6 +27,18 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Biksti"
+    ],
+    "name:lav_x_preferred":[
+        "Biksti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043a\u0441\u0442\u044b"
+    ],
+    "name:swe_x_preferred":[
+        "Biksti"
+    ],
     "name:und_x_variant":[
         "Myza Biksty",
         "Biksty",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1292896765,
-    "wof:lastmodified":1537663217,
+    "wof:lastmodified":1564103610,
     "wof:name":"Biksti",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

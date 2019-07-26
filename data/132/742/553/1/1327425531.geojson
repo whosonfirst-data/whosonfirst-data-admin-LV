@@ -27,6 +27,27 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tabore"
+    ],
+    "name:est_x_preferred":[
+        "Tabore"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0628\u0648\u0631\u0647"
+    ],
+    "name:lav_x_preferred":[
+        "Tabore"
+    ],
+    "name:lit_x_preferred":[
+        "Tabuor\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0431\u043e\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Tabore"
+    ],
     "name:und_x_variant":[
         "Myza Tabor",
         "T\u0101bores Mui\u017ea",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1327425531,
-    "wof:lastmodified":1537663040,
+    "wof:lastmodified":1564103517,
     "wof:name":"Tabore",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

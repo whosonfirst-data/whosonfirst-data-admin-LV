@@ -26,6 +26,21 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Vaide"
+    ],
+    "name:fin_x_preferred":[
+        "Vaide"
+    ],
+    "name:lav_x_preferred":[
+        "Vaide"
+    ],
+    "name:lit_x_preferred":[
+        "Vaid\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u0434\u0435"
+    ],
     "name:und_x_variant":[
         "Vayde",
         "Vaides Ciems",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226810517,
-    "wof:lastmodified":1537663030,
+    "wof:lastmodified":1564104080,
     "wof:name":"Vaide",
     "wof:parent_id":85686221,
     "wof:placetype":"locality",

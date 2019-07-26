@@ -26,6 +26,21 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Stupini"
+    ],
+    "name:deu_x_preferred":[
+        "Stupini"
+    ],
+    "name:epo_x_preferred":[
+        "Stupini"
+    ],
+    "name:ron_x_preferred":[
+        "Stupini"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0443\u043f\u0438\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "St\u016bpe\u0146i",
         "Stop\u0113ni",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1360179055,
-    "wof:lastmodified":1537663045,
+    "wof:lastmodified":1564103925,
     "wof:name":"Stupini",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

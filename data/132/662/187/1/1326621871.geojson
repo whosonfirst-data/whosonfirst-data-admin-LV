@@ -27,6 +27,9 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Bobri"
+    ],
     "name:und_x_variant":[
         "Taborskaja",
         "Bobry",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1326621871,
-    "wof:lastmodified":1537663214,
+    "wof:lastmodified":1564103508,
     "wof:name":"Bobri",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

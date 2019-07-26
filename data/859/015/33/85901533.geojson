@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15285686.952303,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.24284,56.986533,24.24284,56.986533",
     "geom:latitude":56.986533,
     "geom:longitude":24.24284,
@@ -26,6 +26,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Jugla"
+    ],
     "name:eng_x_preferred":[
         "Jugla"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:rus_x_preferred":[
         "\u042e\u0433\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Jugla"
     ],
     "name:und_x_preferred":[
         "Jugla"
@@ -101,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932526,
+    "wof:lastmodified":1564103591,
     "wof:name":"Jugla",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

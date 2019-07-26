@@ -27,6 +27,9 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Laci"
+    ],
     "name:und_x_variant":[
         "Lachi"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293440539,
-    "wof:lastmodified":1537663140,
+    "wof:lastmodified":1564103662,
     "wof:name":"Laci",
     "wof:parent_id":85686083,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "name:eng_x_preferred":[
         "Patkule"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u062a\u06a9\u0648\u0644\u0647"
+    ],
+    "name:lav_x_preferred":[
+        "Patkule"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0442\u043a\u0443\u043b\u0435"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1209677421,
-    "wof:lastmodified":1537663092,
+    "wof:lastmodified":1564103778,
     "wof:name":"Patkule",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

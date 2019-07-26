@@ -26,6 +26,18 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aizstrautnieki"
+    ],
+    "name:lav_x_preferred":[
+        "Aizstrautnieki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0437\u0441\u0442\u0440\u0430\u0443\u0442\u043d\u0438\u0435\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Aizstrautnieki"
+    ],
     "name:und_x_variant":[
         "Aizstraunieki",
         "Ayzstrautniyeki",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1344154291,
-    "wof:lastmodified":1537663237,
+    "wof:lastmodified":1564103541,
     "wof:name":"Aizstrautnieki",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

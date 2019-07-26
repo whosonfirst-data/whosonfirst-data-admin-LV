@@ -26,6 +26,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sude"
+    ],
+    "name:orm_x_preferred":[
+        "Sude"
+    ],
     "name:und_x_variant":[
         "Sude Mui\u017eas Centrs",
         "S\u016bde"
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226376741,
-    "wof:lastmodified":1537663042,
+    "wof:lastmodified":1564104145,
     "wof:name":"Sude",
     "wof:parent_id":85686221,
     "wof:placetype":"locality",

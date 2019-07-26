@@ -27,6 +27,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Krauka"
+    ],
+    "name:rus_x_preferred":[
+        "Krauka"
+    ],
     "name:und_x_variant":[
         "Krapkova",
         "Kraukova",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243457603,
-    "wof:lastmodified":1537663148,
+    "wof:lastmodified":1564104029,
     "wof:name":"Krauka",
     "wof:parent_id":85686279,
     "wof:placetype":"locality",

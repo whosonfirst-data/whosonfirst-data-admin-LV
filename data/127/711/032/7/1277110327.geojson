@@ -26,10 +26,34 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Urga"
+    ],
+    "name:ceb_x_preferred":[
+        "Urga"
+    ],
+    "name:deu_x_preferred":[
+        "Urga"
+    ],
     "name:eng_x_preferred":[
         "Urga"
     ],
+    "name:fra_x_preferred":[
+        "Urga"
+    ],
+    "name:ita_x_preferred":[
+        "Urga"
+    ],
     "name:rus_x_preferred":[
+        "\u0423\u0440\u0433\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0440\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Urga"
+    ],
+    "name:ukr_x_preferred":[
         "\u0423\u0440\u0433\u0430"
     ],
     "name:und_x_variant":[
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1277110327,
-    "wof:lastmodified":1537663031,
+    "wof:lastmodified":1564103733,
     "wof:name":"Urga",
     "wof:parent_id":85686293,
     "wof:placetype":"locality",

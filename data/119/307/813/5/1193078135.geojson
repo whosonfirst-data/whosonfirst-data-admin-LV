@@ -27,6 +27,21 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Jaunciems"
+    ],
+    "name:fin_x_preferred":[
+        "Jaunciems"
+    ],
+    "name:lav_x_preferred":[
+        "Jaunciems"
+    ],
+    "name:lit_x_preferred":[
+        "Jaunciemas"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0443\u043d\u0446\u0438\u0435\u043c\u0441"
+    ],
     "name:und_x_variant":[
         "Yauntsiyems",
         "Jaunciems"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1193078135,
-    "wof:lastmodified":1537663174,
+    "wof:lastmodified":1564103804,
     "wof:name":"Jaunciems",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",

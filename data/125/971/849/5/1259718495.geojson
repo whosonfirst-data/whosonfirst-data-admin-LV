@@ -26,6 +26,9 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Caci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1259718495,
-    "wof:lastmodified":1537015917,
+    "wof:lastmodified":1564104054,
     "wof:name":"Caci",
     "wof:parent_id":85685977,
     "wof:placetype":"locality",

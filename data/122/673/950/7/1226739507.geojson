@@ -27,6 +27,18 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Litene"
+    ],
+    "name:est_x_preferred":[
+        "Litene"
+    ],
+    "name:lav_x_preferred":[
+        "Litene"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0435\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Myza Lytene",
         "Lytene",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1226739507,
-    "wof:lastmodified":1537663125,
+    "wof:lastmodified":1564104087,
     "wof:name":"Litene",
     "wof:parent_id":85686241,
     "wof:placetype":"locality",
