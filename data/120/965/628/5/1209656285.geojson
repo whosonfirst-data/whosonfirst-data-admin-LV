@@ -26,6 +26,15 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Garkalne"
+    ],
+    "name:lav_x_preferred":[
+        "Garkalne"
+    ],
+    "name:pol_x_preferred":[
+        "Garkalne"
+    ],
     "name:und_x_variant":[
         "Straume",
         "Garkaliye",
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209656285,
-    "wof:lastmodified":1537663187,
+    "wof:lastmodified":1564103740,
     "wof:name":"Garkalne",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

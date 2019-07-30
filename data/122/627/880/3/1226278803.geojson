@@ -26,8 +26,14 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sauli"
+    ],
     "name:eng_x_preferred":[
         "Sau\u013ci"
+    ],
+    "name:fin_x_preferred":[
+        "Sauli"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0443\u043b\u0438"
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1226278803,
-    "wof:lastmodified":1537663063,
+    "wof:lastmodified":1564104089,
     "wof:name":"Sauli",
     "wof:parent_id":85686283,
     "wof:placetype":"locality",

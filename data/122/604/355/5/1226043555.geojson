@@ -30,6 +30,9 @@
         "Mazsaule",
         "K\u016bdra"
     ],
+    "name:urd_x_preferred":[
+        "\u06a9\u062f\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226043555,
-    "wof:lastmodified":1537663114,
+    "wof:lastmodified":1564104103,
     "wof:name":"Kudra",
     "wof:parent_id":85685851,
     "wof:placetype":"locality",

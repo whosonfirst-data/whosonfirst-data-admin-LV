@@ -13,6 +13,7 @@
     "lbl:latitude":56.965725,
     "lbl:longitude":23.608253,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -20,6 +21,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:est_x_preferred":[
+        "Kaugurciems"
+    ],
+    "name:lav_x_preferred":[
+        "Kaugurciems"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -42,7 +49,7 @@
         }
     ],
     "wof:id":1108941581,
-    "wof:lastmodified":1492123600,
+    "wof:lastmodified":1564103855,
     "wof:name":"Kaugurciems",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

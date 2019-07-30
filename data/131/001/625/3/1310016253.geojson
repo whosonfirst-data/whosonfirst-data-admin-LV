@@ -26,6 +26,33 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rucava"
+    ],
+    "name:deu_x_preferred":[
+        "Rucava"
+    ],
+    "name:est_x_preferred":[
+        "Rucava"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062a\u0633\u0627\u0648\u0627"
+    ],
+    "name:lav_x_preferred":[
+        "Rucava"
+    ],
+    "name:lit_x_preferred":[
+        "Rucava"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0446\u0430\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Rucava"
+    ],
+    "name:swe_x_preferred":[
+        "Rucava"
+    ],
     "name:und_x_variant":[
         "Rutsava",
         "Rucava"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1310016253,
-    "wof:lastmodified":1537663069,
+    "wof:lastmodified":1564103886,
     "wof:name":"Rucava",
     "wof:parent_id":102073711,
     "wof:placetype":"locality",

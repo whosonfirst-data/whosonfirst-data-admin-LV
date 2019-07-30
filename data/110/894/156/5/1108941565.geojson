@@ -13,6 +13,7 @@
     "lbl:latitude":56.973523,
     "lbl:longitude":23.900707,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -20,6 +21,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:est_x_preferred":[
+        "Priedaine"
+    ],
+    "name:lav_x_preferred":[
+        "Priedaine"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0435\u0434\u0430\u0439\u043d\u0435"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -40,7 +50,7 @@
         }
     ],
     "wof:id":1108941565,
-    "wof:lastmodified":1492123600,
+    "wof:lastmodified":1564103856,
     "wof:name":"Priedaine",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

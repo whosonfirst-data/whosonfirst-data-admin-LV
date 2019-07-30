@@ -26,11 +26,35 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cibla"
+    ],
+    "name:deu_x_preferred":[
+        "Cibla"
+    ],
     "name:eng_x_preferred":[
         "Eversmui\u017ea"
     ],
+    "name:est_x_preferred":[
+        "Cibla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0628\u0644\u0627"
+    ],
+    "name:lav_x_preferred":[
+        "Cibla"
+    ],
+    "name:ltg_x_preferred":[
+        "Cybla"
+    ],
+    "name:pol_x_preferred":[
+        "Cibla"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0438\u0431\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Cibla"
     ],
     "name:und_x_variant":[
         "Tsibla",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1193173491,
-    "wof:lastmodified":1537663192,
+    "wof:lastmodified":1564103822,
     "wof:name":"Cibla",
     "wof:parent_id":85686089,
     "wof:placetype":"locality",

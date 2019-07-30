@@ -27,6 +27,18 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jugla"
+    ],
+    "name:lav_x_preferred":[
+        "Jugla"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0433\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Jugla"
+    ],
     "name:und_x_variant":[
         "Annasmui\u017ea",
         "Yugla",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1309779989,
-    "wof:lastmodified":1537663243,
+    "wof:lastmodified":1564103945,
     "wof:name":"Jugla",
     "wof:parent_id":85686079,
     "wof:placetype":"locality",

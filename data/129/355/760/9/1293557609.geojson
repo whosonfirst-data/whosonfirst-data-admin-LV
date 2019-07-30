@@ -26,6 +26,9 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Silat Beksi"
+    ],
     "name:und_x_variant":[
         "Bekshi",
         "Bek\u0161i"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293557609,
-    "wof:lastmodified":1537663221,
+    "wof:lastmodified":1564103606,
     "wof:name":"Beksi",
     "wof:parent_id":85686095,
     "wof:placetype":"locality",

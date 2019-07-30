@@ -26,6 +26,9 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Kazupe"
+    ],
     "name:und_x_variant":[
         "Kazupe",
         "Kozupe"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1193172047,
-    "wof:lastmodified":1537663156,
+    "wof:lastmodified":1564103822,
     "wof:name":"Kozupe",
     "wof:parent_id":85686185,
     "wof:placetype":"locality",

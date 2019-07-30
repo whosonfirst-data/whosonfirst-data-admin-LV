@@ -26,6 +26,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Annenieki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043d\u0435\u043d\u0438\u0435\u043a\u0438"
+    ],
     "name:und_x_variant":[
         "Annasmui\u017ea",
         "Annasmuyzha",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1344147699,
-    "wof:lastmodified":1537663232,
+    "wof:lastmodified":1564103541,
     "wof:name":"Annenieki",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

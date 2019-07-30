@@ -26,11 +26,29 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lone"
+    ],
+    "name:deu_x_preferred":[
+        "Lone"
+    ],
     "name:eng_x_preferred":[
+        "Lone"
+    ],
+    "name:fra_x_preferred":[
+        "Lone"
+    ],
+    "name:nor_x_preferred":[
         "Lone"
     ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u043d\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u043e\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Lone"
     ],
     "name:und_x_variant":[
         "Lones Krogs",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1326519209,
-    "wof:lastmodified":1537663122,
+    "wof:lastmodified":1564103470,
     "wof:name":"Lone",
     "wof:parent_id":85685875,
     "wof:placetype":"locality",

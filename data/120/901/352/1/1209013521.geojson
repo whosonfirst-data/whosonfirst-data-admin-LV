@@ -26,6 +26,30 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Sils"
+    ],
+    "name:ceb_x_preferred":[
+        "Sils"
+    ],
+    "name:deu_x_preferred":[
+        "Sils"
+    ],
+    "name:epo_x_preferred":[
+        "Sils"
+    ],
+    "name:fra_x_preferred":[
+        "Sils"
+    ],
+    "name:ita_x_preferred":[
+        "Sils"
+    ],
+    "name:nld_x_preferred":[
+        "Sils"
+    ],
+    "name:swe_x_preferred":[
+        "Sils"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633279
@@ -35,7 +59,7 @@
         "gn:id":455626
     },
     "wof:country":"LV",
-    "wof:geomhash":"b43b54a59ba60d01acbe356088ac8284",
+    "wof:geomhash":"cf28c080202b0fdaa1c3a3077b97252c",
     "wof:hierarchy":[
         {
             "country_id":85633279,
@@ -43,7 +67,7 @@
         }
     ],
     "wof:id":1209013521,
-    "wof:lastmodified":1536300369,
+    "wof:lastmodified":1564103742,
     "wof:name":"Sils",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",
@@ -53,9 +77,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.561020000000006,
+    27.56102000000001,
     57.32465,
-    27.561020000000006,
+    27.56102000000001,
     57.32465
 ],
   "geometry": {"coordinates":[27.56102000000001,57.32465],"type":"Point"}

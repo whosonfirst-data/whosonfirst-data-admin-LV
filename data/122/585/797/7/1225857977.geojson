@@ -25,6 +25,21 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u0440\u0437\u0446\u0438\u0435\u043c\u0441"
+    ],
+    "name:dan_x_preferred":[
+        "D\u0101rzciems"
+    ],
+    "name:est_x_preferred":[
+        "D\u0101rzciems"
+    ],
+    "name:lav_x_preferred":[
+        "D\u0101rzciems"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440\u0437\u0446\u0438\u0435\u043c\u0441"
+    ],
     "name:und_x_variant":[
         "D\u0101rzciems"
     ],
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1225857977,
-    "wof:lastmodified":1537663203,
+    "wof:lastmodified":1564104155,
     "wof:name":"Darzciems",
     "wof:parent_id":85686269,
     "wof:placetype":"locality",

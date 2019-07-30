@@ -26,11 +26,35 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rug\u0101ji"
+    ],
+    "name:deu_x_preferred":[
+        "Rug\u0101ji"
+    ],
     "name:eng_x_preferred":[
         "Rug\u0101ji"
     ],
+    "name:est_x_preferred":[
+        "Rug\u0101ji"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u06af\u0627\u06cc\u06cc"
+    ],
+    "name:lav_x_preferred":[
+        "Rug\u0101ji"
+    ],
+    "name:lit_x_preferred":[
+        "Rugajai"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0433\u0430\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0443\u0433\u0430\u0439\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Rug\u0101ji"
     ],
     "name:und_x_variant":[
         "Rug\u0101ju",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1243590269,
-    "wof:lastmodified":1537663068,
+    "wof:lastmodified":1564104001,
     "wof:name":"Rugaji",
     "wof:parent_id":85686185,
     "wof:placetype":"locality",

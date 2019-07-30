@@ -26,6 +26,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Gr\u0101veri"
+    ],
+    "name:pol_x_preferred":[
+        "Gr\u0101veri"
+    ],
     "name:und_x_variant":[
         "Myza Gravere",
         "Gravere Mui\u017eas Centrs",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243505687,
-    "wof:lastmodified":1537663183,
+    "wof:lastmodified":1564104001,
     "wof:name":"Graveri",
     "wof:parent_id":85685961,
     "wof:placetype":"locality",

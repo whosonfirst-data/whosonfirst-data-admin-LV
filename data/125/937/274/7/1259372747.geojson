@@ -27,11 +27,32 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lejasciems"
+    ],
+    "name:deu_x_preferred":[
+        "Lejasciems"
+    ],
     "name:eng_x_preferred":[
+        "Lejasciems"
+    ],
+    "name:est_x_preferred":[
+        "Lejasciems"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0627\u0633\u062a\u0633\u06cc\u0645\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Lejasciems"
+    ],
+    "name:lav_x_preferred":[
         "Lejasciems"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u044f\u0441\u0446\u0438\u0435\u043c\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Lejasciems"
     ],
     "name:und_x_variant":[
         "Leyastsiyem",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1259372747,
-    "wof:lastmodified":1537663133,
+    "wof:lastmodified":1564104042,
     "wof:name":"Lejasciems",
     "wof:parent_id":85686241,
     "wof:placetype":"locality",

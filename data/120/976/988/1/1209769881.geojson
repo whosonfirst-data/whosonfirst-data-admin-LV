@@ -27,6 +27,9 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "L\u012bdumi"
+    ],
     "name:und_x_variant":[
         "Lodyni",
         "Lidumi",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209769881,
-    "wof:lastmodified":1537663123,
+    "wof:lastmodified":1564103766,
     "wof:name":"Lodini",
     "wof:parent_id":85685935,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160\u0137ibe"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160\u0137ibe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043a\u0438\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160\u0137ibe"
+    ],
     "name:und_x_variant":[
         "Shkibe",
         "\u0160\u0137ibe"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293220509,
-    "wof:lastmodified":1537663055,
+    "wof:lastmodified":1564103630,
     "wof:name":"Skibe",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

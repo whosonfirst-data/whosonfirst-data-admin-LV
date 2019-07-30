@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Len\u010di"
     ],
+    "name:ita_x_preferred":[
+        "Lenci"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u0447\u043c\u0443\u0439\u0436\u0430"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1259617883,
-    "wof:lastmodified":1537663132,
+    "wof:lastmodified":1564104060,
     "wof:name":"Lenci",
     "wof:parent_id":85686215,
     "wof:placetype":"locality",

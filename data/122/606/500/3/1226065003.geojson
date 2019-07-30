@@ -26,6 +26,21 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ka\u0137enieki"
+    ],
+    "name:est_x_preferred":[
+        "Ka\u0137enieki"
+    ],
+    "name:lav_x_preferred":[
+        "Ka\u0137enieki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043a\u0435\u043d\u0438\u0435\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ka\u0137enieki"
+    ],
     "name:und_x_variant":[
         "Gaujas",
         "Ka\u0137enieki"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226065003,
-    "wof:lastmodified":1537663164,
+    "wof:lastmodified":1564104148,
     "wof:name":"Kakenieki",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Saule"
+    ],
+    "name:fra_x_preferred":[
+        "Saule"
+    ],
+    "name:ita_x_preferred":[
+        "Saule"
+    ],
+    "name:lav_x_preferred":[
+        "Saule"
+    ],
+    "name:lit_x_preferred":[
+        "Saul\u0117"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633279
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1209475529,
-    "wof:lastmodified":1536285949,
+    "wof:lastmodified":1564103762,
     "wof:name":"Saule",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

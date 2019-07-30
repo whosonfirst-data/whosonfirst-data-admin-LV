@@ -27,6 +27,15 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vilusi"
+    ],
+    "name:fra_x_preferred":[
+        "Vilusi"
+    ],
+    "name:hrv_x_preferred":[
+        "Vilusi"
+    ],
     "name:und_x_variant":[
         "Vilyushi",
         "Vilu\u0161i",
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209027901,
-    "wof:lastmodified":1537663014,
+    "wof:lastmodified":1564103781,
     "wof:name":"Vilusi",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

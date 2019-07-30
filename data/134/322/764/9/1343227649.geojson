@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Bri\u0123i"
     ],
+    "name:lav_x_preferred":[
+        "Brigi"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0438\u0433\u0438"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1343227649,
-    "wof:lastmodified":1537663212,
+    "wof:lastmodified":1564103560,
     "wof:name":"Brigi",
     "wof:parent_id":85686037,
     "wof:placetype":"locality",

@@ -26,11 +26,62 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Salaca"
+    ],
+    "name:ceb_x_preferred":[
+        "Salaca"
+    ],
+    "name:dan_x_preferred":[
+        "Salaca"
+    ],
+    "name:deu_x_preferred":[
+        "Salaca"
+    ],
     "name:eng_x_preferred":[
+        "Salaca"
+    ],
+    "name:est_x_preferred":[
+        "Salatsi j\u00f5gi"
+    ],
+    "name:fin_x_preferred":[
+        "Salatsijoki"
+    ],
+    "name:fra_x_preferred":[
+        "Salaca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10d0\u10ea\u10d0"
+    ],
+    "name:lav_x_preferred":[
+        "Salaca"
+    ],
+    "name:lit_x_preferred":[
+        "Salaca"
+    ],
+    "name:nld_x_preferred":[
+        "Salaca"
+    ],
+    "name:nno_x_preferred":[
+        "Salaca"
+    ],
+    "name:pol_x_preferred":[
+        "Salaca"
+    ],
+    "name:ron_x_preferred":[
         "Salaca"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0437\u0441\u0430\u043b\u0430\u0446\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u043b\u0430\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Salaca"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u62c9\u5bdf\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1292941707,
-    "wof:lastmodified":1537663065,
+    "wof:lastmodified":1564103613,
     "wof:name":"Salaca",
     "wof:parent_id":85686303,
     "wof:placetype":"locality",

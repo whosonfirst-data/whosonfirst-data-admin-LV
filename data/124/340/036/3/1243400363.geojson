@@ -26,6 +26,15 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Bukulti"
+    ],
+    "name:lav_x_preferred":[
+        "Bukulti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043a\u0443\u043b\u0442\u044b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1243400363,
-    "wof:lastmodified":1536870889,
+    "wof:lastmodified":1564103996,
     "wof:name":"Bukulti",
     "wof:parent_id":85686073,
     "wof:placetype":"locality",

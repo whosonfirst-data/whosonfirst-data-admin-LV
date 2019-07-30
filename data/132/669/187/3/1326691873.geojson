@@ -26,6 +26,18 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kusa"
+    ],
+    "name:est_x_preferred":[
+        "Kusa"
+    ],
+    "name:lav_x_preferred":[
+        "Kusa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0441\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1326691873,
-    "wof:lastmodified":1537568197,
+    "wof:lastmodified":1564103472,
     "wof:name":"Kusa",
     "wof:parent_id":85686143,
     "wof:placetype":"locality",

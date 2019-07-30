@@ -27,6 +27,27 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Saliena"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644\u06cc\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Saliena"
+    ],
+    "name:lav_x_preferred":[
+        "Saliena"
+    ],
+    "name:lit_x_preferred":[
+        "Saliena"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0438\u0435\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Saliena"
+    ],
     "name:und_x_variant":[
         "Myza Saliyene",
         "Saliene",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1293130417,
-    "wof:lastmodified":1537663065,
+    "wof:lastmodified":1564103628,
     "wof:name":"Saliena",
     "wof:parent_id":85685901,
     "wof:placetype":"locality",

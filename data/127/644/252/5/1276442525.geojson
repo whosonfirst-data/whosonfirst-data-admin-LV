@@ -26,11 +26,35 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Me\u017eotne"
+    ],
+    "name:deu_x_preferred":[
+        "Me\u017eotne"
+    ],
     "name:eng_x_preferred":[
+        "Me\u017eotne"
+    ],
+    "name:est_x_preferred":[
+        "Me\u017eotne"
+    ],
+    "name:lav_x_preferred":[
+        "Me\u017eotne"
+    ],
+    "name:lit_x_preferred":[
+        "Me\u017euotn\u0117"
+    ],
+    "name:ltg_x_preferred":[
+        "Me\u017e\u016btne"
+    ],
+    "name:pol_x_preferred":[
         "Me\u017eotne"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0436\u043e\u0442\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Me\u017eotne"
     ],
     "name:und_x_variant":[
         "Mezhotne",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1276442525,
-    "wof:lastmodified":1537663108,
+    "wof:lastmodified":1564103670,
     "wof:name":"Mezotne",
     "wof:parent_id":85685851,
     "wof:placetype":"locality",

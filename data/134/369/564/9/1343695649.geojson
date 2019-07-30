@@ -26,11 +26,29 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Stalbe"
+    ],
     "name:eng_x_preferred":[
         "Stalbe"
     ],
+    "name:est_x_preferred":[
+        "Stalbe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0644\u0628\u0647"
+    ],
+    "name:lav_x_preferred":[
+        "Stalbe"
+    ],
+    "name:lit_x_preferred":[
+        "Stalb\u0117"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u043b\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Stalbe"
     ],
     "name:und_x_variant":[
         "Myza Stalbe",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343695649,
-    "wof:lastmodified":1537663047,
+    "wof:lastmodified":1564103569,
     "wof:name":"Stalbe",
     "wof:parent_id":85686215,
     "wof:placetype":"locality",

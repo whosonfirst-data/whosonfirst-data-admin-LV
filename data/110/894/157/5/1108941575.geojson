@@ -13,6 +13,7 @@
     "lbl:latitude":56.956553,
     "lbl:longitude":23.668334,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -20,6 +21,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:est_x_preferred":[
+        "Vaivari"
+    ],
+    "name:lav_x_preferred":[
+        "Vaivari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u0432\u0430\u0440\u0438"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -42,7 +52,7 @@
         }
     ],
     "wof:id":1108941575,
-    "wof:lastmodified":1492123600,
+    "wof:lastmodified":1564103852,
     "wof:name":"Vaivari",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

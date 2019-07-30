@@ -26,9 +26,72 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u0628\u0648\u0631\u062a\u0646\u064a\u0643\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0440\u0442\u043d\u0456\u0435\u043a\u0441\u043a\u0456 \u043a\u0440\u0430\u0439"
+    ],
+    "name:deu_x_preferred":[
+        "Bezirk Burtnieki"
+    ],
+    "name:est_x_preferred":[
+        "Burtnieki piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Burtnieki udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u0628\u0648\u0631\u062a\u0646\u06cc\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Burtnieki"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0580\u057f\u0576\u056b\u0565\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Burtnieki"
+    ],
+    "name:ita_x_preferred":[
+        "Burtnieki"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e0\u10e2\u10dc\u10d8\u10d4\u10d9\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\ub974\ud2b8\ub2c8\uc5d0\ud0a4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Burtnieku novads"
+    ],
+    "name:lit_x_preferred":[
+        "Burtniek\u0173 savivaldyb\u0117"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u0440\u0442\u043d\u0438\u0435\u043a\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Burtnieku novads"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Burtnieki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0442\u043d\u0438\u0435\u043a\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u0442\u043d\u0456\u0454\u043a\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    ],
     "name:und_x_variant":[
         "Burtniyeki",
         "Burtnieki"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0631\u062a\u0646\u06cc\u0626\u06a9\u06cc \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u723e\u7279\u6d85\u57fa\u81ea\u6cbb\u5e02"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +115,7 @@
         }
     ],
     "wof:id":1292951571,
-    "wof:lastmodified":1537663242,
+    "wof:lastmodified":1564103611,
     "wof:name":"Burtnieki",
     "wof:parent_id":85686083,
     "wof:placetype":"locality",

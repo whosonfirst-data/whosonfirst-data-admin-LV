@@ -26,6 +26,9 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Novoselki"
+    ],
     "name:und_x_variant":[
         "Novose\u013cki",
         "Novosilki",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293518571,
-    "wof:lastmodified":1537663099,
+    "wof:lastmodified":1564103639,
     "wof:name":"Novoselki",
     "wof:parent_id":85686139,
     "wof:placetype":"locality",

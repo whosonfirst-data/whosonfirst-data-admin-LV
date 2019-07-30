@@ -26,6 +26,15 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lube"
+    ],
+    "name:fra_x_preferred":[
+        "Lube"
+    ],
+    "name:swe_x_preferred":[
+        "Lube"
+    ],
     "name:und_x_variant":[
         "Lubu Pusmui\u017ea",
         "Luba",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276694687,
-    "wof:lastmodified":1537663122,
+    "wof:lastmodified":1564103686,
     "wof:name":"Lube",
     "wof:parent_id":85685885,
     "wof:placetype":"locality",

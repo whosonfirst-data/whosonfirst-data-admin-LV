@@ -26,6 +26,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0412\u0430\u043d\u044c\u043a\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u044c\u043a\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1327275375,
-    "wof:lastmodified":1536907827,
+    "wof:lastmodified":1564103523,
     "wof:name":"Vanki",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",

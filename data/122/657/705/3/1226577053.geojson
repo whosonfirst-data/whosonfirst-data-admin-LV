@@ -26,6 +26,39 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vecpiebalga"
+    ],
+    "name:deu_x_preferred":[
+        "Vecpiebalga"
+    ],
+    "name:est_x_preferred":[
+        "Vecpiebalga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06a9\u067e\u06cc\u0628\u0644\u06af\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Vecpiebalga"
+    ],
+    "name:lav_x_preferred":[
+        "Vecpiebalga"
+    ],
+    "name:lit_x_preferred":[
+        "Vecpiebalga"
+    ],
+    "name:pol_x_preferred":[
+        "Vecpiebalga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0446\u043f\u0438\u0435\u0431\u0430\u043b\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Vecpiebalga"
+    ],
+    "name:swe_x_preferred":[
+        "Vecpiebalga"
+    ],
     "name:und_x_variant":[
         "Myza Vetspiebalgas",
         "Vecpiebalgas Mui\u017ea",
@@ -55,7 +88,7 @@
         }
     ],
     "wof:id":1226577053,
-    "wof:lastmodified":1537663023,
+    "wof:lastmodified":1564104110,
     "wof:name":"Vecpiebalga",
     "wof:parent_id":85686189,
     "wof:placetype":"locality",

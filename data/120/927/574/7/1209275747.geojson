@@ -27,6 +27,18 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ive"
+    ],
+    "name:deu_x_preferred":[
+        "Ive"
+    ],
+    "name:fra_x_preferred":[
+        "Ive"
+    ],
+    "name:swe_x_preferred":[
+        "Ive"
+    ],
     "name:und_x_variant":[
         "Myza Nive",
         "\u012ave"
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209275747,
-    "wof:lastmodified":1537663177,
+    "wof:lastmodified":1564103787,
     "wof:name":"Ive",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

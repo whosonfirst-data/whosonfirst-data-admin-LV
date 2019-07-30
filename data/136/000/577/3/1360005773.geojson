@@ -26,6 +26,18 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Milti\u0146i"
+    ],
+    "name:lav_x_preferred":[
+        "Milti\u0146i"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0442\u0438\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Milti\u0146i"
+    ],
     "name:und_x_variant":[
         "Vecvagares",
         "Milti\u0146i"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1360005773,
-    "wof:lastmodified":1537663106,
+    "wof:lastmodified":1564103918,
     "wof:name":"Miltini",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

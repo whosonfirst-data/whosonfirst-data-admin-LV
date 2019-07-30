@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Ilze"
     ],
+    "name:lav_x_preferred":[
+        "Ilze"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043b\u0437\u0435"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1293525559,
-    "wof:lastmodified":1537663179,
+    "wof:lastmodified":1564103605,
     "wof:name":"Ilze",
     "wof:parent_id":85685815,
     "wof:placetype":"locality",

@@ -30,6 +30,18 @@
     "name:eng_x_preferred":[
         "Vabole"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0628\u0648\u0644\u0647"
+    ],
+    "name:lav_x_preferred":[
+        "Vabole"
+    ],
+    "name:lit_x_preferred":[
+        "Vabuol\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Vabole"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0431\u043e\u043b\u0435"
     ],
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1277068331,
-    "wof:lastmodified":1537663031,
+    "wof:lastmodified":1564103665,
     "wof:name":"Vabole",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

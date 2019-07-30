@@ -26,6 +26,9 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Dzimtmisa"
+    ],
     "name:und_x_variant":[
         "Mi\u0161a",
         "Dzimtmisa"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242713149,
-    "wof:lastmodified":1537663106,
+    "wof:lastmodified":1564104016,
     "wof:name":"Dzimtmisa",
     "wof:parent_id":85685905,
     "wof:placetype":"locality",

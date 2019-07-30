@@ -27,6 +27,12 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Krapa"
+    ],
+    "name:swe_x_preferred":[
+        "Krapa"
+    ],
     "name:und_x_variant":[
         "Myza Krapa",
         "Krapa"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242767489,
-    "wof:lastmodified":1537663148,
+    "wof:lastmodified":1564104013,
     "wof:name":"Krapa",
     "wof:parent_id":85686241,
     "wof:placetype":"locality",

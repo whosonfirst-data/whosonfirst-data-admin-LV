@@ -29,8 +29,14 @@
     "name:lav_x_preferred":[
         "Kro\u0146auce"
     ],
+    "name:lav_x_variant":[
+        "\u0136irp\u0113ni"
+    ],
     "name:rus_x_preferred":[
         "Sovkhoz Kron\u2019autse"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0438\u0440\u043f\u0435\u043d\u0438"
     ],
     "name:und_x_variant":[
         "\u0136irp\u0113ni"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1326652397,
-    "wof:lastmodified":1537663154,
+    "wof:lastmodified":1564103511,
     "wof:name":"Kirpeni",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

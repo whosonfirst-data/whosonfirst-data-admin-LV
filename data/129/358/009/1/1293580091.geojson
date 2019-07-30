@@ -26,6 +26,9 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Aus\u0101tas"
+    ],
     "name:und_x_variant":[
         "Ausatu",
         "Aus\u0101tu Mui\u017ea",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293580091,
-    "wof:lastmodified":1537663226,
+    "wof:lastmodified":1564103640,
     "wof:name":"Ausatas",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

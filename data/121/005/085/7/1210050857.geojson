@@ -26,9 +26,36 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bunka"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c8re Bunka"
+    ],
+    "name:ina_x_preferred":[
+        "Bunka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6587\u5316"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043d\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bunka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bunka"
+    ],
     "name:und_x_variant":[
         "Bunke",
         "Bunka"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u5316"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1210050857,
-    "wof:lastmodified":1537663209,
+    "wof:lastmodified":1564103802,
     "wof:name":"Bunka",
     "wof:parent_id":85685803,
     "wof:placetype":"locality",
