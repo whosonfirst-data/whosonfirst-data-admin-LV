@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JA"
+    ],
     "lbl:latitude":57.150189,
     "lbl:longitude":26.019037,
     "mps:latitude":57.150189,
@@ -275,7 +278,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343862,
+    "wof:lastmodified":1565726882,
     "wof:name":"Jaunpiepalgas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

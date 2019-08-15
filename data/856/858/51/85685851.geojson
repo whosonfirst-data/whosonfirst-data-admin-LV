@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BK"
+    ],
     "lbl:latitude":56.419895,
     "lbl:longitude":24.33518,
     "mps:latitude":56.419895,
@@ -274,7 +277,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343887,
+    "wof:lastmodified":1565907485,
     "wof:name":"Bauskas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
@@ -283,6 +286,7 @@
     "wof:population":25561,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:shortcode":"BK",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

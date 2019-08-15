@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RR"
+    ],
     "lbl:latitude":57.496007,
     "lbl:longitude":22.737848,
     "mps:latitude":57.496007,
@@ -277,7 +280,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343907,
+    "wof:lastmodified":1565726888,
     "wof:name":"Rojas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

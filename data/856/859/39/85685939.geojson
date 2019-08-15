@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VC"
+    ],
     "lbl:latitude":56.601171,
     "lbl:longitude":24.486925,
     "mps:latitude":56.601171,
@@ -276,7 +279,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343855,
+    "wof:lastmodified":1565726881,
     "wof:name":"Vecumnieku",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

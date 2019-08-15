@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "republican city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DV"
+    ],
     "lbl:latitude":55.875937,
     "lbl:longitude":26.527375,
     "mps:latitude":55.875937,
@@ -346,7 +349,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343871,
+    "wof:lastmodified":1565726883,
     "wof:name":"Daugavpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

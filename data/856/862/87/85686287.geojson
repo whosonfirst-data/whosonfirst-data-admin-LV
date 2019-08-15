@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
+    ],
     "lbl:latitude":57.774485,
     "lbl:longitude":24.480498,
     "mps:latitude":57.774485,
@@ -276,7 +279,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343907,
+    "wof:lastmodified":1565726888,
     "wof:name":"Salacgrivas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CV"
+    ],
     "lbl:latitude":57.010687,
     "lbl:longitude":26.277245,
     "mps:latitude":57.010687,
@@ -278,7 +281,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343860,
+    "wof:lastmodified":1565726881,
     "wof:name":"Cesvaines",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

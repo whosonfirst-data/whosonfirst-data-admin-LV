@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LZ"
+    ],
     "lbl:latitude":56.406334,
     "lbl:longitude":27.828258,
     "mps:latitude":56.406334,
@@ -250,7 +253,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343881,
+    "wof:lastmodified":1565726884,
     "wof:name":"Ludzas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

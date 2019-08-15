@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "republican city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JM"
+    ],
     "lbl:latitude":56.94882,
     "lbl:longitude":23.586267,
     "mps:latitude":56.94882,
@@ -378,7 +381,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343878,
+    "wof:lastmodified":1565726884,
     "wof:name":"Jurmala",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

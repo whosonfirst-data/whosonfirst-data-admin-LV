@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VA"
+    ],
     "lbl:latitude":57.657343,
     "lbl:longitude":26.087457,
     "mps:latitude":57.657343,
@@ -143,7 +146,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550906,
+    "wof:lastmodified":1565726887,
     "wof:name":"Valkas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

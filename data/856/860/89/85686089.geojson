@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CI"
+    ],
     "lbl:latitude":56.59387,
     "lbl:longitude":27.922559,
     "mps:latitude":56.59387,
@@ -287,7 +290,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343876,
+    "wof:lastmodified":1565726884,
     "wof:name":"Ciblas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

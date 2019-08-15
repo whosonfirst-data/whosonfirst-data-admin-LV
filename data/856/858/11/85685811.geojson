@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GR"
+    ],
     "lbl:latitude":56.425899,
     "lbl:longitude":21.308352,
     "mps:latitude":56.425899,
@@ -282,7 +285,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343889,
+    "wof:lastmodified":1565726885,
     "wof:name":"Grobinas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

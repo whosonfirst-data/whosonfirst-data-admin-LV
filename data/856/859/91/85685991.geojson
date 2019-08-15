@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KT"
+    ],
     "lbl:latitude":56.537831,
     "lbl:longitude":26.128543,
     "mps:latitude":56.537831,
@@ -285,7 +288,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343853,
+    "wof:lastmodified":1565726880,
     "wof:name":"Krustpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

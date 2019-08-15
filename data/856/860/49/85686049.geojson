@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VI"
+    ],
     "lbl:latitude":56.556974,
     "lbl:longitude":26.893459,
     "mps:latitude":56.556974,
@@ -282,7 +285,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343886,
+    "wof:lastmodified":1565726885,
     "wof:name":"Vilanu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

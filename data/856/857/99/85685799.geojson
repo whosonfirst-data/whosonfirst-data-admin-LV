@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "republican city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LJ"
+    ],
     "lbl:latitude":56.546878,
     "lbl:longitude":21.035109,
     "mps:latitude":56.546878,
@@ -396,7 +399,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343872,
+    "wof:lastmodified":1565726883,
     "wof:name":"Liepaja",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JJ"
+    ],
     "lbl:latitude":56.518052,
     "lbl:longitude":25.391909,
     "mps:latitude":56.518052,
@@ -278,7 +281,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343857,
+    "wof:lastmodified":1565726881,
     "wof:name":"Jaunjelgavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

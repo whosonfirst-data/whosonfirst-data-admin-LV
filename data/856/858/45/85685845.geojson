@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RD"
+    ],
     "lbl:latitude":56.408786,
     "lbl:longitude":23.971865,
     "mps:latitude":56.408786,
@@ -279,7 +282,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343891,
+    "wof:lastmodified":1565726886,
     "wof:name":"Rundales",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

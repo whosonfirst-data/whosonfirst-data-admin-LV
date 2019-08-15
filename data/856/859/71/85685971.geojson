@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Jelgavas Novads"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JE"
+    ],
     "lbl:latitude":56.489873,
     "lbl:longitude":23.59632,
     "mps:latitude":56.489873,
@@ -289,11 +292,12 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343856,
+    "wof:lastmodified":1565907479,
     "wof:name":"Jelgavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:shortcode":"JE",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

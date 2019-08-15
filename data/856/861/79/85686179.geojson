@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":56.905038,
     "lbl:longitude":27.612755,
     "mps:latitude":56.905038,
@@ -286,7 +289,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343866,
+    "wof:lastmodified":1565726882,
     "wof:name":"Baltinavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

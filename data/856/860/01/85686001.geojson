@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RE"
+    ],
     "lbl:latitude":56.510754,
     "lbl:longitude":27.339251,
     "mps:latitude":56.510754,
@@ -363,7 +366,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343882,
+    "wof:lastmodified":1565726884,
     "wof:name":"Rezekne",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LI"
+    ],
     "lbl:latitude":57.567301,
     "lbl:longitude":24.718896,
     "mps:latitude":57.567301,
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343910,
+    "wof:lastmodified":1565726888,
     "wof:name":"Limba\u017eu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

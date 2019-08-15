@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RP"
+    ],
     "lbl:latitude":56.974965,
     "lbl:longitude":24.596953,
     "mps:latitude":56.974965,
@@ -279,7 +282,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343874,
+    "wof:lastmodified":1565726883,
     "wof:name":"Ropa\u017eu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

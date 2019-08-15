@@ -14,6 +14,9 @@
     "itu:country_code":[
         "371"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LV"
+    ],
     "lbl:latitude":57.06689,
     "lbl:longitude":25.458464,
     "mps:latitude":57.06689,
@@ -1102,16 +1105,13 @@
         }
     ],
     "wof:id":85633279,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "lav"
     ],
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343902,
+    "wof:lastmodified":1565726887,
     "wof:name":"Latvia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

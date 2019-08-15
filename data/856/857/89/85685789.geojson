@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RC"
+    ],
     "lbl:latitude":56.249795,
     "lbl:longitude":21.254951,
     "mps:latitude":56.249795,
@@ -276,7 +279,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343871,
+    "wof:lastmodified":1565726883,
     "wof:name":"Rucavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

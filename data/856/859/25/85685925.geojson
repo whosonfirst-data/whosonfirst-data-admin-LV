@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DB"
+    ],
     "lbl:latitude":56.592531,
     "lbl:longitude":23.221151,
     "mps:latitude":56.592531,
@@ -274,7 +277,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343857,
+    "wof:lastmodified":1565726881,
     "wof:name":"Dobeles",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

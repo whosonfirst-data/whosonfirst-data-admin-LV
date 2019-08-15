@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DD"
+    ],
     "lbl:latitude":56.130958,
     "lbl:longitude":27.637552,
     "mps:latitude":56.130958,
@@ -284,7 +287,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343888,
+    "wof:lastmodified":1565726885,
     "wof:name":"Dagdas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

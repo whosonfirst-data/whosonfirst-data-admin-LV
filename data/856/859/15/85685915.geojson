@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Olaines Novads"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OL"
+    ],
     "lbl:latitude":56.698881,
     "lbl:longitude":24.132718,
     "mps:latitude":56.698881,
@@ -59,11 +62,12 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550864,
+    "wof:lastmodified":1565907476,
     "wof:name":"Olaines",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:shortcode":"OL",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

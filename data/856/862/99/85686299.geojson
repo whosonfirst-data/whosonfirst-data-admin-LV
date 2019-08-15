@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NA"
+    ],
     "lbl:latitude":57.923131,
     "lbl:longitude":25.458756,
     "mps:latitude":57.923131,
@@ -284,7 +287,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343911,
+    "wof:lastmodified":1565726888,
     "wof:name":"Nauksenu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

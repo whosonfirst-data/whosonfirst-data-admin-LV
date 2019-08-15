@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AD"
+    ],
     "lbl:latitude":57.122436,
     "lbl:longitude":24.393762,
     "mps:latitude":57.122436,
@@ -285,7 +288,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343869,
+    "wof:lastmodified":1565726883,
     "wof:name":"Ada\u017eu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

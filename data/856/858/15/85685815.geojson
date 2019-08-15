@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IL"
+    ],
     "lbl:latitude":55.995822,
     "lbl:longitude":26.175049,
     "mps:latitude":55.995822,
@@ -281,7 +284,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343895,
+    "wof:lastmodified":1565726886,
     "wof:name":"Ilukstes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

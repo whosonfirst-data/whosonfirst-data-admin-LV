@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SI"
+    ],
     "lbl:latitude":57.050886,
     "lbl:longitude":24.824516,
     "mps:latitude":57.050886,
@@ -278,7 +281,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343859,
+    "wof:lastmodified":1565726881,
     "wof:name":"Siguldas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

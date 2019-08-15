@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IE"
+    ],
     "lbl:latitude":56.602016,
     "lbl:longitude":24.223432,
     "mps:latitude":56.602016,
@@ -282,7 +285,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343849,
+    "wof:lastmodified":1565726879,
     "wof:name":"Iecavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

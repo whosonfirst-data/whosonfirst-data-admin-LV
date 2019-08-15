@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OZ"
+    ],
     "lbl:latitude":56.681599,
     "lbl:longitude":23.887995,
     "mps:latitude":56.681599,
@@ -282,7 +285,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343853,
+    "wof:lastmodified":1565726880,
     "wof:name":"Ozolnieku",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

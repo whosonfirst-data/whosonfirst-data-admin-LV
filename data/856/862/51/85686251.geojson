@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VL"
+    ],
     "lbl:latitude":57.194498,
     "lbl:longitude":27.657851,
     "mps:latitude":57.194498,
@@ -285,7 +288,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343906,
+    "wof:lastmodified":1565726887,
     "wof:name":"Vilakas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

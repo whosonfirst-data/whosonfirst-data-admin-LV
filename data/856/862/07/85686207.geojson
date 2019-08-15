@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Raunas Novads"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RN"
+    ],
     "lbl:latitude":57.234031,
     "lbl:longitude":25.888831,
     "mps:latitude":57.234031,
@@ -59,11 +62,12 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1553550867,
+    "wof:lastmodified":1565907490,
     "wof:name":"Raunas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-lv",
+    "wof:shortcode":"RN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

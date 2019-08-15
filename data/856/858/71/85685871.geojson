@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SK"
+    ],
     "lbl:latitude":56.649325,
     "lbl:longitude":22.009808,
     "mps:latitude":56.649325,
@@ -276,7 +279,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343896,
+    "wof:lastmodified":1565726886,
     "wof:name":"Skrundas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AG"
+    ],
     "lbl:latitude":56.083952,
     "lbl:longitude":27.066288,
     "mps:latitude":56.083952,
@@ -290,7 +293,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343894,
+    "wof:lastmodified":1565726886,
     "wof:name":"Aglonas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

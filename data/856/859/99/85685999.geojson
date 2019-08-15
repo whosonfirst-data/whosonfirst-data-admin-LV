@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KK"
+    ],
     "lbl:latitude":56.792112,
     "lbl:longitude":24.193114,
     "mps:latitude":56.792112,
@@ -279,7 +282,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343855,
+    "wof:lastmodified":1565726881,
     "wof:name":"Kekavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BD"
+    ],
     "lbl:latitude":56.732344,
     "lbl:longitude":24.375652,
     "mps:latitude":56.732344,
@@ -284,7 +287,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343848,
+    "wof:lastmodified":1565726879,
     "wof:name":"Baldones",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

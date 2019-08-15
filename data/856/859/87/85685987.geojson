@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZI"
+    ],
     "lbl:latitude":56.34059,
     "lbl:longitude":28.088389,
     "mps:latitude":56.34059,
@@ -282,7 +285,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343850,
+    "wof:lastmodified":1565726880,
     "wof:name":"Zilupes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "republican city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VS"
+    ],
     "lbl:latitude":57.403641,
     "lbl:longitude":21.596579,
     "mps:latitude":57.403641,
@@ -313,7 +316,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343868,
+    "wof:lastmodified":1565726882,
     "wof:name":"Ventspils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

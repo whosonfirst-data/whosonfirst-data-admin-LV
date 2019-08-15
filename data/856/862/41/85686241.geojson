@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GU"
+    ],
     "lbl:latitude":57.153825,
     "lbl:longitude":26.639743,
     "mps:latitude":57.153825,
@@ -273,7 +276,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343911,
+    "wof:lastmodified":1565726888,
     "wof:name":"Gulbenes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LB"
+    ],
     "lbl:latitude":56.937314,
     "lbl:longitude":26.763754,
     "mps:latitude":56.937314,
@@ -303,7 +306,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343864,
+    "wof:lastmodified":1565726882,
     "wof:name":"Lubanas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

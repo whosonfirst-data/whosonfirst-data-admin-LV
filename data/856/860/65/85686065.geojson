@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "republican city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RA"
+    ],
     "lbl:latitude":56.987005,
     "lbl:longitude":24.103276,
     "mps:latitude":56.987005,
@@ -696,7 +699,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343881,
+    "wof:lastmodified":1565726884,
     "wof:name":"Riga",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

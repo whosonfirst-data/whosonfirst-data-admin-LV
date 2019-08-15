@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "republican city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VE"
+    ],
     "lbl:latitude":57.532143,
     "lbl:longitude":25.410298,
     "mps:latitude":57.532143,
@@ -351,7 +354,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343909,
+    "wof:lastmodified":1565726888,
     "wof:name":"Valmiera",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

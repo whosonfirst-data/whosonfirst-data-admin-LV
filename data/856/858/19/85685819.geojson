@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":56.159369,
     "lbl:longitude":25.774774,
     "mps:latitude":56.159369,
@@ -290,7 +293,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343891,
+    "wof:lastmodified":1565726886,
     "wof:name":"Aknistes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

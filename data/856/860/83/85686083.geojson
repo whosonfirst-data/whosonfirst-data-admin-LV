@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TK"
+    ],
     "lbl:latitude":57.018215,
     "lbl:longitude":23.024867,
     "mps:latitude":57.018215,
@@ -286,7 +289,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343884,
+    "wof:lastmodified":1565726884,
     "wof:name":"Tukuma",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

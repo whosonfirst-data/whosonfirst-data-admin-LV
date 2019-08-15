@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KN"
+    ],
     "lbl:latitude":56.927612,
     "lbl:longitude":22.705712,
     "mps:latitude":56.927612,
@@ -278,7 +281,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343873,
+    "wof:lastmodified":1565726883,
     "wof:name":"Kandavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

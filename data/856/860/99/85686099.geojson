@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ML"
+    ],
     "lbl:latitude":56.996217,
     "lbl:longitude":24.988167,
     "mps:latitude":56.996217,
@@ -280,7 +283,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343882,
+    "wof:lastmodified":1565726884,
     "wof:name":"Malpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

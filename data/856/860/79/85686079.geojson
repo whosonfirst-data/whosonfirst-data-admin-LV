@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "amalgamated municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OR"
+    ],
     "lbl:latitude":56.823132,
     "lbl:longitude":25.181605,
     "mps:latitude":56.823132,
@@ -348,7 +351,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1563343883,
+    "wof:lastmodified":1565726884,
     "wof:name":"Ogres",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
