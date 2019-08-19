@@ -99,7 +99,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":181,
     "wof:belongsto":[
         102191581,
@@ -129,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563343843,
+    "wof:lastmodified":1566247548,
     "wof:name":"Zakusala",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

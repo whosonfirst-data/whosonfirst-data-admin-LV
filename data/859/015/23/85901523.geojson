@@ -83,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":162,
     "wof:belongsto":[
         102191581,
@@ -113,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563343837,
+    "wof:lastmodified":1566247547,
     "wof:name":"Dubulti",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

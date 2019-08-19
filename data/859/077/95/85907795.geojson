@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
@@ -102,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563343840,
+    "wof:lastmodified":1566247547,
     "wof:name":"Darzciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

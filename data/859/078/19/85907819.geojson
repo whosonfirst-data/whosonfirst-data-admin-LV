@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9839427.054608,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.173584,56.972604,24.173584,56.972604",
     "geom:latitude":56.972604,
     "geom:longitude":24.173584,
@@ -58,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":30,
     "wof:belongsto":[
         102191581,
@@ -87,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936643,
+    "wof:lastmodified":1566247548,
     "wof:name":"Teika",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

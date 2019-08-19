@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2930506.771668,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.13499,56.919289,24.13499,56.919289",
     "geom:latitude":56.919289,
     "geom:longitude":24.13499,
@@ -57,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -84,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936632,
+    "wof:lastmodified":1566247537,
     "wof:name":"Kazas Seklis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

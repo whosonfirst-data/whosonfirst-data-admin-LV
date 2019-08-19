@@ -86,7 +86,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":56.9735,
     "wd:longitude":23.8218,
     "wd:wordcount":138,
@@ -120,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563343839,
+    "wof:lastmodified":1566247547,
     "wof:name":"Dzintari",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",
