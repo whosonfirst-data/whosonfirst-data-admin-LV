@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":110892.422655,
+    "geom:area_square_m":0.0,
     "geom:bbox":"24.07917,56.976202,24.07917,56.976202",
     "geom:latitude":56.976202,
     "geom:longitude":24.07917,
@@ -30,8 +30,7 @@
     ],
     "name:eng_x_variant":[
         "Upper Podrags",
-        "Poderaja",
-        "Poderaa"
+        "Poderaja"
     ],
     "name:lav_x_preferred":[
         "Aug\u00b5-Podrags"
@@ -76,7 +75,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751789,
@@ -104,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932522,
+    "wof:lastmodified":1566247547,
     "wof:name":"Podrags",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

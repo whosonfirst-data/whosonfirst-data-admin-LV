@@ -86,7 +86,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":56.95,
     "wd:longitude":24.0,
     "wd:wordcount":83,
@@ -120,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563343846,
+    "wof:lastmodified":1566247548,
     "wof:name":"Imanta",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -64,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751789,
@@ -92,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536864518,
+    "wof:lastmodified":1566247548,
     "wof:name":"Petersala",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

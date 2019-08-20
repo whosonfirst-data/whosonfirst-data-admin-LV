@@ -62,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191581,
@@ -92,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564103592,
+    "wof:lastmodified":1566247547,
     "wof:name":"Kauguri",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

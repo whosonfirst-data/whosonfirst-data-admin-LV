@@ -77,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":56.946944,
     "wd:longitude":24.010972,
     "wd:wordcount":657,
@@ -111,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561839421,
+    "wof:lastmodified":1566247548,
     "wof:name":"Zolitude",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

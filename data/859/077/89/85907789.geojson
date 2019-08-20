@@ -78,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":197,
     "wof:belongsto":[
         102191581,
@@ -108,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563343840,
+    "wof:lastmodified":1566247547,
     "wof:name":"Ziepniekkalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

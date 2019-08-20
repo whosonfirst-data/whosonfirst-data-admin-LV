@@ -103,7 +103,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":30,
     "wof:belongsto":[
         102191581,
@@ -135,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563343838,
+    "wof:lastmodified":1566247547,
     "wof:name":"Vecmilgravis",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

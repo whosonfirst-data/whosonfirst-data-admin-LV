@@ -26,6 +26,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:Eng_x_variant":[
+        "Old City"
+    ],
     "name:aze_x_preferred":[
         "\u018fski Riqa"
     ],
@@ -147,7 +150,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":223,
     "wof:belongsto":[
         102191581,
@@ -179,7 +182,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563343845,
+    "wof:lastmodified":1566247548,
     "wof:name":"Vecriga",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",
