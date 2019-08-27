@@ -9,14 +9,17 @@
     "geom:bbox":"24.1078438262,56.8641716834,24.1447608108,56.883160238",
     "geom:latitude":56.87277,
     "geom:longitude":24.12631,
-    "geonames:id":"461205,864721",
+    "gn:id":"461205,864721",
     "iso:country":"LV",
     "lbl:latitude":56.869578,
     "lbl:longitude":24.13457,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.869578,
     "mps:longitude":24.13457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0648\u062c\u064a"
     ],
@@ -121,7 +124,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":127,
     "wof:belongsto":[
         102191581,
@@ -132,7 +135,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55844780,
-        "qs:id":471299,
+        "qs_pg:id":471299,
         "wd:id":"Q757043"
     },
     "wof:country":"LV",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1175612925,
-    "wof:lastmodified":1563344260,
+    "wof:lastmodified":1566599002,
     "wof:name":"Balo\u017ei",
     "wof:parent_id":85685999,
     "wof:placetype":"locality",

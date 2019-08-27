@@ -12,10 +12,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.417762,
     "lbl:longitude":21.85141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.417762,
     "mps:longitude":21.85141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vai\u0146ode"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Vai\u0146ode"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vayn\u00ebde"
     ],
     "qs:a0":"Latvija",
@@ -73,7 +76,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101847097,
-    "wof:lastmodified":1563344422,
+    "wof:lastmodified":1566599067,
     "wof:name":"Vai\u0146ode",
     "wof:parent_id":85685807,
     "wof:placetype":"locality",

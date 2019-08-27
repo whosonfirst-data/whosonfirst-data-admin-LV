@@ -10,8 +10,10 @@
     "geom:latitude":57.043175,
     "geom:longitude":24.175737,
     "iso:country":"LV",
+    "lbl:bbox":"24.1707368052,57.0381752926,24.1807368052,57.0481752926",
     "lbl:latitude":57.043175,
     "lbl:longitude":24.175737,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -36,7 +38,7 @@
     "name:rus_x_preferred":[
         "\u042f\u0443\u043d\u0446\u0438\u0435\u043c\u0441"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751789,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1108941511,
-    "wof:lastmodified":1564103856,
+    "wof:lastmodified":1566598997,
     "wof:name":"Jaunciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.26683,56.90984,25.30683,56.94984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Virtic\u0113ni",
         "Kinder\u0113ni"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259757223,
-    "wof:lastmodified":1537663154,
+    "wof:lastmodified":1566599159,
     "wof:name":"Virticeni",
     "wof:parent_id":85686079,
     "wof:placetype":"locality",

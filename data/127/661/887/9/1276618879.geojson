@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.35067,56.66996,26.39067,56.70996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yur\u2019yan",
         "Jurguci",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276618879,
-    "wof:lastmodified":1537663165,
+    "wof:lastmodified":1566598895,
     "wof:name":"Jurjani",
     "wof:parent_id":85686143,
     "wof:placetype":"locality",

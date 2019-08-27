@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.62509,56.98593,25.66509,57.02593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rau\u0161i",
         "Raushi",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225974827,
-    "wof:lastmodified":1537663076,
+    "wof:lastmodified":1566599182,
     "wof:name":"Rausi",
     "wof:parent_id":85686189,
     "wof:placetype":"locality",

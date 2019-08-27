@@ -12,8 +12,10 @@
     "gn:latitude":57.03333,
     "gn:longitude":24.1,
     "iso:country":"LV",
+    "lbl:bbox":"24.095874,57.02802,24.105874,57.03802",
     "lbl:latitude":57.03302,
     "lbl:longitude":24.100874,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.034464,
     "mps:longitude":24.092899,
     "mz:hierarchy_label":0,
@@ -63,16 +65,10 @@
         "Staryy Myul'graben",
         "Vecmilgravis"
     ],
-    "name:und_x_preferred":[
-        "Vecm\u012blgr\u0101vis"
-    ],
     "name:und_x_variant":[
         "M\u00fchlgraben",
-        "St\u00e1ryy My\u00fal'graben"
-    ],
-    "name:unk_x_variant":[
-        "Staryy Myul\u2019graben",
-        "Vecm\u012blgr\u0101vis"
+        "St\u00e1ryy My\u00fal'graben",
+        "Staryy Myul\u2019graben"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_fcode":"PPLX",
@@ -115,7 +111,6 @@
     "wof:concordances":{
         "gn:id":454423,
         "gp:id":855979,
-        "qs:id":1167451,
         "qs_pg:id":1167451,
         "wd:id":"Q1983101",
         "wk:page":"Vecm\u012blgr\u0101vis"
@@ -135,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566598798,
     "wof:name":"Vecmilgravis",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

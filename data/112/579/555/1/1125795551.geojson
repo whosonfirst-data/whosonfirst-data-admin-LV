@@ -9,15 +9,18 @@
     "geom:bbox":"23.36361,57.04083,23.36361,57.04083",
     "geom:latitude":57.04083,
     "geom:longitude":23.36361,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":160,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
     "gn:population":160,
     "iso:country":"LV",
+    "lbl:bbox":"23.34361,57.02083,23.38361,57.06083",
     "lbl:latitude":57.04083,
     "lbl:longitude":23.36361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Klapkalnciems"
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Klapkalnciems"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klapkalnu Ciems"
     ],
     "qs_pg:aaroncc":"LV",
@@ -61,7 +64,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":853160,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125795551,
-    "wof:lastmodified":1563344482,
+    "wof:lastmodified":1566599092,
     "wof:name":"Klapkalnciems",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

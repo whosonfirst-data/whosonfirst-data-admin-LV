@@ -13,6 +13,7 @@
     "iso:country":"LV",
     "lbl:latitude":56.973373,
     "lbl:longitude":24.134338,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.986635,
     "mps:longitude":24.14778,
     "mz:hierarchy_label":0,
@@ -29,10 +30,7 @@
     "name:lav_x_preferred":[
         "R\u0113zeknes Sporta p\u0101rvaldes stadions"
     ],
-    "name:und_x_preferred":[
-        "Pilsetas"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pilsetas"
     ],
     "qs:gn_adm0_cc":"LV",
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701382,
-        "qs:id":1181833,
         "qs_pg:id":1181833
     },
     "wof:country":"LV",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247548,
+    "wof:lastmodified":1566598800,
     "wof:name":"Pilsetas",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

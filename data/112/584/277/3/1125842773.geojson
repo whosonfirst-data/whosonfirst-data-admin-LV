@@ -9,15 +9,18 @@
     "geom:bbox":"24.11861,56.87611,24.11861,56.87611",
     "geom:latitude":56.87611,
     "geom:longitude":24.11861,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3854,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
     "gn:population":3854,
     "iso:country":"LV",
+    "lbl:bbox":"24.09861,56.85611,24.13861,56.89611",
     "lbl:latitude":56.87611,
     "lbl:longitude":24.11861,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0648\u062c\u064a"
@@ -103,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043e\u0436\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balozhi"
     ],
     "name:zho_x_preferred":[
@@ -126,7 +129,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":56069780,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1125842773,
-    "wof:lastmodified":1563344483,
+    "wof:lastmodified":1566599093,
     "wof:name":"Balozi",
     "wof:parent_id":85685999,
     "wof:placetype":"locality",

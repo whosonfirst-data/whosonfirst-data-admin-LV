@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"22.67069,56.62103,22.71069,56.66103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bl\u012bdene",
         "Lielbl\u012bdiene",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326467441,
-    "wof:lastmodified":1537663130,
+    "wof:lastmodified":1566598733,
     "wof:name":"Blidenes Meznieciba",
     "wof:parent_id":85685885,
     "wof:placetype":"locality",

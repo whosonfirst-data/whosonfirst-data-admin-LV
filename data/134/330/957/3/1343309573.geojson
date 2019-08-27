@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"22.43667,56.84283,22.47667,56.88283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myza Tsuteni",
         "Zutene",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343309573,
-    "wof:lastmodified":1537663002,
+    "wof:lastmodified":1566598752,
     "wof:name":"Zuteni",
     "wof:parent_id":85685935,
     "wof:placetype":"locality",

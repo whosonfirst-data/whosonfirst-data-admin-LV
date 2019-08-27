@@ -9,15 +9,18 @@
     "geom:bbox":"23.18139,57.00861,23.18139,57.00861",
     "geom:latitude":57.00861,
     "geom:longitude":23.18139,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":390,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
     "gn:population":390,
     "iso:country":"LV",
+    "lbl:bbox":"23.16139,56.98861,23.20139,57.02861",
     "lbl:latitude":57.00861,
     "lbl:longitude":23.18139,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Rauda"
@@ -28,7 +31,7 @@
     "name:nld_x_preferred":[
         "Rauda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rauda Mui\u017eas Centrs"
     ],
     "qs_pg:aaroncc":"LV",
@@ -50,7 +53,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":854759,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125896937,
-    "wof:lastmodified":1561839447,
+    "wof:lastmodified":1566599087,
     "wof:name":"Rauda",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

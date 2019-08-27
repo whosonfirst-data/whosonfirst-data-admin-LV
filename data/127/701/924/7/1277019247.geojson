@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"24.83009,57.73416,24.87009,57.77416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1277019247,
-    "wof:lastmodified":1536853130,
+    "wof:lastmodified":1566598876,
     "wof:name":"Smilgas",
     "wof:parent_id":85686293,
     "wof:placetype":"locality",

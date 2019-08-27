@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.63043,55.84838,26.67043,55.88838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tabore"
     ],
@@ -52,8 +56,7 @@
         "Myza Tabor",
         "T\u0101bores Mui\u017ea",
         "Tabara",
-        "Tabora",
-        "Tabore"
+        "Tabora"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1327425531,
-    "wof:lastmodified":1564103517,
+    "wof:lastmodified":1566598742,
     "wof:name":"Tabore",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

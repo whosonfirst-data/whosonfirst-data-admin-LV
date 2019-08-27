@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.34835,56.11575,26.38835,56.15575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "N\u012bcgale"
     ],
@@ -49,7 +53,6 @@
         "Polumyza Nitsgales",
         "Nitsgales",
         "Nicgales Pusmui\u017ea",
-        "N\u012bcgale",
         "Neicga\u013cs"
     ],
     "src:geom":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1259804931,
-    "wof:lastmodified":1564104070,
+    "wof:lastmodified":1566599155,
     "wof:name":"Nicgale",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

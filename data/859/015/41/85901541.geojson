@@ -12,8 +12,10 @@
     "gn:latitude":56.95917,
     "gn:longitude":23.70861,
     "iso:country":"LV",
+    "lbl:bbox":"23.70775,56.954682,23.71775,56.964682",
     "lbl:latitude":56.959682,
     "lbl:longitude":23.71275,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.963745,
     "mps:longitude":23.694675,
     "mz:hierarchy_label":0,
@@ -46,13 +48,6 @@
     ],
     "name:und_x_colloquial":[
         "Melluzi"
-    ],
-    "name:und_x_preferred":[
-        "Mellu\u017ei"
-    ],
-    "name:unk_x_variant":[
-        "Karlsbad",
-        "Mellu\u017ei"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_fcode":"PPLX",
@@ -96,7 +91,6 @@
     "wof:concordances":{
         "gn:id":457437,
         "gp:id":853995,
-        "qs:id":1175010,
         "qs_pg:id":1175010,
         "wd:id":"Q5621194",
         "wk:page":"Mellu\u017ei"
@@ -116,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566598798,
     "wof:name":"Mellu\u017ei",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

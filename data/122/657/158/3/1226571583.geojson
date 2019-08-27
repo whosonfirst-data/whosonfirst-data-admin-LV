@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.65801,56.94031,27.69801,56.98031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u043b\u0430\u0431\u0430\u0434\u0430"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1226571583,
-    "wof:lastmodified":1564104109,
+    "wof:lastmodified":1566599177,
     "wof:name":"Sloboda",
     "wof:parent_id":85686179,
     "wof:placetype":"locality",

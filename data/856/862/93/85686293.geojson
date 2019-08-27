@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":57.832553,
     "lbl:longitude":24.774952,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.832553,
     "mps:longitude":24.774952,
     "mz:hierarchy_label":1,
@@ -161,9 +162,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u043e\u0439\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Alojas Novads"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0644\u0648\u06cc\u0627 \u0628\u0644\u062f\u06cc\u06c1"
     ],
@@ -243,9 +241,9 @@
     "qs:type":"Novads",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-01",
+    "src:population_date":"2011-03-01",
     "statoids:area_km":"631",
     "statoids:area_mi":"244",
     "statoids:as_of_date":"2011-03-01",
@@ -287,11 +285,10 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1565726887,
+    "wof:lastmodified":1566598825,
     "wof:name":"Alojas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"amalgamated municipality",
     "wof:population":5316,
     "wof:population_rank":5,

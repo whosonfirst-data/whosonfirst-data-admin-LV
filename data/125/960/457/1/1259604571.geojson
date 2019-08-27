@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.66201,56.05769,26.70201,56.09769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aka_x_preferred":[
         "Dubna"
     ],
@@ -224,7 +228,7 @@
         }
     ],
     "wof:id":1259604571,
-    "wof:lastmodified":1564104064,
+    "wof:lastmodified":1566599152,
     "wof:name":"Dubna",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.67935,55.96247,26.71935,56.00247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bol\u2019shaya Kokiny",
         "Liel-Kokina",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343555743,
-    "wof:lastmodified":1537663128,
+    "wof:lastmodified":1566598756,
     "wof:name":"Lielkokini",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

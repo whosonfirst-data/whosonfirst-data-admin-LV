@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.76735,57.26943,27.80735,57.30943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rejova"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343692155,
-    "wof:lastmodified":1537663075,
+    "wof:lastmodified":1566598779,
     "wof:name":"Rejeva",
     "wof:parent_id":85686251,
     "wof:placetype":"locality",

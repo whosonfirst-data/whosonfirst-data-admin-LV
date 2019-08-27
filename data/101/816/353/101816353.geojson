@@ -13,6 +13,8 @@
     "iso:country":"LV",
     "lbl:latitude":56.516536,
     "lbl:longitude":27.335584,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.516536,
     "mps:longitude":27.335584,
     "mz:hierarchy_label":1,
@@ -234,7 +236,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0437\u0435\u043a\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ryezhitsa"
     ],
     "name:urd_x_preferred":[
@@ -360,7 +362,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -371,7 +373,6 @@
     "wof:concordances":{
         "gn:id":456202,
         "gp:id":854807,
-        "qs:id":1088915,
         "qs_pg:id":1088915,
         "wd:id":"Q180379",
         "wk:page":"R\u0113zekne"
@@ -387,7 +388,7 @@
         }
     ],
     "wof:id":101816353,
-    "wof:lastmodified":1563344335,
+    "wof:lastmodified":1566599050,
     "wof:name":"R\u0113zekne",
     "wof:parent_id":85686001,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":56.943884,
     "geom:longitude":23.694656,
     "iso:country":"LV",
+    "lbl:bbox":"23.6896555542,56.93888355,23.6996555542,56.94888355",
     "lbl:latitude":56.943884,
     "lbl:longitude":23.694656,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,7 +29,7 @@
     "name:lav_x_preferred":[
         "Valteri"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751787,
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1108941571,
-    "wof:lastmodified":1564103851,
+    "wof:lastmodified":1566598994,
     "wof:name":"Valteri",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

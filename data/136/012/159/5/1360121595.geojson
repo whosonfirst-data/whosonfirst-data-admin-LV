@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.02424,56.55856,26.06424,56.59856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Za\u013caci",
         "Za\u013ca\u010di"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360121595,
-    "wof:lastmodified":1537663009,
+    "wof:lastmodified":1566599036,
     "wof:name":"Zalaci",
     "wof:parent_id":85685991,
     "wof:placetype":"locality",

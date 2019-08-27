@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.42488,55.77761,27.46488,55.81761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daugaviyeshi",
         "Piedrujas",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309927193,
-    "wof:lastmodified":1537663088,
+    "wof:lastmodified":1566599078,
     "wof:name":"Piedruja",
     "wof:parent_id":85685833,
     "wof:placetype":"locality",

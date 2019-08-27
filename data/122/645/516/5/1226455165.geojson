@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.35397,57.49677,27.39397,57.53677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myza Kalnpededze",
         "Kalnpededze",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226455165,
-    "wof:lastmodified":1537663162,
+    "wof:lastmodified":1566599165,
     "wof:name":"Kalnapededze",
     "wof:parent_id":85686279,
     "wof:placetype":"locality",

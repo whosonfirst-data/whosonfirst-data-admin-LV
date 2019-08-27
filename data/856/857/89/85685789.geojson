@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":56.249795,
     "lbl:longitude":21.254951,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.249795,
     "mps:longitude":21.254951,
     "mz:hierarchy_label":1,
@@ -139,7 +140,7 @@
         "Rucava kommun"
     ],
     "name:tam_x_preferred":[
-        "\u0bb0\u0bbe\u0b95\u0bb5\u0bbe  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0bb0\u0bbe\u0b95\u0bb5\u0bbe \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c30\u0c41\u0c15\u0c3e\u0c35\u0c3e \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -152,9 +153,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0446\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
-    ],
-    "name:unk_x_variant":[
-        "Rucavas Novads"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u06a9\u0627\u0648\u0627 \u0645\u06cc\u0648\u0646\u0633\u067e\u0644\u0679\u06cc"
@@ -235,9 +233,9 @@
     "qs:type":"Novads",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-01",
+    "src:population_date":"2011-03-01",
     "statoids:area_km":"449",
     "statoids:area_mi":"173",
     "statoids:as_of_date":"2011-03-01",
@@ -279,11 +277,10 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1565726883,
+    "wof:lastmodified":1566598811,
     "wof:name":"Rucavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"amalgamated municipality",
     "wof:population":1814,
     "wof:population_rank":3,

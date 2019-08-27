@@ -10,8 +10,10 @@
     "geom:latitude":56.913073,
     "geom:longitude":24.148629,
     "iso:country":"LV",
+    "lbl:bbox":"24.1436285991,56.908072884,24.1536285991,56.918072884",
     "lbl:latitude":56.913073,
     "lbl:longitude":24.148629,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,7 +29,7 @@
     "name:lav_x_preferred":[
         "Katlakalns"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751789,
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1108941495,
-    "wof:lastmodified":1564103862,
+    "wof:lastmodified":1566599001,
     "wof:name":"Katlakalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

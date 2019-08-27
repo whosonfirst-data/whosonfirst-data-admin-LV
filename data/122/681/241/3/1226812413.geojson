@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"24.75047,57.55928,24.79047,57.59928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tiyegazhi",
         "Tiega\u017ei"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226812413,
-    "wof:lastmodified":1537663038,
+    "wof:lastmodified":1566599161,
     "wof:name":"Tiegazi",
     "wof:parent_id":85686265,
     "wof:placetype":"locality",

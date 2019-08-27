@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.37174,56.62292,27.41174,56.66292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gailumi"
     ],
@@ -33,7 +37,6 @@
         "\u0418\u043b\u0437\u0435\u0441\u043a\u0430\u043b\u043d\u0441"
     ],
     "name:und_x_variant":[
-        "Gailumi",
         "I\u013c\u017eukolns"
     ],
     "src:geom":"geonames",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226311285,
-    "wof:lastmodified":1537663189,
+    "wof:lastmodified":1566599202,
     "wof:name":"Ilzeskalns",
     "wof:parent_id":85686095,
     "wof:placetype":"locality",

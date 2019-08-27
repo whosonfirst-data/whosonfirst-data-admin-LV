@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.889575,
     "lbl:longitude":21.181306,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.889575,
     "mps:longitude":21.181306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u064a\u0644\u0648\u0633\u062a\u0627"
     ],
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0432\u0456\u043b\u043e\u0441\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0100kagals"
     ],
     "name:zho_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":545,
     "wof:belongsto":[
@@ -126,7 +129,6 @@
     "wof:concordances":{
         "gn:id":456827,
         "gp:id":854416,
-        "qs:id":235338,
         "qs_pg:id":235338,
         "wd:id":"Q840717",
         "wk:page":"P\u0101vilosta"
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":101847117,
-    "wof:lastmodified":1563344428,
+    "wof:lastmodified":1566599068,
     "wof:name":"P\u0101vilosta",
     "wof:parent_id":85685901,
     "wof:placetype":"locality",

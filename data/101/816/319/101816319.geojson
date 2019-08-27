@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.665484,
     "lbl:longitude":22.488055,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.665484,
     "mps:longitude":22.488055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Saldus"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u0434\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Frauenburg"
     ],
     "name:vol_x_preferred":[
@@ -156,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -167,7 +170,6 @@
     "wof:concordances":{
         "gn:id":455890,
         "gp:id":855023,
-        "qs:id":908138,
         "qs_pg:id":908138,
         "wd:id":"Q744247",
         "wk:page":"Saldus"
@@ -183,7 +185,7 @@
         }
     ],
     "wof:id":101816319,
-    "wof:lastmodified":1563344399,
+    "wof:lastmodified":1566599062,
     "wof:name":"Saldus",
     "wof:parent_id":85685935,
     "wof:placetype":"locality",

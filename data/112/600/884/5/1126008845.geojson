@@ -9,15 +9,18 @@
     "geom:bbox":"23.02722,57.06056,23.02722,57.06056",
     "geom:latitude":57.06056,
     "geom:longitude":23.02722,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":140,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
     "gn:population":140,
     "iso:country":"LV",
+    "lbl:bbox":"23.00722,57.04056,23.04722,57.08056",
     "lbl:latitude":57.06056,
     "lbl:longitude":23.02722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kaive"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0439\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Kaives"
     ],
     "qs_pg:aaroncc":"LV",
@@ -50,7 +53,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":852906,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1126008845,
-    "wof:lastmodified":1514484033,
+    "wof:lastmodified":1566599090,
     "wof:name":"Kaive",
     "wof:parent_id":85686083,
     "wof:placetype":"locality",

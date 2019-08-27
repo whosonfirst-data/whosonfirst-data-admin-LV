@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.806,57.47034,26.846,57.51034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myza Karva",
         "K\u0101rsava",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327033021,
-    "wof:lastmodified":1537663159,
+    "wof:lastmodified":1566598728,
     "wof:name":"Karva",
     "wof:parent_id":85686279,
     "wof:placetype":"locality",

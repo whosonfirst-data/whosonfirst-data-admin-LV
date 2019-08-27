@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.839276,
     "lbl:longitude":24.49626,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.839276,
     "mps:longitude":24.49626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0643\u0634\u0643\u064a\u0644"
     ],
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043a\u0448\u043a\u0456\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ikshkile"
     ],
     "name:urd_x_preferred":[
@@ -132,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":269,
     "wof:belongsto":[
@@ -144,7 +147,6 @@
     "wof:concordances":{
         "gn:id":459598,
         "gp:id":852621,
-        "qs:id":1088608,
         "qs_pg:id":1088608,
         "wd:id":"Q753029"
     },
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":101816367,
-    "wof:lastmodified":1563344367,
+    "wof:lastmodified":1566599056,
     "wof:name":"Ik\u0161\u0137ile",
     "wof:parent_id":85686017,
     "wof:placetype":"locality",

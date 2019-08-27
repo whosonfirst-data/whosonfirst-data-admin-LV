@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.85319,56.61136,27.89319,56.65136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Plavdishi",
         "Plaud\u012b\u0161i",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226081407,
-    "wof:lastmodified":1537663084,
+    "wof:lastmodified":1566599198,
     "wof:name":"Plaudisi",
     "wof:parent_id":85686089,
     "wof:placetype":"locality",

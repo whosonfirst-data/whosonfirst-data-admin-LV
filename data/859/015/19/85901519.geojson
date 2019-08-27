@@ -11,8 +11,10 @@
     "geom:longitude":24.07917,
     "gn:id":"",
     "iso:country":"LV",
+    "lbl:bbox":"24.07417,56.971202,24.08417,56.981202",
     "lbl:latitude":56.976202,
     "lbl:longitude":24.07917,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.964444,
     "mps:longitude":24.079285,
     "mz:hierarchy_label":0,
@@ -40,12 +42,6 @@
     ],
     "name:und_x_colloquial":[
         "Augs-Podrags"
-    ],
-    "name:und_x_preferred":[
-        "Aug\u00b5-Podrags"
-    ],
-    "name:unk_x_variant":[
-        "Aug\u00b5-Podrags"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_id":0,
@@ -85,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":851488,
-        "qs:id":1066275,
         "qs_pg:id":1066275
     },
     "wof:country":"LV",
@@ -103,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566598797,
     "wof:name":"Podrags",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

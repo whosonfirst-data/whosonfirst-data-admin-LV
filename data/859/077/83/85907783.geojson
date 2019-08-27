@@ -11,8 +11,10 @@
     "geom:longitude":24.117546,
     "gn:id":"",
     "iso:country":"LV",
+    "lbl:bbox":"24.112546,56.919033,24.122546,56.929033",
     "lbl:latitude":56.924033,
     "lbl:longitude":24.117546,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.924803,
     "mps:longitude":24.115874,
     "mz:hierarchy_label":0,
@@ -58,12 +60,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0446\u0430\u0432\u0441\u0430\u043b\u0430"
     ],
-    "name:und_x_preferred":[
-        "Lucavsala"
-    ],
-    "name:unk_x_variant":[
-        "Lucavsala"
-    ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_id":0,
     "qs:gn_local":456172,
@@ -100,7 +96,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701354,
-        "qs:id":995746,
         "qs_pg:id":995746,
         "wd:id":"Q4269916"
     },
@@ -119,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247536,
+    "wof:lastmodified":1566598799,
     "wof:name":"Lucavsala",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

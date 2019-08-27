@@ -10,9 +10,12 @@
     "geom:latitude":57.072728,
     "geom:longitude":24.102051,
     "iso:country":"LV",
+    "lbl:bbox":"24.097051122,57.0677276709,24.107051122,57.0777276709",
     "lbl:latitude":57.072728,
     "lbl:longitude":24.102051,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:lav_x_preferred":[
         "Vec\u0101\u0137i"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751789,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108941505,
-    "wof:lastmodified":1497292360,
+    "wof:lastmodified":1566598995,
     "wof:name":"Vecaki",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.58263,55.95476,27.62263,55.99476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Robe\u017enieki"
     ],
@@ -37,8 +41,7 @@
         "Pusti\u0146as",
         "Robezhniyeki",
         "Pustynya",
-        "Pusti\u0146a",
-        "Robe\u017enieki"
+        "Pusti\u0146a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1310584661,
-    "wof:lastmodified":1537663072,
+    "wof:lastmodified":1566599034,
     "wof:name":"Robeznieki",
     "wof:parent_id":85685833,
     "wof:placetype":"locality",

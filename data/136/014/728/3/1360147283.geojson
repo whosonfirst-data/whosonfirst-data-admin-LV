@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.82422,56.47554,27.86422,56.51554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Istalsna"
     ],
@@ -36,8 +40,7 @@
         "Polumyza Iztalsna",
         "Istalsna Mui\u017eas Centrs",
         "Pumpuri",
-        "Iztalsna",
-        "Istalsna"
+        "Iztalsna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1360147283,
-    "wof:lastmodified":1537663177,
+    "wof:lastmodified":1566599037,
     "wof:name":"Istalsna",
     "wof:parent_id":85686037,
     "wof:placetype":"locality",

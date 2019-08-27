@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.40863,
     "lbl:longitude":24.195304,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.40863,
     "mps:longitude":24.195304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u0627\u0643\u0627"
     ],
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0443\u0441\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bauske"
     ],
     "name:urd_x_preferred":[
@@ -166,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -177,7 +180,6 @@
     "wof:concordances":{
         "gn:id":461114,
         "gp:id":851626,
-        "qs:id":124656,
         "qs_pg:id":124656,
         "wd:id":"Q498256",
         "wk:page":"Bauska"
@@ -193,7 +195,7 @@
         }
     ],
     "wof:id":101816293,
-    "wof:lastmodified":1563344353,
+    "wof:lastmodified":1566599054,
     "wof:name":"Bauska",
     "wof:parent_id":85685851,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.20581,57.05912,27.24581,57.09912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Karklenyeki",
         "K\u0101rklenieki",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293202393,
-    "wof:lastmodified":1537663159,
+    "wof:lastmodified":1566598863,
     "wof:name":"Karklinieki",
     "wof:parent_id":85686235,
     "wof:placetype":"locality",

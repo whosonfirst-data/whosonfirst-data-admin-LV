@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.01724,56.14315,26.05724,56.18315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zabalina"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1277094527,
-    "wof:lastmodified":1537663177,
+    "wof:lastmodified":1566598876,
     "wof:name":"Izabelina",
     "wof:parent_id":85685889,
     "wof:placetype":"locality",

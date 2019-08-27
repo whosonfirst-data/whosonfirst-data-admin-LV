@@ -9,15 +9,18 @@
     "geom:bbox":"26.92449,56.55253,26.92449,56.55253",
     "geom:latitude":56.55253,
     "geom:longitude":26.92449,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3934,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
     "gn:population":3934,
     "iso:country":"LV",
+    "lbl:bbox":"26.90449,56.53253,26.94449,56.57253",
     "lbl:latitude":56.55253,
     "lbl:longitude":26.92449,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0646\u064a"
@@ -100,7 +103,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vilyani"
     ],
     "name:zho_x_preferred":[
@@ -127,7 +130,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":856152,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1125921067,
-    "wof:lastmodified":1563344457,
+    "wof:lastmodified":1566599084,
     "wof:name":"Vil\u0327\u0101ni",
     "wof:parent_id":85686049,
     "wof:placetype":"locality",

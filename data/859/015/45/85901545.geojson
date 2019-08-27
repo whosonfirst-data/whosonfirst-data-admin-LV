@@ -12,8 +12,10 @@
     "gn:latitude":56.92778,
     "gn:longitude":24.09111,
     "iso:country":"LV",
+    "lbl:bbox":"24.090907,56.927627,24.100907,56.937627",
     "lbl:latitude":56.932627,
     "lbl:longitude":24.095907,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.929046,
     "mps:longitude":24.085095,
     "mz:hierarchy_label":0,
@@ -51,13 +53,6 @@
     "name:und_x_colloquial":[
         "Tornakalns",
         "Tornyakalns"
-    ],
-    "name:und_x_preferred":[
-        "Tor\u00f1akalns"
-    ],
-    "name:unk_x_variant":[
-        "Tornakaln",
-        "Tor\u00f1akalns"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_fcode":"PPLX",
@@ -101,7 +96,6 @@
     "wof:concordances":{
         "gn:id":454810,
         "gp:id":855711,
-        "qs:id":1083364,
         "qs_pg:id":1083364,
         "wd:id":"Q2394313",
         "wk:page":"Tor\u0146akalns"
@@ -121,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566598797,
     "wof:name":"Tornakalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

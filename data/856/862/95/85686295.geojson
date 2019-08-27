@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":57.657343,
     "lbl:longitude":26.087457,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.657343,
     "mps:longitude":26.087457,
     "mz:hierarchy_label":1,
@@ -30,7 +31,7 @@
     "name:eng_x_preferred":[
         "Valkas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valkskiy Rayon"
     ],
     "ne:abbrev":"",
@@ -103,9 +104,9 @@
     "qs:type":"Novads",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-01",
+    "src:population_date":"2011-03-01",
     "statoids:area_km":"910",
     "statoids:area_mi":"351",
     "statoids:as_of_date":"2011-03-01",
@@ -146,11 +147,10 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1565726887,
+    "wof:lastmodified":1566598824,
     "wof:name":"Valkas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"amalgamated municipality",
     "wof:population":9299,
     "wof:population_rank":5,

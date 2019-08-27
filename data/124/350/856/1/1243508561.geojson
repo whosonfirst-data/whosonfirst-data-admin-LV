@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"22.00295,57.49379,22.04295,57.53379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ance"
     ],
@@ -42,8 +46,7 @@
     "name:und_x_variant":[
         "Volostnoye Pravleniye Antse",
         "Antse",
-        "Ance Mui\u017eas Centrs",
-        "Ance"
+        "Ance Mui\u017eas Centrs"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1243508561,
-    "wof:lastmodified":1564104001,
+    "wof:lastmodified":1566599115,
     "wof:name":"Ance",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"LV",
     "lbl:latitude":56.971149,
     "lbl:longitude":24.142749,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":56.971149,
     "mps:longitude":24.142749,
     "mz:hierarchy_label":1,
@@ -543,7 +545,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0438\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rija"
     ],
     "name:urd_x_preferred":[
@@ -705,7 +707,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -721,10 +723,12 @@
         "gp:id":854823,
         "loc:id":"n79013823",
         "nyt:id":"N38406598237711340851",
-        "qs:id":124628,
-        "qs_pg:id":1088923,
+        "qs_pg:id":124628,
         "wd:id":"Q1773",
         "wk:page":"Riga"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1088923
     },
     "wof:coterminous":[
         85686065
@@ -740,7 +744,7 @@
         }
     ],
     "wof:id":101751789,
-    "wof:lastmodified":1563344417,
+    "wof:lastmodified":1566599065,
     "wof:megacity":0,
     "wof:name":"R\u012bga",
     "wof:parent_id":85686065,

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":56.220594,
     "lbl:longitude":26.519468,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.220594,
     "mps:longitude":26.519468,
     "mz:hierarchy_label":1,
@@ -151,7 +152,7 @@
         "V\u0101rkava kommun"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bb5\u0bbe  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0bb5\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bb5\u0bbe \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3e\u0c30\u0c4d\u0c15\u0c35\u0c3e \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -164,9 +165,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u043a\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
-    ],
-    "name:unk_x_variant":[
-        "V\u0101rkavas Novads"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0631\u06a9\u0627\u0648\u0627 \u0645\u06cc\u0648\u0646\u0633\u067e\u0644\u0679\u06cc"
@@ -247,9 +245,9 @@
     "qs:type":"Novads",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-01",
+    "src:population_date":"2011-03-01",
     "statoids:area_km":"289",
     "statoids:area_mi":"112",
     "statoids:as_of_date":"2011-03-01",
@@ -291,11 +289,10 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1565726885,
+    "wof:lastmodified":1566598818,
     "wof:name":"Varkavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"amalgamated municipality",
     "wof:population":2113,
     "wof:population_rank":4,

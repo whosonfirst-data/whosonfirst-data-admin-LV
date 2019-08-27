@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.63669,57.10967,26.67669,57.14967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Krapa"
     ],
@@ -34,8 +38,7 @@
         "Krapa"
     ],
     "name:und_x_variant":[
-        "Myza Krapa",
-        "Krapa"
+        "Myza Krapa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1242767489,
-    "wof:lastmodified":1564104013,
+    "wof:lastmodified":1566599122,
     "wof:name":"Krapa",
     "wof:parent_id":85686241,
     "wof:placetype":"locality",

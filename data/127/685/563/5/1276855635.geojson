@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.40255,57.25988,26.44255,57.29988",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kozhas",
         "Ko\u017eas"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276855635,
-    "wof:lastmodified":1537663148,
+    "wof:lastmodified":1566598903,
     "wof:name":"Kozas",
     "wof:parent_id":85686241,
     "wof:placetype":"locality",

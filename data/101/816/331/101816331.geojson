@@ -9,15 +9,18 @@
     "geom:bbox":"24.3572813107,56.7351488,24.4204725604,56.7522052338",
     "geom:latitude":56.742276,
     "geom:longitude":24.390308,
-    "geonames:id":"461224,461225",
+    "gn:id":"461224,461225",
     "gn:population":2025,
     "iso:country":"LV",
     "lbl:latitude":56.743277,
     "lbl:longitude":24.390787,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.743277,
     "mps:longitude":24.390787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u062f\u0648\u0646"
     ],
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":29,
     "wof:belongsto":[
@@ -137,7 +140,6 @@
     "wof:concordances":{
         "gn:id":461224,
         "gp:id":851556,
-        "qs:id":314173,
         "qs_pg:id":314173,
         "wd:id":"Q789351",
         "wk:page":"Baldone"
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":101816331,
-    "wof:lastmodified":1563344333,
+    "wof:lastmodified":1566599050,
     "wof:name":"Baldone",
     "wof:parent_id":85685957,
     "wof:placetype":"locality",

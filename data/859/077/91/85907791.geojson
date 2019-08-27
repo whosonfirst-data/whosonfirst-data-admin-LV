@@ -11,8 +11,10 @@
     "geom:longitude":24.054874,
     "gn:id":"",
     "iso:country":"LV",
+    "lbl:bbox":"24.049874,56.909292,24.059874,56.919292",
     "lbl:latitude":56.914292,
     "lbl:longitude":24.054874,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.912525,
     "mps:longitude":24.059378,
     "mz:hierarchy_label":0,
@@ -26,10 +28,7 @@
     "mz:note":"stadium?",
     "mz:tier_locality":1,
     "mz:tier_metro":30,
-    "name:und_x_preferred":[
-        "Ozolciems"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ozolciems"
     ],
     "qs:gn_adm0_cc":"LV",
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701361,
-        "qs:id":368072,
         "qs_pg:id":368072
     },
     "wof:country":"LV",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566598799,
     "wof:name":"Ozolciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

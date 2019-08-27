@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"22.36705,57.68456,22.40705,57.72456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Pitrags"
     ],
@@ -50,8 +54,7 @@
         "Pitrag",
         "Pitraga Ciems",
         "Petragga",
-        "Pitragutsiyeme",
-        "Pitrags"
+        "Pitragutsiyeme"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1360132023,
-    "wof:lastmodified":1564103915,
+    "wof:lastmodified":1566599037,
     "wof:name":"Pitrags",
     "wof:parent_id":85686221,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"LV",
     "lbl:latitude":55.905643,
     "lbl:longitude":26.652742,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.905643,
     "mps:longitude":26.652742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krauja"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -57,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55845956,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q14917177"
     },
     "wof:country":"LV",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101847101,
-    "wof:lastmodified":1561839445,
+    "wof:lastmodified":1566599069,
     "wof:name":"Krauja",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

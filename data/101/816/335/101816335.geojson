@@ -12,10 +12,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.412333,
     "lbl:longitude":23.684227,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":56.412333,
     "mps:longitude":23.684227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Eleja"
     ],
@@ -37,7 +40,7 @@
     "name:rus_x_preferred":[
         "\u042d\u043b\u0435\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eleya"
     ],
     "qs:a0":"Latvija",
@@ -54,7 +57,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":56.406667,
     "wd:longitude":23.6875,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":460046,
         "gp:id":852313,
-        "qs:id":967235,
+        "qs_pg:id":967235,
         "wd:id":"Q4531175"
     },
     "wof:country":"LV",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101816335,
-    "wof:lastmodified":1561839441,
+    "wof:lastmodified":1566599056,
     "wof:name":"Eleja",
     "wof:parent_id":85685971,
     "wof:placetype":"locality",

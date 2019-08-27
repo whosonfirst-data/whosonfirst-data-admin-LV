@@ -9,15 +9,18 @@
     "geom:bbox":"27.6722,57.18458,27.6722,57.18458",
     "geom:latitude":57.18458,
     "geom:longitude":27.6722,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1525,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LV",
+    "lbl:bbox":"27.6522,57.16458,27.6922,57.20458",
     "lbl:latitude":57.18458,
     "lbl:longitude":27.6722,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0643\u0627"
@@ -121,9 +124,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044f\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Vi\u013caka"
-    ],
     "name:zho_x_preferred":[
         "\u7dad\u5229\u4e9e\u5361"
     ],
@@ -148,7 +148,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":856150,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":1125817653,
-    "wof:lastmodified":1563344464,
+    "wof:lastmodified":1566599086,
     "wof:name":"Vil\u0327aka",
     "wof:parent_id":85686251,
     "wof:placetype":"locality",

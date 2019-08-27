@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"22.04231,56.47614,22.08231,56.51614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alshi",
         "Al\u0161i"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293155071,
-    "wof:lastmodified":1537663235,
+    "wof:lastmodified":1566598848,
     "wof:name":"Alsi",
     "wof:parent_id":85685935,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.54912,55.89571,27.58912,55.93571",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Semeshki",
         "Seme\u0161ki"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226525945,
-    "wof:lastmodified":1537663061,
+    "wof:lastmodified":1566599195,
     "wof:name":"Semeski",
     "wof:parent_id":85685833,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"23.03588,57.24959,23.03588,57.24959",
     "geom:latitude":57.24959,
     "geom:longitude":23.03588,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":100,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
     "gn:population":100,
     "iso:country":"LV",
+    "lbl:bbox":"23.01588,57.22959,23.05588,57.26959",
     "lbl:latitude":57.24959,
     "lbl:longitude":23.03588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Dzedri"
@@ -28,7 +31,7 @@
     "name:nld_x_preferred":[
         "Dzedri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayzupiyeshi"
     ],
     "qs_pg:aaroncc":"LV",
@@ -50,7 +53,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":852245,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125948849,
-    "wof:lastmodified":1561839446,
+    "wof:lastmodified":1566599083,
     "wof:name":"Dzedri",
     "wof:parent_id":85686157,
     "wof:placetype":"locality",

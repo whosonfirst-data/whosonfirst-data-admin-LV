@@ -13,6 +13,7 @@
     "iso:country":"LV",
     "lbl:latitude":56.967044,
     "lbl:longitude":23.769725,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.962914,
     "mps:longitude":23.769064,
     "mz:hierarchy_label":0,
@@ -39,14 +40,9 @@
         "Rigas Jurmala",
         "Rigas Jurmalas Pilseta"
     ],
-    "name:und_x_preferred":[
-        "R\u012bgas J\u016brmala"
-    ],
     "name:und_x_variant":[
+        "R\u012bgas J\u016brmala",
         "R\u012bgas J\u016brmalas Pils\u0113ta"
-    ],
-    "name:unk_x_variant":[
-        "R\u012bgas J\u016brmala"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_id":0,
@@ -87,7 +83,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":854824,
-        "qs:id":1157439,
         "qs_pg:id":1157439
     },
     "wof:country":"LV",
@@ -105,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566598797,
     "wof:name":"R\u012bgas J\u016brmala",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

@@ -10,12 +10,16 @@
     "geom:latitude":56.898451,
     "geom:longitude":24.166082,
     "iso:country":"LV",
+    "lbl:bbox":"24.146082,56.878451,24.186082,56.918451",
     "lbl:latitude":56.898451,
     "lbl:longitude":24.166082,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.898451,
     "mps:longitude":24.166082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Parr\u00f2quia de \u0136ekavas"
     ],
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":101872925,
-    "wof:lastmodified":1563344404,
+    "wof:lastmodified":1566599063,
     "wof:name":"Valdlau\u010di",
     "wof:parent_id":85685999,
     "wof:placetype":"locality",

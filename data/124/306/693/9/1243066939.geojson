@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.44667,57.23,25.48667,57.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Slav\u0113kas",
         "Stavekas",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243066939,
-    "wof:lastmodified":1537663021,
+    "wof:lastmodified":1566599098,
     "wof:name":"Vecslavekas",
     "wof:parent_id":85686193,
     "wof:placetype":"locality",

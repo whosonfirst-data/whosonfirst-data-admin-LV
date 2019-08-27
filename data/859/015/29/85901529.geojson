@@ -12,8 +12,10 @@
     "gn:latitude":56.96472,
     "gn:longitude":23.75,
     "iso:country":"LV",
+    "lbl:bbox":"23.750333,56.960984,23.760333,56.970984",
     "lbl:latitude":56.965984,
     "lbl:longitude":23.755333,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.962947,
     "mps:longitude":23.727498,
     "mz:hierarchy_label":0,
@@ -43,13 +45,6 @@
     ],
     "name:rus_x_preferred":[
         "\u042f\u0443\u043d\u0434\u0443\u0431\u0443\u043b\u0442\u044b"
-    ],
-    "name:und_x_preferred":[
-        "Jaundubulti"
-    ],
-    "name:unk_x_variant":[
-        "Yaundubulty",
-        "Jaundubulti"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_fcode":"PPLX",
@@ -93,7 +88,6 @@
     "wof:concordances":{
         "gn:id":459411,
         "gp:id":852740,
-        "qs:id":229130,
         "qs_pg:id":229130,
         "wd:id":"Q5764580",
         "wk:page":"Jaundubulti"
@@ -113,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566598797,
     "wof:name":"Jaundubulti",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

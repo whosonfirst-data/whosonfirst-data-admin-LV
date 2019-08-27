@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.84499,57.51721,25.88499,57.55721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pl\u0101\u0146i Mui\u017eas Centrs",
         "Myza Plani",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193087219,
-    "wof:lastmodified":1537663085,
+    "wof:lastmodified":1566598963,
     "wof:name":"Plani",
     "wof:parent_id":85686275,
     "wof:placetype":"locality",

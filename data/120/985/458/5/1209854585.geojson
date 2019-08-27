@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"21.48402,56.78436,21.52402,56.82436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myza Apriti",
         "Apriti",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209854585,
-    "wof:lastmodified":1537663231,
+    "wof:lastmodified":1566598937,
     "wof:name":"Apriki",
     "wof:parent_id":85685867,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.6989,56.72645,27.7389,56.76645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rudi\u0146eva"
     ],
@@ -34,7 +38,6 @@
     ],
     "name:und_x_variant":[
         "Rudeneva",
-        "Rudi\u0146eva",
         "Rudi\u0146ova"
     ],
     "src:geom":"geonames",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1326766655,
-    "wof:lastmodified":1537663068,
+    "wof:lastmodified":1566598730,
     "wof:name":"Rudinova",
     "wof:parent_id":85686139,
     "wof:placetype":"locality",

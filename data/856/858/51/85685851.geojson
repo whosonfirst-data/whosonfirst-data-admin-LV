@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":56.419895,
     "lbl:longitude":24.33518,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.419895,
     "mps:longitude":24.33518,
     "mz:hierarchy_label":1,
@@ -150,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0443\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bauskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -232,9 +233,9 @@
     "qs:type":"Novads",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-01",
+    "src:population_date":"2011-03-01",
     "statoids:area_km":"785",
     "statoids:area_mi":"303",
     "statoids:as_of_date":"2011-03-01",
@@ -277,11 +278,10 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1565907485,
+    "wof:lastmodified":1566598818,
     "wof:name":"Bauskas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"amalgamated municipality",
     "wof:population":25561,
     "wof:population_rank":7,

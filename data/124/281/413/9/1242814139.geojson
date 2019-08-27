@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.99138,57.0391,27.03138,57.0791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gr\u016bz\u012b\u0161i"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242814139,
-    "wof:lastmodified":1537663181,
+    "wof:lastmodified":1566599103,
     "wof:name":"Gruzishi",
     "wof:parent_id":85686185,
     "wof:placetype":"locality",

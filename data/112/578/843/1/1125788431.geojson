@@ -9,14 +9,18 @@
     "geom:bbox":"25.27748,57.24316,25.27748,57.24316",
     "geom:latitude":57.24316,
     "geom:longitude":25.27748,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LV",
+    "lbl:bbox":"25.25748,57.22316,25.29748,57.26316",
     "lbl:latitude":57.24316,
     "lbl:longitude":25.27748,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Drabe\u0161i"
@@ -33,7 +37,7 @@
     "name:pol_x_preferred":[
         "Drabe\u0161i"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Drabeshu"
     ],
     "qs_pg:aaroncc":"LV",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":852161,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
     "woe:name_adm1":"Amatas Novads",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1125788431,
-    "wof:lastmodified":1561839448,
+    "wof:lastmodified":1566599092,
     "wof:name":"Drabe\u0161i",
     "wof:parent_id":85686173,
     "wof:placetype":"locality",

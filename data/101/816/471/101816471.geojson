@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":57.767843,
     "lbl:longitude":24.880628,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.767843,
     "mps:longitude":24.880628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0622\u0644\u0648\u064a\u0627"
     ],
@@ -117,14 +120,8 @@
     "name:und_x_colloquial":[
         "Alojas Muiza"
     ],
-    "name:und_x_preferred":[
-        "Aloja"
-    ],
     "name:und_x_variant":[
         "Alojas Mui\u017ea"
-    ],
-    "name:unk_x_variant":[
-        "Myza Aloya"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0644\u0648\u06cc\u0627\u060c \u0644\u0679\u0648\u06cc\u0627"
@@ -151,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -164,7 +161,6 @@
         "fct:id":"019beb16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":461539,
         "gp:id":851354,
-        "qs:id":275002,
         "qs_pg:id":275002,
         "wd:id":"Q659019",
         "wk:page":"Aloja, Latvia"
@@ -183,7 +179,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563344341,
+    "wof:lastmodified":1566599052,
     "wof:name":"Aloja",
     "wof:parent_id":85686293,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":57.539239,
     "lbl:longitude":26.6944,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.539239,
     "mps:longitude":26.6944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0622\u0628\u064a"
     ],
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043f\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ope"
     ],
     "name:urd_x_preferred":[
@@ -144,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":35,
     "wof:belongsto":[
@@ -155,7 +158,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":461442,
-        "qs:id":275000,
         "qs_pg:id":275000,
         "wd:id":"Q618119",
         "wk:page":"Ape, Latvia"
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":101816459,
-    "wof:lastmodified":1563344389,
+    "wof:lastmodified":1566599059,
     "wof:name":"Ape",
     "wof:parent_id":85686269,
     "wof:placetype":"locality",

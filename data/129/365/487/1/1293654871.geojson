@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.98441,56.57055,28.02441,56.61055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lav_x_preferred":[
         "Petru\u010denki"
     ],
@@ -36,8 +40,7 @@
         "\u041f\u0435\u0442\u0440\u0443\u0447\u0435\u043d\u043a\u0438"
     ],
     "name:und_x_variant":[
-        "Petruchenki",
-        "Petru\u010denki"
+        "Petruchenki"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1293654871,
-    "wof:lastmodified":1537663089,
+    "wof:lastmodified":1566598832,
     "wof:name":"Petrucenki",
     "wof:parent_id":85686089,
     "wof:placetype":"locality",

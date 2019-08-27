@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.787797,
     "lbl:longitude":27.679764,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.787797,
     "mps:longitude":27.679764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0633\u0627\u0641\u0627"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0441\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Korsovka"
     ],
     "name:zho_x_preferred":[
@@ -154,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -165,7 +168,6 @@
     "wof:concordances":{
         "gn:id":458972,
         "gp:id":853035,
-        "qs:id":124645,
         "qs_pg:id":124645,
         "wd:id":"Q849147",
         "wk:page":"K\u0101rsava Municipality"
@@ -181,7 +183,7 @@
         }
     ],
     "wof:id":101816411,
-    "wof:lastmodified":1563344379,
+    "wof:lastmodified":1566599058,
     "wof:name":"K\u0101rsava",
     "wof:parent_id":85686139,
     "wof:placetype":"locality",

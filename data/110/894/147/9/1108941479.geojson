@@ -10,8 +10,10 @@
     "geom:latitude":56.999749,
     "geom:longitude":24.082482,
     "iso:country":"LV",
+    "lbl:bbox":"24.0774817152,56.9947492451,24.0874817152,57.0047492451",
     "lbl:latitude":56.999749,
     "lbl:longitude":24.082482,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,7 +35,7 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u043b\u0435\u0440\u0438"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751789,
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":1108941479,
-    "wof:lastmodified":1514484177,
+    "wof:lastmodified":1566599000,
     "wof:name":"Voleri",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":57.010687,
     "lbl:longitude":26.277245,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.010687,
     "mps:longitude":26.277245,
     "mz:hierarchy_label":1,
@@ -155,9 +156,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0435\u0441\u0432\u0430\u0439\u043d\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Cesvaines Novads"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0633\u0648\u0627\u0626\u0646\u06d2 \u0628\u0644\u062f\u06cc\u06c1"
     ],
@@ -237,9 +235,9 @@
     "qs:type":"Novads",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-01",
+    "src:population_date":"2011-03-01",
     "statoids:area_km":"191",
     "statoids:area_mi":"74",
     "statoids:as_of_date":"2011-03-01",
@@ -281,11 +279,10 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1565726881,
+    "wof:lastmodified":1566598807,
     "wof:name":"Cesvaines",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"amalgamated municipality",
     "wof:population":2802,
     "wof:population_rank":4,

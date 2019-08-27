@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.04395,56.99823,26.08395,57.03823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Liez\u0113re"
     ],
@@ -36,8 +40,7 @@
         "Liez\u0113res Mui\u017ea",
         "Liez\u0113res",
         "Liyezere",
-        "Myza Lyezere",
-        "Liez\u0113re"
+        "Myza Lyezere"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259757709,
-    "wof:lastmodified":1537663125,
+    "wof:lastmodified":1566599159,
     "wof:name":"Liezere",
     "wof:parent_id":85686143,
     "wof:placetype":"locality",

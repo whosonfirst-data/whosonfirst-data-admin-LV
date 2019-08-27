@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.75162,57.23435,26.79162,57.27435",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Belava"
     ],
@@ -43,8 +47,7 @@
         "\u0411\u0435\u043b\u0430\u0432\u0430"
     ],
     "name:und_x_variant":[
-        "Myza Belyava",
-        "Be\u013cava"
+        "Myza Belyava"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1310294639,
-    "wof:lastmodified":1564103892,
+    "wof:lastmodified":1566599022,
     "wof:name":"Belava",
     "wof:parent_id":85686241,
     "wof:placetype":"locality",

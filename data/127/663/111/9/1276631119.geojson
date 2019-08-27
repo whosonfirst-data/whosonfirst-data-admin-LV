@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"24.75889,57.64333,24.79889,57.68333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "\u0100rciems"
     ],
@@ -36,8 +40,7 @@
     "name:und_x_variant":[
         "Artsems",
         "\u0100rciema Mui\u017ea",
-        "Artsiyems",
-        "\u0100rciems"
+        "Artsiyems"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1276631119,
-    "wof:lastmodified":1537663230,
+    "wof:lastmodified":1566598912,
     "wof:name":"Arciems",
     "wof:parent_id":85686265,
     "wof:placetype":"locality",

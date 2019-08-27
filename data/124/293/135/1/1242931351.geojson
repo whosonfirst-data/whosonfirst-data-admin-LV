@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.9056,56.49433,26.9456,56.53433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "N\u0101tri",
         "Notry",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242931351,
-    "wof:lastmodified":1537663099,
+    "wof:lastmodified":1566599108,
     "wof:name":"Notri",
     "wof:parent_id":85686049,
     "wof:placetype":"locality",

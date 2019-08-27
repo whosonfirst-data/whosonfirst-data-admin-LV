@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.14783,57.88224,25.18783,57.92224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1343397435,
-    "wof:lastmodified":1536836043,
+    "wof:lastmodified":1566598754,
     "wof:name":"Idus",
     "wof:parent_id":85686303,
     "wof:placetype":"locality",

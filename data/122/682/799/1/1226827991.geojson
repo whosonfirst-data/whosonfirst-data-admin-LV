@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.88042,56.08465,27.92042,56.12465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pundury",
         "Pundori",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226827991,
-    "wof:lastmodified":1537663080,
+    "wof:lastmodified":1566599186,
     "wof:name":"Punduri",
     "wof:parent_id":85685893,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"23.08,56.28,23.12,56.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lulaici",
         "Lulaytsy",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343776827,
-    "wof:lastmodified":1537663011,
+    "wof:lastmodified":1566598767,
     "wof:name":"Vitoli",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

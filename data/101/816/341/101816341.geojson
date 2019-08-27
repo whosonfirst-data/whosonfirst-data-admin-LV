@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.648171,
     "lbl:longitude":25.125676,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.648171,
     "mps:longitude":25.125676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Skr\u012bveri"
     ],
@@ -74,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":56.646667,
     "wd:longitude":25.122222,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101816341,
-    "wof:lastmodified":1563344356,
+    "wof:lastmodified":1566599054,
     "wof:name":"Skr\u012bveri",
     "wof:parent_id":85685975,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"24.03888,56.75565,24.07888,56.79565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Veysmani",
         "Veisma\u0146i"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326560449,
-    "wof:lastmodified":1537663020,
+    "wof:lastmodified":1566598718,
     "wof:name":"Veismani",
     "wof:parent_id":85685981,
     "wof:placetype":"locality",

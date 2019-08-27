@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.76667,56.80952,27.80667,56.84952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Luziniyeki",
         "Luzinieki",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226276377,
-    "wof:lastmodified":1537663120,
+    "wof:lastmodified":1566599168,
     "wof:name":"Livziniki",
     "wof:parent_id":85686139,
     "wof:placetype":"locality",

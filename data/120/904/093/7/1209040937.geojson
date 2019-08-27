@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"24.79773,57.00655,24.83773,57.04655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alla\u017emui\u017ea"
     ],
@@ -39,8 +43,7 @@
         "Alla\u017eu Mui\u017ea",
         "Alla\u017ei",
         "Ezerkalni",
-        "Ezerkalns",
-        "Alla\u017emui\u017ea"
+        "Ezerkalns"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209040937,
-    "wof:lastmodified":1537663236,
+    "wof:lastmodified":1566598945,
     "wof:name":"Allazmuiza",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

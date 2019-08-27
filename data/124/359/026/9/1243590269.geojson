@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.11371,56.98325,27.15371,57.02325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rug\u0101ji"
     ],
@@ -59,8 +63,7 @@
     "name:und_x_variant":[
         "Rug\u0101ju",
         "Rugai",
-        "Rugayi",
-        "Rug\u0101ji"
+        "Rugayi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1243590269,
-    "wof:lastmodified":1564104001,
+    "wof:lastmodified":1566599115,
     "wof:name":"Rugaji",
     "wof:parent_id":85686185,
     "wof:placetype":"locality",

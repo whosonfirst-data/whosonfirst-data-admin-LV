@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.19667,57.59667,25.23667,57.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1226173487,
-    "wof:lastmodified":1537036201,
+    "wof:lastmodified":1566599163,
     "wof:name":"Lejaskuzmas",
     "wof:parent_id":85686257,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.67025,55.96936,26.71025,56.00936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ma\u013cinauka"
     ],
@@ -51,8 +55,7 @@
     "name:und_x_variant":[
         "Malinova",
         "Ma\u013cinava",
-        "Malinovka",
-        "Ma\u013cinauka"
+        "Malinovka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1310598085,
-    "wof:lastmodified":1564103904,
+    "wof:lastmodified":1566599029,
     "wof:name":"Malinauka",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

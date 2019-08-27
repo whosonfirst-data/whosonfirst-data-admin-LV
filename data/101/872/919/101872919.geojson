@@ -10,12 +10,16 @@
     "geom:latitude":56.731554,
     "geom:longitude":24.387598,
     "iso:country":"LV",
+    "lbl:bbox":"24.367598,56.711554,24.407598,56.751554",
     "lbl:latitude":56.731554,
     "lbl:longitude":24.387598,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.731554,
     "mps:longitude":24.387598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Avoti"
     ],
@@ -42,7 +46,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101872919,
-    "wof:lastmodified":1561839443,
+    "wof:lastmodified":1566599064,
     "wof:name":"Avoti",
     "wof:parent_id":85685957,
     "wof:placetype":"locality",

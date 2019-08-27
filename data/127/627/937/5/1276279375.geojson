@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"21.8253,57.47789,21.8653,57.51789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "V\u0113da",
         "V\u0113de"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276279375,
-    "wof:lastmodified":1537663021,
+    "wof:lastmodified":1566598887,
     "wof:name":"Vede",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",

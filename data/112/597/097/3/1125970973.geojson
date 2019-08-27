@@ -9,14 +9,18 @@
     "geom:bbox":"22.31729,57.68317,22.31729,57.68317",
     "geom:latitude":57.68317,
     "geom:longitude":22.31729,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LV",
+    "lbl:bbox":"22.29729,57.66317,22.33729,57.70317",
     "lbl:latitude":57.68317,
     "lbl:longitude":22.31729,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Mazirbe"
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Mazirbe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mazirve"
     ],
     "qs_pg:aaroncc":"LV",
@@ -78,7 +82,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":853924,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
     "woe:name_adm1":"Dundagas Novads",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1125970973,
-    "wof:lastmodified":1563344470,
+    "wof:lastmodified":1566599088,
     "wof:name":"Mazirbe",
     "wof:parent_id":85686221,
     "wof:placetype":"locality",

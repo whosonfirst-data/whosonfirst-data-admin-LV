@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.71916,57.86447,25.75916,57.90447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Omu\u013ci"
     ],
@@ -35,8 +39,7 @@
     ],
     "name:und_x_variant":[
         "Omu\u013cu Mui\u017ea",
-        "Myza Omuli",
-        "Omu\u013ci"
+        "Myza Omuli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1293536145,
-    "wof:lastmodified":1537663097,
+    "wof:lastmodified":1566598834,
     "wof:name":"Omuli",
     "wof:parent_id":85686295,
     "wof:placetype":"locality",

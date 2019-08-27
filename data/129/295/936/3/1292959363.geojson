@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.73411,56.50125,26.77411,56.54125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1292959363,
-    "wof:lastmodified":1537049421,
+    "wof:lastmodified":1566598839,
     "wof:name":"Silukalns",
     "wof:parent_id":85685977,
     "wof:placetype":"locality",
