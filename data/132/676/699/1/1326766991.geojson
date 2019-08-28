@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"24.9595,57.34326,24.9995,57.38326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pl\u0101cis"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Pla\u010dakrogs",
         "Placi",
-        "Platsis",
-        "Pl\u0101cis"
+        "Platsis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326766991,
-    "wof:lastmodified":1537663086,
+    "wof:lastmodified":1566598730,
     "wof:name":"Placis",
     "wof:parent_id":85686215,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"22.45022,56.61688,22.49022,56.65688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lav_x_preferred":[
         "Draudz\u012bba"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243015859,
-    "wof:lastmodified":1537663099,
+    "wof:lastmodified":1566599097,
     "wof:name":"Novadnieki",
     "wof:parent_id":85685935,
     "wof:placetype":"locality",

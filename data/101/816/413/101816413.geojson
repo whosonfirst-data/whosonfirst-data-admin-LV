@@ -9,15 +9,18 @@
     "geom:bbox":"26.1795661987,56.8294433412,26.2472750402,56.8693471983",
     "geom:latitude":56.852415,
     "geom:longitude":26.213901,
-    "geonames:id":"457714,458194",
+    "gn:id":"457714,458194",
     "gn:population":9280,
     "iso:country":"LV",
     "lbl:latitude":56.851606,
     "lbl:longitude":26.213388,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.851606,
     "mps:longitude":26.213388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Madona"
     ],
@@ -148,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -159,7 +162,6 @@
     "wof:concordances":{
         "gn:id":457714,
         "gp:id":853818,
-        "qs:id":908119,
         "qs_pg:id":908119,
         "wd:id":"Q586048",
         "wk:page":"Madona"
@@ -175,7 +177,7 @@
         }
     ],
     "wof:id":101816413,
-    "wof:lastmodified":1563344344,
+    "wof:lastmodified":1566599052,
     "wof:name":"Madona",
     "wof:parent_id":85686143,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.34254,57.01801,25.38254,57.05801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0646\u0627\u0646"
     ],
@@ -91,9 +95,7 @@
     ],
     "name:und_x_variant":[
         "Myza Annas",
-        "Anna",
-        "Annas Mui\u017ea",
-        "Annas"
+        "Annas Mui\u017ea"
     ],
     "name:urd_x_preferred":[
         "\u062d\u0646\u0627\u06c1"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1209550173,
-    "wof:lastmodified":1564103750,
+    "wof:lastmodified":1566598930,
     "wof:name":"Annas",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

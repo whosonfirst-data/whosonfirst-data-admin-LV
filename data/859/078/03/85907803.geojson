@@ -12,8 +12,10 @@
     "gn:latitude":56.98417,
     "gn:longitude":23.25972,
     "iso:country":"LV",
+    "lbl:bbox":"24.057319,56.951796,24.067319,56.961796",
     "lbl:latitude":56.956796,
     "lbl:longitude":24.062319,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.952666,
     "mps:longitude":24.050851,
     "mz:hierarchy_label":0,
@@ -47,12 +49,8 @@
     "name:ukr_x_preferred":[
         "\u0414\u0437\u0456\u0440\u0446\u0456\u0454\u043c\u0441"
     ],
-    "name:und_x_preferred":[
-        "Dzirciems"
-    ],
-    "name:unk_x_variant":[
-        "Radzin\u2019tsiems",
-        "Dzirciems"
+    "name:und_x_variant":[
+        "Radzin\u2019tsiems"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_fcode":"PPL",
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":456346,
         "gp:id":23701368,
-        "qs:id":219946,
         "qs_pg:id":219946,
         "wd:id":"Q4993616"
     },
@@ -113,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247548,
+    "wof:lastmodified":1566598799,
     "wof:name":"Dzirciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

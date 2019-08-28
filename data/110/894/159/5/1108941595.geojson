@@ -10,8 +10,10 @@
     "geom:latitude":56.94457,
     "geom:longitude":23.494556,
     "iso:country":"LV",
+    "lbl:bbox":"23.4895555084,56.9395701967,23.4995555084,56.9495701967",
     "lbl:latitude":56.94457,
     "lbl:longitude":23.494556,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -51,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043c\u0435\u0440\u0456"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751787,
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108941595,
-    "wof:lastmodified":1561839437,
+    "wof:lastmodified":1566598995,
     "wof:name":"Kemeri",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

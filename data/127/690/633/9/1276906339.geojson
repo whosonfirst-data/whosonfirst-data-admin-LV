@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.76131,56.69502,27.80131,56.73502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khutora Lopa-Tinskiye",
         "Lapatinski",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276906339,
-    "wof:lastmodified":1537663122,
+    "wof:lastmodified":1566598910,
     "wof:name":"Lapatniki",
     "wof:parent_id":85686139,
     "wof:placetype":"locality",

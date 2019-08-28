@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.79626,55.94769,26.83626,55.98769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Butenishki",
         "Butini\u0161ki",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292992599,
-    "wof:lastmodified":1537663209,
+    "wof:lastmodified":1566598863,
     "wof:name":"Buteniski",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

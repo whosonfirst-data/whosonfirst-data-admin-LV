@@ -12,10 +12,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.946148,
     "lbl:longitude":23.496287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.946148,
     "mps:longitude":23.496287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u0136emeri"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043c\u0435\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Temeri"
     ],
     "qs:a0":"Latvija",
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":56.938333,
     "wd:longitude":23.489444,
     "wd:wordcount":413,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101911719,
-    "wof:lastmodified":1561839446,
+    "wof:lastmodified":1566599071,
     "wof:name":"\u0136emeri",
     "wof:parent_id":85686031,
     "wof:placetype":"locality",

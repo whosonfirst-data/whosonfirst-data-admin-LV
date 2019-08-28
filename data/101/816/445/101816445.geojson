@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":57.128272,
     "lbl:longitude":27.267746,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.128272,
     "mps:longitude":27.267746,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Balvi"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0432\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balvy"
     ],
     "name:urd_x_preferred":[
@@ -156,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -167,7 +170,6 @@
     "wof:concordances":{
         "gn:id":461163,
         "gp:id":851595,
-        "qs:id":274999,
         "qs_pg:id":274999,
         "wd:id":"Q218402",
         "wk:page":"Balvi"
@@ -183,7 +185,7 @@
         }
     ],
     "wof:id":101816445,
-    "wof:lastmodified":1563344384,
+    "wof:lastmodified":1566599058,
     "wof:name":"Balvi",
     "wof:parent_id":85686235,
     "wof:placetype":"locality",

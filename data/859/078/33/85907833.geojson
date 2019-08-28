@@ -13,6 +13,7 @@
     "iso:country":"LV",
     "lbl:latitude":56.96315,
     "lbl:longitude":24.121068,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.964444,
     "mps:longitude":24.121446,
     "mz:hierarchy_label":0,
@@ -25,10 +26,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
-    "name:und_x_preferred":[
-        "Ganibas"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ganibas"
     ],
     "qs:gn_adm0_cc":"LV",
@@ -67,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701383,
-        "qs:id":1236460,
         "qs_pg:id":1236460
     },
     "wof:country":"LV",
@@ -85,7 +82,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247548,
+    "wof:lastmodified":1566598799,
     "wof:name":"Ganibas",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

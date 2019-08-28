@@ -10,12 +10,16 @@
     "geom:latitude":56.422497,
     "geom:longitude":24.187865,
     "iso:country":"LV",
+    "lbl:bbox":"24.167865,56.402497,24.207865,56.442497",
     "lbl:latitude":56.422497,
     "lbl:longitude":24.187865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.422497,
     "mps:longitude":24.187865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jauncode"
     ],
@@ -41,7 +45,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -50,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55845244,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q15219018"
     },
     "wof:country":"LV",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101875035,
-    "wof:lastmodified":1561839444,
+    "wof:lastmodified":1566599064,
     "wof:name":"Jauncode",
     "wof:parent_id":85685851,
     "wof:placetype":"locality",

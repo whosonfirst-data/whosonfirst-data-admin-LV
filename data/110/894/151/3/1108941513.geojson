@@ -10,8 +10,10 @@
     "geom:latitude":57.004805,
     "geom:longitude":24.103753,
     "iso:country":"LV",
+    "lbl:bbox":"24.0987534315,56.9998053775,24.1087534315,57.0098053775",
     "lbl:latitude":57.004805,
     "lbl:longitude":24.103753,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,7 +35,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u043d\u0434\u0437\u0438\u043d\u044c\u0441\u0430\u043b\u0430"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751789,
@@ -57,7 +59,7 @@
         }
     ],
     "wof:id":1108941513,
-    "wof:lastmodified":1514484052,
+    "wof:lastmodified":1566598997,
     "wof:name":"Kundzinsala",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

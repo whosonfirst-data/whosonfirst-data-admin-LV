@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.21356,56.73752,27.25356,56.77752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1360140655,
-    "wof:lastmodified":1536864276,
+    "wof:lastmodified":1566599037,
     "wof:name":"Caksi",
     "wof:parent_id":85686095,
     "wof:placetype":"locality",

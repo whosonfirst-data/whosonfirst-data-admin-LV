@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.69291,55.79517,26.73291,55.83517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Skruda\u013ciena"
     ],
@@ -52,8 +56,7 @@
         "Skrude\u013cina",
         "Skrudaliyena",
         "Skrudelino",
-        "Skrudapiyena",
-        "Skruda\u013ciena"
+        "Skrudapiyena"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1310226307,
-    "wof:lastmodified":1564103870,
+    "wof:lastmodified":1566599006,
     "wof:name":"Skrudaliena",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

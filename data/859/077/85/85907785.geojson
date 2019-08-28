@@ -11,8 +11,10 @@
     "geom:longitude":24.13499,
     "gn:id":"",
     "iso:country":"LV",
+    "lbl:bbox":"24.12999,56.914289,24.13999,56.924289",
     "lbl:latitude":56.919289,
     "lbl:longitude":24.13499,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.918831,
     "mps:longitude":24.14256,
     "mz:hierarchy_label":0,
@@ -25,10 +27,7 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
-    "name:und_x_preferred":[
-        "Kazas Seklis"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kazas Seklis"
     ],
     "qs:gn_adm0_cc":"LV",
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701355,
-        "qs:id":15086,
         "qs_pg:id":15086
     },
     "wof:country":"LV",
@@ -84,7 +82,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247537,
+    "wof:lastmodified":1566598799,
     "wof:name":"Kazas Seklis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

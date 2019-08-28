@@ -10,12 +10,16 @@
     "geom:latitude":56.965969,
     "geom:longitude":24.487871,
     "iso:country":"LV",
+    "lbl:bbox":"24.467871,56.945969,24.507871,56.985969",
     "lbl:latitude":56.965969,
     "lbl:longitude":24.487871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.965969,
     "mps:longitude":24.487871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Za\u0137umui\u017ea"
     ],
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Za\u0137umui\u017ea"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Zatu"
     ],
     "qs:a0":"Latvija",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":56.966667,
     "wd:longitude":24.483333,
     "wd:wordcount":18,
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":454002,
         "gp:id":856285,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q3741139",
         "wk:page":"Za\u0137umui\u017ea"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":101872939,
-    "wof:lastmodified":1563344403,
+    "wof:lastmodified":1566599063,
     "wof:name":"Za\u0137umui\u017ea",
     "wof:parent_id":85686069,
     "wof:placetype":"locality",

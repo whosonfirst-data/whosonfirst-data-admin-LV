@@ -13,6 +13,8 @@
     "iso:country":"LV",
     "lbl:latitude":56.538179,
     "lbl:longitude":21.0226,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.538179,
     "mps:longitude":21.0226,
     "mz:hierarchy_label":1,
@@ -249,7 +251,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0454\u043f\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lietaja"
     ],
     "name:urd_x_preferred":[
@@ -385,7 +387,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -396,7 +398,6 @@
     "wof:concordances":{
         "gn:id":457954,
         "gp:id":853681,
-        "qs:id":124637,
         "qs_pg:id":124637,
         "wd:id":"Q167668",
         "wk:page":"Liep\u0101ja"
@@ -412,7 +413,7 @@
         }
     ],
     "wof:id":101751783,
-    "wof:lastmodified":1563344410,
+    "wof:lastmodified":1566599065,
     "wof:name":"Liep\u0101ja",
     "wof:parent_id":85685799,
     "wof:placetype":"locality",

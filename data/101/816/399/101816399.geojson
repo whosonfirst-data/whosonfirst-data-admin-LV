@@ -12,10 +12,13 @@
     "iso:country":"LV",
     "lbl:latitude":57.129867,
     "lbl:longitude":24.272119,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.129867,
     "mps:longitude":24.272119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Carnikava"
     ],
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Carnikava"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsarnikava"
     ],
     "name:urd_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":57.133333,
     "wd:longitude":24.283333,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":460659,
         "gp:id":851940,
-        "qs:id":901255,
         "qs_pg:id":901255,
         "wd:id":"Q1044023",
         "wk:page":"Carnikava"
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":101816399,
-    "wof:lastmodified":1563344338,
+    "wof:lastmodified":1566599051,
     "wof:name":"Carnikava",
     "wof:parent_id":85686107,
     "wof:placetype":"locality",

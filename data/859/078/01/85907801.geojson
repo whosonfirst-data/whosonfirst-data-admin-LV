@@ -12,8 +12,10 @@
     "gn:latitude":56.94966,
     "gn:longitude":24.10418,
     "iso:country":"LV",
+    "lbl:bbox":"24.102883,56.943979,24.112883,56.953979",
     "lbl:latitude":56.948979,
     "lbl:longitude":24.107883,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.949466,
     "mps:longitude":24.114591,
     "mz:hierarchy_label":0,
@@ -113,10 +115,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0435 \u043c\u0456\u0441\u0442\u043e"
     ],
-    "name:und_x_preferred":[
-        "Vecriga"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vecriga"
     ],
     "name:zho_x_preferred":[
@@ -162,7 +161,6 @@
     "wof:concordances":{
         "gn:id":6615326,
         "gp:id":23701367,
-        "qs:id":1192898,
         "qs_pg:id":1192898,
         "wd:id":"Q1026415",
         "wk:page":"Vecr\u012bga"
@@ -182,7 +180,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247548,
+    "wof:lastmodified":1566598800,
     "wof:name":"Vecriga",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

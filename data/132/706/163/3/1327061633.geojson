@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.89233,57.41031,25.93233,57.45031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Smiltenes Mui\u017ea"
     ],
@@ -36,8 +40,7 @@
         "\u0421\u043c\u0438\u043b\u0442\u0435\u043d\u0435"
     ],
     "name:und_x_variant":[
-        "Smiltenes LT",
-        "Smiltenes Mui\u017ea"
+        "Smiltenes LT"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1327061633,
-    "wof:lastmodified":1537663051,
+    "wof:lastmodified":1566598705,
     "wof:name":"Kalnamuiza",
     "wof:parent_id":85686249,
     "wof:placetype":"locality",

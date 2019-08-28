@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.9682,56.57242,28.0082,56.61242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zabolotje",
         "L\u012bdumnieki",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259417207,
-    "wof:lastmodified":1537663131,
+    "wof:lastmodified":1566599145,
     "wof:name":"Lidumnieki",
     "wof:parent_id":85686089,
     "wof:placetype":"locality",

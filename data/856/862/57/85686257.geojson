@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":57.544737,
     "lbl:longitude":25.208944,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.544737,
     "mps:longitude":25.208944,
     "mz:hierarchy_label":1,
@@ -141,7 +142,7 @@
         "Koc\u0113nu novads"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcb\u0b9a\u0bbf\u0ba9\u0bbf  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0b95\u0bcb\u0b9a\u0bbf\u0ba9\u0bbf \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c38\u0c46\u0c28\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -155,7 +156,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0446\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koc\u0113nu Novads"
     ],
     "name:urd_x_preferred":[
@@ -234,9 +235,9 @@
     "qs:type":"Novads",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-01",
+    "src:population_date":"2011-03-01",
     "statoids:area_km":"498",
     "statoids:area_mi":"192",
     "statoids:as_of_date":"2011-03-01",
@@ -278,11 +279,10 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1565726887,
+    "wof:lastmodified":1566598824,
     "wof:name":"Kocenu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"amalgamated municipality",
     "wof:population":6311,
     "wof:population_rank":5,

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.24581,57.01357,27.28581,57.05357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1343795663,
-    "wof:lastmodified":1536760424,
+    "wof:lastmodified":1566598765,
     "wof:name":"Cukusala",
     "wof:parent_id":85686185,
     "wof:placetype":"locality",

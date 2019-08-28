@@ -10,8 +10,10 @@
     "geom:latitude":56.956553,
     "geom:longitude":23.668334,
     "iso:country":"LV",
+    "lbl:bbox":"23.6633341298,56.9515532651,23.6733341298,56.9615532651",
     "lbl:latitude":56.956553,
     "lbl:longitude":23.668334,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -30,7 +32,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u0439\u0432\u0430\u0440\u0438"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751787,
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1108941575,
-    "wof:lastmodified":1564103852,
+    "wof:lastmodified":1566598994,
     "wof:name":"Vaivari",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

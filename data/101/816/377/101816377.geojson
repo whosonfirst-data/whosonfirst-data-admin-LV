@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.619713,
     "lbl:longitude":25.7192,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.619713,
     "mps:longitude":25.7192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u0641\u064a\u0646\u0627\u0633"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u044f\u0432\u0456\u043d\u044f\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Plyavinas"
     ],
     "name:zho_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":25,
     "wof:belongsto":[
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gn:id":456635,
         "gp:id":854532,
-        "qs:id":274995,
+        "qs_pg:id":274995,
         "wd:id":"Q567747",
         "wk:page":"P\u013cavi\u0146as"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101816377,
-    "wof:lastmodified":1563344357,
+    "wof:lastmodified":1566599054,
     "wof:name":"P\u013cavi\u0146as",
     "wof:parent_id":85686055,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.28148,56.80404,26.32148,56.84404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Praulienas",
         "Myza Praulyena",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243428841,
-    "wof:lastmodified":1537663082,
+    "wof:lastmodified":1566599131,
     "wof:name":"Prauliena",
     "wof:parent_id":85686143,
     "wof:placetype":"locality",

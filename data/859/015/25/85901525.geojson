@@ -12,8 +12,10 @@
     "gn:latitude":56.9775,
     "gn:longitude":23.82694,
     "iso:country":"LV",
+    "lbl:bbox":"23.823735,56.971186,23.833735,56.981186",
     "lbl:latitude":56.976186,
     "lbl:longitude":23.828735,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.972946,
     "mps:longitude":23.821216,
     "mz:hierarchy_label":0,
@@ -47,13 +49,6 @@
         "\u0414\u0437\u0438\u043d\u0442\u0430\u0440\u0438"
     ],
     "name:swe_x_preferred":[
-        "Dzintari"
-    ],
-    "name:und_x_preferred":[
-        "Dzintari"
-    ],
-    "name:unk_x_variant":[
-        "Edinburga",
         "Dzintari"
     ],
     "qs:gn_adm0_cc":"LV",
@@ -100,7 +95,6 @@
     "wof:concordances":{
         "gn:id":460099,
         "gp:id":852281,
-        "qs:id":1167446,
         "qs_pg:id":1167446,
         "wd:id":"Q4160870",
         "wk:page":"Dzintari"
@@ -120,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566598798,
     "wof:name":"Dzintari",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

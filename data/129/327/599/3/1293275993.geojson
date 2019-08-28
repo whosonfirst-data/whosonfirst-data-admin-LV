@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.55961,56.19587,25.59961,56.23587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myza Elkshni",
         "Elks\u0146u Me\u017ea Mui\u017ea",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293275993,
-    "wof:lastmodified":1537663193,
+    "wof:lastmodified":1566598864,
     "wof:name":"Elksni",
     "wof:parent_id":85685875,
     "wof:placetype":"locality",

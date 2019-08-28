@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.82594,57.09327,25.86594,57.13327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633279
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209414043,
-    "wof:lastmodified":1536287746,
+    "wof:lastmodified":1566598933,
     "wof:name":"Veveri",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

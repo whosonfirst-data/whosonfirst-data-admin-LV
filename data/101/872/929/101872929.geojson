@@ -10,12 +10,16 @@
     "geom:latitude":56.885631,
     "geom:longitude":24.063207,
     "iso:country":"LV",
+    "lbl:bbox":"24.043207,56.865631,24.083207,56.905631",
     "lbl:latitude":56.885631,
     "lbl:longitude":24.063207,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.885631,
     "mps:longitude":24.063207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "T\u012braine"
     ],
@@ -37,7 +41,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0438\u0440\u0430\u0439\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tirayne"
     ],
     "qs:a0":"Latvija",
@@ -58,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -68,7 +72,6 @@
     "wof:concordances":{
         "gn:id":454854,
         "gp:id":855685,
-        "qs:id":983696,
         "qs_pg:id":983696,
         "wd:id":"Q14917203"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101872929,
-    "wof:lastmodified":1561839443,
+    "wof:lastmodified":1566599064,
     "wof:name":"T\u012braine",
     "wof:parent_id":85686007,
     "wof:placetype":"locality",

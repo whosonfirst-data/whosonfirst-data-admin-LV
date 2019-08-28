@@ -12,6 +12,7 @@
     "iso:country":"LV",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Lielv\u0101rde"
     ],
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":102544369,
-    "wof:lastmodified":1563343771,
+    "wof:lastmodified":1566598748,
     "wof:name":"Lielvarde Airport",
     "wof:parent_id":85686011,
     "wof:placetype":"campus",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.44119,55.98228,26.48119,56.02228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kletski",
         "Klecki",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243285085,
-    "wof:lastmodified":1537663151,
+    "wof:lastmodified":1566599132,
     "wof:name":"Lielas Klockas",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

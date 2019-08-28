@@ -12,10 +12,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.875967,
     "lbl:longitude":23.932427,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.875967,
     "mps:longitude":23.932427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "R\u012bgas Satiksme"
     ],
@@ -44,7 +47,7 @@
         "Pos\u00eblok Marupe",
         "\u042f\u0443\u043d\u043c\u0430\u0440\u0443\u043f\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berzciems"
     ],
     "qs:a0":"Latvija",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":459379,
         "gp:id":852764,
-        "qs:id":983692,
         "qs_pg:id":983692,
         "wd:id":"Q4539646"
     },
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101847137,
-    "wof:lastmodified":1563344432,
+    "wof:lastmodified":1566599070,
     "wof:name":"Jaunm\u0101rupe",
     "wof:parent_id":85686007,
     "wof:placetype":"locality",

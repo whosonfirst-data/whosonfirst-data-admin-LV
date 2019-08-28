@@ -9,14 +9,17 @@
     "geom:bbox":"26.7833538271,56.3320854409,26.808898586,56.355091569",
     "geom:latitude":56.34061,
     "geom:longitude":26.797494,
-    "geonames:id":"456185,456194",
+    "gn:id":"456185,456194",
     "iso:country":"LV",
     "lbl:latitude":56.3379,
     "lbl:longitude":26.796623,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":56.3379,
     "mps:longitude":26.796623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_variant":[
         "\u0420\u044b\u0435\u0431\u0456\u043d\u0456"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":56.339444,
     "wd:longitude":26.7975,
@@ -93,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":854814,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q942401"
     },
     "wof:country":"LV",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101816345,
-    "wof:lastmodified":1563344395,
+    "wof:lastmodified":1566599061,
     "wof:name":"Riebi\u0146i",
     "wof:parent_id":85685977,
     "wof:placetype":"locality",

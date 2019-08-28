@@ -9,15 +9,18 @@
     "geom:bbox":"24.3903130523,57.0367198504,24.4374326613,57.0556045949",
     "geom:latitude":57.04538,
     "geom:longitude":24.416847,
-    "geonames:id":"456089,459863",
+    "gn:id":"456089,459863",
     "iso:country":"LV",
     "lbl:latitude":57.045535,
     "lbl:longitude":24.418453,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.045535,
     "mps:longitude":24.418453,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ropazhi"
     ],
     "qs:a0":"Latvija",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -46,7 +49,9 @@
     "wof:concordances":{
         "gn:id":456089,
         "gp:id":55847632,
-        "qs:id":1157288,
+        "qs_pg:id":1157288
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1182520
     },
     "wof:country":"LV",
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":101816383,
-    "wof:lastmodified":1504309715,
+    "wof:lastmodified":1566599054,
     "wof:name":"Garkalne",
     "wof:parent_id":85686073,
     "wof:placetype":"locality",

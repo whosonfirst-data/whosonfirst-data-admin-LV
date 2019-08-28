@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.73,56.78,26.77,56.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "C\u0113rpelnieki",
         "Zelme\u0146i"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293175331,
-    "wof:lastmodified":1537663005,
+    "wof:lastmodified":1566598869,
     "wof:name":"Zelmeni",
     "wof:parent_id":85686143,
     "wof:placetype":"locality",

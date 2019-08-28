@@ -9,15 +9,18 @@
     "geom:bbox":"23.911391538,56.7767454911,23.9538021797,56.805550365",
     "geom:latitude":56.792836,
     "geom:longitude":23.932509,
-    "geonames:id":"457052,459365",
+    "gn:id":"457052,459365",
     "gn:population":12584,
     "iso:country":"LV",
     "lbl:latitude":56.790734,
     "lbl:longitude":23.939256,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.790734,
     "mps:longitude":23.939256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0627\u064a\u0646"
     ],
@@ -93,7 +96,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0430\u0439\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olayne"
     ],
     "name:vol_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":155,
     "wof:belongsto":[
@@ -130,7 +133,6 @@
     "wof:concordances":{
         "gn:id":457052,
         "gp:id":854273,
-        "qs:id":1083175,
         "qs_pg:id":1083175,
         "wd:id":"Q249715"
     },
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101817309,
-    "wof:lastmodified":1563344402,
+    "wof:lastmodified":1566599062,
     "wof:name":"Olaine",
     "wof:parent_id":85685981,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":57.371443,
     "lbl:longitude":22.592434,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.371443,
     "mps:longitude":22.592434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u062f\u064a\u0645\u0627\u0631\u0628\u0644\u064a\u0633"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":98,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
     "wof:concordances":{
         "gn:id":454584,
         "gp:id":855865,
-        "qs:id":180324,
         "qs_pg:id":180324,
         "wd:id":"Q846341",
         "wk:page":"Valdem\u0101rpils"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101816419,
-    "wof:lastmodified":1563344373,
+    "wof:lastmodified":1566599057,
     "wof:name":"Valdem\u0101rpils",
     "wof:parent_id":85686157,
     "wof:placetype":"locality",

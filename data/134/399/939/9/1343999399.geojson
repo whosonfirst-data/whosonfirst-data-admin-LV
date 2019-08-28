@@ -24,8 +24,12 @@
     "gn:population":296,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"22.1354,57.19771,22.1754,57.23771",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0423\u0441\u043c\u0430"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343999399,
-    "wof:lastmodified":1537663031,
+    "wof:lastmodified":1566598754,
     "wof:name":"Usma",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",

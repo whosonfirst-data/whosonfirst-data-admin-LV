@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.386178,
     "lbl:longitude":28.121364,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.386178,
     "mps:longitude":28.121364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u0644\u0648\u0628"
     ],
@@ -104,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0456\u043b\u0443\u043f\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ziluppe"
     ],
     "name:zho_x_preferred":[
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":286,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
     "wof:concordances":{
         "gn:id":453850,
         "gp:id":856391,
-        "qs:id":124617,
         "qs_pg:id":124617,
         "wd:id":"Q203375",
         "wk:page":"Zilupe"
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":101816347,
-    "wof:lastmodified":1563344362,
+    "wof:lastmodified":1566599055,
     "wof:name":"Zilupe",
     "wof:parent_id":85685987,
     "wof:placetype":"locality",

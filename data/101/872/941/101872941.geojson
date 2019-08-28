@@ -10,12 +10,16 @@
     "geom:latitude":57.352058,
     "geom:longitude":25.335079,
     "iso:country":"LV",
+    "lbl:bbox":"25.315079,57.332058,25.355079,57.372058",
     "lbl:latitude":57.352058,
     "lbl:longitude":25.335079,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.352058,
     "mps:longitude":25.335079,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Valga\u2013Riia raudteeliin"
     ],
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":459484,
         "gp:id":852688,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"LV",
     "wof:geomhash":"035ce7ac756cb3f1d9e57749984d8b54",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":101872941,
-    "wof:lastmodified":1544751399,
+    "wof:lastmodified":1566599063,
     "wof:name":"J\u0101\u0146mui\u017ea",
     "wof:parent_id":85686229,
     "wof:placetype":"locality",

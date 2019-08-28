@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.20526,56.41261,26.24526,56.45261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Speles-T\u2019yeyri",
         "Sp\u0113les-\u0136eiri",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209345693,
-    "wof:lastmodified":1537663049,
+    "wof:lastmodified":1566598948,
     "wof:name":"Speleskeiri",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

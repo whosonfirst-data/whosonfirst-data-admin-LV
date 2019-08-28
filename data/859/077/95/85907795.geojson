@@ -10,8 +10,10 @@
     "geom:latitude":56.943476,
     "geom:longitude":24.175269,
     "iso:country":"LV",
+    "lbl:bbox":"24.170269,56.938476,24.180269,56.948476",
     "lbl:latitude":56.943476,
     "lbl:longitude":24.175269,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.935983,
     "mps:longitude":24.195372,
     "mz:hierarchy_label":0,
@@ -42,10 +44,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0430\u0440\u0437\u0446\u0438\u0435\u043c\u0441"
     ],
-    "name:und_x_preferred":[
-        "Darzciems"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Darzciems"
     ],
     "qs:gn_adm0_cc":"LV",
@@ -102,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566598798,
     "wof:name":"Darzciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

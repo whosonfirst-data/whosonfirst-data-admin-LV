@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.64418,55.96383,27.68418,56.00383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Man\u2019kova",
         "Ma\u0146kava",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343632349,
-    "wof:lastmodified":1537663107,
+    "wof:lastmodified":1566598757,
     "wof:name":"Mikova",
     "wof:parent_id":85685833,
     "wof:placetype":"locality",

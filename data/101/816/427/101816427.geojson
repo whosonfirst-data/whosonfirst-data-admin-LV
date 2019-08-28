@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":57.260657,
     "lbl:longitude":24.415326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.260657,
     "mps:longitude":24.415326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648\u0644\u0643\u0631\u0627\u0633\u062a\u064a"
     ],
@@ -95,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0443\u043b\u043a\u0440\u0430\u0441\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neybade"
     ],
     "name:zho_x_preferred":[
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2758,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
     "wof:concordances":{
         "gn:id":455812,
         "gp:id":855069,
-        "qs:id":222528,
         "qs_pg:id":222528,
         "wd:id":"Q840823",
         "wk:page":"Saulkrasti"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101816427,
-    "wof:lastmodified":1563344382,
+    "wof:lastmodified":1566599058,
     "wof:name":"Saulkrasti",
     "wof:parent_id":85686169,
     "wof:placetype":"locality",

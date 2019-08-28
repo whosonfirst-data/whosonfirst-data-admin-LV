@@ -9,14 +9,17 @@
     "geom:bbox":"23.583607043,56.786239027,23.6354469219,56.8117118276",
     "geom:latitude":56.799461,
     "geom:longitude":23.611757,
-    "geonames:id":"454848,459102",
+    "gn:id":"454848,459102",
     "iso:country":"LV",
     "lbl:latitude":56.799641,
     "lbl:longitude":23.616077,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.799641,
     "mps:longitude":23.616077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u044f\u043b\u043e \u041a\u0430\u043b\u043d\u0446\u044b\u0435\u043c\u0441"
     ],
@@ -65,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u043d\u0446\u0456\u0454\u043c\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaigi"
     ],
     "qs:a0":"Latvija",
@@ -82,7 +85,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":56.8,
     "wd:longitude":23.6,
@@ -97,7 +100,7 @@
     "wof:concordances":{
         "gn:id":459102,
         "gp:id":852955,
-        "qs:id":912906,
+        "qs_pg:id":912906,
         "wd:id":"Q933875",
         "wk:page":"Kalnciems"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101816337,
-    "wof:lastmodified":1563344336,
+    "wof:lastmodified":1566599051,
     "wof:name":"Kalnciems",
     "wof:parent_id":85685971,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"LV",
     "lbl:latitude":57.536222,
     "lbl:longitude":25.424726,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":57.536222,
     "mps:longitude":25.424726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0645\u064a\u0631\u0627"
     ],
@@ -216,10 +219,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u043c\u0456\u0454\u0440\u0430"
     ],
-    "name:und_x_preferred":[
-        "Valmiera"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valmeena"
     ],
     "name:urd_x_preferred":[
@@ -253,7 +253,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -265,7 +265,6 @@
         "fct:id":"019c371a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":453754,
         "gp:id":855883,
-        "qs:id":278525,
         "qs_pg:id":278525,
         "wd:id":"Q108037",
         "wk:page":"Valmiera"
@@ -284,7 +283,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563344342,
+    "wof:lastmodified":1566599052,
     "wof:name":"Valmiera",
     "wof:parent_id":85686243,
     "wof:placetype":"locality",

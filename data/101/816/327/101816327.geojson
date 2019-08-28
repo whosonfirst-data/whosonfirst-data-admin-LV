@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.619944,
     "lbl:longitude":25.081776,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.619944,
     "mps:longitude":25.081776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0627\u0648\u0646\u064a\u0644\u063a\u0627\u0641\u0627"
     ],
@@ -105,7 +108,7 @@
     "name:ukr_x_variant":[
         "\u042f\u0443\u043d\u0454\u043b\u0433\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Friedrichstadt"
     ],
     "name:urd_x_preferred":[
@@ -131,7 +134,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":263,
     "wof:belongsto":[
@@ -143,7 +146,6 @@
     "wof:concordances":{
         "gn:id":459402,
         "gp:id":852747,
-        "qs:id":1088630,
         "qs_pg:id":1088630,
         "wd:id":"Q835771",
         "wk:page":"Jaunjelgava"
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":101816327,
-    "wof:lastmodified":1563344393,
+    "wof:lastmodified":1566599060,
     "wof:name":"Jaunjelgava",
     "wof:parent_id":85685947,
     "wof:placetype":"locality",

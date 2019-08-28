@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"26.22174,55.94028,26.26174,55.98028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vilc\u0113ni",
         "Vil\u2019chany",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277019097,
-    "wof:lastmodified":1537663015,
+    "wof:lastmodified":1566598875,
     "wof:name":"Vilcani",
     "wof:parent_id":85685815,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.78878,56.13319,25.82878,56.17319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Polumyza Maz-Suseya",
         "Mazsus\u0113ja",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260022443,
-    "wof:lastmodified":1537663042,
+    "wof:lastmodified":1566598993,
     "wof:name":"Suseja",
     "wof:parent_id":85685819,
     "wof:placetype":"locality",

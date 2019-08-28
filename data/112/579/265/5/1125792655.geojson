@@ -9,14 +9,18 @@
     "geom:bbox":"24.65222,57.12139,24.65222,57.12139",
     "geom:latitude":57.12139,
     "geom:longitude":24.65222,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LV",
+    "lbl:bbox":"24.63222,57.10139,24.67222,57.14139",
     "lbl:latitude":57.12139,
     "lbl:longitude":24.65222,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Krusti\u0146i"
@@ -33,7 +37,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u0441\u0442\u044b\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Senite"
     ],
     "qs_pg:aaroncc":"LV",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":853339,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
     "woe:name_adm1":"In\u010dukalna Novads",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1125792655,
-    "wof:lastmodified":1563344482,
+    "wof:lastmodified":1566599092,
     "wof:name":"Krusti\u0146i",
     "wof:parent_id":85686117,
     "wof:placetype":"locality",

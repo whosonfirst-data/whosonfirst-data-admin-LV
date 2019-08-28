@@ -11,8 +11,10 @@
     "geom:longitude":24.137764,
     "gn:id":"",
     "iso:country":"LV",
+    "lbl:bbox":"24.132764,56.935259,24.142764,56.945259",
     "lbl:latitude":56.940259,
     "lbl:longitude":24.137764,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.938537,
     "mps:longitude":24.144151,
     "mz:hierarchy_label":0,
@@ -58,10 +60,7 @@
     "name:swe_x_preferred":[
         "Maskavas For\u0161tate"
     ],
-    "name:und_x_preferred":[
-        "Maskavas Forstate"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maskavas Forstate"
     ],
     "qs:gn_adm0_cc":"LV",
@@ -101,7 +100,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701366,
-        "qs:id":1263319,
         "qs_pg:id":1263319,
         "wd:id":"Q1388229"
     },
@@ -120,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247548,
+    "wof:lastmodified":1566598799,
     "wof:name":"Maskavas Forstate",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

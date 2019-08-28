@@ -11,8 +11,10 @@
     "geom:longitude":24.097449,
     "gn:id":"",
     "iso:country":"LV",
+    "lbl:bbox":"24.092449,56.974256,24.102449,56.984256",
     "lbl:latitude":56.979256,
     "lbl:longitude":24.097449,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.98963,
     "mps:longitude":24.090726,
     "mz:hierarchy_label":0,
@@ -25,10 +27,7 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
-    "name:und_x_preferred":[
-        "Vejzaksala"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vejzaksala"
     ],
     "qs:gn_adm0_cc":"LV",
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701379,
-        "qs:id":485196,
         "qs_pg:id":485196
     },
     "wof:country":"LV",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247548,
+    "wof:lastmodified":1566598801,
     "wof:name":"Vejzaksala",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

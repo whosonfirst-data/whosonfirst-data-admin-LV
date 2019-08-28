@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.718705,
     "lbl:longitude":24.811538,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.718705,
     "mps:longitude":24.811538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u0627\u0631\u062f\u064a"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0454\u043b\u0432\u0430\u0440\u0434\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liyelvarde"
     ],
     "name:zho_x_preferred":[
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":441,
     "wof:belongsto":[
@@ -135,7 +138,6 @@
     "wof:concordances":{
         "gn:id":457965,
         "gp:id":853674,
-        "qs:id":900067,
         "qs_pg:id":900067,
         "wd:id":"Q597346",
         "wk:page":"Lielv\u0101rde"
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":101816349,
-    "wof:lastmodified":1563344361,
+    "wof:lastmodified":1566599055,
     "wof:name":"Lielv\u0101rde",
     "wof:parent_id":85685995,
     "wof:placetype":"locality",

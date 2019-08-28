@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.57404,56.63134,27.61404,56.67134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bringas"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225981459,
-    "wof:lastmodified":1537663211,
+    "wof:lastmodified":1566599184,
     "wof:name":"Bringi",
     "wof:parent_id":85686139,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.84739,56.65012,27.88739,56.69012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633279
@@ -35,7 +39,7 @@
         "gn:id":458598
     },
     "wof:country":"LV",
-    "wof:geomhash":"96c7cb38faad5d882870a4d67f023597",
+    "wof:geomhash":"3b009ba202aba185bab2ef1b6732d0f3",
     "wof:hierarchy":[
         {
             "country_id":85633279,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209547177,
-    "wof:lastmodified":1536283808,
+    "wof:lastmodified":1566598922,
     "wof:name":"Kreici",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.867390000000004,
+    27.86739,
     56.67012,
-    27.867390000000004,
+    27.86739,
     56.67012
 ],
   "geometry": {"coordinates":[27.86739,56.67012],"type":"Point"}

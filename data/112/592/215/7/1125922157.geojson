@@ -9,14 +9,18 @@
     "geom:bbox":"26.92938,56.68443,26.92938,56.68443",
     "geom:latitude":56.68443,
     "geom:longitude":26.92938,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LV",
+    "lbl:bbox":"26.90938,56.66443,26.94938,56.70443",
     "lbl:latitude":56.68443,
     "lbl:longitude":26.92938,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Nag\u013ci"
@@ -24,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u0433\u043b\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaijas"
     ],
     "qs_pg:aaroncc":"LV",
@@ -48,7 +52,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":854181,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
     "woe:name_adm1":"R\u0157zekne Novads",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1125922157,
-    "wof:lastmodified":1509400871,
+    "wof:lastmodified":1566599084,
     "wof:name":"Nag\u013ci",
     "wof:parent_id":85686095,
     "wof:placetype":"locality",

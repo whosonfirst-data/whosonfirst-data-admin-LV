@@ -9,14 +9,17 @@
     "geom:bbox":"25.4155942144,57.3841315563,25.4273442635,57.3910242863",
     "geom:latitude":57.387864,
     "geom:longitude":25.421752,
-    "geonames:id":"457831,457956",
+    "gn:id":"457831,457956",
     "iso:country":"LV",
     "lbl:latitude":57.387881,
     "lbl:longitude":25.421352,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.387881,
     "mps:longitude":25.421352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Liepa"
     ],
@@ -35,7 +38,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0438\u0435\u043f\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liepas Mui\u017ea"
     ],
     "qs:a0":"Latvija",
@@ -52,7 +55,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":69,
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":457956,
         "gp:id":853680,
-        "qs:id":967274,
+        "qs_pg:id":967274,
         "wd:id":"Q13553847"
     },
     "wof:country":"LV",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101847175,
-    "wof:lastmodified":1561839445,
+    "wof:lastmodified":1566599068,
     "wof:name":"Liepa",
     "wof:parent_id":85686229,
     "wof:placetype":"locality",

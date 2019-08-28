@@ -9,15 +9,18 @@
     "geom:bbox":"23.20361,57.20278,23.20361,57.20278",
     "geom:latitude":57.20278,
     "geom:longitude":23.20361,
-    "gn:gn_country":"LV",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":70,
+    "gn:country":"LV",
+    "gn:fcode":"PPL",
     "gn:population":70,
     "iso:country":"LV",
+    "lbl:bbox":"23.18361,57.18278,23.22361,57.22278",
     "lbl:latitude":57.20278,
     "lbl:longitude":23.20361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Abragciems"
@@ -34,7 +37,7 @@
     "name:pol_x_preferred":[
         "Abragciems"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Abragtsiyems"
     ],
     "qs_pg:aaroncc":"LV",
@@ -56,7 +59,7 @@
     "qs_pg:woe_adm0":23424874,
     "qs_pg:woe_id":851287,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424874,
     "woe:name_adm0":"Latvija",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1126038161,
-    "wof:lastmodified":1561839447,
+    "wof:lastmodified":1566599085,
     "wof:name":"Abragciems",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":57.774623,
     "lbl:longitude":26.008309,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.774623,
     "mps:longitude":26.008309,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Valka"
     ],
@@ -149,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valk"
     ],
     "name:zho_x_preferred":[
@@ -171,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":432,
     "wof:belongsto":[
@@ -184,7 +187,6 @@
         "gn:id":454572,
         "gp:id":855874,
         "loc:id":"n80073476",
-        "qs:id":124621,
         "qs_pg:id":124621,
         "wd:id":"Q323774",
         "wk:page":"Valka"
@@ -200,7 +202,7 @@
         }
     ],
     "wof:id":101839843,
-    "wof:lastmodified":1563344435,
+    "wof:lastmodified":1566599071,
     "wof:name":"Valka",
     "wof:parent_id":85686295,
     "wof:placetype":"locality",

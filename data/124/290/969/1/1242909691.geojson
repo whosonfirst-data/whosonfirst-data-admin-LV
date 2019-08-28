@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"24.65606,57.84103,24.69606,57.88103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pur\u0161eni",
         "Pur\u0161\u0113ni"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242909691,
-    "wof:lastmodified":1537663079,
+    "wof:lastmodified":1566599127,
     "wof:name":"Purseni",
     "wof:parent_id":85686293,
     "wof:placetype":"locality",

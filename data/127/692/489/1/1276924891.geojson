@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"21.86657,57.21912,21.90657,57.25912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Plumyza Sirgumi",
         "Sirgum Biju\u0161\u0101s Pusmui\u017eas Centrs",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276924891,
-    "wof:lastmodified":1537663057,
+    "wof:lastmodified":1566598894,
     "wof:name":"Sirgumi",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",

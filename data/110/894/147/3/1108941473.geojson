@@ -10,8 +10,10 @@
     "geom:latitude":56.986221,
     "geom:longitude":24.026177,
     "iso:country":"LV",
+    "lbl:bbox":"24.0211767552,56.9812212976,24.0311767552,56.9912212976",
     "lbl:latitude":56.986221,
     "lbl:longitude":24.026177,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -30,7 +32,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0435\u0439\u0441\u0442\u0438"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108941473,
-    "wof:lastmodified":1564103861,
+    "wof:lastmodified":1566599000,
     "wof:name":"Kleisti",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

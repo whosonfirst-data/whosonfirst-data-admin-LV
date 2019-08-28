@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":56.601169,
     "lbl:longitude":22.338148,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.601169,
     "mps:longitude":22.338148,
     "mz:hierarchy_label":1,
@@ -130,7 +131,7 @@
         "\u0421\u0430\u043b\u0434\u0443\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
     "name:sin_x_preferred":[
-        "\u0dc3\u0dbd\u0dca\u0daf\u0dc3\u0dca  \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+        "\u0dc3\u0dbd\u0dca\u0daf\u0dc3\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
     ],
     "name:spa_x_preferred":[
         "Municipalidad de Saldus"
@@ -156,7 +157,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u0434\u0443\u0441\u044c\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saldusskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -238,9 +239,9 @@
     "qs:type":"Novads",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-01",
+    "src:population_date":"2011-03-01",
     "statoids:area_km":"1,683",
     "statoids:area_mi":"650",
     "statoids:as_of_date":"2011-03-01",
@@ -285,11 +286,10 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1565726879,
+    "wof:lastmodified":1566598802,
     "wof:name":"Saldus",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"amalgamated municipality",
     "wof:population":25604,
     "wof:population_rank":7,

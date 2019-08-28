@@ -11,8 +11,10 @@
     "geom:longitude":24.12173,
     "gn:id":"",
     "iso:country":"LV",
+    "lbl:bbox":"24.11673,56.926793,24.12673,56.936793",
     "lbl:latitude":56.931793,
     "lbl:longitude":24.12173,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.936733,
     "mps:longitude":24.122991,
     "mz:hierarchy_label":0,
@@ -67,10 +69,7 @@
     "name:swe_x_preferred":[
         "Za\u0137usala"
     ],
-    "name:und_x_preferred":[
-        "Zakusala"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zakusala"
     ],
     "qs:gn_adm0_cc":"LV",
@@ -110,7 +109,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23701380,
-        "qs:id":1087801,
         "qs_pg:id":1087801,
         "wd:id":"Q2595448"
     },
@@ -129,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247548,
+    "wof:lastmodified":1566598800,
     "wof:name":"Zakusala",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

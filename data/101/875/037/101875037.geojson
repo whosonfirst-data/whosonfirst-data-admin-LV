@@ -10,12 +10,16 @@
     "geom:latitude":57.144675,
     "geom:longitude":24.886699,
     "iso:country":"LV",
+    "lbl:bbox":"24.866699,57.124675,24.906699,57.164675",
     "lbl:latitude":57.144675,
     "lbl:longitude":24.886699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.144675,
     "mps:longitude":24.886699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Peltastlar"
     ],
@@ -109,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043b\u044c\u0442\u0430\u0441\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lorupe"
     ],
     "qs:a0":"Latvija",
@@ -128,7 +132,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1603,
     "wof:belongsto":[
         102191581,
@@ -139,7 +143,7 @@
     "wof:concordances":{
         "gn:id":457806,
         "gp:id":853763,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q15219509"
     },
     "wof:country":"LV",
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":101875037,
-    "wof:lastmodified":1563344407,
+    "wof:lastmodified":1566599064,
     "wof:name":"Peltes",
     "wof:parent_id":85686135,
     "wof:placetype":"locality",

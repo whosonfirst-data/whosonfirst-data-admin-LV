@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":57.160441,
     "lbl:longitude":23.224644,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.160441,
     "mps:longitude":23.224644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Engure"
     ],
@@ -50,7 +53,7 @@
     "name:swe_x_preferred":[
         "Engure"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anger"
     ],
     "qs:a0":"Latvija",
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":57.160556,
     "wd:longitude":23.224444,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":460019,
         "gp:id":852332,
-        "qs:id":1219396,
         "qs_pg:id":1219396,
         "wd:id":"Q1023733",
         "wk:page":"Engure"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101816395,
-    "wof:lastmodified":1563344363,
+    "wof:lastmodified":1566599055,
     "wof:name":"Engure",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.4605,
     "lbl:longitude":22.899359,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.4605,
     "mps:longitude":22.899359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0643\u0647"
     ],
@@ -104,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0443\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Autse"
     ],
     "name:urd_x_preferred":[
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":228,
     "wof:belongsto":[
@@ -141,7 +144,6 @@
     "wof:concordances":{
         "gn:id":461336,
         "gp:id":851479,
-        "qs:id":42856,
         "qs_pg:id":42856,
         "wd:id":"Q758578",
         "wk:page":"Auce"
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101816291,
-    "wof:lastmodified":1563344387,
+    "wof:lastmodified":1566599059,
     "wof:name":"Auce",
     "wof:parent_id":85685839,
     "wof:placetype":"locality",

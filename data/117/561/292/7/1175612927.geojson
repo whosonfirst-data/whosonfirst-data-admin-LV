@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.677423,
     "lbl:longitude":22.568991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.677423,
     "mps:longitude":22.568991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u0643\u0646\u064a"
     ],
@@ -95,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u043e\u0446\u0435\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myza Brotseny"
     ],
     "name:urd_x_preferred":[
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -133,10 +136,12 @@
     "wof:concordances":{
         "gn:id":460786,
         "gp:id":851844,
-        "qs:id":5,
-        "qs_pg:id":124655,
+        "qs_pg:id":5,
         "wd:id":"Q840836",
         "wk:page":"Broc\u0113ni"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":124655
     },
     "wof:country":"LV",
     "wof:geomhash":"7506a290f13a26cc93d652592d7b9015",
@@ -149,7 +154,7 @@
         }
     ],
     "wof:id":1175612927,
-    "wof:lastmodified":1563344259,
+    "wof:lastmodified":1566599001,
     "wof:name":"Broc\u0113ni",
     "wof:parent_id":85685885,
     "wof:placetype":"locality",

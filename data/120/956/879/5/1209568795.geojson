@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.1209,55.99422,27.1609,56.03422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tr\u016bpi",
         "Lielie Tr\u016bpi"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209568795,
-    "wof:lastmodified":1537663129,
+    "wof:lastmodified":1566598947,
     "wof:name":"Trupi",
     "wof:parent_id":85633279,
     "wof:placetype":"locality",

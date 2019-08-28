@@ -12,10 +12,13 @@
     "iso:country":"LV",
     "lbl:latitude":57.187028,
     "lbl:longitude":25.032313,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.187028,
     "mps:longitude":25.032313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aug\u0161l\u012bgatne"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -53,7 +56,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55847760,
-        "qs:id":393509,
         "qs_pg:id":393509,
         "wd:id":"Q15218613"
     },
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":101911331,
-    "wof:lastmodified":1561839446,
+    "wof:lastmodified":1566599071,
     "wof:name":"Aug\u0161l\u012bgatne",
     "wof:parent_id":85686153,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.688234,
     "lbl:longitude":23.502811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.688234,
     "mps:longitude":23.502811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "L\u012bvb\u0113rze"
     ],
@@ -37,7 +40,7 @@
     "name:rus_x_variant":[
         "\u041b\u0438\u0432\u0431\u0435\u0440\u0437\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u012bvb\u0113rzes Mui\u017ea"
     ],
     "qs:a0":"Latvija",
@@ -54,7 +57,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":457859,
         "gp:id":853727,
-        "qs:id":1127408,
+        "qs_pg:id":1127408,
         "wd:id":"Q15219312"
     },
     "wof:country":"LV",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101847129,
-    "wof:lastmodified":1563344424,
+    "wof:lastmodified":1566599067,
     "wof:name":"L\u012bvb\u0113rze",
     "wof:parent_id":85685971,
     "wof:placetype":"locality",

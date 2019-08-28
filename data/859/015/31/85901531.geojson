@@ -10,8 +10,10 @@
     "geom:latitude":57.0235,
     "geom:longitude":24.12795,
     "iso:country":"LV",
+    "lbl:bbox":"24.12295,57.0185,24.13295,57.0285",
     "lbl:latitude":57.0235,
     "lbl:longitude":24.12795,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.014196,
     "mps:longitude":24.141055,
     "mz:hierarchy_label":0,
@@ -42,14 +44,8 @@
         "Jaunmilgravis",
         "Novyy Myul'graben"
     ],
-    "name:und_x_preferred":[
-        "Jaunm\u012blgr\u0101vis"
-    ],
     "name:und_x_variant":[
         "N\u00f3vyy My\u00fal'graben"
-    ],
-    "name:unk_x_variant":[
-        "Jaunm\u012blgr\u0101vis"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_id":0,
@@ -104,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247547,
+    "wof:lastmodified":1566598797,
     "wof:name":"Jaunmilgravis",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

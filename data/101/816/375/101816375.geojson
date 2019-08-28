@@ -13,10 +13,13 @@
     "iso:country":"LV",
     "lbl:latitude":56.546245,
     "lbl:longitude":26.926565,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.546245,
     "mps:longitude":26.926565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0646\u064a"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vilyani"
     ],
     "name:zho_x_preferred":[
@@ -121,7 +124,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":666,
     "wof:belongsto":[
@@ -133,7 +136,7 @@
     "wof:concordances":{
         "gn:id":454178,
         "gp:id":856152,
-        "qs:id":42887,
+        "qs_pg:id":42887,
         "wd:id":"Q836513",
         "wk:page":"Vi\u013c\u0101ni"
     },
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101816375,
-    "wof:lastmodified":1563344400,
+    "wof:lastmodified":1566599062,
     "wof:name":"Vi\u013c\u0101ni",
     "wof:parent_id":85686049,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":57.558817,
     "geom:longitude":25.440202,
     "iso:country":"LV",
+    "lbl:bbox":"25.420202,57.538817,25.460202,57.578817",
     "lbl:latitude":57.558817,
     "lbl:longitude":25.440202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.558817,
     "mps:longitude":25.440202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Valmiermui\u017ea"
     ],
@@ -48,7 +52,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633279,
@@ -58,7 +62,6 @@
     "wof:concordances":{
         "gn:id":454562,
         "gp:id":855882,
-        "qs:id":281185,
         "qs_pg:id":281185,
         "wd:id":"Q15219963"
     },
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101875039,
-    "wof:lastmodified":1561839444,
+    "wof:lastmodified":1566599064,
     "wof:name":"Valmiermui\u017ea",
     "wof:parent_id":85686283,
     "wof:placetype":"locality",

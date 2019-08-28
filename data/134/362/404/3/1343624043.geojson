@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.81129,56.80888,27.85129,56.84888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dagu\u0161eva",
         "Dagasheve",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343624043,
-    "wof:lastmodified":1537663201,
+    "wof:lastmodified":1566598750,
     "wof:name":"Degusava",
     "wof:parent_id":85686139,
     "wof:placetype":"locality",

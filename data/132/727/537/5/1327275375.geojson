@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"21.54667,57.19667,21.58667,57.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0412\u0430\u043d\u044c\u043a\u0438"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327275375,
-    "wof:lastmodified":1564103523,
+    "wof:lastmodified":1566598747,
     "wof:name":"Vanki",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",

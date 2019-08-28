@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"23.38889,56.60306,23.42889,56.64306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0160\u0137ibe"
     ],
@@ -39,8 +43,7 @@
         "\u0160\u0137ibe"
     ],
     "name:und_x_variant":[
-        "Shkibe",
-        "\u0160\u0137ibe"
+        "Shkibe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1293220509,
-    "wof:lastmodified":1564103630,
+    "wof:lastmodified":1566598853,
     "wof:name":"Skibe",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

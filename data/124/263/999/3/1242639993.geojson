@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"27.96123,56.20188,28.00123,56.24188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "\u010cer\u0146avskije"
     ],
@@ -36,8 +40,7 @@
     "name:und_x_variant":[
         "Chernyavskiye",
         "Cernavskie",
-        "\u010cer\u0146avski",
-        "\u010cer\u0146avskije"
+        "\u010cer\u0146avski"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1242639993,
-    "wof:lastmodified":1537663207,
+    "wof:lastmodified":1566599128,
     "wof:name":"Cernavskije",
     "wof:parent_id":85686037,
     "wof:placetype":"locality",

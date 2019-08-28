@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"25.33198,57.91581,25.37198,57.95581",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aka_x_preferred":[
         "Koni"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293137121,
-    "wof:lastmodified":1564103629,
+    "wof:lastmodified":1566598852,
     "wof:name":"Koni",
     "wof:parent_id":85686299,
     "wof:placetype":"locality",

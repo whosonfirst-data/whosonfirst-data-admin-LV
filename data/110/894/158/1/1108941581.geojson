@@ -10,8 +10,10 @@
     "geom:latitude":56.965725,
     "geom:longitude":23.608253,
     "iso:country":"LV",
+    "lbl:bbox":"23.6032526177,56.9607251985,23.6132526177,56.9707251985",
     "lbl:latitude":56.965725,
     "lbl:longitude":23.608253,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,7 +29,7 @@
     "name:lav_x_preferred":[
         "Kaugurciems"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751787,
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1108941581,
-    "wof:lastmodified":1564103855,
+    "wof:lastmodified":1566598996,
     "wof:name":"Kaugurciems",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

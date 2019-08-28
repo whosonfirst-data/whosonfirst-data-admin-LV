@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"24.35659,57.68296,24.39659,57.72296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sv\u0113tciems"
     ],
@@ -38,8 +42,7 @@
         "Sveiciems",
         "Svettsiyems",
         "Sveiciems Mui\u017eas Centrs",
-        "Svettsiyem",
-        "Sv\u0113tciems"
+        "Svettsiyem"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1277019419,
-    "wof:lastmodified":1537663041,
+    "wof:lastmodified":1566598875,
     "wof:name":"Svetciems",
     "wof:parent_id":85686287,
     "wof:placetype":"locality",
