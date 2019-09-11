@@ -28,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
-    "name:Eng_x_variant":[
-        "Old City"
-    ],
     "name:aze_x_preferred":[
         "\u018fski Riqa"
     ],
@@ -180,7 +177,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598800,
+    "wof:lastmodified":1568233169,
     "wof:name":"Vecriga",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",
