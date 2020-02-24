@@ -109,6 +109,9 @@
         "wd:id":"Q372999"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80d570a2f293d46bf523d96f4a759bf2",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101913043,
-    "wof:lastmodified":1561839444,
+    "wof:lastmodified":1582313198,
     "wof:name":"Aglona",
     "wof:parent_id":85685855,
     "wof:placetype":"locality",

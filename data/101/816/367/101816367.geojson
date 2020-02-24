@@ -151,6 +151,9 @@
         "wd:id":"Q753029"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3bd5b24a87793f649ae7115ded6b95c",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101816367,
-    "wof:lastmodified":1566599056,
+    "wof:lastmodified":1582313196,
     "wof:name":"Ik\u0161\u0137ile",
     "wof:parent_id":85686017,
     "wof:placetype":"locality",

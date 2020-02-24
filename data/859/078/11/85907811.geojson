@@ -95,6 +95,10 @@
         "wk:page":"Zolit\u016bde"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f6fb33e00a66cef2e3ff0e992b174ef",
     "wof:hierarchy":[
         {
@@ -109,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598800,
+    "wof:lastmodified":1582313190,
     "wof:name":"Zolitude",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

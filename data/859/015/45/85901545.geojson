@@ -101,6 +101,10 @@
         "wk:page":"Tor\u0146akalns"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16491da517742ef589d26c3b24ca6ebc",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598797,
+    "wof:lastmodified":1582313190,
     "wof:name":"Tornakalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -150,6 +150,9 @@
         "wk:page":"\u0136egums"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61111f54d37616adc111f3532e40c82a",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101816357,
-    "wof:lastmodified":1566599056,
+    "wof:lastmodified":1582313196,
     "wof:name":"\u0136egums",
     "wof:parent_id":85686011,
     "wof:placetype":"locality",

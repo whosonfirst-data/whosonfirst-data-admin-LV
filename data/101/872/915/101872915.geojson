@@ -82,6 +82,9 @@
         "wd:id":"Q5734017"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c0242794fc82738ebef27261621c151",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101872915,
-    "wof:lastmodified":1566599063,
+    "wof:lastmodified":1582313197,
     "wof:name":"Kalk\u016bni",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

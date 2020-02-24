@@ -151,6 +151,9 @@
         "wk:page":"Jaunjelgava"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0afa6ee03cf3e7df43ed6492b30ba2b0",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101816327,
-    "wof:lastmodified":1566599060,
+    "wof:lastmodified":1582313197,
     "wof:name":"Jaunjelgava",
     "wof:parent_id":85685947,
     "wof:placetype":"locality",

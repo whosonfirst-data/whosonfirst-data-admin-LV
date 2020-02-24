@@ -137,6 +137,9 @@
         "wk:page":"Sabile"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3467fb72f0a83f45b624211dfcfa012e",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101847167,
-    "wof:lastmodified":1566599066,
+    "wof:lastmodified":1582313198,
     "wof:name":"Sabile",
     "wof:parent_id":85686157,
     "wof:placetype":"locality",

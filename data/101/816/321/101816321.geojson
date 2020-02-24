@@ -99,6 +99,9 @@
         "wk:page":"Vecumnieki"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f4e13ec0662044b8036b4b828a1b184",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101816321,
-    "wof:lastmodified":1566599062,
+    "wof:lastmodified":1582313197,
     "wof:name":"Vecumnieki",
     "wof:parent_id":85685939,
     "wof:placetype":"locality",

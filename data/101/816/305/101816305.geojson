@@ -113,6 +113,9 @@
         "wk:page":"Iecava"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e71aad77ae0d754f1c55a2e6af864714",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101816305,
-    "wof:lastmodified":1566599057,
+    "wof:lastmodified":1582313196,
     "wof:name":"Iecava",
     "wof:parent_id":85685905,
     "wof:placetype":"locality",

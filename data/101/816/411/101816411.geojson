@@ -173,6 +173,9 @@
         "wk:page":"K\u0101rsava Municipality"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d34472f3a444743248d91cb91d36553e",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":101816411,
-    "wof:lastmodified":1566599058,
+    "wof:lastmodified":1582313196,
     "wof:name":"K\u0101rsava",
     "wof:parent_id":85686139,
     "wof:placetype":"locality",

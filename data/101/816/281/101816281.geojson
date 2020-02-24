@@ -161,6 +161,9 @@
         "wk:page":"Akn\u012bste"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76816e27732dcf9f1cc33b2a1c5b1453",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101816281,
-    "wof:lastmodified":1566599053,
+    "wof:lastmodified":1582313195,
     "wof:name":"Akn\u012bste",
     "wof:parent_id":85685819,
     "wof:placetype":"locality",

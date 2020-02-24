@@ -94,6 +94,9 @@
         "wk:page":"Rauna"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"98fb16f59cf3497916f1117e410f8002",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101847173,
-    "wof:lastmodified":1566599067,
+    "wof:lastmodified":1582313198,
     "wof:name":"Rauna",
     "wof:parent_id":85686225,
     "wof:placetype":"locality",

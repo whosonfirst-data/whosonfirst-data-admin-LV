@@ -734,6 +734,9 @@
         85686065
     ],
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"355fb81e2781a0318d70cdc9f1d995be",
     "wof:hierarchy":[
         {
@@ -744,7 +747,7 @@
         }
     ],
     "wof:id":101751789,
-    "wof:lastmodified":1566599065,
+    "wof:lastmodified":1582313198,
     "wof:megacity":0,
     "wof:name":"R\u012bga",
     "wof:parent_id":85686065,

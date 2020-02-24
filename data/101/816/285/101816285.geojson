@@ -284,6 +284,9 @@
         "wk:page":"Kr\u0101slava"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43e261521f49bc1e97627a75e302c7ea",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":101816285,
-    "wof:lastmodified":1566599058,
+    "wof:lastmodified":1582313197,
     "wof:name":"Kr\u0101slava",
     "wof:parent_id":85685833,
     "wof:placetype":"locality",

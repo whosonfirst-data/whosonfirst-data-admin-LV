@@ -147,6 +147,9 @@
         "wk:page":"Zilupe"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd3c0ea959df581e84b43cf184a5b93d",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101816347,
-    "wof:lastmodified":1566599055,
+    "wof:lastmodified":1582313196,
     "wof:name":"Zilupe",
     "wof:parent_id":85685987,
     "wof:placetype":"locality",

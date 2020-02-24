@@ -143,6 +143,9 @@
         "wk:page":"Piltene"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d5d941eb41dbc4c6cbb11d1530542f9",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101816435,
-    "wof:lastmodified":1566599060,
+    "wof:lastmodified":1582313197,
     "wof:name":"Piltene",
     "wof:parent_id":85686197,
     "wof:placetype":"locality",

@@ -175,6 +175,9 @@
         "wk:page":"Saldus"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9d7f5f8b3d9bbf8f326cd2dd2caf897",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":101816319,
-    "wof:lastmodified":1566599062,
+    "wof:lastmodified":1582313197,
     "wof:name":"Saldus",
     "wof:parent_id":85685935,
     "wof:placetype":"locality",

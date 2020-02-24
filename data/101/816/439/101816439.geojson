@@ -200,6 +200,9 @@
         "wk:page":"Kolka, Latvia"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c373565dd6bbdf616483073b455e581c",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":101816439,
-    "wof:lastmodified":1566599053,
+    "wof:lastmodified":1582313196,
     "wof:name":"Kolka",
     "wof:parent_id":85686221,
     "wof:placetype":"locality",

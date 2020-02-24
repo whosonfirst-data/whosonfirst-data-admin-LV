@@ -270,6 +270,9 @@
         "wk:page":"Valmiera"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"271a85c50c5842e7021e39fb50be2a7f",
     "wof:hierarchy":[
         {
@@ -283,7 +286,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566599052,
+    "wof:lastmodified":1582313195,
     "wof:name":"Valmiera",
     "wof:parent_id":85686243,
     "wof:placetype":"locality",

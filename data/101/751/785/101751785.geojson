@@ -413,6 +413,9 @@
         "wd:id":"Q179830"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd2e7003c483acc9c0bbf0a3358f4e2d",
     "wof:hierarchy":[
         {
@@ -426,7 +429,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566599064,
+    "wof:lastmodified":1582313198,
     "wof:name":"Jelgava",
     "wof:parent_id":85685881,
     "wof:placetype":"locality",

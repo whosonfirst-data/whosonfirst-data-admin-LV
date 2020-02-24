@@ -1040,6 +1040,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes",
+        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1095,6 +1096,11 @@
     },
     "wof:country":"LV",
     "wof:country_alpha3":"LVA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"1f5747d8b25f7dd81b82ee265e970254",
     "wof:hierarchy":[
         {
@@ -1109,7 +1115,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1566598823,
+    "wof:lastmodified":1582313192,
     "wof:name":"Latvia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -74,6 +74,9 @@
         "wk:page":"Upeslejas"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7c3da3c6a5dd50ac39f575668ebc474a",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101872937,
-    "wof:lastmodified":1566599063,
+    "wof:lastmodified":1582313197,
     "wof:name":"Upeslejas",
     "wof:parent_id":85686033,
     "wof:placetype":"locality",

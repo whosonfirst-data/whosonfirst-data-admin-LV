@@ -239,6 +239,9 @@
         "wk:page":"Ulbroka"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"489d65bfc27ce01bfb226b1b66c7a94e",
     "wof:hierarchy":[
         {
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":101816369,
-    "wof:lastmodified":1566599056,
+    "wof:lastmodified":1582313196,
     "wof:name":"Ulbroka",
     "wof:parent_id":85686033,
     "wof:placetype":"locality",

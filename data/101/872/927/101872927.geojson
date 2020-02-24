@@ -84,6 +84,9 @@
         "wk:page":"M\u0101rupe"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"edc22d57f4d2595f800145d7987dbebe",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101872927,
-    "wof:lastmodified":1566599064,
+    "wof:lastmodified":1582313198,
     "wof:name":"M\u0101rupe",
     "wof:parent_id":85686007,
     "wof:placetype":"locality",

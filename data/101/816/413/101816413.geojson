@@ -167,6 +167,9 @@
         "wk:page":"Madona"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9c46021ec0543db09cbcf83c76e399e0",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":101816413,
-    "wof:lastmodified":1566599052,
+    "wof:lastmodified":1582313195,
     "wof:name":"Madona",
     "wof:parent_id":85686143,
     "wof:placetype":"locality",

@@ -101,6 +101,10 @@
         "wk:page":"Imanta"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c04ff68531748964a09b5f2cff721ba9",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598801,
+    "wof:lastmodified":1582313191,
     "wof:name":"Imanta",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -71,6 +71,9 @@
         "wd:id":"Q4102737"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a4ce6e024fb7e4b277176d4d1622e4b8",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101872925,
-    "wof:lastmodified":1566599063,
+    "wof:lastmodified":1582313197,
     "wof:name":"Valdlau\u010di",
     "wof:parent_id":85685999,
     "wof:placetype":"locality",

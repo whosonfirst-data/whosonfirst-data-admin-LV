@@ -74,6 +74,9 @@
         "wd:id":"Q15220126"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd3f7d8533dc85cdbe10bb77468f1839",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101816425,
-    "wof:lastmodified":1566599052,
+    "wof:lastmodified":1582313195,
     "wof:name":"Zvejniekciems",
     "wof:parent_id":85686169,
     "wof:placetype":"locality",

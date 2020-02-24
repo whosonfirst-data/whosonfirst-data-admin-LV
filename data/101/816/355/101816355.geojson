@@ -72,6 +72,9 @@
         "qs_pg:id":1349971
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1e5728e5ccb2306bc78552d2a0b014d",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101816355,
-    "wof:lastmodified":1566599051,
+    "wof:lastmodified":1582313195,
     "wof:name":"Skulte",
     "wof:parent_id":85686007,
     "wof:placetype":"locality",

@@ -83,6 +83,9 @@
         "wd:id":"Q15219441"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72a81bb6d42e1ddd3d911f978214b00a",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101872921,
-    "wof:lastmodified":1566599064,
+    "wof:lastmodified":1582313198,
     "wof:name":"N\u0101kotne",
     "wof:parent_id":85685971,
     "wof:placetype":"locality",

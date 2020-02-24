@@ -68,6 +68,10 @@
         "qs_pg:id":15086
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c3c01126fbc3245db58bec6ed500acb",
     "wof:hierarchy":[
         {
@@ -82,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598799,
+    "wof:lastmodified":1582313190,
     "wof:name":"Kazas Seklis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

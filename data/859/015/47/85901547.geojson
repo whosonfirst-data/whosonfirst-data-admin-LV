@@ -116,6 +116,10 @@
         "wk:page":"Vecm\u012blgr\u0101vis"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"589b88588819b8b42ad20e2672598e8a",
     "wof:hierarchy":[
         {
@@ -130,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598798,
+    "wof:lastmodified":1582313190,
     "wof:name":"Vecmilgravis",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -104,6 +104,9 @@
         "wd:id":"Q2632576"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"90a08d3db23ea0f513874a0d3bbe7eba",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598798,
+    "wof:lastmodified":1582313190,
     "wof:name":"Agenskalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

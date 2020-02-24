@@ -78,6 +78,9 @@
         "qs_pg:id":1098500
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3067bd67e9ae255bd361884a3031594",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101816351,
-    "wof:lastmodified":1566599056,
+    "wof:lastmodified":1582313196,
     "wof:name":"Jumprava",
     "wof:parent_id":85685995,
     "wof:placetype":"locality",

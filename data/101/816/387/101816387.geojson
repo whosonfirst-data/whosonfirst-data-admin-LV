@@ -178,6 +178,9 @@
         "wk:page":"Tukums"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2b9edd2362afedefc9fd494478909bf",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":101816387,
-    "wof:lastmodified":1566599061,
+    "wof:lastmodified":1582313197,
     "wof:name":"Tukums",
     "wof:parent_id":85686083,
     "wof:placetype":"locality",

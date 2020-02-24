@@ -185,6 +185,9 @@
         "wk:page":"Bauska"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"936bdf6a55927d3d1c363931571f5b2e",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":101816293,
-    "wof:lastmodified":1566599054,
+    "wof:lastmodified":1582313196,
     "wof:name":"Bauska",
     "wof:parent_id":85685851,
     "wof:placetype":"locality",

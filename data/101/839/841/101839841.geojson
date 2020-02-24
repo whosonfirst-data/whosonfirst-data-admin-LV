@@ -93,6 +93,9 @@
         "wk:page":"Pi\u0146\u0137i"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"21cf54a7c3af3f9781c0f0da030cf393",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101839841,
-    "wof:lastmodified":1566599071,
+    "wof:lastmodified":1582313199,
     "wof:name":"Pi\u0146\u0137i",
     "wof:parent_id":85686027,
     "wof:placetype":"locality",

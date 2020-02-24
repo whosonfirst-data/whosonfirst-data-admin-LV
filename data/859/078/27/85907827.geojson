@@ -113,6 +113,10 @@
         "wd:id":"Q2595448"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b7efc3ce4ffdd20d409b75ef9216dc2",
     "wof:hierarchy":[
         {
@@ -127,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598800,
+    "wof:lastmodified":1582313190,
     "wof:name":"Zakusala",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

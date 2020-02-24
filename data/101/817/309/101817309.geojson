@@ -137,6 +137,9 @@
         "wd:id":"Q249715"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"58b00841917c283f3eb804f1ec01b3f3",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101817309,
-    "wof:lastmodified":1566599062,
+    "wof:lastmodified":1582313197,
     "wof:name":"Olaine",
     "wof:parent_id":85685981,
     "wof:placetype":"locality",

@@ -64,6 +64,9 @@
         "qs_pg:id":2
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"035ce7ac756cb3f1d9e57749984d8b54",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101872941,
-    "wof:lastmodified":1566599063,
+    "wof:lastmodified":1582313197,
     "wof:name":"J\u0101\u0146mui\u017ea",
     "wof:parent_id":85686229,
     "wof:placetype":"locality",

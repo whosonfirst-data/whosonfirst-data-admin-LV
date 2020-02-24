@@ -65,6 +65,9 @@
         "wd:id":"Q15218686"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3dccc2a157b4dca1f1d3d304eca87e16",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101872931,
-    "wof:lastmodified":1566599063,
+    "wof:lastmodified":1582313197,
     "wof:name":"Birzgale",
     "wof:parent_id":85686011,
     "wof:placetype":"locality",

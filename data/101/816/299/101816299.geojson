@@ -138,6 +138,9 @@
         "wk:page":"Skrunda"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"618259268eefe14dad33da7c34a6d7de",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566599060,
+    "wof:lastmodified":1582313197,
     "wof:name":"Skrunda",
     "wof:parent_id":85685871,
     "wof:placetype":"locality",

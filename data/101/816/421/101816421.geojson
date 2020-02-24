@@ -176,6 +176,9 @@
         "wk:page":"Talsi"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cb6c48002419b8a5789855183e60929f",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":101816421,
-    "wof:lastmodified":1566599057,
+    "wof:lastmodified":1582313196,
     "wof:name":"Talsi",
     "wof:parent_id":85686157,
     "wof:placetype":"locality",

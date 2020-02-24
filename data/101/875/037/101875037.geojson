@@ -147,6 +147,9 @@
         "wd:id":"Q15219509"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ebb40cd0f817c8b6ba32506a68c074fb",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101875037,
-    "wof:lastmodified":1566599064,
+    "wof:lastmodified":1582313198,
     "wof:name":"Peltes",
     "wof:parent_id":85686135,
     "wof:placetype":"locality",

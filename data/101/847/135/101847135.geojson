@@ -107,6 +107,9 @@
         "wd:id":"Q344608"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89e11eefd1063d225bc5164b7dcb897d",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101847135,
-    "wof:lastmodified":1566599066,
+    "wof:lastmodified":1582313198,
     "wof:name":"\u0136ekava",
     "wof:parent_id":85685999,
     "wof:placetype":"locality",

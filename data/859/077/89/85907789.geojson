@@ -89,6 +89,10 @@
         "wd:id":"Q1978424"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"653c9a199efe9a53409dd58f0b6ce66d",
     "wof:hierarchy":[
         {
@@ -103,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598798,
+    "wof:lastmodified":1582313190,
     "wof:name":"Ziepniekkalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -104,6 +104,10 @@
         "wd:id":"Q1388229"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"02b37de125a0584419dcf67ad6b026ab",
     "wof:hierarchy":[
         {
@@ -118,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598799,
+    "wof:lastmodified":1582313190,
     "wof:name":"Maskavas Forstate",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

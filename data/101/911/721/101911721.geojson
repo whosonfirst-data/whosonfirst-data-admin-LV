@@ -69,6 +69,9 @@
         "wk:page":"Ber\u0123i"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f662da65c30cada75d4932e6a6de5328",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101911721,
-    "wof:lastmodified":1566599071,
+    "wof:lastmodified":1582313199,
     "wof:name":"Ber\u0123i",
     "wof:parent_id":85686065,
     "wof:placetype":"locality",

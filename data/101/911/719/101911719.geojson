@@ -91,6 +91,9 @@
         "wk:page":"\u0136emeri"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25b9db4000b82d94bf8568b16a84a8cb",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101911719,
-    "wof:lastmodified":1566599071,
+    "wof:lastmodified":1582313199,
     "wof:name":"\u0136emeri",
     "wof:parent_id":85686031,
     "wof:placetype":"locality",

@@ -97,6 +97,10 @@
         "wk:page":"Majori"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"39023f209101a354e01da99c4eb6bca7",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598798,
+    "wof:lastmodified":1582313190,
     "wof:name":"Majori",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

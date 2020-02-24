@@ -152,6 +152,9 @@
         "wk:page":"Dagda, Latvia"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f6f9e10f1067a8fbccbca92b29270ce5",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101816303,
-    "wof:lastmodified":1566599056,
+    "wof:lastmodified":1582313196,
     "wof:name":"Dagda",
     "wof:parent_id":85685893,
     "wof:placetype":"locality",

@@ -271,6 +271,9 @@
         "wk:page":"J\u0113kabpils"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e47a716d065c350d89ff5759c7e6aebb",
     "wof:hierarchy":[
         {
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":101847119,
-    "wof:lastmodified":1566599068,
+    "wof:lastmodified":1582313198,
     "wof:name":"J\u0113kabpils",
     "wof:parent_id":85685911,
     "wof:placetype":"locality",

@@ -96,6 +96,10 @@
         "wd:id":"Q4993616"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38ee436ec3f0149bf1c878e49c387193",
     "wof:hierarchy":[
         {
@@ -110,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598799,
+    "wof:lastmodified":1582313190,
     "wof:name":"Dzirciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -159,6 +159,9 @@
         "wk:page":"Aina\u017ei"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df7ea495628c0276430027223c1fee68",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":101816467,
-    "wof:lastmodified":1566599059,
+    "wof:lastmodified":1582313197,
     "wof:name":"Aina\u017ei",
     "wof:parent_id":85686287,
     "wof:placetype":"locality",

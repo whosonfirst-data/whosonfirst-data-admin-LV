@@ -129,6 +129,9 @@
         "wk:page":"Seda, Latvia"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c02a50097a43638f7613d940d614636",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101816461,
-    "wof:lastmodified":1566599059,
+    "wof:lastmodified":1582313197,
     "wof:name":"Seda",
     "wof:parent_id":85686275,
     "wof:placetype":"locality",

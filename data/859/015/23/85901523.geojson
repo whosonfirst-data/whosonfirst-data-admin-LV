@@ -94,6 +94,10 @@
         "wd:id":"Q2033866"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"24a245a94011bfb86a42060eb3fcd8f4",
     "wof:hierarchy":[
         {
@@ -108,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598798,
+    "wof:lastmodified":1582313190,
     "wof:name":"Dubulti",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

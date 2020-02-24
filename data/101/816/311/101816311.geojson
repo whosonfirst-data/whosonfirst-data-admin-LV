@@ -99,6 +99,9 @@
         "wk:page":"Ozolnieki"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d58d5bbf2c9ea96c633684a1c69bc1a",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101816311,
-    "wof:lastmodified":1566599060,
+    "wof:lastmodified":1582313197,
     "wof:name":"Ozolnieki",
     "wof:parent_id":85685907,
     "wof:placetype":"locality",

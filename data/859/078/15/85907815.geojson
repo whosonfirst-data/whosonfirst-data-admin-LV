@@ -83,6 +83,10 @@
         "wd:id":"Q1974349"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d09844728f96baf0b43e1a862db50c5b",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598801,
+    "wof:lastmodified":1582313191,
     "wof:name":"Purvciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

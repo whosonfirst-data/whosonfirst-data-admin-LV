@@ -58,6 +58,9 @@
         "wd:id":"Q15218618"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d8cdfe2d9037b54aaf7952eef5a6da2e",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101872919,
-    "wof:lastmodified":1566599064,
+    "wof:lastmodified":1582313198,
     "wof:name":"Avoti",
     "wof:parent_id":85685957,
     "wof:placetype":"locality",

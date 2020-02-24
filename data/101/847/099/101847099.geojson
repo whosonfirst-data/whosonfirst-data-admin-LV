@@ -152,6 +152,9 @@
         "wk:page":"Grobi\u0146a"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4170758e604908ad601a99562196fe52",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101847099,
-    "wof:lastmodified":1566599067,
+    "wof:lastmodified":1582313198,
     "wof:name":"Grobi\u0146a",
     "wof:parent_id":85685811,
     "wof:placetype":"locality",

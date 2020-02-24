@@ -145,6 +145,9 @@
         "wk:page":"Baldone"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14cd064cbd77bb7cd634714791771613",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101816331,
-    "wof:lastmodified":1566599050,
+    "wof:lastmodified":1582313195,
     "wof:name":"Baldone",
     "wof:parent_id":85685957,
     "wof:placetype":"locality",

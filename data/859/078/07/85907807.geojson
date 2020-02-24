@@ -83,6 +83,10 @@
         "wd:id":"Q1986080"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"877368e53f13a19f1a1e5fdd65c84e2e",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598800,
+    "wof:lastmodified":1582313191,
     "wof:name":"Zasulauks",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",
