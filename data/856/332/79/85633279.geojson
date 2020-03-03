@@ -1040,7 +1040,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes",
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1115,7 +1114,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1582313192,
+    "wof:lastmodified":1583199979,
     "wof:name":"Latvia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
