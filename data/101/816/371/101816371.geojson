@@ -164,6 +164,9 @@
         "wk:page":"Ludza"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5bdc385c03e4181b5b3726d09333be80",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101816371,
-    "wof:lastmodified":1566599055,
+    "wof:lastmodified":1582313196,
     "wof:name":"Ludza",
     "wof:parent_id":85686037,
     "wof:placetype":"locality",

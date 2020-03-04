@@ -147,6 +147,9 @@
         "wk:page":"R\u016bjiena"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"03c52506bf5e12371507e412a59e0bc3",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101816475,
-    "wof:lastmodified":1566599058,
+    "wof:lastmodified":1582313196,
     "wof:name":"R\u016bjiena",
     "wof:parent_id":85686305,
     "wof:placetype":"locality",

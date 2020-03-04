@@ -60,6 +60,9 @@
         "wd:id":"Q15218613"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"01fcb367b73bac84429f3750f5bff591",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101911331,
-    "wof:lastmodified":1566599071,
+    "wof:lastmodified":1582313199,
     "wof:name":"Aug\u0161l\u012bgatne",
     "wof:parent_id":85686153,
     "wof:placetype":"locality",

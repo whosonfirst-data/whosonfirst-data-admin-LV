@@ -104,6 +104,9 @@
         "wk:page":"Bab\u012bte Municipality"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa29b540366d79017f0d8a75ffcf58ff",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101839839,
-    "wof:lastmodified":1566599071,
+    "wof:lastmodified":1582313199,
     "wof:name":"Bab\u012bte",
     "wof:parent_id":85686027,
     "wof:placetype":"locality",

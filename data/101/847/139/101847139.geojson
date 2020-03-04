@@ -65,6 +65,9 @@
         "wd:id":"Q15219556"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d657f82167ee592441f449a47b77dc4a",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101847139,
-    "wof:lastmodified":1566599069,
+    "wof:lastmodified":1582313198,
     "wof:name":"Priedaine",
     "wof:parent_id":85686043,
     "wof:placetype":"locality",

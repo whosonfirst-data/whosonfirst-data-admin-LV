@@ -138,6 +138,9 @@
         "wk:page":"Staicele"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6845760c344f839da0f391e792023565",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566599068,
+    "wof:lastmodified":1582313198,
     "wof:name":"Staicele",
     "wof:parent_id":85686293,
     "wof:placetype":"locality",

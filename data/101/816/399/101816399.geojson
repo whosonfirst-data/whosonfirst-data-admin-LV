@@ -116,6 +116,9 @@
         "wk:page":"Carnikava"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"882662b4e3173c40a7455fa59f796a7f",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101816399,
-    "wof:lastmodified":1566599051,
+    "wof:lastmodified":1582313195,
     "wof:name":"Carnikava",
     "wof:parent_id":85686107,
     "wof:placetype":"locality",

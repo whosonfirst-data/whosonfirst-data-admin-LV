@@ -134,6 +134,9 @@
         "wk:page":"Lub\u0101na"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a09617acb847586b1d809198328f523",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101816407,
-    "wof:lastmodified":1566599054,
+    "wof:lastmodified":1582313196,
     "wof:name":"Lub\u0101na",
     "wof:parent_id":85686131,
     "wof:placetype":"locality",

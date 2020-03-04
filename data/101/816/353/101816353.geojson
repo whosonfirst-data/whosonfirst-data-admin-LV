@@ -378,6 +378,9 @@
         "wk:page":"R\u0113zekne"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e615ba5f2312c87a2104ac2f747ce4a2",
     "wof:hierarchy":[
         {
@@ -388,7 +391,7 @@
         }
     ],
     "wof:id":101816353,
-    "wof:lastmodified":1566599050,
+    "wof:lastmodified":1582313195,
     "wof:name":"R\u0113zekne",
     "wof:parent_id":85686001,
     "wof:placetype":"locality",

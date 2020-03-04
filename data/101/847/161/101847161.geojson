@@ -135,6 +135,9 @@
         "wk:page":"Vanga\u017ei"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a50fcd358350c621073b7af2beb42f89",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566599066,
+    "wof:lastmodified":1582313198,
     "wof:name":"Vanga\u017ei",
     "wof:parent_id":85686117,
     "wof:placetype":"locality",

@@ -186,6 +186,9 @@
         "wk:page":"Sigulda"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9fbbe2105e3dce1aacd3f7bc6be87187",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566599053,
+    "wof:lastmodified":1582313196,
     "wof:name":"Sigulda",
     "wof:parent_id":85686135,
     "wof:placetype":"locality",

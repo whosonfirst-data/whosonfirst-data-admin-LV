@@ -163,6 +163,9 @@
         "wk:page":"Ape, Latvia"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"23fcae4ad360bb7b75d9044c3ee6a120",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101816459,
-    "wof:lastmodified":1566599059,
+    "wof:lastmodified":1582313197,
     "wof:name":"Ape",
     "wof:parent_id":85686269,
     "wof:placetype":"locality",

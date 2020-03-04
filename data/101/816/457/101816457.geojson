@@ -152,6 +152,9 @@
         "wk:page":"Limba\u017ei"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"86ef8de25ba8c69f2d58c38f8ceb0694",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101816457,
-    "wof:lastmodified":1566599059,
+    "wof:lastmodified":1582313197,
     "wof:name":"Limba\u017ei",
     "wof:parent_id":85686265,
     "wof:placetype":"locality",

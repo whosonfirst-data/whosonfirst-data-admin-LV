@@ -137,6 +137,9 @@
         "wk:page":"Vies\u012bte"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b41e95f3a9fa82a0670a96165e968e4",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101816301,
-    "wof:lastmodified":1566599051,
+    "wof:lastmodified":1582313195,
     "wof:name":"Vies\u012bte",
     "wof:parent_id":85685875,
     "wof:placetype":"locality",

@@ -76,6 +76,10 @@
         "wd:id":"Q14917203"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d1f0a6daad27aac242358fef754d4df",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101872929,
-    "wof:lastmodified":1566599064,
+    "wof:lastmodified":1582313197,
     "wof:name":"T\u012braine",
     "wof:parent_id":85686007,
     "wof:placetype":"locality",

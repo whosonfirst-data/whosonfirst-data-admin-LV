@@ -306,6 +306,9 @@
         "wk:page":"J\u016brmala"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9c809ef0bff402369434e1b9dde8a716",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":101751787,
-    "wof:lastmodified":1566599065,
+    "wof:lastmodified":1582313198,
     "wof:name":"J\u016brmala",
     "wof:parent_id":85686031,
     "wof:placetype":"locality",

@@ -58,6 +58,9 @@
         "wd:id":"Q15219018"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e4b9168627208a49da365067bdd277c6",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101875035,
-    "wof:lastmodified":1566599064,
+    "wof:lastmodified":1582313198,
     "wof:name":"Jauncode",
     "wof:parent_id":85685851,
     "wof:placetype":"locality",

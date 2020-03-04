@@ -161,6 +161,9 @@
         "wk:page":"Gulbene"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"245c2aa795fbe7f7578f1a01248701b0",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101816447,
-    "wof:lastmodified":1566599051,
+    "wof:lastmodified":1582313195,
     "wof:name":"Gulbene",
     "wof:parent_id":85686241,
     "wof:placetype":"locality",

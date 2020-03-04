@@ -403,6 +403,9 @@
         "wk:page":"Liep\u0101ja"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2fa174f6bf763d5c7a542dd5f75c33c7",
     "wof:hierarchy":[
         {
@@ -413,7 +416,7 @@
         }
     ],
     "wof:id":101751783,
-    "wof:lastmodified":1566599065,
+    "wof:lastmodified":1582313198,
     "wof:name":"Liep\u0101ja",
     "wof:parent_id":85685799,
     "wof:placetype":"locality",

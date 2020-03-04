@@ -92,6 +92,10 @@
         "wd:id":"Q1986090"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e9f02b578d4dba6f15d3780d2d994f9b",
     "wof:hierarchy":[
         {
@@ -106,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598797,
+    "wof:lastmodified":1582313190,
     "wof:name":"Bulduri",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

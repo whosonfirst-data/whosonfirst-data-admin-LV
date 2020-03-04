@@ -93,6 +93,9 @@
         "wk:page":"Engure"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ba19c66fa5cfea5b7f43a1a5ae13796",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101816395,
-    "wof:lastmodified":1566599055,
+    "wof:lastmodified":1582313196,
     "wof:name":"Engure",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

@@ -192,6 +192,9 @@
         "wk:page":"Valka"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef59882daea0ab5db52eba353c252ec6",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101839843,
-    "wof:lastmodified":1566599071,
+    "wof:lastmodified":1582313199,
     "wof:name":"Valka",
     "wof:parent_id":85686295,
     "wof:placetype":"locality",

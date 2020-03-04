@@ -72,6 +72,10 @@
         "qs_pg:id":1181833
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9dc6a3a281b9af2ccf335b4707c56aef",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598800,
+    "wof:lastmodified":1582313191,
     "wof:name":"Pilsetas",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

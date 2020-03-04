@@ -175,6 +175,9 @@
         "wk:page":"Balvi"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7417a26b72f5e6ec12cbb35003403f4",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":101816445,
-    "wof:lastmodified":1566599058,
+    "wof:lastmodified":1582313197,
     "wof:name":"Balvi",
     "wof:parent_id":85686235,
     "wof:placetype":"locality",

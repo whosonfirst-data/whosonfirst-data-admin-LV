@@ -66,6 +66,10 @@
         "wd:id":"Q15219963"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef9893aabd09d7b5f1d1221ee6cc85aa",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101875039,
-    "wof:lastmodified":1566599064,
+    "wof:lastmodified":1582313198,
     "wof:name":"Valmiermui\u017ea",
     "wof:parent_id":85686283,
     "wof:placetype":"locality",

@@ -78,6 +78,9 @@
         "wk:page":"Za\u0137umui\u017ea"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8334a67da2865b175a835d64863c26f6",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101872939,
-    "wof:lastmodified":1566599063,
+    "wof:lastmodified":1582313197,
     "wof:name":"Za\u0137umui\u017ea",
     "wof:parent_id":85686069,
     "wof:placetype":"locality",

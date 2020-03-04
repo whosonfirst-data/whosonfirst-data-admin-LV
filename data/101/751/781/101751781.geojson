@@ -459,6 +459,9 @@
         "qs_pg:id":901258
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6903d003d7a1bd273bf7a6e58b25a88e",
     "wof:hierarchy":[
         {
@@ -469,7 +472,7 @@
         }
     ],
     "wof:id":101751781,
-    "wof:lastmodified":1566599065,
+    "wof:lastmodified":1582313198,
     "wof:name":"Daugavpils",
     "wof:parent_id":85685795,
     "wof:placetype":"locality",

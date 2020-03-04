@@ -72,6 +72,10 @@
         "qs_pg:id":976699
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fa809ca748d0d70e22d47227a4282172",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598798,
+    "wof:lastmodified":1582313190,
     "wof:name":"Kengarags",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

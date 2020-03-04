@@ -77,6 +77,9 @@
         "wk:page":"Lociki"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69c6ae075f4b48d2d202f621adec9cef",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101872913,
-    "wof:lastmodified":1566599063,
+    "wof:lastmodified":1582313197,
     "wof:name":"Lociki",
     "wof:parent_id":85685825,
     "wof:placetype":"locality",

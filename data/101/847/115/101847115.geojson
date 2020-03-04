@@ -134,6 +134,9 @@
         "wk:page":"Broc\u0113ni"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"108af3383d98357bff690ed56befe0ed",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101847115,
-    "wof:lastmodified":1561839445,
+    "wof:lastmodified":1582313198,
     "wof:name":"Broc\u0113ni",
     "wof:parent_id":85685885,
     "wof:placetype":"locality",

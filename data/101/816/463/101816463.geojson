@@ -138,6 +138,9 @@
         "wk:page":"Stren\u010di"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d6ff9380af86a41eed32fd5c34a8a9b",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101816463,
-    "wof:lastmodified":1566599053,
+    "wof:lastmodified":1582313196,
     "wof:name":"Stren\u010di",
     "wof:parent_id":85686275,
     "wof:placetype":"locality",

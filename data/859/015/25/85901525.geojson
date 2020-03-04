@@ -100,6 +100,10 @@
         "wk:page":"Dzintari"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"40b768f53b2c76bcc728fbe4b156d026",
     "wof:hierarchy":[
         {
@@ -114,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598798,
+    "wof:lastmodified":1582313190,
     "wof:name":"Dzintari",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

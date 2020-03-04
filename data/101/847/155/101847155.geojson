@@ -75,6 +75,9 @@
         "wd:id":"Q15219226"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5b087de62b428272e4338c2ce56be045",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101847155,
-    "wof:lastmodified":1566599069,
+    "wof:lastmodified":1582313198,
     "wof:name":"Lapme\u017eciems",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

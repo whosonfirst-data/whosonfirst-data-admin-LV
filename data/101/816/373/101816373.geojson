@@ -188,6 +188,9 @@
         "wk:page":"Kuld\u012bga"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4090c5732df8ae6cc08d2ea96dfefed3",
     "wof:hierarchy":[
         {
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":101816373,
-    "wof:lastmodified":1566599061,
+    "wof:lastmodified":1582313197,
     "wof:name":"Kuld\u012bga",
     "wof:parent_id":85686043,
     "wof:placetype":"locality",

@@ -180,6 +180,9 @@
         "wk:page":"Ogre, Latvia"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7db66afcfe2b0f6a2186184534e3f794",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101816385,
-    "wof:lastmodified":1566599055,
+    "wof:lastmodified":1582313196,
     "wof:name":"Ogre",
     "wof:parent_id":85686079,
     "wof:placetype":"locality",

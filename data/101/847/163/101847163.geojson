@@ -95,6 +95,9 @@
         "wk:page":"M\u0113rsrags"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3949ba8405d4b3967782ec3eec35878c",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101847163,
-    "wof:lastmodified":1566599069,
+    "wof:lastmodified":1582313198,
     "wof:name":"M\u0113rsrags",
     "wof:parent_id":85686125,
     "wof:placetype":"locality",

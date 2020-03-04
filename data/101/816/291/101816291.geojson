@@ -149,6 +149,9 @@
         "wk:page":"Auce"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3e25a6a011c4482d18225d736b39ab61",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101816291,
-    "wof:lastmodified":1566599059,
+    "wof:lastmodified":1582313197,
     "wof:name":"Auce",
     "wof:parent_id":85685839,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "wd:id":"Q4539646"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e297778753b76e93d3879641bfa71e31",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101847137,
-    "wof:lastmodified":1566599070,
+    "wof:lastmodified":1582313198,
     "wof:name":"Jaunm\u0101rupe",
     "wof:parent_id":85686007,
     "wof:placetype":"locality",

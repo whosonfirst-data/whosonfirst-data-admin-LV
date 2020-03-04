@@ -86,6 +86,9 @@
         "gp:id":852765
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c55a9301e8e4e99b5688d21892e7dd4a",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598797,
+    "wof:lastmodified":1582313190,
     "wof:name":"Jaunmilgravis",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

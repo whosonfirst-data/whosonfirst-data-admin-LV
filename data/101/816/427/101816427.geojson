@@ -137,6 +137,9 @@
         "wk:page":"Saulkrasti"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a5cbf8d280aa70845f90d5f391ff89f",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101816427,
-    "wof:lastmodified":1566599058,
+    "wof:lastmodified":1582313197,
     "wof:name":"Saulkrasti",
     "wof:parent_id":85686169,
     "wof:placetype":"locality",

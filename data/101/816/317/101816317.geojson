@@ -164,6 +164,9 @@
         "wk:page":"Prei\u013ci"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85aeb4c4832ca58f741164e03f2c29f2",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101816317,
-    "wof:lastmodified":1566599061,
+    "wof:lastmodified":1582313197,
     "wof:name":"Prei\u013ci",
     "wof:parent_id":85685929,
     "wof:placetype":"locality",

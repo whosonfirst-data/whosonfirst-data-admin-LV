@@ -396,6 +396,9 @@
         "wd:id":"Q104036"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"63a6abdd361a38a1ae3acd7288bda19d",
     "wof:hierarchy":[
         {
@@ -409,7 +412,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566599059,
+    "wof:lastmodified":1582313197,
     "wof:name":"Ventspils",
     "wof:parent_id":85686123,
     "wof:placetype":"locality",

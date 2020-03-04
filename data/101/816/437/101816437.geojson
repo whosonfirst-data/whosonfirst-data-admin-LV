@@ -109,6 +109,9 @@
         "wd:id":"Q1023753"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf28a887796e574e724ef900dacb7697",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101816437,
-    "wof:lastmodified":1566599053,
+    "wof:lastmodified":1582313196,
     "wof:name":"Roja",
     "wof:parent_id":85686211,
     "wof:placetype":"locality",

@@ -86,6 +86,10 @@
         "qs_pg:id":1087800
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b1916638637e80912eb1cf51527a6a0",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598801,
+    "wof:lastmodified":1582313191,
     "wof:name":"Sarkandaugava",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -137,6 +137,9 @@
         "wk:page":"Valdem\u0101rpils"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ee5657f2d0dda2cdbe8ff7e8d25bd4e",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101816419,
-    "wof:lastmodified":1566599057,
+    "wof:lastmodified":1582313196,
     "wof:name":"Valdem\u0101rpils",
     "wof:parent_id":85686157,
     "wof:placetype":"locality",

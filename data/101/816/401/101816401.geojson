@@ -107,6 +107,9 @@
         "wk:page":"\u0100da\u017ei"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"92cda3b66667d97eddcce8b56879d66b",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101816401,
-    "wof:lastmodified":1566599053,
+    "wof:lastmodified":1582313196,
     "wof:name":"\u0100da\u017ei",
     "wof:parent_id":85686113,
     "wof:placetype":"locality",

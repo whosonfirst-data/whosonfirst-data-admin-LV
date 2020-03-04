@@ -143,6 +143,9 @@
         "wk:page":"Lielv\u0101rde"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cfb78e0bd35c9886fab882bf1daa5e46",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101816349,
-    "wof:lastmodified":1566599055,
+    "wof:lastmodified":1582313196,
     "wof:name":"Lielv\u0101rde",
     "wof:parent_id":85685995,
     "wof:placetype":"locality",

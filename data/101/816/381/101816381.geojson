@@ -141,6 +141,9 @@
         "qs_pg:id":124646
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76204b274d252865d1e66104a30237cd",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101816381,
-    "wof:lastmodified":1566599062,
+    "wof:lastmodified":1582313197,
     "wof:name":"Kandava",
     "wof:parent_id":85686061,
     "wof:placetype":"locality",

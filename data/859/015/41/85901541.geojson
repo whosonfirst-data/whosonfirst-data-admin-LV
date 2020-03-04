@@ -96,6 +96,10 @@
         "wk:page":"Mellu\u017ei"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"79c765ef35e7a8bfda99fd53f93147b4",
     "wof:hierarchy":[
         {
@@ -110,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598798,
+    "wof:lastmodified":1582313190,
     "wof:name":"Mellu\u017ei",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

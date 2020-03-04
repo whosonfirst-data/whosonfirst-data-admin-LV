@@ -172,6 +172,9 @@
         "wk:page":"Dobele"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"753612d50b23937ffe42c6f6fbd94220",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":101816315,
-    "wof:lastmodified":1566599055,
+    "wof:lastmodified":1582313196,
     "wof:name":"Dobele",
     "wof:parent_id":85685925,
     "wof:placetype":"locality",

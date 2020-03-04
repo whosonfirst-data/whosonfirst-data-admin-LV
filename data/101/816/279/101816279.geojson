@@ -137,6 +137,9 @@
         "wk:page":"Subate"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f620543b7b8fc6ba59275ad359b0638d",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101816279,
-    "wof:lastmodified":1566599057,
+    "wof:lastmodified":1582313196,
     "wof:name":"Subate",
     "wof:parent_id":85685815,
     "wof:placetype":"locality",

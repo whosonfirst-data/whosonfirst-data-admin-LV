@@ -166,6 +166,9 @@
         "wk:page":"Aloja, Latvia"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a84557d92c7c792ad9fe37d183ca7508",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566599052,
+    "wof:lastmodified":1582313195,
     "wof:name":"Aloja",
     "wof:parent_id":85686293,
     "wof:placetype":"locality",

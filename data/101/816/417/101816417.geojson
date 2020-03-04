@@ -156,6 +156,9 @@
         "wk:page":"Cesvaine"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f877cf2d19fff97efa0cc133aaa104f",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566599057,
+    "wof:lastmodified":1582313196,
     "wof:name":"Cesvaine",
     "wof:parent_id":85686151,
     "wof:placetype":"locality",

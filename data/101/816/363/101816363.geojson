@@ -157,6 +157,9 @@
         "wk:page":"Salaspils"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d36eb81f3b176936cedf46e660225fc",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101816363,
-    "wof:lastmodified":1566599051,
+    "wof:lastmodified":1582313195,
     "wof:name":"Salaspils",
     "wof:parent_id":85686015,
     "wof:placetype":"locality",

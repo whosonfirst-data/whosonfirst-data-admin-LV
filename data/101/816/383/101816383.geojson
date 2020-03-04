@@ -55,6 +55,9 @@
         "qs_pg:id":1182520
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c200fe3026af7b29ba4c5d32e3fdefbe",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101816383,
-    "wof:lastmodified":1566599054,
+    "wof:lastmodified":1582313196,
     "wof:name":"Garkalne",
     "wof:parent_id":85686073,
     "wof:placetype":"locality",

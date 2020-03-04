@@ -87,6 +87,9 @@
         "wd:id":"Q3625542"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"558f22684b2e36d1f469e31f36d02fea",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566598798,
+    "wof:lastmodified":1582313190,
     "wof:name":"Darzciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

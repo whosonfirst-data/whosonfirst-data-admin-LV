@@ -203,6 +203,9 @@
         "wk:page":"C\u0113sis"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3cb2b72e1879ffee7a8f9f1d1fbefba9",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":101816429,
-    "wof:lastmodified":1566599058,
+    "wof:lastmodified":1582313197,
     "wof:name":"C\u0113sis",
     "wof:parent_id":85686193,
     "wof:placetype":"locality",

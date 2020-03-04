@@ -143,6 +143,9 @@
         "wk:page":"Priekule, Latvia"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea888e69f9af5ea2e67eb386581e66a1",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101816275,
-    "wof:lastmodified":1566599052,
+    "wof:lastmodified":1582313195,
     "wof:name":"Priekule",
     "wof:parent_id":85685803,
     "wof:placetype":"locality",
