@@ -1071,9 +1071,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Latvia",
-        "digitalenvoy:country_code":[
-            428
-        ],
+        "digitalenvoy:country_code":428,
         "fb:id":"en.latvia",
         "fifa:id":"LVA",
         "fips:code":"LG",
@@ -1117,7 +1115,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1583529176,
+    "wof:lastmodified":1583797383,
     "wof:name":"Latvia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
