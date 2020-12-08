@@ -733,7 +733,9 @@
         85686065
     ],
     "wof:breaches":[],
-    "wof:capital_of":85633279,
+    "wof:capital_of":[
+        85633279
+    ],
     "wof:concordances":{
         "dbp:id":"Riga",
         "fb:id":"en.riga",
@@ -765,7 +767,7 @@
         }
     ],
     "wof:id":101751789,
-    "wof:lastmodified":1587428364,
+    "wof:lastmodified":1607390896,
     "wof:megacity":0,
     "wof:name":"R\u012bga",
     "wof:parent_id":85686065,
