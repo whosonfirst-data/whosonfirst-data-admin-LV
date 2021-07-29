@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Valkas"
     ],
+    "name:fra_x_preferred":[
+        "Valkas"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u043a\u0430\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -150,7 +153,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1614895014,
+    "wof:lastmodified":1627522350,
     "wof:name":"Valkas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

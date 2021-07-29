@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Raunas"
     ],
+    "name:fra_x_preferred":[
+        "Rauna"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0443\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
@@ -66,7 +69,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1614895014,
+    "wof:lastmodified":1627522350,
     "wof:name":"Raunas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

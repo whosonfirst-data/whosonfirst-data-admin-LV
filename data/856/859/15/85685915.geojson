@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Olaines"
     ],
+    "name:fra_x_preferred":[
+        "Olaine"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u0430\u0439\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
@@ -66,7 +69,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1614895013,
+    "wof:lastmodified":1627522349,
     "wof:name":"Olaines",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
