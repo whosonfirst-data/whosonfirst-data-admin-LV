@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.85333333,56.77833333,24.85333333,56.77833333",
+    "geom:bbox":"24.853333,56.778333,24.853333,56.778333",
     "geom:latitude":56.778333,
     "geom:longitude":24.853333,
     "iso:country":"LV",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Lielv\u0101rde Air Base"
+    ],
+    "name:eng_x_variant":[
+        "EVGA"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0644\u06cc\u0644\u0648\u0627\u0631\u062f\u0647"
@@ -72,7 +75,7 @@
         "wd:id":"Q3271618"
     },
     "wof:country":"LV",
-    "wof:geomhash":"d942a1995817b593fd156320d8df1a66",
+    "wof:geomhash":"6dff477b17a8db5517d1cfa1eb9943b7",
     "wof:hierarchy":[
         {
             "campus_id":102544369,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":102544369,
-    "wof:lastmodified":1566598748,
+    "wof:lastmodified":1631743635,
     "wof:name":"Lielvarde Airport",
     "wof:parent_id":85686011,
     "wof:placetype":"campus",
@@ -93,10 +96,10 @@
     ]
 },
   "bbox": [
-    24.85333333,
-    56.77833333,
-    24.85333333,
-    56.77833333
+    24.853333,
+    56.778333,
+    24.853333,
+    56.778333
 ],
-  "geometry": {"coordinates":[24.85333333,56.77833333],"type":"Point"}
+  "geometry": {"coordinates":[24.853333,56.778333],"type":"Point"}
 }
