@@ -32,6 +32,12 @@
     "name:deu_x_preferred":[
         "Kreutzburg"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d5\u05e1\u05d8\u05e4\u05d9\u05dc\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Krustpils"
+    ],
     "name:lit_x_preferred":[
         "Krustpilis"
     ],
@@ -59,7 +65,7 @@
         "gn:id":458511
     },
     "wof:country":"LV",
-    "wof:geomhash":"dcd0609e495a6c774d37b1140842391f",
+    "wof:geomhash":"b67d1133530144dcb25c539efac6d5bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1259466891,
-    "wof:lastmodified":1566599143,
+    "wof:lastmodified":1636494729,
     "wof:name":"Krustpils",
     "wof:parent_id":85685911,
     "wof:placetype":"locality",
@@ -82,9 +88,9 @@
 },
   "bbox": [
     25.86117,
-    56.51068000000001,
+    56.51068,
     25.86117,
-    56.51068000000001
+    56.51068
 ],
-  "geometry": {"coordinates":[25.86117,56.51068000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.86117,56.51068],"type":"Point"}
 }

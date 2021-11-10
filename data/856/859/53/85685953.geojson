@@ -94,8 +94,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab2\u0abe \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05dc\u05d0\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0932\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Salas"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u056c\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -321,7 +327,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1614895013,
+    "wof:lastmodified":1636494713,
     "wof:name":"Salas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

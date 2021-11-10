@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d6\u05d9\u05d8\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Vies\u012bte"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1193052019,
-    "wof:lastmodified":1566598970,
+    "wof:lastmodified":1636494726,
     "wof:name":"Viesites",
     "wof:parent_id":85685947,
     "wof:placetype":"locality",

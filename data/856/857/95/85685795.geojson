@@ -272,6 +272,9 @@
         "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0456\u043b\u0441"
     ],
     "name:urd_x_preferred":[
+        "\u0688\u0648\u06af\u0627\u0648\u067e\u06cc\u0644\u0633"
+    ],
+    "name:urd_x_variant":[
         "\u062f\u0627\u0648\u06af\u0627\u0648\u067e\u0644\u0633"
     ],
     "name:uzb_x_preferred":[
@@ -294,6 +297,12 @@
     ],
     "name:yid_x_preferred":[
         "\u05d3\u05e2\u05e0\u05e2\u05e0\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9676\u683c\u592b\u5339\u5c14\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9053\u52a0\u5339\u723e"
     ],
     "name:zho_x_preferred":[
         "\u9676\u683c\u592b\u5339\u5c14\u65af"
@@ -353,7 +362,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1614895013,
+    "wof:lastmodified":1636494717,
     "wof:name":"Daugavpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

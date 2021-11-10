@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.1251681991,56.9268147585,24.1251681991,56.9268147585",
+    "geom:bbox":"24.125168,56.926815,24.125168,56.926815",
     "geom:latitude":56.926815,
     "geom:longitude":24.125168,
     "iso:country":"LV",
@@ -39,6 +39,12 @@
         "Salas"
     ],
     "name:glg_x_preferred":[
+        "Salas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05dc\u05d0\u05e1"
+    ],
+    "name:hun_x_preferred":[
         "Salas"
     ],
     "name:ind_x_preferred":[
@@ -85,7 +91,7 @@
     "wof:concordances":{},
     "wof:country":"LV",
     "wof:created":1491362464,
-    "wof:geomhash":"16b85c37bdfbd219768a5f76497e2d5d",
+    "wof:geomhash":"794cb5616bd93a0397748e6d087e4868",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108941493,
-    "wof:lastmodified":1566599001,
+    "wof:lastmodified":1636494726,
     "wof:name":"Salas",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",
@@ -106,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.12516819909553,
-    56.92681475848799,
-    24.12516819909553,
-    56.92681475848799
+    24.125168,
+    56.926815,
+    24.125168,
+    56.926815
 ],
-  "geometry": {"coordinates":[24.12516819909553,56.92681475848799],"type":"Point"}
+  "geometry": {"coordinates":[24.125168,56.926815],"type":"Point"}
 }
