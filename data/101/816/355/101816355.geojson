@@ -20,22 +20,22 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
-        "Bahnstrecke Zemit\u0101ni\u2013Skulte"
+        "Skulte"
     ],
     "name:est_x_preferred":[
-        "Riia-Skulte raudtee"
+        "Skulte"
     ],
     "name:fra_x_preferred":[
-        "Ligne de Zemit\u0101ni \u00e0 Skulte"
+        "Skulte"
     ],
     "name:lav_x_preferred":[
-        "Dzelzce\u013ca l\u012bnija Zemit\u0101ni\u2014Skulte"
+        "Skulte"
     ],
     "name:pol_x_preferred":[
-        "Linia kolejowa Zemit\u0101ni \u2013 Skulte"
+        "Skulte"
     ],
     "name:rus_x_preferred":[
-        "\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u0430\u044f \u043b\u0438\u043d\u0438\u044f \u0417\u0435\u043c\u0438\u0442\u0430\u043d\u044b \u2014 \u0421\u043a\u0443\u043b\u0442\u0435"
+        "\u0421\u043a\u0443\u043b\u0442\u0435"
     ],
     "name:und_x_variant":[
         "Skultes Ciems"
