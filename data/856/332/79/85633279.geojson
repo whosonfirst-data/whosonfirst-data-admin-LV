@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LV",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Latvija",
+    "eurostat:name_local":"Latvija",
+    "eurostat:nuts_2021_id":"LV00",
+    "eurostat:nuts_2021_level_0":"LV",
+    "eurostat:nuts_2021_level_1":"LV0",
+    "eurostat:nuts_2021_level_2":"LV00",
+    "eurostat:population":1875757,
+    "eurostat:population_year":2022,
     "geom:area":9.506209,
-    "geom:area_square_m":64268855022.911453,
+    "geom:area_square_m":64268855022.911339,
     "geom:bbox":"20.970665,55.674934,28.241374,58.085571",
     "geom:latitude":56.853975,
     "geom:longitude":24.926969,
@@ -1155,7 +1165,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"371",
     "statoids:ds":"LV",
     "statoids:fifa":"LVA",
@@ -1184,6 +1195,7 @@
     "wof:concordances":{
         "dbp:id":"Latvia",
         "digitalenvoy:country_code":428,
+        "eurostat:nuts_2021_id":"LV00",
         "fb:id":"en.latvia",
         "fifa:id":"LVA",
         "fips:code":"LG",
@@ -1214,7 +1226,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"0fe520cc19e0a0298897c0706e12a256",
+    "wof:geomhash":"c14f37a97c6ac361fcf88f2737af1b48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1228,11 +1240,11 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1617827360,
+    "wof:lastmodified":1684351456,
     "wof:name":"Latvia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":1989500,
+    "wof:population":1875757,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:shortcode":"LV",

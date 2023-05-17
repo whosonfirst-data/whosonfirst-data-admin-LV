@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LV",
+    "eurostat:gisco_id":"LV_0427700",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Raunas novads",
+    "eurostat:nuts_2021_id":"0427700",
+    "eurostat:nuts_2021_level_0":"LV",
+    "eurostat:nuts_2021_level_1":"LV0",
+    "eurostat:nuts_2021_level_2":"LV00",
+    "eurostat:nuts_2021_level_3":"LV008",
+    "eurostat:nuts_2021_level_lau":"0427700",
+    "eurostat:population":3019,
+    "eurostat:population_year":2020,
     "geom:area":0.023289,
-    "geom:area_square_m":155813500.025864,
+    "geom:area_square_m":155813632.104434,
     "geom:bbox":"25.742423,57.182514,26.062107,57.292864",
     "geom:latitude":57.242977,
     "geom:longitude":25.891875,
@@ -47,14 +59,19 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633279
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"LV_0427700",
+        "eurostat:nuts_2021_id":"0427700"
+    },
     "wof:country":"LV",
-    "wof:geomhash":"dd75f6f6b563077a54cbd79aae101cf0",
+    "wof:geomhash":"7f44bf3978f77af6ae901e1c71c31788",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +86,12 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1627522350,
+    "wof:lastmodified":1684354001,
     "wof:name":"Raunas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
+    "wof:population":3019,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:shortcode":"RN",
     "wof:superseded_by":[],
