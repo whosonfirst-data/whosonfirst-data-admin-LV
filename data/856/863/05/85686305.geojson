@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LV",
+    "eurostat:gisco_id":"LV_0961600",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u016bjienas novads",
+    "eurostat:nuts_2021_id":"0961600",
+    "eurostat:nuts_2021_level_0":"LV",
+    "eurostat:nuts_2021_level_1":"LV0",
+    "eurostat:nuts_2021_level_2":"LV00",
+    "eurostat:nuts_2021_level_3":"LV008",
+    "eurostat:nuts_2021_level_lau":"0961600",
+    "eurostat:population":4824,
+    "eurostat:population_year":2020,
     "geom:area":0.053461,
-    "geom:area_square_m":350922997.54866,
+    "geom:area_square_m":350922997.548681,
     "geom:bbox":"25.097159,57.7782455,25.4713025,58.0855715",
     "geom:latitude":57.936868,
     "geom:longitude":25.278727,
@@ -240,8 +252,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"352",
     "statoids:area_mi":"136",
     "statoids:as_of_date":"2011-03-01",
@@ -262,6 +274,8 @@
         85686299
     ],
     "wof:concordances":{
+        "eg:gisco_id":"LV_0961600",
+        "eurostat:nuts_2021_id":"0961600",
         "fips:code":"LGB8",
         "gn:id":7628370,
         "gp:id":-2346042,
@@ -270,7 +284,7 @@
         "wd:id":"Q2299415"
     },
     "wof:country":"LV",
-    "wof:geomhash":"8164b88c07a1fff37383bc8d1bb4a9dd",
+    "wof:geomhash":"401feb0da8cf20bc638be5a590e86bd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -285,13 +299,13 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1566598829,
+    "wof:lastmodified":1684354002,
     "wof:name":"Rujienas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
     "wof:placetype_local":"amalgamated municipality",
-    "wof:population":5577,
-    "wof:population_rank":5,
+    "wof:population":4824,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:shortcode":"RU",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LV",
+    "eurostat:gisco_id":"LV_0540200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jelgavas novads",
+    "eurostat:nuts_2021_id":"0540200",
+    "eurostat:nuts_2021_level_0":"LV",
+    "eurostat:nuts_2021_level_1":"LV0",
+    "eurostat:nuts_2021_level_2":"LV00",
+    "eurostat:nuts_2021_level_3":"LV009",
+    "eurostat:nuts_2021_level_lau":"0540200",
+    "eurostat:population":21738,
+    "eurostat:population_year":2020,
     "geom:area":0.192594,
-    "geom:area_square_m":1311698666.329725,
+    "geom:area_square_m":1311699492.276428,
     "geom:bbox":"23.392376,56.320972,24.032611,56.895675",
     "geom:latitude":56.578271,
     "geom:longitude":23.654717,
@@ -272,16 +284,20 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633279
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"LV_0540200",
+        "eurostat:nuts_2021_id":"0540200",
         "wd:id":"Q179830"
     },
     "wof:country":"LV",
-    "wof:geomhash":"d6b3040f27d425b60e7bb6009b9c1920",
+    "wof:geomhash":"b72233f81f7b10233853127b436be406",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -296,10 +312,12 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1614895013,
+    "wof:lastmodified":1684353999,
     "wof:name":"Jelgavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
+    "wof:population":21738,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:shortcode":"JE",
     "wof:superseded_by":[],

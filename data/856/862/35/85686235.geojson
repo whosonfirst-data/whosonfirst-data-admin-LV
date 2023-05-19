@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LV",
+    "eurostat:gisco_id":"LV_0380200",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Balvu novads",
+    "eurostat:nuts_2021_id":"0380200",
+    "eurostat:nuts_2021_level_0":"LV",
+    "eurostat:nuts_2021_level_1":"LV0",
+    "eurostat:nuts_2021_level_2":"LV00",
+    "eurostat:nuts_2021_level_3":"LV005",
+    "eurostat:nuts_2021_level_lau":"0380200",
+    "eurostat:population":11715,
+    "eurostat:population_year":2020,
     "geom:area":0.154513,
-    "geom:area_square_m":1039725343.35285,
+    "geom:area_square_m":1039725355.486371,
     "geom:bbox":"26.925484,56.78044,27.667191,57.286569",
     "geom:latitude":57.030247,
     "geom:longitude":27.317171,
@@ -246,8 +258,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"1,045",
     "statoids:area_mi":"403",
     "statoids:as_of_date":"2011-03-01",
@@ -269,6 +281,8 @@
         85686185
     ],
     "wof:concordances":{
+        "eg:gisco_id":"LV_0380200",
+        "eurostat:nuts_2021_id":"0380200",
         "fips:code":"LG48",
         "gn:id":461160,
         "gp:id":-2346020,
@@ -277,7 +291,7 @@
         "wd:id":"Q2018672"
     },
     "wof:country":"LV",
-    "wof:geomhash":"e117b1e5fe446e7b0dddc035bd87f743",
+    "wof:geomhash":"6f447da845274717994179779ca847f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -292,12 +306,12 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1636494725,
+    "wof:lastmodified":1684354001,
     "wof:name":"Balvu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
     "wof:placetype_local":"amalgamated municipality",
-    "wof:population":14154,
+    "wof:population":11715,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:shortcode":"BV",

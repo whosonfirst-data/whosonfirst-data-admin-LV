@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LV",
+    "eurostat:gisco_id":"LV_0801601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siguldas novads",
+    "eurostat:nuts_2021_id":"0801601",
+    "eurostat:nuts_2021_level_0":"LV",
+    "eurostat:nuts_2021_level_1":"LV0",
+    "eurostat:nuts_2021_level_2":"LV00",
+    "eurostat:nuts_2021_level_3":"LV007",
+    "eurostat:nuts_2021_level_lau":"0801601",
+    "eurostat:population":17992,
+    "eurostat:population_year":2020,
     "geom:area":0.053476,
-    "geom:area_square_m":359306253.358758,
+    "geom:area_square_m":359306068.769949,
     "geom:bbox":"24.629452,56.980049,25.157068,57.219524",
     "geom:latitude":57.086217,
     "geom:longitude":24.894107,
@@ -240,8 +252,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-01",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "statoids:area_km":"360",
     "statoids:area_mi":"139",
     "statoids:as_of_date":"2011-03-01",
@@ -262,6 +274,8 @@
         85686099
     ],
     "wof:concordances":{
+        "eg:gisco_id":"LV_0801601",
+        "eurostat:nuts_2021_id":"0801601",
         "fips:code":"LGC7",
         "gn:id":7628362,
         "gp:id":-2346037,
@@ -270,7 +284,7 @@
         "wd:id":"Q2299251"
     },
     "wof:country":"LV",
-    "wof:geomhash":"85d51ab64c63b0ce5841837337365463",
+    "wof:geomhash":"d1d570d29508be48937355f507cb46d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -285,12 +299,12 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1636494715,
+    "wof:lastmodified":1684354000,
     "wof:name":"Siguldas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
     "wof:placetype_local":"amalgamated municipality",
-    "wof:population":16729,
+    "wof:population":17992,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:shortcode":"SI",
