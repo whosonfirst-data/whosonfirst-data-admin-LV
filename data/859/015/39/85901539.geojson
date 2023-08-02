@@ -47,8 +47,14 @@
     "name:lav_x_preferred":[
         "Majori"
     ],
+    "name:nld_x_preferred":[
+        "Majori"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0439\u043e\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Majori"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_fcode":"PPLX",
@@ -115,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1690938777,
     "wof:name":"Majori",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

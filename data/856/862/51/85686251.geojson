@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "Vi\u013cakas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Vi\u013caka"
+    ],
     "name:dan_x_preferred":[
         "Vi\u013caka municipality"
     ],
@@ -100,6 +103,9 @@
     "name:hun_x_preferred":[
         "Vilakas"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561\u056f\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya Vi\u013caka"
     ],
@@ -117,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube4c\ub7b4\uce74 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ube4c\ub7b4\uce74\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Vi\u013cakas novads"
@@ -189,6 +198,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7dad\u62c9\u5361\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u7dad\u5229\u4e9e\u5361\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -291,7 +303,7 @@
         "wd:id":"Q1869075"
     },
     "wof:country":"LV",
-    "wof:geomhash":"ca5a8831691794daaad525458b6becb0",
+    "wof:geomhash":"fe55dfb1687a1a72dc996e9f24de7d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354001,
+    "wof:lastmodified":1690938812,
     "wof:name":"Vilakas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

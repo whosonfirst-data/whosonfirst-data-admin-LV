@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Rumbula"
     ],
+    "name:est_x_preferred":[
+        "Rumbula k\u00fcla"
+    ],
     "name:lav_x_preferred":[
         "Rumbula"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125862445,
-    "wof:lastmodified":1566599086,
+    "wof:lastmodified":1690938864,
     "wof:name":"Rumbula",
     "wof:parent_id":85686033,
     "wof:placetype":"locality",

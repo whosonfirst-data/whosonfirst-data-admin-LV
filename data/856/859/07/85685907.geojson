@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "Ozolnieku Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Ozolnieki"
+    ],
     "name:dan_x_preferred":[
         "Ozolnieki municipality"
     ],
@@ -120,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\uc878\ub2c8\uc5d0\ud0a4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\uc878\ub2c8\uc5d0\ud0a4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Ozolnieku novads"
@@ -186,6 +192,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5967\u4f50\u5167\u5eab\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5967\u4f50\u723e\u6d85\u57fa\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -288,7 +297,7 @@
         "wd:id":"Q2304926"
     },
     "wof:country":"LV",
-    "wof:geomhash":"feac023b95e84a9c59cb51d91a40b7fa",
+    "wof:geomhash":"1f61ff062958fcdde23785d3e718be0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938785,
     "wof:name":"Ozolnieku",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -61,6 +61,9 @@
     "name:ceb_x_preferred":[
         "Akn\u012bstes Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Akn\u012bste"
+    ],
     "name:dan_x_preferred":[
         "Akn\u012bste municipality"
     ],
@@ -129,6 +132,9 @@
     "name:kor_x_preferred":[
         "\uc544\ud06c\ub2c8\uc2a4\ud14c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ud06c\ub2c8\uc2a4\ud14c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Akn\u012bstes novads"
     ],
@@ -194,6 +200,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u514b\u5c3c\u65af\u6cf0\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u514b\u5c3c\u65af\u6cf0\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -296,7 +305,7 @@
         "wd:id":"Q865658"
     },
     "wof:country":"LV",
-    "wof:geomhash":"6af32abf999ff56bd02e670afe2d1a92",
+    "wof:geomhash":"c407eed6e9f5cc38cd9455ee338da984",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,7 +320,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353997,
+    "wof:lastmodified":1690938806,
     "wof:name":"Aknistes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

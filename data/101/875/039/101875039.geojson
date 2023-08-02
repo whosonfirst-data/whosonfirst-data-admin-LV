@@ -26,6 +26,9 @@
     "name:est_x_preferred":[
         "Valmiermui\u017ea"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u056c\u0574\u056b\u0565\u0580\u0574\u0578\u0582\u0575\u056a\u0561"
+    ],
     "name:lav_x_preferred":[
         "Valmiermui\u017ea"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101875039,
-    "wof:lastmodified":1582313198,
+    "wof:lastmodified":1690938847,
     "wof:name":"Valmiermui\u017ea",
     "wof:parent_id":85686283,
     "wof:placetype":"locality",

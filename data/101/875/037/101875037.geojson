@@ -107,6 +107,9 @@
     "name:spa_x_preferred":[
         "Peltasta"
     ],
+    "name:spa_x_variant":[
+        "Peltes"
+    ],
     "name:swe_x_preferred":[
         "Peltast"
     ],
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101875037,
-    "wof:lastmodified":1582313198,
+    "wof:lastmodified":1690938847,
     "wof:name":"Peltes",
     "wof:parent_id":85686135,
     "wof:placetype":"locality",

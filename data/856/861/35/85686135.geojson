@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Siguldas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Sigulda"
+    ],
     "name:dan_x_preferred":[
         "Sigulda municipality"
     ],
@@ -96,6 +99,9 @@
     ],
     "name:hun_x_preferred":[
         "Sigulda"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0563\u0578\u0582\u056c\u0564\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Sigulda"
@@ -180,6 +186,9 @@
     ],
     "name:zho_x_preferred":[
         "\u932b\u53e4\u723e\u9054\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u932b\u53e4\u723e\u9054\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -284,7 +293,7 @@
         "wd:id":"Q2299251"
     },
     "wof:country":"LV",
-    "wof:geomhash":"d1d570d29508be48937355f507cb46d0",
+    "wof:geomhash":"85d51ab64c63b0ce5841837337365463",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -299,7 +308,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938789,
     "wof:name":"Siguldas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

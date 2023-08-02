@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Skr\u012bveru Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Skr\u012bveri"
+    ],
     "name:dan_x_preferred":[
         "Skr\u012bveri municipality"
     ],
@@ -117,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ud06c\ub9ac\ubca0\ub9ac \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud06c\ub9ac\ubca0\ub9ac\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Skr\u012bveru novads"
@@ -183,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u514b\u91cc\u97cb\u91cc\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u514b\u91cc\u97cb\u91cc\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -285,7 +294,7 @@
         "wd:id":"Q2286864"
     },
     "wof:country":"LV",
-    "wof:geomhash":"06ed6e972b3294118bd246ba88657680",
+    "wof:geomhash":"92da3afc34fd8c5cb480af5cbb2b0e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -300,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938784,
     "wof:name":"Skriveru",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

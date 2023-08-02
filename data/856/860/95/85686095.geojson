@@ -127,6 +127,9 @@
     "name:hye_x_preferred":[
         "\u054c\u0565\u0566\u0565\u056f\u0576\u0565"
     ],
+    "name:hyw_x_preferred":[
+        "\u054c\u0565\u0566\u0565\u056f\u0576\u0565"
+    ],
     "name:ind_x_preferred":[
         "R\u0113zekne"
     ],
@@ -163,11 +166,17 @@
     "name:mar_x_preferred":[
         "\u0930\u0940\u091c\u0947\u0915\u094d\u0928\u0947"
     ],
+    "name:mdf_x_preferred":[
+        "\u0420\u044d\u0437\u044d\u043a\u043d\u044d"
+    ],
     "name:mkd_x_preferred":[
         "\u0420\u0435\u0437\u0435\u043a\u043d\u0435"
     ],
     "name:msa_x_preferred":[
         "Rezekne"
+    ],
+    "name:myv_x_preferred":[
+        "\u0420\u044d\u0437\u044d\u043a\u043d\u044d"
     ],
     "name:nld_x_preferred":[
         "R\u0113zekne"
@@ -253,14 +262,26 @@
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0632\u06a9\u0646\u06d2"
     ],
+    "name:uzb_x_preferred":[
+        "Rezekne"
+    ],
     "name:vie_x_preferred":[
         "Rezekne"
     ],
     "name:vol_x_preferred":[
         "R\u0113zekne"
     ],
+    "name:vro_x_preferred":[
+        "R\u00e4is\u00e4ku"
+    ],
     "name:war_x_preferred":[
         "R\u0113zekne"
+    ],
+    "name:wuu_x_preferred":[
+        "\u96f7\u6cfd\u514b\u5185"
+    ],
+    "name:yue_x_preferred":[
+        "\u96f7\u6fa4\u514b\u5167"
     ],
     "name:zho_x_preferred":[
         "\u96f7\u6fa4\u514b\u5167"
@@ -367,7 +388,7 @@
         "wd:id":"Q180379"
     },
     "wof:country":"LV",
-    "wof:geomhash":"75275f14c53f27e15e7e63c855cf9674",
+    "wof:geomhash":"790edc4ab5fab4a95e69a913ebb0de27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -382,7 +403,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938796,
     "wof:name":"Rezeknes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

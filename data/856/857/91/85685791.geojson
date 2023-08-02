@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "N\u012bcas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref N\u012bca"
+    ],
     "name:dan_x_preferred":[
         "N\u012bca municipality"
     ],
@@ -124,6 +127,9 @@
     "name:kor_x_preferred":[
         "\ub2c8\ucc28 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub2c8\ucc28\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "N\u012bcas Novads"
     ],
@@ -192,6 +198,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u5bdf\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5c3c\u5bdf\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -294,7 +303,7 @@
         "wd:id":"Q1950456"
     },
     "wof:country":"LV",
-    "wof:geomhash":"1e8e211a94fd842962b9819e4e437095",
+    "wof:geomhash":"630e6cfd70e9e56b9fe3dad9d2311642",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353997,
+    "wof:lastmodified":1690938795,
     "wof:name":"Nicas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

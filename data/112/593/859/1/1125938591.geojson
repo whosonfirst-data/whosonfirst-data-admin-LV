@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Ulmale"
     ],
+    "name:est_x_preferred":[
+        "Ulmale"
+    ],
     "name:lav_x_preferred":[
         "Ulmale"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1125938591,
-    "wof:lastmodified":1566599083,
+    "wof:lastmodified":1690938859,
     "wof:name":"Ulmale",
     "wof:parent_id":85685901,
     "wof:placetype":"locality",

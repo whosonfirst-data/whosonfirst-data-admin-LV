@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "Vi\u013c\u0101nu Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Vi\u013c\u0101ni"
+    ],
     "name:dan_x_preferred":[
         "Vi\u013c\u0101ni municipality"
     ],
@@ -94,6 +97,9 @@
     "name:hin_x_preferred":[
         "\u0935\u093f\u0932\u093e\u0928\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0575\u0561\u0576\u056b\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya Vi\u013c\u0101ni"
     ],
@@ -111,6 +117,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube4c\ub7b4\ub2c8 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ube4c\ub7b4\ub2c8\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Vi\u013c\u0101nu novads"
@@ -189,6 +198,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7dad\u5229\u4e9e\u5c3c\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u7dad\u5229\u4e9e\u5c3c\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -291,7 +303,7 @@
         "wd:id":"Q2018681"
     },
     "wof:country":"LV",
-    "wof:geomhash":"ffc4143502497b1a49c64f8673e0a649",
+    "wof:geomhash":"52bc7068798e96209c48067305a93d91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938803,
     "wof:name":"Vilanu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

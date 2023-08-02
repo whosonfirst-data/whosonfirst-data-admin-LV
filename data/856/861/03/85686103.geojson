@@ -61,6 +61,12 @@
     "name:ceb_x_preferred":[
         "Engures Novads"
     ],
+    "name:che_x_preferred":[
+        "\u042d\u043d\u0433\u0443\u0440\u0435\u0441\u0430\u043d \u043c\u043e\u0445\u043a"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Engure"
+    ],
     "name:dan_x_preferred":[
         "Engure municipality"
     ],
@@ -126,6 +132,9 @@
     "name:kor_x_preferred":[
         "\uc5e5\uad6c\ub808 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc5e5\uad6c\ub808\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Engures novads"
     ],
@@ -188,6 +197,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u53e4\u96f7\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u6069\u53e4\u96f7\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -290,7 +302,7 @@
         "wd:id":"Q2079455"
     },
     "wof:country":"LV",
-    "wof:geomhash":"20460cbd13bd2e0768305d01633bb54c",
+    "wof:geomhash":"e6b16193a96639f79e685ce35ff636d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,7 +317,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938789,
     "wof:name":"Engures",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

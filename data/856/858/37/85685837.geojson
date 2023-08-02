@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "T\u0113rvetes Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref T\u0113rvete"
+    ],
     "name:dan_x_preferred":[
         "T\u0113rvete municipality"
     ],
@@ -97,6 +100,9 @@
     "name:hun_x_preferred":[
         "T\u0113rvete"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0565\u0580\u057e\u0565\u057f\u0565\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya T\u0113rvete"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud14c\ub974\ubca0\ud14c \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud14c\ub974\ubca0\ud14c\uc2dc"
     ],
     "name:lav_x_preferred":[
         "T\u0113rvetes novads"
@@ -180,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7279\u7dad\u63d0\u65af\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u6cf0\u723e\u97cb\u6cf0\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -282,7 +294,7 @@
         "wd:id":"Q2269685"
     },
     "wof:country":"LV",
-    "wof:geomhash":"aef930750832243851a8cfbc3b81844a",
+    "wof:geomhash":"b32bbed406b965a585c1db10352823d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -297,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938807,
     "wof:name":"Tervetes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

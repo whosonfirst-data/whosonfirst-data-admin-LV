@@ -64,6 +64,9 @@
     "name:ceb_x_variant":[
         "Salas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Sala"
+    ],
     "name:dan_x_preferred":[
         "Sala municipality"
     ],
@@ -139,6 +142,9 @@
     "name:kor_x_preferred":[
         "\uc0b4\ub77c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc0b4\ub77c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Salas"
     ],
@@ -194,6 +200,9 @@
     "name:swe_x_preferred":[
         "Salas novads"
     ],
+    "name:swe_x_variant":[
+        "Sala kommun"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0bb2\u0bbe \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
@@ -222,7 +231,8 @@
         "\u8428\u62c9\u65af"
     ],
     "name:zho_x_variant":[
-        "\u85a9\u62c9\u81ea\u6cbb\u5e02"
+        "\u85a9\u62c9\u81ea\u6cbb\u5e02",
+        "\u85a9\u62c9\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -326,7 +336,7 @@
         "wd:id":"Q2375848"
     },
     "wof:country":"LV",
-    "wof:geomhash":"c63e80215196bc000206cb7211d27670",
+    "wof:geomhash":"8411a45112f04dcdff970e73128f2e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -341,7 +351,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938786,
     "wof:name":"Salas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

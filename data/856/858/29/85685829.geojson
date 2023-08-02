@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Durbes Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Durbe"
+    ],
     "name:dan_x_preferred":[
         "Durbe municipality"
     ],
@@ -120,6 +123,9 @@
     "name:kor_x_preferred":[
         "\ub450\ub974\ubca0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub450\ub974\ubca0\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Durbes novads"
     ],
@@ -182,6 +188,9 @@
     ],
     "name:zho_x_preferred":[
         "\u675c\u723e\u8c9d\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u675c\u723e\u8c9d\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -284,7 +293,7 @@
         "wd:id":"Q1962356"
     },
     "wof:country":"LV",
-    "wof:geomhash":"7f8aed94c96a07de31644579b4dac3e3",
+    "wof:geomhash":"d7add63ffc04f8fc0504992a90a0c9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -299,7 +308,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938805,
     "wof:name":"Durbes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

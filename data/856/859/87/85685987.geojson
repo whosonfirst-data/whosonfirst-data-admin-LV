@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Zilupes Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Zilupe"
+    ],
     "name:dan_x_preferred":[
         "Zilupe municipality"
     ],
@@ -117,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc9c8\ub8e8\ud398 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc9c8\ub8e8\ud398\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Zilupes novads"
@@ -186,6 +192,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6fdf\u76e7\u4f69\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u6fdf\u76e7\u4f69\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -288,7 +297,7 @@
         "wd:id":"Q3274762"
     },
     "wof:country":"LV",
-    "wof:geomhash":"501f799176a8438ce21f437b412a4beb",
+    "wof:geomhash":"fe1927ba0e402c1db0f060024997ab4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938783,
     "wof:name":"Zilupes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

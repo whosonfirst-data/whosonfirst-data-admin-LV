@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0632\u0627\u0643\u0648\u0645\u0648\u064a\u0632\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Za\u0137umui\u017ea"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101872939,
-    "wof:lastmodified":1582313197,
+    "wof:lastmodified":1690938845,
     "wof:name":"Za\u0137umui\u017ea",
     "wof:parent_id":85686069,
     "wof:placetype":"locality",

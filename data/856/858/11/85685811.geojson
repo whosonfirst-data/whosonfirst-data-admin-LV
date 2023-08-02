@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Grobi\u0146as Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Grobi\u0146a"
+    ],
     "name:dan_x_preferred":[
         "Grobi\u0146a municipality"
     ],
@@ -120,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\uadf8\ub85c\ube44\ub0d0 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uadf8\ub85c\ube44\ub0d0\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Grobi\u0146as Novads"
@@ -189,6 +195,9 @@
     ],
     "name:zho_x_preferred":[
         "\u683c\u7f85\u6bd4\u7d0d\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u683c\u7f85\u6bd4\u5c3c\u4e9e\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -291,7 +300,7 @@
         "wd:id":"Q2320320"
     },
     "wof:country":"LV",
-    "wof:geomhash":"fd1afb5cb71e045c2b961ed63babba27",
+    "wof:geomhash":"baf97dabb1366023c375d982f89cd24d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +315,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353997,
+    "wof:lastmodified":1690938805,
     "wof:name":"Grobinas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Krustpils Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Krustpils"
+    ],
     "name:dan_x_preferred":[
         "Krustpils municipality"
     ],
@@ -118,6 +121,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud06c\ub8e8\uc2a4\ud2b8\ud544\uc2a4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud06c\ub8e8\uc2a4\ud2b8\ud544\uc2a4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Krustpils Novads"
@@ -190,6 +196,9 @@
     ],
     "name:zho_x_preferred":[
         "\u514b\u9b6f\u65af\u76ae\u723e\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u9b6f\u65af\u7279\u76ae\u723e\u65af\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -294,7 +303,7 @@
         "wd:id":"Q2277478"
     },
     "wof:country":"LV",
-    "wof:geomhash":"dc1780e8bbe532849894ed3a8a2537f9",
+    "wof:geomhash":"8597c4200456c67fcadf8ef5e8fd6fea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938785,
     "wof:name":"Krustpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

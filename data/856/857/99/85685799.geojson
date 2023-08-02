@@ -124,6 +124,12 @@
     "name:fra_x_preferred":[
         "Liep\u0101ja"
     ],
+    "name:frr_x_preferred":[
+        "Liep\u0101ja"
+    ],
+    "name:gle_x_preferred":[
+        "Liep\u0101ja"
+    ],
     "name:glg_x_preferred":[
         "Liep\u0101ja"
     ],
@@ -147,6 +153,12 @@
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0565\u057a\u0561\u0575\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Liep\u0101ja"
+    ],
+    "name:ile_x_preferred":[
+        "Liep\u0101ja"
     ],
     "name:ind_x_preferred":[
         "Liep\u0101ja"
@@ -175,6 +187,9 @@
     "name:kor_x_preferred":[
         "\ub9ac\uc608\ud30c\uc57c"
     ],
+    "name:lat_x_preferred":[
+        "Liba"
+    ],
     "name:lav_x_preferred":[
         "Liep\u0101ja"
     ],
@@ -190,8 +205,14 @@
     "name:mar_x_preferred":[
         "\u0932\u0940\u092a\u093e\u092f\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u041b\u0438\u0435\u043f\u0430\u044f"
+    ],
     "name:mhr_x_preferred":[
         "\u041b\u0438\u0435\u043f\u0430\u0439"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u0458\u0435\u043f\u0430\u0458\u0430"
     ],
     "name:msa_x_preferred":[
         "Liep\u0101ja"
@@ -241,6 +262,9 @@
     "name:slk_x_preferred":[
         "Liep\u0101ja"
     ],
+    "name:smn_x_preferred":[
+        "Liep\u0101ja"
+    ],
     "name:spa_x_preferred":[
         "Liep\u0101ja"
     ],
@@ -265,6 +289,9 @@
     "name:tha_x_preferred":[
         "\u0e44\u0e25\u0e1e\u0e32\u0e08\u0e32\u0e2a\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e25\u0e35\u0e22\u0e1b\u0e32\u0e22\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Liep\u0101ja"
     ],
@@ -286,11 +313,20 @@
     "name:vol_x_preferred":[
         "Liep\u0101ja"
     ],
+    "name:vro_x_preferred":[
+        "Liep\u0101ja"
+    ],
     "name:war_x_preferred":[
         "Liep\u0101ja"
     ],
+    "name:wuu_x_preferred":[
+        "\u5229\u8036\u5e15\u4e9a"
+    ],
     "name:yid_x_preferred":[
         "\u05dc\u05d9\u05d1\u05d0\u05b7\u05f0\u05e2"
+    ],
+    "name:yue_x_preferred":[
+        "\u5229\u8036\u5e15\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u5229\u8036\u5e15\u4e9a"
@@ -399,7 +435,7 @@
         "wd:id":"Q167668"
     },
     "wof:country":"LV",
-    "wof:geomhash":"8bfb0da5aadfc38688208d239419132d",
+    "wof:geomhash":"162a5e37919d317410ce800b815e6bef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -414,7 +450,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353997,
+    "wof:lastmodified":1690938796,
     "wof:name":"Liepaja",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

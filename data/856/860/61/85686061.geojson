@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Kandavas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Kandava"
+    ],
     "name:dan_x_preferred":[
         "Kandava municipality"
     ],
@@ -119,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce78\ub2e4\ubc14 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uce78\ub2e4\ubc14\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Kandavas Novads"
@@ -185,6 +191,9 @@
     ],
     "name:zho_x_preferred":[
         "\u574e\u9054\u74e6\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u574e\u9054\u74e6\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -287,7 +296,7 @@
         "wd:id":"Q2024643"
     },
     "wof:country":"LV",
-    "wof:geomhash":"f9117094bf12b6f17b35a4b21d6aedec",
+    "wof:geomhash":"396b731a0c1e11d1a797084fcbe3ba21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -302,7 +311,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938796,
     "wof:name":"Kandavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

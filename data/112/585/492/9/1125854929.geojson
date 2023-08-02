@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u067e\u0644\u064a\u0646\u0633\u064a\u0645\u0633"
+    ],
     "name:ceb_x_preferred":[
         "Plie\u0146ciems"
     ],
     "name:eng_x_preferred":[
+        "Plie\u0146ciems"
+    ],
+    "name:est_x_preferred":[
         "Plie\u0146ciems"
     ],
     "name:lav_x_preferred":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125854929,
-    "wof:lastmodified":1566599091,
+    "wof:lastmodified":1690938870,
     "wof:name":"Plie\u0146ciems",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

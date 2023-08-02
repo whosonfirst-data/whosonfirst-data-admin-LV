@@ -52,6 +52,9 @@
     "name:cat_x_preferred":[
         "Municipi de Kr\u0101slava"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Kr\u0101slava"
+    ],
     "name:dan_x_preferred":[
         "Kr\u0101slava municipality"
     ],
@@ -93,6 +96,9 @@
     ],
     "name:hun_x_preferred":[
         "Kr\u0101slava"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u0561\u057d\u056c\u0561\u057e\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Kr\u0101slava"
@@ -183,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u514b\u62c9\u65af\u62c9\u74e6\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u62c9\u65af\u62c9\u74e6\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -286,7 +295,7 @@
         "wd:id":"Q1831695"
     },
     "wof:country":"LV",
-    "wof:geomhash":"cd4a22ccfef437536866b26689d302c6",
+    "wof:geomhash":"63d49b2af259f1a38388e68d1a8a1e82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -301,7 +310,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938805,
     "wof:name":"Kraslavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

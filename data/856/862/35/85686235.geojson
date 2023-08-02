@@ -52,6 +52,9 @@
     "name:cat_x_preferred":[
         "Municipi de Balvi"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Balvi"
+    ],
     "name:dan_x_preferred":[
         "Balvi municipality"
     ],
@@ -187,6 +190,9 @@
     "name:zho_x_preferred":[
         "\u5df4\u723e\u7dad\u81ea\u6cbb\u5e02"
     ],
+    "name:zho_x_variant":[
+        "\u5df4\u723e\u7dad\u5e02\u93ae"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
     "ne:adm0_label":"2",
@@ -291,7 +297,7 @@
         "wd:id":"Q2018672"
     },
     "wof:country":"LV",
-    "wof:geomhash":"6f447da845274717994179779ca847f1",
+    "wof:geomhash":"e117b1e5fe446e7b0dddc035bd87f743",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354001,
+    "wof:lastmodified":1690938811,
     "wof:name":"Balvu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

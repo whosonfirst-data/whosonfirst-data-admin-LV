@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.4945555084,56.9445701967,23.4945555084,56.9445701967",
+    "geom:bbox":"23.494556,56.94457,23.494556,56.94457",
     "geom:latitude":56.94457,
     "geom:longitude":23.494556,
     "iso:country":"LV",
@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "\u0136emeri"
     ],
+    "name:ces_x_preferred":[
+        "\u0136emeri"
+    ],
     "name:dan_x_preferred":[
         "\u0136emeri"
     ],
@@ -33,6 +36,9 @@
         "\u0136emeri"
     ],
     "name:est_x_preferred":[
+        "\u0136emeri"
+    ],
+    "name:gle_x_preferred":[
         "\u0136emeri"
     ],
     "name:hye_x_preferred":[
@@ -44,14 +50,29 @@
     "name:lit_x_preferred":[
         "Kemeriai"
     ],
+    "name:nld_x_preferred":[
+        "\u0136emeri"
+    ],
     "name:nno_x_preferred":[
+        "\u0136emeri"
+    ],
+    "name:pap_x_preferred":[
         "\u0136emeri"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u043c\u0435\u0440\u0438"
     ],
+    "name:slk_x_preferred":[
+        "\u0136emeri"
+    ],
+    "name:spa_x_preferred":[
+        "\u0136emeri"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043c\u0435\u0440\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u8036\u6885\u91cc"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -66,7 +87,7 @@
     },
     "wof:country":"LV",
     "wof:created":1491362530,
-    "wof:geomhash":"cebed3a6241941421f84c3d6e6709ed0",
+    "wof:geomhash":"4d2ec96722037c4bc0a38c5d8ee814fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +98,7 @@
         }
     ],
     "wof:id":1108941595,
-    "wof:lastmodified":1566598995,
+    "wof:lastmodified":1690938818,
     "wof:name":"Kemeri",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",
@@ -87,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.49455550844927,
-    56.9445701966678,
-    23.49455550844927,
-    56.9445701966678
+    23.494556,
+    56.94457,
+    23.494556,
+    56.94457
 ],
-  "geometry": {"coordinates":[23.49455550844927,56.9445701966678],"type":"Point"}
+  "geometry": {"coordinates":[23.494556,56.94457],"type":"Point"}
 }

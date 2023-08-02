@@ -55,6 +55,9 @@
     "name:cat_x_preferred":[
         "Raion de Kuldigas"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Kuld\u012bga"
+    ],
     "name:dan_x_preferred":[
         "Kuld\u012bgas distrikt"
     ],
@@ -114,6 +117,9 @@
     ],
     "name:hun_x_preferred":[
         "Kuld\u012bga"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u056c\u0564\u056b\u0563\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Kuld\u012bga"
@@ -198,6 +204,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5eab\u723e\u8fea\u52a0\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5eab\u723e\u8fea\u52a0\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -300,7 +309,7 @@
         "wd:id":"Q2337188"
     },
     "wof:country":"LV",
-    "wof:geomhash":"65ce8bff2af2be2384b5c701cb98a424",
+    "wof:geomhash":"6d287297448d689a868082f957a5fdef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,7 +324,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938799,
     "wof:name":"Kuldigas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

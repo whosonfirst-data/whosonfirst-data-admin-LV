@@ -43,8 +43,17 @@
     "name:lit_x_preferred":[
         "Jaundubultai"
     ],
+    "name:nld_x_preferred":[
+        "Jaundubulti"
+    ],
     "name:rus_x_preferred":[
         "\u042f\u0443\u043d\u0434\u0443\u0431\u0443\u043b\u0442\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Jaundubulti"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u675c\u5e03\u5c14\u5b63"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_fcode":"PPLX",
@@ -111,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1690938777,
     "wof:name":"Jaundubulti",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

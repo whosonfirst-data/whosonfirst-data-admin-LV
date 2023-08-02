@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Abragciems"
     ],
+    "name:est_x_preferred":[
+        "Abragciems"
+    ],
     "name:lav_x_preferred":[
         "Abragciems"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126038161,
-    "wof:lastmodified":1566599085,
+    "wof:lastmodified":1690938863,
     "wof:name":"Abragciems",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

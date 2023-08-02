@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "L\u012bv\u0101nu Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref L\u012bv\u0101ni"
+    ],
     "name:dan_x_preferred":[
         "L\u012bv\u0101ni"
     ],
@@ -72,6 +75,9 @@
         "Livani",
         "L\u012bv\u0101ni municipality",
         "L\u012bv\u0101ni Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto L\u012bv\u0101ni"
     ],
     "name:est_x_preferred":[
         "L\u012bv\u0101ni piirkond"
@@ -121,6 +127,9 @@
     "name:kor_x_preferred":[
         "\ub9ac\ubc14\ub2c8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub9ac\ubc14\ub2c8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "L\u012bv\u0101nu Novads"
     ],
@@ -141,6 +150,9 @@
     ],
     "name:msa_x_preferred":[
         "Livani municipality"
+    ],
+    "name:nan_x_preferred":[
+        "L\u012bv\u0101ni Ch\u016b-t\u012b-th\u00e9"
     ],
     "name:nld_x_preferred":[
         "L\u012bv\u0101nu novads"
@@ -189,6 +201,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5229\u74e6\u5c3c\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5229\u74e6\u5c3c\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -291,7 +306,7 @@
         "wd:id":"Q2277489"
     },
     "wof:country":"LV",
-    "wof:geomhash":"59304e28f9819e1df2064663cd4f0e16",
+    "wof:geomhash":"82fbe4debefe6072b16b21d507880234",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +321,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938785,
     "wof:name":"Livanu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

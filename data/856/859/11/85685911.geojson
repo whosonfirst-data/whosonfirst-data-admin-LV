@@ -163,6 +163,9 @@
     "name:mar_x_preferred":[
         "\u091c\u0945\u0915\u092c\u092a\u093f\u0932\u094d\u0938"
     ],
+    "name:mdf_x_preferred":[
+        "\u0415\u043a\u0430\u0431\u043f\u0438\u043b\u0441"
+    ],
     "name:mkd_x_preferred":[
         "\u0408\u0435\u043a\u0430\u0431\u043f\u0438\u043b\u0441"
     ],
@@ -235,6 +238,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e08\u0e40\u0e04\u0e1a\u0e1e\u0e34\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e22\u0e01\u0e31\u0e1b\u0e1b\u0e34\u0e25\u0e2a\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Jekabpils"
     ],
@@ -249,6 +255,12 @@
     ],
     "name:vol_x_preferred":[
         "J\u0113kabpils"
+    ],
+    "name:vro_x_preferred":[
+        "J\u0113kabpils"
+    ],
+    "name:yue_x_preferred":[
+        "\u8449\u5361\u5e03\u76ae\u723e\u65af"
     ],
     "name:zho_x_preferred":[
         "\u8449\u5361\u5e03\u76ae\u723e\u65af"
@@ -295,7 +307,7 @@
         "wd:id":"Q191120"
     },
     "wof:country":"LV",
-    "wof:geomhash":"1e1b0114dbf33f61157d2d08d7b20ad4",
+    "wof:geomhash":"e81508be664eff5332a3384f5d65c847",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,7 +322,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938783,
     "wof:name":"Jekabpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

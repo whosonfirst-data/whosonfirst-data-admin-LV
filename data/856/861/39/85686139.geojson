@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "K\u0101rsavas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref K\u0101rsava"
+    ],
     "name:dan_x_preferred":[
         "K\u0101rsava municipality"
     ],
@@ -99,6 +102,9 @@
     "name:hun_x_preferred":[
         "K\u0101rsava"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u057d\u0561\u057e\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya K\u0101rsava"
     ],
@@ -116,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ub974\uc0ac\ubc14 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ub974\uc0ac\ubc14\uc2dc"
     ],
     "name:lav_x_preferred":[
         "K\u0101rsavas Novads"
@@ -188,6 +197,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u723e\u85a9\u74e6\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u723e\u85a9\u74e6\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -290,7 +302,7 @@
         "wd:id":"Q2395952"
     },
     "wof:country":"LV",
-    "wof:geomhash":"a3dbc1fb92f9ef64511fc50fe4c608b8",
+    "wof:geomhash":"f91da4d657cb3259c3d6eeb294e32ba8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,7 +317,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938793,
     "wof:name":"Karsavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

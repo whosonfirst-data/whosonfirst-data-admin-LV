@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "Vai\u0146odes Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Vai\u0146ode"
+    ],
     "name:dan_x_preferred":[
         "Vai\u0146ode municipality"
     ],
@@ -120,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc774\ub1e8\ub370 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\uc774\ub1e8\ub370\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Vai\u0146odes novads"
@@ -186,6 +192,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74e6\u4f0a\u8afe\u8fea\u65af\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u4f0a\u5c3c\u5967\u4ee3\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -288,7 +297,7 @@
         "wd:id":"Q511151"
     },
     "wof:country":"LV",
-    "wof:geomhash":"6d4b20a5b9a2e47bad317a9246187346",
+    "wof:geomhash":"2225b00faa6822c114bfa77db9b2748d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353997,
+    "wof:lastmodified":1690938807,
     "wof:name":"Vainodes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

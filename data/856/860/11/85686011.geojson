@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "\u0136eguma Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref \u0136egums"
+    ],
     "name:dan_x_preferred":[
         "Kegums municipality"
     ],
@@ -100,6 +103,9 @@
     "name:hun_x_preferred":[
         "Keguma"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0563\u0578\u0582\u0574\u057d\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya \u0136egums"
     ],
@@ -117,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\uccb4\uad7c\uc2a4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uccb4\uad7c\uc2a4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "\u0136eguma Novads"
@@ -183,6 +192,9 @@
     ],
     "name:zho_x_preferred":[
         "\u51f1\u53e4\u59c6\u65af\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u57fa\u8036\u53e4\u59c6\u65af\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -285,7 +297,7 @@
         "wd:id":"Q2072209"
     },
     "wof:country":"LV",
-    "wof:geomhash":"4e7ed093571f06631231d188096c5321",
+    "wof:geomhash":"61a3a493de80b64ff3491028bca8db89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -300,7 +312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938798,
     "wof:name":"Keguma",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

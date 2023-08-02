@@ -47,12 +47,21 @@
     "name:lav_x_preferred":[
         "Tor\u0146akalns"
     ],
+    "name:nld_x_preferred":[
+        "Tor\u0146akalns"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0440\u043d\u044f\u043a\u0430\u043b\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Tor\u0146akalns"
     ],
     "name:und_x_colloquial":[
         "Tornakalns",
         "Tornyakalns"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u5c14\u5c3c\u4e9a\u5361\u5c14\u5185\u65af"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_fcode":"PPLX",
@@ -119,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1690938777,
     "wof:name":"Tornakalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

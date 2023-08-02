@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "Il\u016bkstes Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Il\u016bkste"
+    ],
     "name:dan_x_preferred":[
         "Il\u016bkste municipality"
     ],
@@ -123,6 +126,9 @@
     "name:kor_x_preferred":[
         "\uc77c\ub8e9\uc2a4\ud14c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc77c\ub8e9\uc2a4\ud14c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Il\u016bkstes novads"
     ],
@@ -185,6 +191,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u76e7\u514b\u65af\u6cf0\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u4f0a\u76e7\u514b\u65af\u6cf0\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -287,7 +296,7 @@
         "wd:id":"Q2025473"
     },
     "wof:country":"LV",
-    "wof:geomhash":"c60bad01372eb9045f18e55c849cf233",
+    "wof:geomhash":"aa3d645f3235fbc2de50c01b3b2e172d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -302,7 +311,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353997,
+    "wof:lastmodified":1690938808,
     "wof:name":"Ilukstes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

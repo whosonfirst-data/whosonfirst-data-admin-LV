@@ -113,6 +113,9 @@
     "name:hye_x_preferred":[
         "\u054c\u0565\u0566\u0565\u056f\u0576\u0565"
     ],
+    "name:hyw_x_preferred":[
+        "\u054c\u0565\u0566\u0565\u056f\u0576\u0565"
+    ],
     "name:ind_x_preferred":[
         "R\u0113zekne"
     ],
@@ -152,11 +155,17 @@
     "name:mar_x_preferred":[
         "\u0930\u0940\u091c\u0947\u0915\u094d\u0928\u0947"
     ],
+    "name:mdf_x_preferred":[
+        "\u0420\u044d\u0437\u044d\u043a\u043d\u044d"
+    ],
     "name:mkd_x_preferred":[
         "\u0420\u0435\u0437\u0435\u043a\u043d\u0435"
     ],
     "name:msa_x_preferred":[
         "Rezekne"
+    ],
+    "name:myv_x_preferred":[
+        "\u0420\u044d\u0437\u044d\u043a\u043d\u044d"
     ],
     "name:nld_x_preferred":[
         "R\u0113zekne"
@@ -242,14 +251,26 @@
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0632\u06a9\u0646\u06d2"
     ],
+    "name:uzb_x_preferred":[
+        "Rezekne"
+    ],
     "name:vie_x_preferred":[
         "Rezekne"
     ],
     "name:vol_x_preferred":[
         "R\u0113zekne"
     ],
+    "name:vro_x_preferred":[
+        "R\u00e4is\u00e4ku"
+    ],
     "name:war_x_preferred":[
         "R\u0113zekne"
+    ],
+    "name:wuu_x_preferred":[
+        "\u96f7\u6cfd\u514b\u5185"
+    ],
+    "name:yue_x_preferred":[
+        "\u96f7\u6fa4\u514b\u5167"
     ],
     "name:zho_x_preferred":[
         "\u96f7\u6fa4\u514b\u5167"
@@ -394,7 +415,7 @@
         }
     ],
     "wof:id":101816353,
-    "wof:lastmodified":1608002170,
+    "wof:lastmodified":1690938822,
     "wof:name":"R\u0113zekne",
     "wof:parent_id":85686001,
     "wof:placetype":"locality",

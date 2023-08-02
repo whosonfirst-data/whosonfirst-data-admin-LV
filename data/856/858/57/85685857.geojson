@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "V\u0101rkavas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref V\u0101rkava"
+    ],
     "name:dan_x_preferred":[
         "V\u0101rkava municipality"
     ],
@@ -124,6 +127,9 @@
     "name:kor_x_preferred":[
         "\ubc14\ub974\uce74\ubc14 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\ub974\uce74\ubc14\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "V\u0101rkavas novads"
     ],
@@ -192,6 +198,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74e6\u5361\u74e6\u65af\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u723e\u5361\u74e6\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -294,7 +303,7 @@
         "wd:id":"Q1023757"
     },
     "wof:country":"LV",
-    "wof:geomhash":"c78b6b95341f69c512591aaca07a77a3",
+    "wof:geomhash":"06ffc5f22da15586e4568eb4657af9f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938803,
     "wof:name":"Varkavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

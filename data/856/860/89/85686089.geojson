@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Ciblas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Cibla"
+    ],
     "name:dan_x_preferred":[
         "Cibla municipality"
     ],
@@ -119,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce58\ube14\ub77c \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uce58\ube14\ub77c\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Ciblas novads"
@@ -191,6 +197,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9f4a\u5e03\u62c9\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u9f4a\u5e03\u62c9\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -293,7 +302,7 @@
         "wd:id":"Q1955102"
     },
     "wof:country":"LV",
-    "wof:geomhash":"30c37494622dd310a8e9bcaf421fe274",
+    "wof:geomhash":"800e66ea80df5252442c49607e8dc1fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -308,7 +317,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938798,
     "wof:name":"Ciblas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

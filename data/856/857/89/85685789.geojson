@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Rucavas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Rucava"
+    ],
     "name:dan_x_preferred":[
         "Rucava municipality"
     ],
@@ -97,6 +100,9 @@
     "name:hun_x_preferred":[
         "Rucavas"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0582\u0581\u0561\u057e\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya Rucava"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub8e8\ucc28\ubc14 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ub8e8\ucc28\ubc14\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Rucavas novads"
@@ -180,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u5bdf\u74e6\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u9b6f\u5bdf\u74e6\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -282,7 +294,7 @@
         "wd:id":"Q2124995"
     },
     "wof:country":"LV",
-    "wof:geomhash":"ba6a34d0bea86ef8bf721778c1a6cbd1",
+    "wof:geomhash":"ed868b47434c1299dd2fd2a42cf130fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -297,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353997,
+    "wof:lastmodified":1690938795,
     "wof:name":"Rucavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

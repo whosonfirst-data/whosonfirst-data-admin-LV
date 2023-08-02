@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Zerxten"
+    ],
     "name:eng_x_preferred":[
+        "C\u0113rkste"
+    ],
+    "name:est_x_preferred":[
         "C\u0113rkste"
     ],
     "name:lav_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1126008839,
-    "wof:lastmodified":1566599090,
+    "wof:lastmodified":1690938868,
     "wof:name":"C\u0113rkste",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",

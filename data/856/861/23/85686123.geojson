@@ -109,6 +109,9 @@
     "name:fra_x_preferred":[
         "Ventspils"
     ],
+    "name:frr_x_preferred":[
+        "Ventspils"
+    ],
     "name:fry_x_preferred":[
         "Ventspils"
     ],
@@ -135,6 +138,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054e\u0565\u0576\u057f\u057d\u057a\u056b\u056c\u057d"
+    ],
+    "name:ido_x_preferred":[
+        "Ventspils"
     ],
     "name:ile_x_preferred":[
         "Ventspils"
@@ -166,6 +172,9 @@
     "name:kor_x_preferred":[
         "\ubca4\uce20\ud544\uc2a4"
     ],
+    "name:lat_x_preferred":[
+        "Vindovia"
+    ],
     "name:lav_x_preferred":[
         "Ventspils"
     ],
@@ -177,6 +186,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0928\u094d\u091f\u0938\u094d\u092a\u093f\u0932\u094d\u0938"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0412\u044d\u043d\u0442\u0441\u043f\u0438\u043b\u0441"
     ],
     "name:mhr_x_preferred":[
         "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441"
@@ -201,6 +213,9 @@
     ],
     "name:oci_x_preferred":[
         "Ventspils"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441"
     ],
     "name:pan_x_preferred":[
         "\u0a35\u0a47\u0a02\u0a1f\u0a38\u0a2a\u0a3f\u0a32\u0a38"
@@ -232,6 +247,9 @@
     "name:slk_x_preferred":[
         "Ventspils"
     ],
+    "name:smn_x_preferred":[
+        "Ventspils"
+    ],
     "name:spa_x_preferred":[
         "Ventspils"
     ],
@@ -239,6 +257,9 @@
         "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441"
     ],
     "name:swe_x_preferred":[
+        "Ventspils"
+    ],
+    "name:szl_x_preferred":[
         "Ventspils"
     ],
     "name:tam_x_preferred":[
@@ -252,6 +273,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e27\u0e19\u0e15\u0e4c\u0e2a\u0e1b\u0e34\u0e25\u0e2a\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e27\u0e47\u0e19\u0e15\u0e2a\u0e4c\u0e1b\u0e34\u0e25\u0e2a\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Ventspils"
@@ -274,8 +298,17 @@
     "name:vol_x_preferred":[
         "Ventspils"
     ],
+    "name:vro_x_preferred":[
+        "Ventspils"
+    ],
     "name:war_x_preferred":[
         "Ventspils"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6587\u8328\u76ae\u5c14\u65af"
+    ],
+    "name:yue_x_preferred":[
+        "\u96f2\u7279\u53f2\u6bd4\u65af"
     ],
     "name:zho_cn_x_preferred":[
         "\u6587\u8328\u76ae\u5c14\u65af"
@@ -328,7 +361,7 @@
         "wd:id":"Q104036"
     },
     "wof:country":"LV",
-    "wof:geomhash":"1d39b6b08366d35945835b20bec79036",
+    "wof:geomhash":"214b98d369422372303bdce34778c68f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -343,7 +376,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938793,
     "wof:name":"Ventspils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

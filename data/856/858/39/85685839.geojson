@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "Auces Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Auce"
+    ],
     "name:dan_x_preferred":[
         "Auce municipality"
     ],
@@ -121,6 +124,9 @@
     "name:kor_x_preferred":[
         "\uc544\uc6b0\uccb4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\uc6b0\uccb4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Auces novads"
     ],
@@ -183,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5967\u91c7\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5967\u91c7\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -285,7 +294,7 @@
         "wd:id":"Q1934932"
     },
     "wof:country":"LV",
-    "wof:geomhash":"e7f49c45ddc5c5fc0ab8430e305aa054",
+    "wof:geomhash":"f91352d9c534483fa08bea9c28b65294",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -300,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938808,
     "wof:name":"Auces",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

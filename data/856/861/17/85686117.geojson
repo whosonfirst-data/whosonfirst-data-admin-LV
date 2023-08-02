@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "In\u010dukalna Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref In\u010dukalns"
+    ],
     "name:dan_x_preferred":[
         "Incukalns Municipality"
     ],
@@ -123,6 +126,9 @@
     "name:kor_x_preferred":[
         "\uc778\ucd94\uce7c\ub978\uc2a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc778\ucd94\uce7c\ub978\uc2a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "In\u010dukalna Novads"
     ],
@@ -156,6 +162,9 @@
     "name:rus_x_preferred":[
         "\u0418\u043d\u0447\u0443\u043a\u0430\u043b\u043d\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     ],
+    "name:rus_x_variant":[
+        "\u0418\u043d\u0447\u0443\u043a\u0430\u043b\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    ],
     "name:sin_x_preferred":[
         "\u0d89\u0db1\u0dca\u0d9a\u0dd4\u0d9a\u0dbd\u0dca\u0db1\u0dca\u0dc3\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
     ],
@@ -188,6 +197,9 @@
     ],
     "name:zho_x_preferred":[
         "\u82f1\u4e18\u5361\u723e\u7d0d\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5370\u695a\u5361\u502b\u65af\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -290,7 +302,7 @@
         "wd:id":"Q2252820"
     },
     "wof:country":"LV",
-    "wof:geomhash":"af0df01580480ff2229fd3ebf10ca145",
+    "wof:geomhash":"6d5b7f2650f0fa21b585b3248aa40ba0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,7 +317,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938791,
     "wof:name":"Incukalna",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

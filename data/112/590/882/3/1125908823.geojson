@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "S\u0113me"
+    ],
     "name:eng_x_preferred":[
         "S\u0113me"
     ],
@@ -32,6 +35,9 @@
         "S\u0113me"
     ],
     "name:nld_x_preferred":[
+        "S\u0113me"
+    ],
+    "name:swe_x_preferred":[
         "S\u0113me"
     ],
     "name:und_x_variant":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125908823,
-    "wof:lastmodified":1566599088,
+    "wof:lastmodified":1690938866,
     "wof:name":"S\u0113me",
     "wof:parent_id":85686083,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.0234301718,57.0396809721,24.0234301718,57.0396809721",
+    "geom:bbox":"24.02343,57.039681,24.02343,57.039681",
     "geom:latitude":57.039681,
     "geom:longitude":24.02343,
     "iso:country":"LV",
@@ -38,6 +38,9 @@
     "name:est_x_preferred":[
         "Daugavgr\u012bva"
     ],
+    "name:fin_x_preferred":[
+        "V\u00e4in\u00e4nsuu"
+    ],
     "name:fra_x_preferred":[
         "Daugavgr\u012bva"
     ],
@@ -50,6 +53,9 @@
     "name:lav_x_preferred":[
         "Daugavgr\u012bva"
     ],
+    "name:lit_x_preferred":[
+        "Daugavgriva"
+    ],
     "name:nld_x_preferred":[
         "Daugavgr\u012bva"
     ],
@@ -59,11 +65,17 @@
     "name:pol_x_preferred":[
         "Dynemunt"
     ],
+    "name:pol_x_variant":[
+        "Dyjament"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0414\u0432\u0438\u043d\u0441\u043a"
     ],
     "name:rus_x_variant":[
         "\u0414\u0430\u0443\u0433\u0430\u0432\u0433\u0440\u0438\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Daugavgr\u012bva"
     ],
     "name:swe_x_preferred":[
         "Daugavgr\u012bva"
@@ -89,7 +101,7 @@
     },
     "wof:country":"LV",
     "wof:created":1491362460,
-    "wof:geomhash":"95aa91987d9f0071610fec2578386982",
+    "wof:geomhash":"5de17895264470eb7012d5ea695246d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1108941483,
-    "wof:lastmodified":1566599000,
+    "wof:lastmodified":1690938819,
     "wof:name":"Daugavgriva",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",
@@ -110,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.02343017183157,
-    57.03968097212774,
-    24.02343017183157,
-    57.03968097212774
+    24.02343,
+    57.039681,
+    24.02343,
+    57.039681
 ],
-  "geometry": {"coordinates":[24.02343017183157,57.03968097212774],"type":"Point"}
+  "geometry": {"coordinates":[24.02343,57.039681],"type":"Point"}
 }

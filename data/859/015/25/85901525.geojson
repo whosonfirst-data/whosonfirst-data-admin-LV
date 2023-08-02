@@ -45,11 +45,20 @@
     "name:lav_x_preferred":[
         "Dzintari"
     ],
+    "name:nld_x_preferred":[
+        "Dzintari"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0437\u0438\u043d\u0442\u0430\u0440\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Dzintari"
+    ],
     "name:swe_x_preferred":[
         "Dzintari"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d25\u5854\u91cc"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_fcode":"PPLX",
@@ -118,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1690938778,
     "wof:name":"Dzintari",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

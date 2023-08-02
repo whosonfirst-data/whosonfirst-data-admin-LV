@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.0824817152,56.9997492451,24.0824817152,56.9997492451",
+    "geom:bbox":"24.082482,56.999749,24.082482,56.999749",
     "geom:latitude":56.999749,
     "geom:longitude":24.082482,
     "iso:country":"LV",
@@ -32,8 +32,17 @@
     "name:lav_x_preferred":[
         "Voleri"
     ],
+    "name:nld_x_preferred":[
+        "Voleri"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u043b\u0435\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Voleri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043b\u0435\u0440\u0456"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -48,7 +57,7 @@
     },
     "wof:country":"LV",
     "wof:created":1491362458,
-    "wof:geomhash":"3f68bae4c4b4c7dcc3d0dfc139274523",
+    "wof:geomhash":"bdadd26b32ef9a84b6618a38ffaccbfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1108941479,
-    "wof:lastmodified":1566599000,
+    "wof:lastmodified":1690938819,
     "wof:name":"Voleri",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",
@@ -69,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.08248171521537,
-    56.99974924507323,
-    24.08248171521537,
-    56.99974924507323
+    24.082482,
+    56.999749,
+    24.082482,
+    56.999749
 ],
-  "geometry": {"coordinates":[24.08248171521537,56.99974924507323],"type":"Point"}
+  "geometry": {"coordinates":[24.082482,56.999749],"type":"Point"}
 }

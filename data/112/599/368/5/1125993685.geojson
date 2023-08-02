@@ -49,11 +49,17 @@
     "name:eng_x_preferred":[
         "P\u013cavi\u0146as"
     ],
+    "name:epo_x_preferred":[
+        "P\u013cavi\u0146as"
+    ],
     "name:est_x_preferred":[
         "P\u013cavi\u0146as"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0644\u0627\u0648\u06cc\u0646\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "P\u013cavi\u0146as"
     ],
     "name:fra_x_preferred":[
         "P\u013cavi\u0146as"
@@ -72,6 +78,9 @@
     ],
     "name:lit_x_preferred":[
         "Pliavinios"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041f\u043b\u044f\u0432\u0438\u043d\u044f\u0441"
     ],
     "name:pol_x_preferred":[
         "P\u013cavi\u0146as"
@@ -99,6 +108,9 @@
     ],
     "name:zho_x_preferred":[
         "\u666e\u62c9\u7dad\u7d0d\u65af"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u5229\u4e9a\u7ef4\u5c3c\u4e9a\u65af"
     ],
     "qs_pg:aaroncc":"LV",
     "qs_pg:gn_country":"LV",
@@ -149,7 +161,7 @@
         }
     ],
     "wof:id":1125993685,
-    "wof:lastmodified":1566599087,
+    "wof:lastmodified":1690938866,
     "wof:name":"Pl\u0327avin\u0327as",
     "wof:parent_id":85686055,
     "wof:placetype":"locality",

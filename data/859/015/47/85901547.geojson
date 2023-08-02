@@ -56,8 +56,14 @@
         "Myulgrahen",
         "Vetmilgravis"
     ],
+    "name:nld_x_preferred":[
+        "Vecm\u012blgr\u0101vis"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u0446\u043c\u0438\u043b\u0433\u0440\u0430\u0432\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Vecm\u012blgr\u0101vis"
     ],
     "name:und_x_colloquial":[
         "Muehlgraben",
@@ -69,6 +75,9 @@
         "M\u00fchlgraben",
         "St\u00e1ryy My\u00fal'graben",
         "Staryy Myul\u2019graben"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u8328\u7c73\u723e\u683c\u62c9\u7dad\u65af"
     ],
     "qs:gn_adm0_cc":"LV",
     "qs:gn_fcode":"PPLX",
@@ -134,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1690938778,
     "wof:name":"Vecmilgravis",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

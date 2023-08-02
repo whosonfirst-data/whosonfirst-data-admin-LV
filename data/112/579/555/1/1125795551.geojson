@@ -22,10 +22,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0643\u0644\u0627\u067e\u0643\u0627\u0644\u0646\u0633\u064a\u0645\u0633"
+    ],
     "name:ceb_x_preferred":[
         "Klapkalnciems"
     ],
+    "name:ces_x_preferred":[
+        "Klapkalnciems"
+    ],
+    "name:deu_x_preferred":[
+        "Klapkalnciems"
+    ],
     "name:eng_x_preferred":[
+        "Klapkalnciems"
+    ],
+    "name:est_x_preferred":[
         "Klapkalnciems"
     ],
     "name:lav_x_preferred":[
@@ -35,6 +47,12 @@
         "Klapkalnciems"
     ],
     "name:pol_x_preferred":[
+        "Klapkalnciems"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u043f\u043a\u0430\u043b\u043d\u0446\u0438\u0435\u043c\u0441"
+    ],
+    "name:slk_x_preferred":[
         "Klapkalnciems"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +112,7 @@
         }
     ],
     "wof:id":1125795551,
-    "wof:lastmodified":1566599092,
+    "wof:lastmodified":1690938871,
     "wof:name":"Klapkalnciems",
     "wof:parent_id":85686103,
     "wof:placetype":"locality",
