@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "Lielv\u0101rdes Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Lielv\u0101rde"
+    ],
     "name:dan_x_preferred":[
         "Lielv\u0101rde municipality"
     ],
@@ -122,6 +125,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\uc5d8\ubc14\ub974\ub370 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\uc5d8\ubc14\ub974\ub370\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Lielv\u0101rdes Novads"
@@ -188,6 +194,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5229\u8036\u723e\u74e6\u723e\u4ee3\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5229\u8036\u723e\u74e6\u723e\u4ee3\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -290,7 +299,7 @@
         "wd:id":"Q279004"
     },
     "wof:country":"LV",
-    "wof:geomhash":"5e67a4e48643a11c47a9cf65b1f4a122",
+    "wof:geomhash":"943da3ad92bde7d6cebb64e9fea6c281",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,7 +314,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938782,
     "wof:name":"Lielvardes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

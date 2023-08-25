@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Kokneses Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Koknese"
+    ],
     "name:dan_x_preferred":[
         "Koknese municipality"
     ],
@@ -118,6 +121,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\ud06c\ub124\uc138 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ucf54\ud06c\ub124\uc138\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Kokneses Novads"
@@ -187,6 +193,9 @@
     ],
     "name:zho_x_preferred":[
         "\u79d1\u514b\u5167\u585e\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u514b\u5167\u585e\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -289,7 +298,7 @@
         "wd:id":"Q865682"
     },
     "wof:country":"LV",
-    "wof:geomhash":"44488fa81dffe1caa45538b52a969585",
+    "wof:geomhash":"47719b11e620ae6774c230ebecd3e3fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -304,7 +313,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938802,
     "wof:name":"Kokneses",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

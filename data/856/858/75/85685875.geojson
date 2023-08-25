@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Vies\u012btes Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Vies\u012bte"
+    ],
     "name:dan_x_preferred":[
         "Vies\u012bte municipality"
     ],
@@ -117,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube44\uc5d0\uc2dc\ud14c \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ube44\uc5d0\uc2dc\ud14c\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Vies\u012btes novads"
@@ -186,6 +192,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7dad\u57c3\u8cfd\u63d0\u65af\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u7dad\u8036\u897f\u6cf0\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -288,7 +297,7 @@
         "wd:id":"Q2093996"
     },
     "wof:country":"LV",
-    "wof:geomhash":"de06e6b8711833a0704961c4606f1709",
+    "wof:geomhash":"2e986511cde33a693a414e63358d5689",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938806,
     "wof:name":"Viesites",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

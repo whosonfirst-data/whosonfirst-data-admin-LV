@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Kro\u0146auce"
     ],
+    "name:est_x_preferred":[
+        "Kro\u0146auce"
+    ],
     "name:lav_x_preferred":[
         "Kro\u0146auce"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125792641,
-    "wof:lastmodified":1566599092,
+    "wof:lastmodified":1690938871,
     "wof:name":"Kro\u0146auce",
     "wof:parent_id":85685837,
     "wof:placetype":"locality",

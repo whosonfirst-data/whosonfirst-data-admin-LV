@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "Baltinavas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Baltinava"
+    ],
     "name:dan_x_preferred":[
         "Baltinava municipality"
     ],
@@ -121,6 +124,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc1c\ud2f0\ub098\ubc14 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc1c\ud2f0\ub098\ubc14\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Baltinavas novads"
@@ -190,6 +196,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5df4\u723e\u5b63\u7d0d\u74e6\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u723e\u5b63\u7d0d\u74e6\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -292,7 +301,7 @@
         "wd:id":"Q2361012"
     },
     "wof:country":"LV",
-    "wof:geomhash":"22f4804303fa283ed3154e8fda4cebb8",
+    "wof:geomhash":"8ac2142ef1d92ac2d9a2f256f6339a6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -307,7 +316,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938793,
     "wof:name":"Baltinavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "P\u013cavi\u0146u Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref P\u013cavi\u0146as"
+    ],
     "name:dan_x_preferred":[
         "P\u013cavi\u0146as municipality"
     ],
@@ -100,6 +103,9 @@
     "name:hun_x_preferred":[
         "Pliavini\u0173"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u056c\u0575\u0561\u057e\u056b\u0576\u0575\u0561\u057d\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya P\u013cavi\u0146as"
     ],
@@ -117,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud50c\ub7b4\ube44\ub0d0\uc2a4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud50c\ub7b4\ube44\ub0d0\uc2a4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "P\u013cavi\u0146u novads"
@@ -186,6 +195,9 @@
     ],
     "name:zho_x_preferred":[
         "\u666e\u62c9\u7dad\u7d0d\u65af\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u5229\u4e9e\u7dad\u5c3c\u4e9e\u65af\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -288,7 +300,7 @@
         "wd:id":"Q865649"
     },
     "wof:country":"LV",
-    "wof:geomhash":"a7e6ad4a79871ebc00c6087a119e110f",
+    "wof:geomhash":"dce1ff93d6ffb01ed3958a7e5553ceb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +315,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938801,
     "wof:name":"Plavinu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

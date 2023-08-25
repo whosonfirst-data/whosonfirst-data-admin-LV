@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Bab\u012btes Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Bab\u012bte"
+    ],
     "name:dan_x_preferred":[
         "Bab\u012bte municipality"
     ],
@@ -119,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\ube44\ud14c \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\ube44\ud14c\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Bab\u012btes novads"
@@ -188,6 +194,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5df4\u6bd4\u6cf0\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u6bd4\u6cf0\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -290,7 +299,7 @@
         "wd:id":"Q2079353"
     },
     "wof:country":"LV",
-    "wof:geomhash":"973cd5a8d61981a78907b66751edf8ba",
+    "wof:geomhash":"6d1eb1a8dcd0efebda7fa30eeb0a595d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,7 +314,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938797,
     "wof:name":"Babites",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

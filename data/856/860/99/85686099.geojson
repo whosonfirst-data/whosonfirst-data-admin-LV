@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "M\u0101lpils Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref M\u0101lpils"
+    ],
     "name:dan_x_preferred":[
         "M\u0101lpils municipality"
     ],
@@ -119,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9d0\ud544\uc2a4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9d0\ud544\uc2a4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "M\u0101lpils Novads"
@@ -185,6 +191,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u723e\u76ae\u723e\u65af\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u99ac\u723e\u76ae\u723e\u65af\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -289,7 +298,7 @@
         "wd:id":"Q2304902"
     },
     "wof:country":"LV",
-    "wof:geomhash":"1307ef0365ec933d61485d4be3d5b952",
+    "wof:geomhash":"4ec5da91cd8431db87c55722bf83aede",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -304,7 +313,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938801,
     "wof:name":"Malpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

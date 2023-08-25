@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Salaspils Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Salaspils"
+    ],
     "name:dan_x_preferred":[
         "Salaspils municipality"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:eng_x_variant":[
         "Salaspils Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Salaspils"
     ],
     "name:est_x_preferred":[
         "Salaspilsi piirkond"
@@ -118,6 +124,9 @@
     "name:kor_x_preferred":[
         "\uc0b4\ub77c\uc2a4\ud544\uc2a4 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc0b4\ub77c\uc2a4\ud544\uc2a4\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Salaspils novads"
     ],
@@ -132,6 +141,9 @@
     ],
     "name:msa_x_preferred":[
         "Salaspils municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Salaspils Ch\u016b-t\u012b-th\u00e9"
     ],
     "name:nld_x_preferred":[
         "Salaspils novads"
@@ -183,6 +195,9 @@
     ],
     "name:zho_x_preferred":[
         "\u85a9\u62c9\u65af\u76ae\u723e\u65af\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u85a9\u62c9\u65af\u76ae\u723e\u65af\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -288,7 +303,7 @@
         "wd:id":"Q2140753"
     },
     "wof:country":"LV",
-    "wof:geomhash":"e83c075c4a78631bbe149685f6ee8673",
+    "wof:geomhash":"63928190d4b0f10af6831556e29de769",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938802,
     "wof:name":"Salaspils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

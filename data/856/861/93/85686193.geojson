@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "C\u0113su Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref C\u0113sis"
+    ],
     "name:dan_x_preferred":[
         "C\u0113sis distrikt"
     ],
@@ -117,6 +120,9 @@
     ],
     "name:hun_x_preferred":[
         "Cesu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0551\u0565\u057d\u056b\u057d\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya C\u0113sis"
@@ -204,6 +210,9 @@
     ],
     "name:zho_x_preferred":[
         "\u91c7\u897f\u65af\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u91c7\u897f\u65af\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -306,7 +315,7 @@
         "wd:id":"Q1989164"
     },
     "wof:country":"LV",
-    "wof:geomhash":"065d44788a3d0bb2b5266887f1f257da",
+    "wof:geomhash":"8a33744f19d11f46cc9747cc152085a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -321,7 +330,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354001,
+    "wof:lastmodified":1690938790,
     "wof:name":"Cesu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Rojas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Roja"
+    ],
     "name:dan_x_preferred":[
         "Roja municipality"
     ],
@@ -97,6 +100,9 @@
     "name:hun_x_preferred":[
         "Rojas"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0575\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya Roja"
     ],
@@ -115,6 +121,9 @@
     "name:kor_x_preferred":[
         "\ub85c\uc57c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub85c\uc57c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Rojas novads"
     ],
@@ -130,6 +139,9 @@
     "name:msa_x_preferred":[
         "Roja municipality"
     ],
+    "name:nan_x_preferred":[
+        "Roja Ch\u016b-t\u012b-th\u00e9"
+    ],
     "name:nld_x_preferred":[
         "Rojas novads"
     ],
@@ -141,6 +153,9 @@
     ],
     "name:por_x_preferred":[
         "Munic\u00edpio de Roja"
+    ],
+    "name:ron_x_preferred":[
+        "Municipalitatea Roja"
     ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
@@ -180,6 +195,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7f85\u4e9e\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u7f85\u4e9e\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -283,7 +301,7 @@
         "wd:id":"Q2302986"
     },
     "wof:country":"LV",
-    "wof:geomhash":"f185258f46a03d5f06f5e1728617cd71",
+    "wof:geomhash":"c1d2f0d0a06c7b4f7100a52951ecbc41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -298,7 +316,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354001,
+    "wof:lastmodified":1690938812,
     "wof:name":"Rojas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Skrundas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Skrunda"
+    ],
     "name:dan_x_preferred":[
         "Skrunda municipality"
     ],
@@ -97,6 +100,9 @@
     "name:hun_x_preferred":[
         "Skrunda"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u056f\u0580\u0578\u0582\u0576\u0564\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya Skrunda"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ud06c\ub8ec\ub2e4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud06c\ub8ec\ub2e4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Skrundas novads"
@@ -180,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65af\u514b\u502b\u9054\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u514b\u502b\u9054\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -282,7 +294,7 @@
         "wd:id":"Q2299239"
     },
     "wof:country":"LV",
-    "wof:geomhash":"6d76cb2ab2f9ca19c7acb610ed526576",
+    "wof:geomhash":"a01130203d4c06bcdb955edb1b61a296",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -297,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938809,
     "wof:name":"Skrundas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

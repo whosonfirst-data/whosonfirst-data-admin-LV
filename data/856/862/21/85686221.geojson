@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Dundagas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Dundaga"
+    ],
     "name:dan_x_preferred":[
         "Dundaga municipality"
     ],
@@ -120,6 +123,9 @@
     "name:kor_x_preferred":[
         "\ub454\ub2e4\uac00 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub454\ub2e4\uac00\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Dundagas novads"
     ],
@@ -182,6 +188,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6566\u9054\u52a0\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u6566\u9054\u52a0\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -284,7 +293,7 @@
         "wd:id":"Q2274832"
     },
     "wof:country":"LV",
-    "wof:geomhash":"0a2acdce6752af22ab069decbe1fd1d0",
+    "wof:geomhash":"e0d3d66380fa24c4847a367787440c06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -299,7 +308,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354001,
+    "wof:lastmodified":1690938813,
     "wof:name":"Dundagas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

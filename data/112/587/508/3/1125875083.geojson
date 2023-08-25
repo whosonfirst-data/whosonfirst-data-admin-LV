@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Kownata"
     ],
+    "name:pol_x_variant":[
+        "Kaunata"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0443\u043d\u0430\u0442\u0430"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125875083,
-    "wof:lastmodified":1566599087,
+    "wof:lastmodified":1690938865,
     "wof:name":"Kaunata",
     "wof:parent_id":85686095,
     "wof:placetype":"locality",

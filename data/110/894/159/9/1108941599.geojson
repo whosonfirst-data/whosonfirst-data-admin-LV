@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.123980874,56.9539947041,24.123980874,56.9539947041",
+    "geom:bbox":"24.123981,56.953995,24.123981,56.953995",
     "geom:latitude":56.953995,
     "geom:longitude":24.123981,
     "iso:country":"LV",
@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "District central"
     ],
+    "name:hun_x_preferred":[
+        "K\u00f6zponti ker\u00fclet"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Distretto centrale"
     ],
@@ -72,7 +78,7 @@
     },
     "wof:country":"LV",
     "wof:created":1491362531,
-    "wof:geomhash":"cf8636869126f5be44e9f94ffe413d42",
+    "wof:geomhash":"ee95a58c8d878abaa791c1ebe200a801",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108941599,
-    "wof:lastmodified":1566598995,
+    "wof:lastmodified":1690938818,
     "wof:name":"Central district",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",
@@ -93,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.12398087397423,
-    56.9539947040991,
-    24.12398087397423,
-    56.9539947040991
+    24.123981,
+    56.953995,
+    24.123981,
+    56.953995
 ],
-  "geometry": {"coordinates":[24.12398087397423,56.9539947040991],"type":"Point"}
+  "geometry": {"coordinates":[24.123981,56.953995],"type":"Point"}
 }

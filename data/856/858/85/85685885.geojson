@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Broc\u0113nu Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Broc\u0113ni"
+    ],
     "name:dan_x_preferred":[
         "Broc\u0113ni municipality"
     ],
@@ -189,6 +192,9 @@
     "name:zho_x_preferred":[
         "\u5e03\u7f85\u91c7\u5c3c\u81ea\u6cbb\u5e02"
     ],
+    "name:zho_x_variant":[
+        "\u5e03\u7f85\u91c7\u5c3c\u5e02\u93ae"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
     "ne:adm0_label":"2",
@@ -290,7 +296,7 @@
         "wd:id":"Q865717"
     },
     "wof:country":"LV",
-    "wof:geomhash":"60648b8c27a64690aa247ff20fac82d8",
+    "wof:geomhash":"54f282217e9644c78739e73d19e28644",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,7 +311,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938809,
     "wof:name":"Brocenu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Jaunpils Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Jaunpils"
+    ],
     "name:dan_x_preferred":[
         "Jaunpils municipality"
     ],
@@ -97,6 +100,9 @@
     "name:hun_x_preferred":[
         "Jaunpils"
     ],
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u0578\u0582\u0576\u057a\u056b\u056c\u057d\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya Jaunpils"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc57c\uc6b4\ud544\uc2a4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc57c\uc6b4\ud544\uc2a4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Jaunpils Novads"
@@ -180,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65b0\u76ae\u723e\u65af\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u76ae\u723e\u65af\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -284,7 +296,7 @@
         "wd:id":"Q2072154"
     },
     "wof:country":"LV",
-    "wof:geomhash":"4df359b033a03179709ce8d52188b10d",
+    "wof:geomhash":"fa4748ea5d4b660377ca25945b679660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -299,7 +311,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938784,
     "wof:name":"Jaunpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -37,6 +37,9 @@
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u044f \u0420\u044b\u0433\u0430"
     ],
+    "name:ces_x_preferred":[
+        "Vecr\u012bga"
+    ],
     "name:dan_x_preferred":[
         "Vecr\u012bga"
     ],
@@ -55,11 +58,20 @@
     "name:fra_x_preferred":[
         "Vecr\u012bga"
     ],
+    "name:hau_x_preferred":[
+        "Vecr\u012bga"
+    ],
     "name:heb_x_preferred":[
         "\u05d5\u05e7\u05e8\u05d9\u05d2\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Stara Riga"
+    ],
+    "name:hun_x_preferred":[
+        "Riga \u00f3v\u00e1rosa"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u056b\u0576 \u0584\u0561\u0572\u0561\u0584"
     ],
     "name:ind_x_preferred":[
         "Vecr\u012bga"
@@ -99,6 +111,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b\u0439 \u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "Vecr\u012bga"
+    ],
+    "name:spa_x_preferred":[
+        "Vecpils\u0113ta"
     ],
     "name:sqi_x_preferred":[
         "Vecr\u012bga"
@@ -181,7 +199,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582313191,
+    "wof:lastmodified":1690938781,
     "wof:name":"Vecriga",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

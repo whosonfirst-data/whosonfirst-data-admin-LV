@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "M\u0113rsraga Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref M\u0113rsrags"
+    ],
     "name:dan_x_preferred":[
         "M\u0113rsrags municipality"
     ],
@@ -120,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\uba54\ub974\uc2a4\ub77d\uc2a4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uba54\ub974\uc2a4\ub77d\uc2a4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "M\u0113rsraga novads"
@@ -186,6 +192,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6885\u65af\u62c9\u683c\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u6885\u723e\u65af\u62c9\u683c\u65af\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -288,7 +297,7 @@
         "wd:id":"Q2416186"
     },
     "wof:country":"LV",
-    "wof:geomhash":"fac047e285cd0a8f5719eb5aa3d6f6f9",
+    "wof:geomhash":"76a42372243792072078ced33cd3934e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938794,
     "wof:name":"Mersraga",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

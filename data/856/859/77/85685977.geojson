@@ -58,6 +58,9 @@
     "name:ceb_x_preferred":[
         "Riebi\u0146u Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Riebi\u0146i"
+    ],
     "name:dan_x_preferred":[
         "Riebi\u0146i municipality"
     ],
@@ -120,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\uc5d0\ube44\ub2c8 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\uc5d0\ube44\ub2c8\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Riebi\u0146u novads"
@@ -189,6 +195,9 @@
     ],
     "name:zho_x_preferred":[
         "\u91cc\u57c3\u6bd4\u5c3c\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u91cc\u8036\u6bd4\u5c3c\u5e02\u9547"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -291,7 +300,7 @@
         "wd:id":"Q2106159"
     },
     "wof:country":"LV",
-    "wof:geomhash":"c9cf3ff9480088583c858ded835391e8",
+    "wof:geomhash":"73f0ccc8080bdc9c5a56026055212199",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +315,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938787,
     "wof:name":"Riebinu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -42,6 +42,9 @@
     "name:rus_x_preferred":[
         "\u0413\u0440\u0438\u0437\u0438\u043d\u044c\u043a\u0430\u043b\u043d\u0441"
     ],
+    "name:spa_x_preferred":[
+        "Gr\u012bzi\u0146kalns"
+    ],
     "name:und_x_variant":[
         "Grizinkalns"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582313191,
+    "wof:lastmodified":1690938780,
     "wof:name":"Grizinkalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

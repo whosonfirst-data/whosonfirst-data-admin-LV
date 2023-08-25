@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Brizule"
     ],
+    "name:est_x_preferred":[
+        "Brizule"
+    ],
     "name:lav_x_preferred":[
         "Brizule"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1125959525,
-    "wof:lastmodified":1566599084,
+    "wof:lastmodified":1690938861,
     "wof:name":"Brizule",
     "wof:parent_id":85686083,
     "wof:placetype":"locality",

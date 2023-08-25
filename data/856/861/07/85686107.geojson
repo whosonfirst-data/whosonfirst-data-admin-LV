@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Carnikavas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Carnikava"
+    ],
     "name:dan_x_preferred":[
         "Carnikava municipality"
     ],
@@ -99,6 +102,9 @@
     "name:hun_x_preferred":[
         "Carnikavas"
     ],
+    "name:hye_x_preferred":[
+        "\u0551\u0561\u0580\u0576\u056b\u056f\u057e\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya Carnikava"
     ],
@@ -117,6 +123,9 @@
     "name:kor_x_preferred":[
         "\ucc28\ub974\ub2c8\uce74\ubc14 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ucc28\ub974\ub2c8\uce74\ubc14\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Carnikavas novads"
     ],
@@ -131,6 +140,9 @@
     ],
     "name:msa_x_preferred":[
         "Carnikava municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Carnikava Ch\u016b-t\u012b-th\u00e9"
     ],
     "name:nld_x_preferred":[
         "Carnikavas novads"
@@ -156,6 +168,9 @@
     "name:swe_x_preferred":[
         "Carnikavas novads"
     ],
+    "name:swe_x_variant":[
+        "Carnikava"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0bb0\u0bcd\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bb5\u0bbe \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
@@ -179,6 +194,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5bdf\u723e\u5c3c\u5361\u74e6\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5bdf\u723e\u5c3c\u5361\u74e6\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -281,7 +299,7 @@
         "wd:id":"Q2453125"
     },
     "wof:country":"LV",
-    "wof:geomhash":"b47515d29cc12a04ba81203a8f72071e",
+    "wof:geomhash":"5dc945b598c382cfdb2a8ee2b17fd3e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -296,7 +314,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938792,
     "wof:name":"Carnikavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

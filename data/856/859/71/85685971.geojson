@@ -43,6 +43,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0644\u063a\u0627\u0641\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0644\u062c\u0627\u0641\u0627"
+    ],
     "name:aze_x_preferred":[
         "Yelqava"
     ],
@@ -85,6 +88,9 @@
     "name:deu_x_preferred":[
         "Jelgava"
     ],
+    "name:deu_x_variant":[
+        "Mitau"
+    ],
     "name:ell_x_preferred":[
         "\u0393\u03b9\u03ad\u03bb\u03b3\u03ba\u03b1\u03b2\u03b1"
     ],
@@ -112,6 +118,9 @@
     "name:fra_x_preferred":[
         "Jelgava"
     ],
+    "name:frr_x_preferred":[
+        "Jelgava"
+    ],
     "name:glg_x_preferred":[
         "Jelgava"
     ],
@@ -136,6 +145,9 @@
     "name:hye_x_preferred":[
         "\u0535\u056c\u0563\u0561\u057e\u0561"
     ],
+    "name:ido_x_preferred":[
+        "Jelgava"
+    ],
     "name:ind_x_preferred":[
         "Jelgava"
     ],
@@ -157,8 +169,14 @@
     "name:kaz_x_preferred":[
         "\u0415\u043b\u0433\u0430\u0432\u0430"
     ],
+    "name:kir_x_preferred":[
+        "\u0415\u043b\u0433\u0430\u0432\u0430"
+    ],
     "name:kor_x_preferred":[
         "\uc610\uac00\ubc14"
+    ],
+    "name:lat_x_preferred":[
+        "Mitavia"
     ],
     "name:lav_x_preferred":[
         "Jelgava"
@@ -175,6 +193,9 @@
     "name:mar_x_preferred":[
         "\u091c\u0947\u090c\u0917\u0935\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0415\u043b\u0433\u0430\u0432\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0408\u0435\u043b\u0433\u0430\u0432\u0430"
     ],
@@ -188,6 +209,12 @@
         "Jelgava"
     ],
     "name:nob_x_preferred":[
+        "Jelgava"
+    ],
+    "name:oss_x_preferred":[
+        "\u0415\u043b\u0433\u0430\u0432\u00e6"
+    ],
+    "name:pms_x_preferred":[
         "Jelgava"
     ],
     "name:pol_x_preferred":[
@@ -220,6 +247,9 @@
     "name:slv_x_preferred":[
         "Jelgava"
     ],
+    "name:smn_x_preferred":[
+        "Jelgava"
+    ],
     "name:spa_x_preferred":[
         "Jelgava"
     ],
@@ -244,6 +274,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e22\u0e25\u0e01\u0e32\u0e27\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e22\u0e47\u0e25\u0e01\u0e32\u0e27\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Jelgava"
     ],
@@ -265,8 +298,17 @@
     "name:vol_x_preferred":[
         "Jelgava"
     ],
+    "name:vro_x_preferred":[
+        "Jelgava"
+    ],
     "name:war_x_preferred":[
         "Jelgava"
+    ],
+    "name:wuu_x_preferred":[
+        "\u53f6\u5c14\u52a0\u74e6"
+    ],
+    "name:yue_x_preferred":[
+        "\u8449\u723e\u52a0\u74e6"
     ],
     "name:zho_x_preferred":[
         "\u53f6\u5c14\u52a0\u74e6"
@@ -297,7 +339,7 @@
         "wd:id":"Q179830"
     },
     "wof:country":"LV",
-    "wof:geomhash":"b72233f81f7b10233853127b436be406",
+    "wof:geomhash":"d6b3040f27d425b60e7bb6009b9c1920",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +354,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938787,
     "wof:name":"Jelgavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

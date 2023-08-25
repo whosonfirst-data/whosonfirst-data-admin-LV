@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "P\u0101vilostas Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref P\u0101vilosta"
+    ],
     "name:dan_x_preferred":[
         "P\u0101vilosta municipality"
     ],
@@ -97,6 +100,9 @@
     "name:hun_x_preferred":[
         "Pavilostas"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u057e\u056b\u056c\u0578\u057d\u057f\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya P\u0101vilosta"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud30c\ube4c\ub85c\uc2a4\ud0c0 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud30c\ube4c\ub85c\uc2a4\ud0c0\uc2dc"
     ],
     "name:lav_x_preferred":[
         "P\u0101vilostas novads"
@@ -180,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e15\u7dad\u6d1b\u65af\u5854\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5e15\u7dad\u6d1b\u65af\u5854\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -282,7 +294,7 @@
         "wd:id":"Q1942469"
     },
     "wof:country":"LV",
-    "wof:geomhash":"f6ae0e439223fea42c119c86d5bc708e",
+    "wof:geomhash":"07ae9f1b5658ac09b8627f5ec795b253",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -297,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938786,
     "wof:name":"Pavilostas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Garkalne Municipality"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Garkalne"
+    ],
     "name:dan_x_preferred":[
         "Garkalne municipality"
     ],
@@ -119,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\uac00\ub974\uce7c\ub124 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uac00\ub974\uce7c\ub124\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Garkalnes Novads"
@@ -185,6 +191,9 @@
     ],
     "name:zho_x_preferred":[
         "\u52a0\u5361\u723e\u5c3c\u65af\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u52a0\u723e\u5361\u723e\u5167\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -287,7 +296,7 @@
         "wd:id":"Q2171669"
     },
     "wof:country":"LV",
-    "wof:geomhash":"59e07911dd4c4ecac0e99b8fb58de884",
+    "wof:geomhash":"707303a6123e6bd689b430c0fc195092",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -302,7 +311,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938798,
     "wof:name":"Garkalnes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

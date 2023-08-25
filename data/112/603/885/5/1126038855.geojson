@@ -49,6 +49,9 @@
     "name:eng_x_preferred":[
         "Mazsalaca"
     ],
+    "name:epo_x_preferred":[
+        "Mazsalaca"
+    ],
     "name:est_x_preferred":[
         "Mazsalaca"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:lit_x_preferred":[
         "Mazsalaca"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0437\u0441\u0430\u043b\u0430\u0446\u0430"
     ],
     "name:nld_x_preferred":[
         "Mazsalaca"
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1126038855,
-    "wof:lastmodified":1566599086,
+    "wof:lastmodified":1690938863,
     "wof:name":"Mazsalace",
     "wof:parent_id":85686303,
     "wof:placetype":"locality",

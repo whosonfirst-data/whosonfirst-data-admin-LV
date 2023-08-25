@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "T\u012bre\u013ci"
     ],
+    "name:dan_x_preferred":[
+        "T\u012bre\u013ci"
+    ],
     "name:eng_x_preferred":[
         "T\u012bre\u013ci"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126039241,
-    "wof:lastmodified":1566599086,
+    "wof:lastmodified":1690938863,
     "wof:name":"T\u012bre\u013ci",
     "wof:parent_id":85685971,
     "wof:placetype":"locality",

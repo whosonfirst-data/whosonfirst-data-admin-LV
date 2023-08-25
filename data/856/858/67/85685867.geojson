@@ -46,6 +46,9 @@
     "name:aze_x_preferred":[
         "Ayzput diyar\u0131"
     ],
+    "name:bak_x_preferred":[
+        "\u0410\u0439\u0437\u043f\u0443\u0442\u0435 \u043a\u0440\u0430\u0439\u044b"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0439\u0437\u043f\u0443\u0446\u043a\u0456 \u043a\u0440\u0430\u0439"
     ],
@@ -57,6 +60,12 @@
     ],
     "name:cat_x_variant":[
         "municipi d'Aizpute"
+    ],
+    "name:ceb_x_preferred":[
+        "Aizputes Novads"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Aizpute"
     ],
     "name:dan_x_preferred":[
         "Aizpute municipality"
@@ -123,6 +132,9 @@
     "name:kor_x_preferred":[
         "\uc544\uc774\uc2a4\ud478\ud14c \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\uc774\uc2a4\ud478\ud14c\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Aizputes Novads"
     ],
@@ -143,6 +155,9 @@
     ],
     "name:msa_x_preferred":[
         "Aizpute municipality"
+    ],
+    "name:nan_x_preferred":[
+        "Aizpute Ch\u016b-t\u012b-th\u00e9"
     ],
     "name:nld_x_preferred":[
         "Aizputes novads"
@@ -191,6 +206,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u8332\u666e\u6cf0\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u827e\u8332\u666e\u6cf0\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -293,7 +311,7 @@
         "wd:id":"Q2485015"
     },
     "wof:country":"LV",
-    "wof:geomhash":"5d4ab401a368c45d863f2d4699ac68a9",
+    "wof:geomhash":"eda186cfe1ea5944c301ace3945d9066",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -308,7 +326,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353998,
+    "wof:lastmodified":1690938804,
     "wof:name":"Aizputes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

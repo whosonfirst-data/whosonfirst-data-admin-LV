@@ -55,6 +55,12 @@
     "name:ceb_x_preferred":[
         "Salacgr\u012bvas Novads"
     ],
+    "name:ces_x_preferred":[
+        "Kraj Salacgr\u012bva"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Salacgr\u012bva"
+    ],
     "name:dan_x_preferred":[
         "Salacgr\u012bva municipality"
     ],
@@ -97,6 +103,9 @@
     "name:hun_x_preferred":[
         "Salacgrivas"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056c\u0561\u0581\u0563\u0580\u056b\u057e\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya Salacgr\u012bva"
     ],
@@ -114,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b4\ub77c\uce20\uadf8\ub9ac\ubc14 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b4\ub77c\uce20\uadf8\ub9ac\ubc14\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Salacgr\u012bvas novads"
@@ -180,6 +192,9 @@
     ],
     "name:zho_x_preferred":[
         "\u85a9\u62c9\u8328\u683c\u91cc\u74e6\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u85a9\u62c9\u8328\u683c\u91cc\u74e6\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -282,7 +297,7 @@
         "wd:id":"Q2251931"
     },
     "wof:country":"LV",
-    "wof:geomhash":"5186ff99ce8b1b264eaa23521d3c79a2",
+    "wof:geomhash":"030322052d6732f5cfdb099548227dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -297,7 +312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354001,
+    "wof:lastmodified":1690938813,
     "wof:name":"Salacgrivas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -58,6 +58,9 @@
     "name:cat_x_variant":[
         "municipi d'Aizkraukle"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Aizkraukle"
+    ],
     "name:dan_x_preferred":[
         "Aizkraukle municipality"
     ],
@@ -190,6 +193,9 @@
     "name:zho_x_preferred":[
         "\u827e\u8332\u514b\u52de\u514b\u840a\u81ea\u6cbb\u5e02"
     ],
+    "name:zho_x_variant":[
+        "\u827e\u8332\u514b\u52de\u514b\u840a\u5e02\u93ae"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
     "ne:adm0_label":"2",
@@ -291,7 +297,7 @@
         "wd:id":"Q865676"
     },
     "wof:country":"LV",
-    "wof:geomhash":"1dfab6c95410f08e6f70f6ab6185c87b",
+    "wof:geomhash":"17952dadd6685bfa5a2736ee0f0c75ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938785,
     "wof:name":"Aizkraukles",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

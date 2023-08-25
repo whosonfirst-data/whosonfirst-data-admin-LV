@@ -41,8 +41,14 @@
     "name:lav_x_preferred":[
         "D\u0101rzciems"
     ],
+    "name:nld_x_preferred":[
+        "D\u0101rzciems"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0440\u0437\u0446\u0438\u0435\u043c\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "D\u0101rzciems"
     ],
     "name:und_x_variant":[
         "Darzciems"
@@ -104,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1690938779,
     "wof:name":"Darzciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

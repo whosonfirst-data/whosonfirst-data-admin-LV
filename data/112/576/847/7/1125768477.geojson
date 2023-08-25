@@ -46,7 +46,13 @@
     "name:deu_x_preferred":[
         "Durbe"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03cd\u03c1\u03bc\u03c0\u03b5"
+    ],
     "name:eng_x_preferred":[
+        "Durbe"
+    ],
+    "name:epo_x_preferred":[
         "Durbe"
     ],
     "name:est_x_preferred":[
@@ -76,6 +82,9 @@
     "name:ita_x_preferred":[
         "Durbe"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30eb\u30d9"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u0443\u0440\u0431\u0435"
     ],
@@ -84,6 +93,12 @@
     ],
     "name:lit_x_preferred":[
         "Durb\u0117"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0414\u0443\u0440\u0431\u044d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0443\u0440\u0431\u0435"
     ],
     "name:nld_x_preferred":[
         "Durbe"
@@ -99,6 +114,9 @@
     ],
     "name:sgs_x_preferred":[
         "Dorb\u0117"
+    ],
+    "name:smn_x_preferred":[
+        "Durbe"
     ],
     "name:spa_x_preferred":[
         "Durbe"
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":1125768477,
-    "wof:lastmodified":1566599091,
+    "wof:lastmodified":1690938869,
     "wof:name":"Durbe",
     "wof:parent_id":85685829,
     "wof:placetype":"locality",

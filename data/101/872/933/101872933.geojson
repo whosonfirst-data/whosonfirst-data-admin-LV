@@ -42,6 +42,9 @@
     "name:eng_x_preferred":[
         "Koknese"
     ],
+    "name:epo_x_preferred":[
+        "Koknese"
+    ],
     "name:est_x_preferred":[
         "Koknese"
     ],
@@ -63,11 +66,17 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30af\u30cd\u30bb"
     ],
+    "name:lat_x_preferred":[
+        "Ruthenicum castrum"
+    ],
     "name:lav_x_preferred":[
         "Koknese"
     ],
     "name:lit_x_preferred":[
         "Koknes\u0117"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041a\u043e\u043a\u043d\u044d\u0441\u044d"
     ],
     "name:nds_x_preferred":[
         "Kokenhusen"
@@ -101,6 +110,9 @@
     ],
     "name:und_x_variant":[
         "Kokneses Mui\u017ea"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u80af\u80e1\u68ee"
     ],
     "qs:a0":"Latvija",
     "qs:a1":"*Kokneses novads",
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":101872933,
-    "wof:lastmodified":1582313197,
+    "wof:lastmodified":1690938846,
     "wof:name":"Koknese",
     "wof:parent_id":85686023,
     "wof:placetype":"locality",

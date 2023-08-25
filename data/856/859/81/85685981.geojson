@@ -55,6 +55,12 @@
     "name:cat_x_variant":[
         "municipi d'Olaine"
     ],
+    "name:ceb_x_preferred":[
+        "Olaines Novads"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Olaine"
+    ],
     "name:dan_x_preferred":[
         "Olaine municipality"
     ],
@@ -71,6 +77,9 @@
         "Olaine",
         "Olaine municipality",
         "Olaine Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Olaine"
     ],
     "name:est_x_preferred":[
         "Olaine piirkond"
@@ -119,6 +128,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc62c\ub77c\uc774\ub124 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc62c\ub77c\uc774\ub124\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Olaines Novads"
@@ -185,6 +197,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5967\u840a\u5167\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5967\u840a\u5167\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -287,7 +302,7 @@
         "wd:id":"Q2451375"
     },
     "wof:country":"LV",
-    "wof:geomhash":"6d7d84ae9d625d7886c12f225af49b34",
+    "wof:geomhash":"9892b68118101159d60c0917adf6993a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -302,7 +317,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938784,
     "wof:name":"Olaines",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

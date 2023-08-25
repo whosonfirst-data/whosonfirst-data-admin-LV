@@ -22,14 +22,35 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0438\u0432\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Kaive"
+    ],
+    "name:ces_x_preferred":[
+        "Kaive"
+    ],
     "name:eng_x_preferred":[
+        "Kaive"
+    ],
+    "name:est_x_preferred":[
         "Kaive"
     ],
     "name:lav_x_preferred":[
         "Kaive"
     ],
+    "name:nld_x_preferred":[
+        "Kaive"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0439\u0432\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Kaive"
+    ],
+    "name:swe_x_preferred":[
+        "Kaive"
     ],
     "name:und_x_variant":[
         "Myza Kaives"
@@ -83,7 +104,7 @@
         }
     ],
     "wof:id":1126008845,
-    "wof:lastmodified":1566599090,
+    "wof:lastmodified":1690938868,
     "wof:name":"Kaive",
     "wof:parent_id":85686083,
     "wof:placetype":"locality",

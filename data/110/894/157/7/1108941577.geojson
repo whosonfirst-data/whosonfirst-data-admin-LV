@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.6215277708,56.9483777348,23.6215277708,56.9483777348",
+    "geom:bbox":"23.621528,56.948378,23.621528,56.948378",
     "geom:latitude":56.948378,
     "geom:longitude":23.621528,
     "iso:country":"LV",
@@ -32,11 +32,17 @@
     "name:est_x_preferred":[
         "Sloka"
     ],
+    "name:fra_x_preferred":[
+        "Sloka"
+    ],
     "name:lav_x_preferred":[
         "Sloka"
     ],
     "name:lit_x_preferred":[
         "Sluoka"
+    ],
+    "name:nld_x_preferred":[
+        "Sloka"
     ],
     "name:pol_x_preferred":[
         "Sloka"
@@ -44,11 +50,17 @@
     "name:rus_x_preferred":[
         "\u0421\u043b\u043e\u043a\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Sloka"
+    ],
     "name:swe_x_preferred":[
         "Sloka"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043b\u043e\u043a\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6d1b\u5361"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -63,7 +75,7 @@
     },
     "wof:country":"LV",
     "wof:created":1491362520,
-    "wof:geomhash":"99f5d7e2cf39c4d465bf26fbe8f3cc6a",
+    "wof:geomhash":"8b735d11b99e2c472f96bf30cef63a7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +86,7 @@
         }
     ],
     "wof:id":1108941577,
-    "wof:lastmodified":1566598994,
+    "wof:lastmodified":1690938818,
     "wof:name":"Sloka",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",
@@ -84,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.62152777082198,
-    56.94837773484551,
-    23.62152777082198,
-    56.94837773484551
+    23.621528,
+    56.948378,
+    23.621528,
+    56.948378
 ],
-  "geometry": {"coordinates":[23.62152777082198,56.94837773484551],"type":"Point"}
+  "geometry": {"coordinates":[23.621528,56.948378],"type":"Point"}
 }

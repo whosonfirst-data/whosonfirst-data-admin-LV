@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Saulkrastu Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Saulkrasti"
+    ],
     "name:dan_x_preferred":[
         "Saulkrasti municipality"
     ],
@@ -96,6 +99,9 @@
     ],
     "name:hun_x_preferred":[
         "Saulkrastu"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0578\u0582\u056c\u056f\u0580\u0561\u057d\u057f\u056b\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Saulkrasti"
@@ -180,6 +186,9 @@
     ],
     "name:zho_x_preferred":[
         "\u85a9\u70cf\u723e\u514b\u62c9\u65af\u8482\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u7d39\u723e\u514b\u62c9\u65af\u8482\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -282,7 +291,7 @@
         "wd:id":"Q371429"
     },
     "wof:country":"LV",
-    "wof:geomhash":"6de4a6487b3bf9ba2f05f259e292f6f5",
+    "wof:geomhash":"867efcf51a7c0ca28b9c9e18254041fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -297,7 +306,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354000,
+    "wof:lastmodified":1690938789,
     "wof:name":"Saulkrastu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

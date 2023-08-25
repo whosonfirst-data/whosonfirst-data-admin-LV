@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u067e\u0631\u064a\u0643\u0648\u0644\u0649"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0435\u043a\u0443\u043b\u0456"
+    ],
     "name:ceb_x_preferred":[
         "Prieku\u013ci"
     ],
@@ -29,6 +35,9 @@
         "Prieku\u013ci"
     ],
     "name:eng_x_preferred":[
+        "Prieku\u013ci"
+    ],
+    "name:epo_x_preferred":[
         "Prieku\u013ci"
     ],
     "name:est_x_preferred":[
@@ -57,6 +66,9 @@
     ],
     "name:und_x_variant":[
         "Prieku\u013cu Mui\u017ea"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u91cc\u57c3\u5eab\u5229"
     ],
     "qs_pg:aaroncc":"LV",
     "qs_pg:gn_country":"LV",
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1126027613,
-    "wof:lastmodified":1566599085,
+    "wof:lastmodified":1690938862,
     "wof:name":"Priekul\u0327i",
     "wof:parent_id":85686229,
     "wof:placetype":"locality",

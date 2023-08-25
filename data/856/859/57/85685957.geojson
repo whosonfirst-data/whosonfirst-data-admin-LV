@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Baldones Novads"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Baldone"
+    ],
     "name:dan_x_preferred":[
         "Baldone municipality"
     ],
@@ -119,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc1c\ub3c4\ub124 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc1c\ub3c4\ub124\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Baldones novads"
@@ -188,6 +194,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5df4\u723e\u591a\u5167\u81ea\u6cbb\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u723e\u591a\u5167\u5e02\u93ae"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LVA",
@@ -290,7 +299,7 @@
         "wd:id":"Q2030886"
     },
     "wof:country":"LV",
-    "wof:geomhash":"400cf850e76a7ef232cb8a170392995e",
+    "wof:geomhash":"41af56c68d4f8f92f42a7f24fb3a97b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,7 +314,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684353999,
+    "wof:lastmodified":1690938782,
     "wof:name":"Baldones",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

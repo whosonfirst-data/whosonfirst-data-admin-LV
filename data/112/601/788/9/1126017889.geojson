@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Vecmokas"
     ],
+    "name:est_x_preferred":[
+        "Vecmokas"
+    ],
     "name:lav_x_preferred":[
         "Vecmokas"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1126017889,
-    "wof:lastmodified":1566599089,
+    "wof:lastmodified":1690938867,
     "wof:name":"Vecmokas",
     "wof:parent_id":85686083,
     "wof:placetype":"locality",
