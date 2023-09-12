@@ -23,7 +23,10 @@
     "geom:longitude":23.654717,
     "iso:country":"LV",
     "label:eng_x_preferred_longname":[
-        "Jelgavas Novads"
+        "Jelgavas Republican City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "republican city"
     ],
     "label:eng_x_preferred_shortcode":[
         "JE"
@@ -339,7 +342,7 @@
         "wd:id":"Q179830"
     },
     "wof:country":"LV",
-    "wof:geomhash":"d6b3040f27d425b60e7bb6009b9c1920",
+    "wof:geomhash":"b72233f81f7b10233853127b436be406",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -354,7 +357,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938787,
+    "wof:lastmodified":1694493293,
     "wof:name":"Jelgavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

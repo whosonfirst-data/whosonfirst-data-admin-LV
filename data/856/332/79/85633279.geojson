@@ -24,6 +24,9 @@
     "itu:country_code":[
         "371"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "LV"
     ],
@@ -1295,7 +1298,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"0fe520cc19e0a0298897c0706e12a256",
+    "wof:geomhash":"c14f37a97c6ac361fcf88f2737af1b48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1309,7 +1312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938810,
+    "wof:lastmodified":1694492263,
     "wof:name":"Latvia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
