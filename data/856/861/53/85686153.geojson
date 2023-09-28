@@ -17,7 +17,7 @@
     "eurostat:population":3266,
     "eurostat:population_year":2020,
     "geom:area":0.0249,
-    "geom:area_square_m":166839004.949386,
+    "geom:area_square_m":166839171.132536,
     "geom:bbox":"24.900559,57.118821,25.196835,57.260747",
     "geom:latitude":57.189267,
     "geom:longitude":25.059174,
@@ -289,11 +289,17 @@
         "gn:id":7628363,
         "gp:id":-2346042,
         "hasc:id":"LV.LG",
+        "iso:code":"LV-055",
         "iso:id":"LV-055",
+        "qs:local_id":"4212",
         "wd:id":"Q1023736"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"93bb9f49c00c232df831ac21c9380a1e",
+    "wof:geomhash":"0caa241f30c8caf263d66c5951ec4986",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -308,7 +314,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938792,
+    "wof:lastmodified":1695885331,
     "wof:name":"Ligatnes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

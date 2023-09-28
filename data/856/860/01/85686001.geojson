@@ -379,15 +379,21 @@
         "gn:id":456203,
         "gp:id":-20070123,
         "hasc:id":"LV.RE",
+        "iso:code":"LV-077",
         "iso:id":"LV-077",
+        "qs:local_id":"2100",
         "unlc:id":"LV-REZ",
         "wd:id":"Q180379"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101816353
     ],
     "wof:country":"LV",
-    "wof:geomhash":"c4ebe73820ef417b1010c3c64e3d1010",
+    "wof:geomhash":"98adb33682fbf6616d5e9518fa9aa2c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -402,7 +408,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938801,
+    "wof:lastmodified":1695885329,
     "wof:name":"Rezekne",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -303,11 +303,17 @@
         "eurostat:nuts_2021_id":"0110000",
         "fips:code":"LG74",
         "hasc:id":"LV.JB",
+        "iso:code":"LV-JKB",
         "iso:id":"LV-JKB",
+        "qs:local_id":"1100",
         "wd:id":"Q191120"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"e81508be664eff5332a3384f5d65c847",
+    "wof:geomhash":"1e1b0114dbf33f61157d2d08d7b20ad4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -322,7 +328,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938783,
+    "wof:lastmodified":1695885329,
     "wof:name":"Jekabpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

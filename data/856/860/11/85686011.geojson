@@ -293,11 +293,17 @@
         "gn:id":7628330,
         "gp:id":-2346037,
         "hasc:id":"LV.KG",
+        "iso:code":"LV-051",
         "iso:id":"LV-051",
+        "qs:local_id":"7410",
         "wd:id":"Q2072209"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"61a3a493de80b64ff3491028bca8db89",
+    "wof:geomhash":"4e7ed093571f06631231d188096c5321",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938798,
+    "wof:lastmodified":1695885329,
     "wof:name":"Keguma",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -17,7 +17,7 @@
     "eurostat:population":19286,
     "eurostat:population_year":2020,
     "geom:area":0.129989,
-    "geom:area_square_m":884194526.060594,
+    "geom:area_square_m":884194574.669041,
     "geom:bbox":"22.775325,56.445774,23.530368,56.818353",
     "geom:latitude":56.626047,
     "geom:longitude":23.195574,
@@ -282,11 +282,17 @@
         "gn:id":460311,
         "gp:id":-2346024,
         "hasc:id":"LV.DB",
+        "iso:code":"LV-026",
         "iso:id":"LV-026",
+        "qs:local_id":"4602",
         "wd:id":"Q519580"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"27e47b886616f2f2004e80f3f75be52e",
+    "wof:geomhash":"265afda3ca6f86cd4488930637421d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -301,7 +307,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938788,
+    "wof:lastmodified":1695885329,
     "wof:name":"Dobeles",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

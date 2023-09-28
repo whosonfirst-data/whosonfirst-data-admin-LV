@@ -430,12 +430,18 @@
         "gn:id":457955,
         "gp:id":-20070118,
         "hasc:id":"LV.LJ",
+        "iso:code":"LV-LPX",
         "iso:id":"LV-LPX",
+        "qs:local_id":"1700",
         "unlc:id":"LV-LPX",
         "wd:id":"Q167668"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"162a5e37919d317410ce800b815e6bef",
+    "wof:geomhash":"8bfb0da5aadfc38688208d239419132d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -450,7 +456,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938796,
+    "wof:lastmodified":1695885328,
     "wof:name":"Liepaja",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

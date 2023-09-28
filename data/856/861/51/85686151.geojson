@@ -17,7 +17,7 @@
     "eurostat:population":2266,
     "eurostat:population_year":2020,
     "geom:area":0.028135,
-    "geom:area_square_m":189441005.420608,
+    "geom:area_square_m":189440937.037425,
     "geom:bbox":"26.157022,56.922532,26.410657,57.095529",
     "geom:latitude":57.007626,
     "geom:longitude":26.2772,
@@ -289,11 +289,17 @@
         "gn:id":7628353,
         "gp:id":-2346042,
         "hasc:id":"LV.CV",
+        "iso:code":"LV-021",
         "iso:id":"LV-021",
+        "qs:local_id":"7008",
         "wd:id":"Q2327041"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"17b1491ba8842bcd23c1d534f8bfab04",
+    "wof:geomhash":"ae1b28b27c5aeaecd361eabf11ddf0b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -308,7 +314,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938789,
+    "wof:lastmodified":1695885331,
     "wof:name":"Cesvaines",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

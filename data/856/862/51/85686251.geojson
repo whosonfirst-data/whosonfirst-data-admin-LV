@@ -299,11 +299,17 @@
         "gn:id":7628348,
         "gp:id":-2346042,
         "hasc:id":"LV.VL",
+        "iso:code":"LV-108",
         "iso:id":"LV-108",
+        "qs:local_id":"3816",
         "wd:id":"Q1869075"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"fe55dfb1687a1a72dc996e9f24de7d3c",
+    "wof:geomhash":"ca5a8831691794daaad525458b6becb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -318,7 +324,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938812,
+    "wof:lastmodified":1695885332,
     "wof:name":"Vilakas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

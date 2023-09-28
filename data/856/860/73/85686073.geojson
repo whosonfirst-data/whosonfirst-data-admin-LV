@@ -292,11 +292,17 @@
         "gn:id":7628328,
         "gp:id":-2346037,
         "hasc:id":"LV.GA",
+        "iso:code":"LV-031",
         "iso:id":"LV-031",
+        "qs:local_id":"8060",
         "wd:id":"Q2171669"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"707303a6123e6bd689b430c0fc195092",
+    "wof:geomhash":"59e07911dd4c4ecac0e99b8fb58de884",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,7 +317,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938798,
+    "wof:lastmodified":1695885330,
     "wof:name":"Garkalnes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

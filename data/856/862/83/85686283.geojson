@@ -17,7 +17,7 @@
     "eurostat:population":7369,
     "eurostat:population_year":2020,
     "geom:area":0.10581,
-    "geom:area_square_m":699110020.458016,
+    "geom:area_square_m":699110164.163638,
     "geom:bbox":"25.004852,57.540827,25.705023,57.848428",
     "geom:latitude":57.700729,
     "geom:longitude":25.35625,
@@ -286,11 +286,17 @@
         "gn:id":7628372,
         "gp:id":-2346042,
         "hasc:id":"LV.BT",
+        "iso:code":"LV-019",
         "iso:id":"LV-019",
+        "qs:local_id":"9671",
         "wd:id":"Q2079428"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"0eec5ba459af1f73bbb6ccf61d8386ca",
+    "wof:geomhash":"cb1db4555b49317505bfa6fb42e75441",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,7 +311,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938815,
+    "wof:lastmodified":1695885332,
     "wof:name":"Burtnieku",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

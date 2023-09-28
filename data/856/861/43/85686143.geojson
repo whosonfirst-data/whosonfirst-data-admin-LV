@@ -17,7 +17,7 @@
     "eurostat:population":21879,
     "eurostat:population_year":2020,
     "geom:area":0.31778,
-    "geom:area_square_m":2149801955.174335,
+    "geom:area_square_m":2149801611.812573,
     "geom:bbox":"25.725147,56.585261,26.943583,57.102065",
     "geom:latitude":56.83157,
     "geom:longitude":26.265996,
@@ -294,11 +294,17 @@
         "gn:id":457712,
         "gp:id":-2346033,
         "hasc:id":"LV.MD",
+        "iso:code":"LV-059",
         "iso:id":"LV-059",
+        "qs:local_id":"7002",
         "wd:id":"Q2198472"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"e964561c9938886344e73f86be0db001",
+    "wof:geomhash":"76dcc8abdaa9bf45e160316146814a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,7 +319,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938791,
+    "wof:lastmodified":1695885331,
     "wof:name":"Madonas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

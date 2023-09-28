@@ -299,11 +299,17 @@
         "gn:id":7628343,
         "gp:id":-2346042,
         "hasc:id":"LV.VI",
+        "iso:code":"LV-109",
         "iso:id":"LV-109",
+        "qs:local_id":"7818",
         "wd:id":"Q2018681"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"52bc7068798e96209c48067305a93d91",
+    "wof:geomhash":"ffc4143502497b1a49c64f8673e0a649",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -318,7 +324,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938803,
+    "wof:lastmodified":1695885330,
     "wof:name":"Vilanu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

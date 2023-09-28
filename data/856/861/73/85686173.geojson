@@ -17,7 +17,7 @@
     "eurostat:population":4979,
     "eurostat:population_year":2020,
     "geom:area":0.110517,
-    "geom:area_square_m":742245158.764955,
+    "geom:area_square_m":742245055.774399,
     "geom:bbox":"25.07694,56.926162,25.611866,57.300637",
     "geom:latitude":57.101768,
     "geom:longitude":25.316074,
@@ -281,11 +281,17 @@
         "gn:id":7628375,
         "gp:id":-2346042,
         "hasc:id":"LV.AM",
+        "iso:code":"LV-008",
         "iso:id":"LV-008",
+        "qs:local_id":"4247",
         "wd:id":"Q1892063"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"2509388171a55b57fe0ec41e465e3077",
+    "wof:geomhash":"df85439ebbc074bb9c3322dd2615ebf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -300,7 +306,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938790,
+    "wof:lastmodified":1695885331,
     "wof:name":"Amatas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -17,7 +17,7 @@
     "eurostat:population":32987,
     "eurostat:population_year":2020,
     "geom:area":0.145841,
-    "geom:area_square_m":986100610.898052,
+    "geom:area_square_m":986100713.414161,
     "geom:bbox":"24.555719,56.695318,25.550472,56.997415",
     "geom:latitude":56.851297,
     "geom:longitude":25.133191,
@@ -358,11 +358,17 @@
         "gn:id":457061,
         "gp:id":-2346034,
         "hasc:id":"LV.OR",
+        "iso:code":"LV-067",
         "iso:id":"LV-067",
+        "qs:local_id":"7402",
         "wd:id":"Q2321579"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"7bf73407f341f3ea0629f79ed0b4d117",
+    "wof:geomhash":"a616b9b9db85cc9dda9a5b65351d6f33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -377,7 +383,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938801,
+    "wof:lastmodified":1695885330,
     "wof:name":"Ogres",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

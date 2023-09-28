@@ -298,11 +298,17 @@
         "gn:id":7628360,
         "gp:id":-2346037,
         "hasc:id":"LV.IN",
+        "iso:code":"LV-037",
         "iso:id":"LV-037",
+        "qs:local_id":"8018",
         "wd:id":"Q2252820"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"6d5b7f2650f0fa21b585b3248aa40ba0",
+    "wof:geomhash":"af0df01580480ff2229fd3ebf10ca145",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -317,7 +323,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938791,
+    "wof:lastmodified":1695885330,
     "wof:name":"Incukalna",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

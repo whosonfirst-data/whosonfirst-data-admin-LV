@@ -290,11 +290,17 @@
         "gn:id":7628308,
         "gp:id":-2346029,
         "hasc:id":"LV.SK",
+        "iso:code":"LV-093",
         "iso:id":"LV-093",
+        "qs:local_id":"6212",
         "wd:id":"Q2299239"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"a01130203d4c06bcdb955edb1b61a296",
+    "wof:geomhash":"6d76cb2ab2f9ca19c7acb610ed526576",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +315,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938809,
+    "wof:lastmodified":1695885328,
     "wof:name":"Skrundas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

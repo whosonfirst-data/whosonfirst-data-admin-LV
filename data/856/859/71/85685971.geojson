@@ -339,8 +339,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LV_0540200",
         "eurostat:nuts_2021_id":"0540200",
+        "iso:code":"LV-041",
+        "qs:local_id":"5402",
         "wd:id":"Q179830"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
     "wof:geomhash":"b72233f81f7b10233853127b436be406",
     "wof:hierarchy":[
@@ -357,7 +363,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1694493293,
+    "wof:lastmodified":1695885329,
     "wof:name":"Jelgavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

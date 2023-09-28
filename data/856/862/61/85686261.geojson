@@ -17,7 +17,7 @@
     "eurostat:population":2927,
     "eurostat:population_year":2020,
     "geom:area":0.045218,
-    "geom:area_square_m":300226555.584932,
+    "geom:area_square_m":300226362.374684,
     "geom:bbox":"25.377132,57.430531,25.841133,57.622349",
     "geom:latitude":57.523183,
     "geom:longitude":25.595087,
@@ -290,11 +290,17 @@
         "gn:id":7628379,
         "gp:id":-2346042,
         "hasc:id":"LV.BE",
+        "iso:code":"LV-017",
         "iso:id":"LV-017",
+        "qs:local_id":"9647",
         "wd:id":"Q2018692"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"5a7438da2853ffb3b48de36deebd6bd6",
+    "wof:geomhash":"ae8d2c39514514e303b58a3eb74613b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +315,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938810,
+    "wof:lastmodified":1695885332,
     "wof:name":"Beverinas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

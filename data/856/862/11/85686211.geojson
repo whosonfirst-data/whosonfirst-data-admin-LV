@@ -297,11 +297,17 @@
         "gn:id":7628310,
         "gp:id":-2346039,
         "hasc:id":"LV.RR",
+        "iso:code":"LV-079",
         "iso:id":"LV-079",
+        "qs:local_id":"8883",
         "wd:id":"Q2302986"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"c1d2f0d0a06c7b4f7100a52951ecbc41",
+    "wof:geomhash":"f185258f46a03d5f06f5e1728617cd71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -316,7 +322,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938812,
+    "wof:lastmodified":1695885331,
     "wof:name":"Rojas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -17,7 +17,7 @@
     "eurostat:population":2148,
     "eurostat:population_year":2020,
     "geom:area":0.05115,
-    "geom:area_square_m":345343854.71061,
+    "geom:area_square_m":345344056.044889,
     "geom:bbox":"26.464521,56.795879,26.991629,56.997066",
     "geom:latitude":56.905165,
     "geom:longitude":26.719741,
@@ -314,11 +314,17 @@
         "gn:id":7628354,
         "gp:id":-2346042,
         "hasc:id":"LV.LB",
+        "iso:code":"LV-057",
         "iso:id":"LV-057",
+        "qs:local_id":"7014",
         "wd:id":"Q2072165"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"ea9cb7ff62ca6eaf48203741f4c06818",
+    "wof:geomhash":"e7d30b2d484533cc54fee37b999a238e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -333,7 +339,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938792,
+    "wof:lastmodified":1695885331,
     "wof:name":"Lubanas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

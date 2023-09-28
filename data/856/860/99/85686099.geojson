@@ -293,12 +293,18 @@
         "gn:id":7628364,
         "gp:id":-2346037,
         "hasc:id":"LV.ML",
+        "iso:code":"LV-061",
         "iso:id":"LV-061",
+        "qs:local_id":"8074",
         "unlc:id":"LV-061",
         "wd:id":"Q2304902"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"4ec5da91cd8431db87c55722bf83aede",
+    "wof:geomhash":"1307ef0365ec933d61485d4be3d5b952",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,7 +319,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938801,
+    "wof:lastmodified":1695885330,
     "wof:name":"Malpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

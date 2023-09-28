@@ -295,11 +295,17 @@
         "gn:id":7628326,
         "gp:id":-2346037,
         "hasc:id":"LV.CR",
+        "iso:code":"LV-020",
         "iso:id":"LV-020",
+        "qs:local_id":"8052",
         "wd:id":"Q2453125"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"5dc945b598c382cfdb2a8ee2b17fd3e6",
+    "wof:geomhash":"b47515d29cc12a04ba81203a8f72071e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,7 +320,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938792,
+    "wof:lastmodified":1695885330,
     "wof:name":"Carnikavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

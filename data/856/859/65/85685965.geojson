@@ -293,11 +293,17 @@
         "gn:id":461613,
         "gp:id":-2346026,
         "hasc:id":"LV.AK",
+        "iso:code":"LV-002",
         "iso:id":"LV-002",
+        "qs:local_id":"3202",
         "wd:id":"Q865676"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"17952dadd6685bfa5a2736ee0f0c75ff",
+    "wof:geomhash":"1dfab6c95410f08e6f70f6ab6185c87b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938785,
+    "wof:lastmodified":1695885329,
     "wof:name":"Aizkraukles",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -302,11 +302,17 @@
         "gn:id":7628341,
         "gp:id":55844714,
         "hasc:id":"LV.LV",
+        "iso:code":"LV-056",
         "iso:id":"LV-056",
+        "qs:local_id":"7612",
         "wd:id":"Q2277489"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"82fbe4debefe6072b16b21d507880234",
+    "wof:geomhash":"59304e28f9819e1df2064663cd4f0e16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -321,7 +327,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938785,
+    "wof:lastmodified":1695885329,
     "wof:name":"Livanu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

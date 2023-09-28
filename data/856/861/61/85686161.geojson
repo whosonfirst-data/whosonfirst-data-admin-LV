@@ -293,11 +293,17 @@
         "gn:id":7628365,
         "gp:id":-2346037,
         "hasc:id":"LV.SE",
+        "iso:code":"LV-090",
         "iso:id":"LV-090",
+        "qs:local_id":"8092",
         "wd:id":"Q2299447"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"0b57d46dcb94c52c7b9cac5c276e3366",
+    "wof:geomhash":"66e72690f7dc3487ab3a8212d366fbbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938788,
+    "wof:lastmodified":1695885331,
     "wof:name":"Sejas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

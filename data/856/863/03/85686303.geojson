@@ -17,7 +17,7 @@
     "eurostat:population":2880,
     "eurostat:population_year":2020,
     "geom:area":0.063231,
-    "geom:area_square_m":415339536.168388,
+    "geom:area_square_m":415339906.370278,
     "geom:bbox":"24.832779,57.796514,25.260178,58.066384",
     "geom:latitude":57.912297,
     "geom:longitude":25.034141,
@@ -288,11 +288,17 @@
         "gn:id":7628371,
         "gp:id":-2346042,
         "hasc:id":"LV.MZ",
+        "iso:code":"LV-060",
         "iso:id":"LV-060",
+        "qs:local_id":"9610",
         "wd:id":"Q2283334"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"e779a476adb06aa9bd986a5a92290a60",
+    "wof:geomhash":"e5d7ed0077ff337d148d3e3bd42b7c77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -307,7 +313,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938816,
+    "wof:lastmodified":1695885332,
     "wof:name":"Mazsalacas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

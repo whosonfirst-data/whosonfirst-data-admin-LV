@@ -368,12 +368,18 @@
         "eurostat:nuts_2021_id":"0980200",
         "fips:code":"LGE5",
         "hasc:id":"LV.VN",
+        "iso:code":"LV-106",
         "iso:id":"LV-106",
+        "qs:local_id":"9802",
         "unlc:id":"LV-106",
         "wd:id":"Q104036"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"81ddb42738cf049734733fa5decfdcbc",
+    "wof:geomhash":"29bce104cf4509dab758e008f29f1777",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -388,7 +394,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938793,
+    "wof:lastmodified":1695885331,
     "wof:name":"Ventspils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

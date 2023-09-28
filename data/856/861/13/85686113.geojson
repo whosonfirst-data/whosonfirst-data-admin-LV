@@ -17,7 +17,7 @@
     "eurostat:population":11625,
     "eurostat:population_year":2020,
     "geom:area":0.024116,
-    "geom:area_square_m":161931117.953935,
+    "geom:area_square_m":161930953.785265,
     "geom:bbox":"24.241996,57.026745,24.509105,57.188583",
     "geom:latitude":57.109444,
     "geom:longitude":24.380584,
@@ -296,11 +296,17 @@
         "gn:id":7628327,
         "gp:id":-2346037,
         "hasc:id":"LV.AD",
+        "iso:code":"LV-011",
         "iso:id":"LV-011",
+        "qs:local_id":"8044",
         "wd:id":"Q3019837"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"424233d470b368882b1f319c44dff647",
+    "wof:geomhash":"c1ab9b7627773efc25295cc994487fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,7 +321,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938794,
+    "wof:lastmodified":1695885330,
     "wof:name":"Ada\u017eu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

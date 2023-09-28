@@ -302,11 +302,17 @@
         "gn:id":7628319,
         "gp:id":-2346037,
         "hasc:id":"LV.MR",
+        "iso:code":"LV-062",
         "iso:id":"LV-062",
+        "qs:local_id":"8076",
         "wd:id":"Q2232018"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"15f4af5b4c3363da7039adec65b6099d",
+    "wof:geomhash":"2c8ef8deaa9516d31cfe81b544408a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -321,7 +327,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938799,
+    "wof:lastmodified":1695885329,
     "wof:name":"Marupes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

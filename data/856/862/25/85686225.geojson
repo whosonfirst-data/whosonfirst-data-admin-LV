@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022717,
-    "geom:area_square_m":151577110.316594,
+    "geom:area_square_m":151577236.914044,
     "geom:bbox":"25.507552,57.26184,25.761642,57.443161",
     "geom:latitude":57.34174,
     "geom:longitude":25.64076,
@@ -270,11 +270,17 @@
         "gn:id":7628377,
         "gp:id":-2346042,
         "hasc:id":"LV.RN",
+        "iso:code":"LV-076",
         "iso:id":"LV-076",
+        "qs:local_id":"4277",
         "wd:id":"Q2124808"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"d6bcc2e10757f7e853c032d07a01d593",
+    "wof:geomhash":"a482dab690d5c9b8f6fad07def01aca2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -289,7 +295,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938816,
+    "wof:lastmodified":1695884324,
     "wof:name":"Raunas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

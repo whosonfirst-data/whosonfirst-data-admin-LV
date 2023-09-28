@@ -298,12 +298,18 @@
         "gn:id":7628355,
         "gp:id":-2346026,
         "hasc:id":"LV.KT",
+        "iso:code":"LV-049",
         "iso:id":"LV-049",
+        "qs:local_id":"5669",
         "unlc:id":"LV-049",
         "wd:id":"Q2277478"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"8597c4200456c67fcadf8ef5e8fd6fea",
+    "wof:geomhash":"dc1780e8bbe532849894ed3a8a2537f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -318,7 +324,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938785,
+    "wof:lastmodified":1695885329,
     "wof:name":"Krustpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

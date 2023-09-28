@@ -17,7 +17,7 @@
     "eurostat:population":6835,
     "eurostat:population_year":2020,
     "geom:area":0.047982,
-    "geom:area_square_m":323430224.826755,
+    "geom:area_square_m":323430479.145221,
     "geom:bbox":"24.366765,56.889055,24.820866,57.06806",
     "geom:latitude":56.966199,
     "geom:longitude":24.596772,
@@ -287,11 +287,17 @@
         "gn:id":7628359,
         "gp:id":-2346037,
         "hasc:id":"LV.RP",
+        "iso:code":"LV-080",
         "iso:id":"LV-080",
+        "qs:local_id":"8084",
         "wd:id":"Q11068461"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"ebf573aaae0d2eeb6faa1edba573c9b5",
+    "wof:geomhash":"ee2491b16b327f349011a0bc0d1fef85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938797,
+    "wof:lastmodified":1695885330,
     "wof:name":"Ropa\u017eu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -17,7 +17,7 @@
     "eurostat:population":1675,
     "eurostat:population_year":2020,
     "geom:area":0.042483,
-    "geom:area_square_m":279094445.665576,
+    "geom:area_square_m":279094327.224114,
     "geom:bbox":"25.26397,57.780091,25.702177,57.995705",
     "geom:latitude":57.906741,
     "geom:longitude":25.477039,
@@ -292,11 +292,17 @@
         "gn:id":7628369,
         "gp:id":-2346042,
         "hasc:id":"LV.NA",
+        "iso:code":"LV-064",
         "iso:id":"LV-064",
+        "qs:local_id":"9673",
         "wd:id":"Q773027"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"e7afc0574a93de669d3bda83001c0ea3",
+    "wof:geomhash":"b98606991d411c584020cbd7f934e91b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,7 +317,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938814,
+    "wof:lastmodified":1695885332,
     "wof:name":"Nauksenu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

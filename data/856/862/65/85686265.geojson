@@ -17,7 +17,7 @@
     "eurostat:population":16507,
     "eurostat:population_year":2020,
     "geom:area":0.175504,
-    "geom:area_square_m":1165468257.09876,
+    "geom:area_square_m":1165467830.632985,
     "geom:bbox":"24.3976,57.221449,25.090708,57.761603",
     "geom:latitude":57.51703,
     "geom:longitude":24.69496,
@@ -306,11 +306,17 @@
         "gn:id":457889,
         "gp:id":-2346031,
         "hasc:id":"LV.LI",
+        "iso:code":"LV-054",
         "iso:id":"LV-054",
+        "qs:local_id":"6602",
         "wd:id":"Q1579076"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"ea8db92777e153ccd3965fb59c04159b",
+    "wof:geomhash":"7f677a9436fbcebc86746024b3408221",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -325,7 +331,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938814,
+    "wof:lastmodified":1695885332,
     "wof:name":"Limba\u017eu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

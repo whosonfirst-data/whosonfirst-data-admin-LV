@@ -299,11 +299,17 @@
         "gn:id":7628321,
         "gp:id":-2346026,
         "hasc:id":"LV.IE",
+        "iso:code":"LV-034",
         "iso:id":"LV-034",
+        "qs:local_id":"4064",
         "wd:id":"Q2337266"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"b1e9063475d587c095e74bf13da603ab",
+    "wof:geomhash":"0449a57f64172dd4d6ce2af46c97707a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -318,7 +324,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938783,
+    "wof:lastmodified":1695885329,
     "wof:name":"Iecavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

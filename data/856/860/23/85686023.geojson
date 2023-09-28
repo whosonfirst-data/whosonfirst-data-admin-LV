@@ -294,11 +294,17 @@
         "gn:id":7628357,
         "gp:id":-2346026,
         "hasc:id":"LV.KO",
+        "iso:code":"LV-046",
         "iso:id":"LV-046",
+        "qs:local_id":"3261",
         "wd:id":"Q865682"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"47719b11e620ae6774c230ebecd3e3fd",
+    "wof:geomhash":"44488fa81dffe1caa45538b52a969585",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,7 +319,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938802,
+    "wof:lastmodified":1695885330,
     "wof:name":"Kokneses",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

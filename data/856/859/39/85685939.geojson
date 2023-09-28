@@ -290,11 +290,17 @@
         "gn:id":7628329,
         "gp:id":-2346026,
         "hasc:id":"LV.VC",
+        "iso:code":"LV-105",
         "iso:id":"LV-105",
+        "qs:local_id":"4095",
         "wd:id":"Q2299436"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"0d5f61ea8dadaf183460c47d1f8f9541",
+    "wof:geomhash":"f925c0f7c49c27629506ae54bba560c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +315,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938786,
+    "wof:lastmodified":1695885329,
     "wof:name":"Vecumnieku",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

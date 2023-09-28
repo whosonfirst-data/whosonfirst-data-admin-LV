@@ -61,7 +61,14 @@
         85633279
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code":"LV-068",
+        "qs:local_id":"8010"
+    },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
     "wof:geomhash":"890d45f7b1137f4e6e5b44dafd49d181",
     "wof:hierarchy":[
@@ -78,7 +85,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1694493127,
+    "wof:lastmodified":1695884285,
     "wof:name":"Olaines",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

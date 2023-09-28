@@ -332,11 +332,17 @@
         "gn:id":7628336,
         "gp:id":-2346026,
         "hasc:id":"LV.SC",
+        "iso:code":"LV-086",
         "iso:id":"LV-086",
+        "qs:local_id":"5687",
         "wd:id":"Q2375848"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"8411a45112f04dcdff970e73128f2e8e",
+    "wof:geomhash":"c63e80215196bc000206cb7211d27670",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -351,7 +357,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938786,
+    "wof:lastmodified":1695885329,
     "wof:name":"Salas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -296,11 +296,17 @@
         "gn:id":7628356,
         "gp:id":-2346026,
         "hasc:id":"LV.PL",
+        "iso:code":"LV-072",
         "iso:id":"LV-072",
+        "qs:local_id":"3214",
         "wd:id":"Q865649"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"dce1ff93d6ffb01ed3958a7e5553ceb4",
+    "wof:geomhash":"a7e6ad4a79871ebc00c6087a119e110f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,7 +321,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938801,
+    "wof:lastmodified":1695885330,
     "wof:name":"Plavinu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

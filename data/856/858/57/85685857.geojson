@@ -299,11 +299,17 @@
         "gn:id":7628340,
         "gp:id":-2346042,
         "hasc:id":"LV.VV",
+        "iso:code":"LV-103",
         "iso:id":"LV-103",
+        "qs:local_id":"7691",
         "wd:id":"Q1023757"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"06ffc5f22da15586e4568eb4657af9f9",
+    "wof:geomhash":"c78b6b95341f69c512591aaca07a77a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -318,7 +324,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938803,
+    "wof:lastmodified":1695885328,
     "wof:name":"Varkavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

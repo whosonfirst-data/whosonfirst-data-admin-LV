@@ -293,11 +293,17 @@
         "gn:id":7628316,
         "gp:id":-2346026,
         "hasc:id":"LV.OZ",
+        "iso:code":"LV-069",
         "iso:id":"LV-069",
+        "qs:local_id":"5467",
         "wd:id":"Q2304926"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"1f61ff062958fcdde23785d3e718be0e",
+    "wof:geomhash":"feac023b95e84a9c59cb51d91a40b7fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938785,
+    "wof:lastmodified":1695885329,
     "wof:name":"Ozolnieku",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

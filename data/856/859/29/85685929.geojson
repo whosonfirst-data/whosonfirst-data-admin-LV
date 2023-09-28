@@ -296,11 +296,17 @@
         "gn:id":456528,
         "gp:id":-2346035,
         "hasc:id":"LV.PI",
+        "iso:code":"LV-073",
         "iso:id":"LV-073",
+        "qs:local_id":"7602",
         "wd:id":"Q2277469"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"d7db56fbaab79846076e0ef241d226ac",
+    "wof:geomhash":"c74db560ce671a4d5a2147f0fbb660cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,7 +321,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938783,
+    "wof:lastmodified":1695885329,
     "wof:name":"Preilu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

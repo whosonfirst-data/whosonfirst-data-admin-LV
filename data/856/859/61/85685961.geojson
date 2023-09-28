@@ -295,11 +295,17 @@
         "gn:id":7628299,
         "gp:id":-2346029,
         "hasc:id":"LV.AS",
+        "iso:code":"LV-006",
         "iso:id":"LV-006",
+        "qs:local_id":"6242",
         "wd:id":"Q1995769"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"cd82a3660c3b119f647f0bba11710c0e",
+    "wof:geomhash":"fb7893e275c1584e84bbe8add7e1d120",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,7 +320,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938781,
+    "wof:lastmodified":1695885329,
     "wof:name":"Alsungas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

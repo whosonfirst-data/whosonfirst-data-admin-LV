@@ -293,11 +293,17 @@
         "gn:id":7628335,
         "gp:id":-2346026,
         "hasc:id":"LV.VT",
+        "iso:code":"LV-107",
         "iso:id":"LV-107",
+        "qs:local_id":"5618",
         "wd:id":"Q2093996"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"2e986511cde33a693a414e63358d5689",
+    "wof:geomhash":"de06e6b8711833a0704961c4606f1709",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938806,
+    "wof:lastmodified":1695885328,
     "wof:name":"Viesites",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

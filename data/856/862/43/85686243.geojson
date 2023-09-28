@@ -17,7 +17,7 @@
     "eurostat:population":23050,
     "eurostat:population_year":2020,
     "geom:area":0.002724,
-    "geom:area_square_m":18083595.788542,
+    "geom:area_square_m":18083630.072678,
     "geom:bbox":"25.374641,57.509444,25.467758,57.555111",
     "geom:latitude":57.532763,
     "geom:longitude":25.420564,
@@ -370,12 +370,18 @@
         "gn:id":454564,
         "gp:id":-2346042,
         "hasc:id":"LV.VE",
+        "iso:code":"LV-VMR",
         "iso:id":"LV-VMR",
+        "qs:local_id":"2500",
         "unlc:id":"LV-VMR",
         "wd:id":"Q108037"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"3c646e2da27cfc6ea3e5b57d59873994",
+    "wof:geomhash":"88933df6b085442c169b740bf13c63de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -390,7 +396,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938814,
+    "wof:lastmodified":1695885332,
     "wof:name":"Valmiera",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

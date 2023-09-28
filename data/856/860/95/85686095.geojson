@@ -384,11 +384,17 @@
         "gn:id":456197,
         "gp:id":-2346036,
         "hasc:id":"LV.RK",
+        "iso:code":"LV-REZ",
         "iso:id":"LV-REZ",
+        "qs:local_id":"7802",
         "wd:id":"Q180379"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"790edc4ab5fab4a95e69a913ebb0de27",
+    "wof:geomhash":"75275f14c53f27e15e7e63c855cf9674",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -403,7 +409,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938796,
+    "wof:lastmodified":1695885330,
     "wof:name":"Rezeknes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
