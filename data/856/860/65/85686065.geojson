@@ -17,7 +17,7 @@
     "eurostat:population":627487,
     "eurostat:population_year":2020,
     "geom:area":0.044824,
-    "geom:area_square_m":302046855.1369,
+    "geom:area_square_m":302046850.376559,
     "geom:bbox":"23.932331,56.857363,24.324504,57.085617",
     "geom:latitude":56.977925,
     "geom:longitude":24.122545,
@@ -736,15 +736,21 @@
         "gn:id":456173,
         "gp:id":-20070121,
         "hasc:id":"LV.RA",
+        "iso:code":"LV-RIX",
         "iso:id":"LV-RIX",
+        "qs:local_id":"0100",
         "unlc:id":"LV-RIX",
         "wd:id":"Q1773"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         101751789
     ],
     "wof:country":"LV",
-    "wof:geomhash":"d170f69fde761f807419bdb9a53c6a1d",
+    "wof:geomhash":"3577ed341a80184b45782e0b39b44d49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -759,7 +765,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938800,
+    "wof:lastmodified":1695885330,
     "wof:name":"Riga",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

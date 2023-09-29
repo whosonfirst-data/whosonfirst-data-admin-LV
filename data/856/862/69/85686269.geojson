@@ -17,7 +17,7 @@
     "eurostat:population":3220,
     "eurostat:population_year":2020,
     "geom:area":0.081629,
-    "geom:area_square_m":542816867.663578,
+    "geom:area_square_m":542816494.196746,
     "geom:bbox":"26.275006,57.315976,26.842579,57.58752",
     "geom:latitude":57.466953,
     "geom:longitude":26.521803,
@@ -473,11 +473,17 @@
         "gn:id":7628384,
         "gp:id":-2346042,
         "hasc:id":"LV.AP",
+        "iso:code":"LV-009",
         "iso:id":"LV-009",
+        "qs:local_id":"3608",
         "wd:id":"Q2343837"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"f9352459db51c321fae4b7fde8ea1f7d",
+    "wof:geomhash":"8fd84089213d867418c458695032df2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -492,7 +498,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938812,
+    "wof:lastmodified":1695885332,
     "wof:name":"Apes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

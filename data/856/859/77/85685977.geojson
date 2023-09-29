@@ -296,11 +296,17 @@
         "gn:id":7628344,
         "gp:id":-2346042,
         "hasc:id":"LV.RB",
+        "iso:code":"LV-078",
         "iso:id":"LV-078",
+        "qs:local_id":"7663",
         "wd:id":"Q2106159"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"73f0ccc8080bdc9c5a56026055212199",
+    "wof:geomhash":"c9cf3ff9480088583c858ded835391e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,7 +321,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938787,
+    "wof:lastmodified":1695885329,
     "wof:name":"Riebinu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

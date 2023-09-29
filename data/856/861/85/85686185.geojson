@@ -293,11 +293,17 @@
         "gn:id":7628352,
         "gp:id":-2346042,
         "hasc:id":"LV.RJ",
+        "iso:code":"LV-082",
         "iso:id":"LV-082",
+        "qs:local_id":"3875",
         "wd:id":"Q1837354"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"f98ec68a9fd0fb860c2264814c1eff02",
+    "wof:geomhash":"01496d2484e666f7054263d3a119f636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938794,
+    "wof:lastmodified":1695885331,
     "wof:name":"Rugaju",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

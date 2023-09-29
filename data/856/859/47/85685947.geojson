@@ -295,11 +295,17 @@
         "gn:id":7628333,
         "gp:id":-2346026,
         "hasc:id":"LV.JJ",
+        "iso:code":"LV-038",
         "iso:id":"LV-038",
+        "qs:local_id":"3210",
         "wd:id":"Q2880128"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"c4e6b86d877abec62a43e40ecc5a46fe",
+    "wof:geomhash":"9d46ce1cb2da2c73a7d7d86c592450c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,7 +320,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938787,
+    "wof:lastmodified":1695885329,
     "wof:name":"Jaunjelgavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

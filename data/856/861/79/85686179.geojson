@@ -297,11 +297,17 @@
         "gn:id":7628349,
         "gp:id":-2346042,
         "hasc:id":"LV.BA",
+        "iso:code":"LV-014",
         "iso:id":"LV-014",
+        "qs:local_id":"3844",
         "wd:id":"Q2361012"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"8ac2142ef1d92ac2d9a2f256f6339a6d",
+    "wof:geomhash":"22f4804303fa283ed3154e8fda4cebb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -316,7 +322,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938793,
+    "wof:lastmodified":1695885331,
     "wof:name":"Baltinavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

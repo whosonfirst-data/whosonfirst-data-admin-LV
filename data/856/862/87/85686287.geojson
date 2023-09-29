@@ -293,11 +293,17 @@
         "gn:id":7628367,
         "gp:id":-2346037,
         "hasc:id":"LV.SL",
+        "iso:code":"LV-085",
         "iso:id":"LV-085",
+        "qs:local_id":"6614",
         "wd:id":"Q2251931"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"030322052d6732f5cfdb099548227dfe",
+    "wof:geomhash":"5186ff99ce8b1b264eaa23521d3c79a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938813,
+    "wof:lastmodified":1695885332,
     "wof:name":"Salacgrivas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

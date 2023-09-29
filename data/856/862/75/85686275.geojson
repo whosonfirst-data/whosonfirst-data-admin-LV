@@ -17,7 +17,7 @@
     "eurostat:population":2838,
     "eurostat:population_year":2020,
     "geom:area":0.05644,
-    "geom:area_square_m":373675393.264012,
+    "geom:area_square_m":373675540.211473,
     "geom:bbox":"25.505743,57.469576,25.994271,57.747277",
     "geom:latitude":57.626466,
     "geom:longitude":25.783912,
@@ -284,11 +284,17 @@
         "gn:id":7628378,
         "gp:id":-2346042,
         "hasc:id":"LV.ST",
+        "iso:code":"LV-096",
         "iso:id":"LV-096",
+        "qs:local_id":"9418",
         "wd:id":"Q2299223"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"6a453bbc85c726f91cfa6e73772e1ca9",
+    "wof:geomhash":"c061f5ed7aff8e440963713d477b5c0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938814,
+    "wof:lastmodified":1695885332,
     "wof:name":"Strencu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

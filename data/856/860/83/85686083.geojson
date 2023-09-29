@@ -17,7 +17,7 @@
     "eurostat:population":27613,
     "eurostat:population_year":2020,
     "geom:area":0.176324,
-    "geom:area_square_m":1189446862.578814,
+    "geom:area_square_m":1189446667.301993,
     "geom:bbox":"22.805949,56.69129,23.506191,57.252285",
     "geom:latitude":56.937716,
     "geom:longitude":23.117666,
@@ -291,11 +291,17 @@
         "gn:id":454771,
         "gp:id":-2346040,
         "hasc:id":"LV.TK",
+        "iso:code":"LV-099",
         "iso:id":"LV-099",
+        "qs:local_id":"9002",
         "wd:id":"Q369007"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"a1a6118c3e4275fe9c6d86687e6d1946",
+    "wof:geomhash":"d6325e304e8289f87584d4315f38b5ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -310,7 +316,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938802,
+    "wof:lastmodified":1695885330,
     "wof:name":"Tukuma",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -292,11 +292,17 @@
         "gn:id":7628309,
         "gp:id":-2346029,
         "hasc:id":"LV.BR",
+        "iso:code":"LV-018",
         "iso:id":"LV-018",
+        "qs:local_id":"8406",
         "wd:id":"Q865717"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"54f282217e9644c78739e73d19e28644",
+    "wof:geomhash":"60648b8c27a64690aa247ff20fac82d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,7 +317,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938809,
+    "wof:lastmodified":1695885328,
     "wof:name":"Brocenu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

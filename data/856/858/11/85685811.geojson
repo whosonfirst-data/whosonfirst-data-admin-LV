@@ -296,11 +296,17 @@
         "gn:id":7628303,
         "gp:id":-2346029,
         "hasc:id":"LV.GR",
+        "iso:code":"LV-032",
         "iso:id":"LV-032",
+        "qs:local_id":"6410",
         "wd:id":"Q2320320"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"baf97dabb1366023c375d982f89cd24d",
+    "wof:geomhash":"fd1afb5cb71e045c2b961ed63babba27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,7 +321,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938805,
+    "wof:lastmodified":1695885328,
     "wof:name":"Grobinas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -270,11 +270,17 @@
         "gn:id":457773,
         "gp:id":-2346032,
         "hasc:id":"LV.LZ",
+        "iso:code":"LV-058",
         "iso:id":"LV-058",
+        "qs:local_id":"6802",
         "wd:id":"Q744259"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"0b6b2996872d32365932464b7bd960e7",
+    "wof:geomhash":"f5f1dfaf2c7d2a711172e7128dfb5f71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -289,7 +295,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938800,
+    "wof:lastmodified":1695885330,
     "wof:name":"Ludzas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

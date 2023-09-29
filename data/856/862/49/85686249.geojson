@@ -17,7 +17,7 @@
     "eurostat:population":11985,
     "eurostat:population_year":2020,
     "geom:area":0.141526,
-    "geom:area_square_m":942672174.27285,
+    "geom:area_square_m":942672232.890905,
     "geom:bbox":"25.655264,57.266506,26.326472,57.561157",
     "geom:latitude":57.406755,
     "geom:longitude":26.011708,
@@ -281,11 +281,17 @@
         "gn:id":7628380,
         "gp:id":-2346042,
         "hasc:id":"LV.SM",
+        "iso:code":"LV-094",
         "iso:id":"LV-094",
+        "qs:local_id":"9416",
         "wd:id":"Q1959984"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"2bc19321c4641ea79ba9d67b67dd74f6",
+    "wof:geomhash":"01e2060fa0a406595cf42f84956e5949",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -300,7 +306,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938816,
+    "wof:lastmodified":1695885332,
     "wof:name":"Smiltenes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

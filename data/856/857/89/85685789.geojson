@@ -290,11 +290,17 @@
         "gn:id":7628302,
         "gp:id":-2346029,
         "hasc:id":"LV.RC",
+        "iso:code":"LV-081",
         "iso:id":"LV-081",
+        "qs:local_id":"6485",
         "wd:id":"Q2124995"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"ed868b47434c1299dd2fd2a42cf130fa",
+    "wof:geomhash":"ba6a34d0bea86ef8bf721778c1a6cbd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +315,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938795,
+    "wof:lastmodified":1695885327,
     "wof:name":"Rucavas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

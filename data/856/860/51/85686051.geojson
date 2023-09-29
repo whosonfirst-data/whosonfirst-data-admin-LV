@@ -17,7 +17,7 @@
     "eurostat:population":2990,
     "eurostat:population_year":2020,
     "geom:area":0.040675,
-    "geom:area_square_m":276648340.245942,
+    "geom:area_square_m":276648256.321191,
     "geom:bbox":"26.376042,56.534897,26.791855,56.714566",
     "geom:latitude":56.629925,
     "geom:longitude":26.614311,
@@ -293,11 +293,17 @@
         "gn:id":7628342,
         "gp:id":-2346042,
         "hasc:id":"LV.VX",
+        "iso:code":"LV-102",
         "iso:id":"LV-102",
+        "qs:local_id":"7018",
         "wd:id":"Q432596"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"9159a9505cac7e9dac445b24dd85a21d",
+    "wof:geomhash":"93b2d8bcb8342709d4c70de711d43a7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938797,
+    "wof:lastmodified":1695885330,
     "wof:name":"Varaklanu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

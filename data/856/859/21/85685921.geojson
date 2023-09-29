@@ -291,12 +291,18 @@
         "gn:id":7628313,
         "gp:id":-2346037,
         "hasc:id":"LV.JU",
+        "iso:code":"LV-040",
         "iso:id":"LV-040",
+        "qs:local_id":"9057",
         "unlc:id":"LV-040",
         "wd:id":"Q2072154"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"fa4748ea5d4b660377ca25945b679660",
+    "wof:geomhash":"4df359b033a03179709ce8d52188b10d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,7 +317,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938784,
+    "wof:lastmodified":1695885329,
     "wof:name":"Jaunpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

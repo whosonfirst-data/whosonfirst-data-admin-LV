@@ -17,7 +17,7 @@
     "eurostat:population":3576,
     "eurostat:population_year":2020,
     "geom:area":0.072598,
-    "geom:area_square_m":484062490.189753,
+    "geom:area_square_m":484062295.672514,
     "geom:bbox":"24.785316,57.243857,25.38882,57.505626",
     "geom:latitude":57.368472,
     "geom:longitude":25.066836,
@@ -284,11 +284,17 @@
         "gn:id":7628373,
         "gp:id":-2346042,
         "hasc:id":"LV.PG",
+        "iso:code":"LV-070",
         "iso:id":"LV-070",
+        "qs:local_id":"4275",
         "wd:id":"Q2304831"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"514eff3e85ac408fc0782698b4e6bc65",
+    "wof:geomhash":"4c7798028d6444385c251c34de152382",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938816,
+    "wof:lastmodified":1695885331,
     "wof:name":"Pargaujas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

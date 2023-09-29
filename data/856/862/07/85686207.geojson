@@ -23,7 +23,10 @@
     "geom:longitude":25.891875,
     "iso:country":"LV",
     "label:eng_x_preferred_longname":[
-        "Raunas Novads"
+        "Raunas Amalgamated Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "amalgamated municipality"
     ],
     "label:eng_x_preferred_shortcode":[
         "RN"
@@ -34,7 +37,7 @@
     "mps:latitude":57.234031,
     "mps:longitude":25.888831,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
@@ -68,8 +71,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"LV_0427700",
-        "eurostat:nuts_2021_id":"0427700"
+        "eurostat:nuts_2021_id":"0427700",
+        "iso:code":"LV-076",
+        "qs:local_id":"4277"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
     "wof:geomhash":"7f44bf3978f77af6ae901e1c71c31788",
     "wof:hierarchy":[
@@ -86,7 +95,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354001,
+    "wof:lastmodified":1695884322,
     "wof:name":"Raunas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

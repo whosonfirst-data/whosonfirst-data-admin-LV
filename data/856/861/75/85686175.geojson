@@ -17,7 +17,7 @@
     "eurostat:population":1982,
     "eurostat:population_year":2020,
     "geom:area":0.037285,
-    "geom:area_square_m":250083230.125269,
+    "geom:area_square_m":250082966.142201,
     "geom:bbox":"25.757395,57.07755,26.166142,57.218391",
     "geom:latitude":57.150116,
     "geom:longitude":25.974333,
@@ -286,11 +286,17 @@
         "gn:id":7628381,
         "gp:id":-2346042,
         "hasc:id":"LV.JA",
+        "iso:code":"LV-039",
         "iso:id":"LV-039",
+        "qs:local_id":"4257",
         "wd:id":"Q2306846"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"5c2ae91c6b818dba73dddf24d4e4b28c",
+    "wof:geomhash":"749656cc85b4774bf2cfe06c8fc12660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,7 +311,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938791,
+    "wof:lastmodified":1695885331,
     "wof:name":"Jaunpiepalgas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

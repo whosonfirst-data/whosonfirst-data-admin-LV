@@ -17,7 +17,7 @@
     "eurostat:population":4156,
     "eurostat:population_year":2020,
     "geom:area":0.131305,
-    "geom:area_square_m":901243405.923563,
+    "geom:area_square_m":901243442.22658,
     "geom:bbox":"25.672685,56.066531,26.336887,56.495127",
     "geom:latitude":56.283503,
     "geom:longitude":25.987721,
@@ -301,12 +301,18 @@
         "eurostat:nuts_2021_id":"0560200",
         "fips:code":"LG75",
         "hasc:id":"LV.JP",
+        "iso:code":"LV-042",
         "iso:id":"LV-042",
+        "qs:local_id":"5602",
         "unlc:id":"LV-042",
         "wd:id":"Q191120"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"bc0a55818c510b89ee29a06d46675386",
+    "wof:geomhash":"49cb8d8ad1c6ba9d68d09fa75cfd0ddd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -321,7 +327,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938806,
+    "wof:lastmodified":1695885328,
     "wof:name":"Jekabpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -17,7 +17,7 @@
     "eurostat:population":9888,
     "eurostat:population_year":2020,
     "geom:area":0.019227,
-    "geom:area_square_m":129973563.526713,
+    "geom:area_square_m":129973409.960977,
     "geom:bbox":"24.432586,56.806273,24.768151,56.90686",
     "geom:latitude":56.860329,
     "geom:longitude":24.583374,
@@ -284,11 +284,17 @@
         "gn:id":7628358,
         "gp:id":-2346037,
         "hasc:id":"LV.IK",
+        "iso:code":"LV-035",
         "iso:id":"LV-035",
+        "qs:local_id":"7406",
         "wd:id":"Q2337298"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"27d27ab70b97b9d6a817b5badc9ac4c9",
+    "wof:geomhash":"c9fdb1ade4e93d00216e04c974427755",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -303,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938798,
+    "wof:lastmodified":1695885330,
     "wof:name":"Ik\u0161kiles",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

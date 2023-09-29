@@ -173,8 +173,14 @@
         "gn:id":454571,
         "gp:id":-2346041,
         "hasc:id":"LV.VA",
-        "iso:id":"LV-101"
+        "iso:code":"LV-101",
+        "iso:id":"LV-101",
+        "qs:local_id":"9402"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
     "wof:geomhash":"9979f41f4580457f34a265e6b2d17643",
     "wof:hierarchy":[
@@ -191,7 +197,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1684354001,
+    "wof:lastmodified":1695885332,
     "wof:name":"Valkas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -17,7 +17,7 @@
     "eurostat:population":22442,
     "eurostat:population_year":2020,
     "geom:area":0.114457,
-    "geom:area_square_m":783285749.212996,
+    "geom:area_square_m":783285712.603974,
     "geom:bbox":"24.016603,56.244896,24.583802,56.549657",
     "geom:latitude":56.396255,
     "geom:longitude":24.284011,
@@ -279,11 +279,17 @@
         "gn:id":461112,
         "gp:id":-2346021,
         "hasc:id":"LV.BK",
+        "iso:code":"LV-016",
         "iso:id":"LV-016",
+        "qs:local_id":"4002",
         "wd:id":"Q2365998"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"84e67cc17816df7fa0c9a9eeb4e6edf0",
+    "wof:geomhash":"70c6ee0fb63ffe3aa5b10b74204dae90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -298,7 +304,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938804,
+    "wof:lastmodified":1695885328,
     "wof:name":"Bauskas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

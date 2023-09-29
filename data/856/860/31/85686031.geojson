@@ -17,7 +17,7 @@
     "eurostat:population":49687,
     "eurostat:population_year":2020,
     "geom:area":0.01495,
-    "geom:area_square_m":100788820.137244,
+    "geom:area_square_m":100788581.664142,
     "geom:bbox":"23.473392,56.923808,23.970957,57.00856",
     "geom:latitude":56.959355,
     "geom:longitude":23.693584,
@@ -406,12 +406,18 @@
         "gn:id":459202,
         "gp:id":-2346037,
         "hasc:id":"LV.JM",
+        "iso:code":"LV-JUR",
         "iso:id":"LV-JUR",
+        "qs:local_id":"1300",
         "unlc:id":"LV-JUR",
         "wd:id":"Q178382"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"7751b36289c23e9c7ea85ae179318d16",
+    "wof:geomhash":"9ec5722da7f9479c052f853c0b10018a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -426,7 +432,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938799,
+    "wof:lastmodified":1695885330,
     "wof:name":"Jurmala",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

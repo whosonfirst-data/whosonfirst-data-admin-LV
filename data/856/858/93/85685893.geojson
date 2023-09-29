@@ -295,11 +295,17 @@
         "gn:id":7628350,
         "gp:id":-2346042,
         "hasc:id":"LV.DD",
+        "iso:code":"LV-024",
         "iso:id":"LV-024",
+        "qs:local_id":"6010",
         "wd:id":"Q2361131"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"e71d3d0391e0e9b49efc86bf60a2e5eb",
+    "wof:geomhash":"8de0eb679113f4709f44a09f52e0e072",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,7 +320,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938804,
+    "wof:lastmodified":1695885328,
     "wof:name":"Dagdas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

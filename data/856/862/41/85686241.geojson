@@ -17,7 +17,7 @@
     "eurostat:population":19771,
     "eurostat:population_year":2020,
     "geom:area":0.277992,
-    "geom:area_square_m":1863017266.913139,
+    "geom:area_square_m":1863017901.637109,
     "geom:bbox":"25.996354,56.943859,27.163065,57.409013",
     "geom:latitude":57.181408,
     "geom:longitude":26.599627,
@@ -287,11 +287,17 @@
         "gn:id":459664,
         "gp:id":-2346025,
         "hasc:id":"LV.GU",
+        "iso:code":"LV-033",
         "iso:id":"LV-033",
+        "qs:local_id":"5002",
         "wd:id":"Q209187"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"71ded51bff1fac13bbebc22b3426477e",
+    "wof:geomhash":"8c62f7b43d5c4275fcb39e26484f7b73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -306,7 +312,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938815,
+    "wof:lastmodified":1695885332,
     "wof:name":"Gulbenes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

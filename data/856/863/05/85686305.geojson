@@ -17,7 +17,7 @@
     "eurostat:population":4824,
     "eurostat:population_year":2020,
     "geom:area":0.053461,
-    "geom:area_square_m":350922997.548681,
+    "geom:area_square_m":350922735.68811,
     "geom:bbox":"25.097159,57.778245,25.471302,58.085571",
     "geom:latitude":57.936868,
     "geom:longitude":25.278727,
@@ -289,11 +289,17 @@
         "gn:id":7628370,
         "gp:id":-2346042,
         "hasc:id":"LV.RU",
+        "iso:code":"LV-084",
         "iso:id":"LV-084",
+        "qs:local_id":"9616",
         "wd:id":"Q2299415"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"ca16312e560d034e028cf52cd4d3f423",
+    "wof:geomhash":"78f8402c0b1e98913a6da74e2178ae25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -308,7 +314,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938817,
+    "wof:lastmodified":1695885333,
     "wof:name":"Rujienas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

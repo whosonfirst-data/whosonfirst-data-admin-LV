@@ -17,7 +17,7 @@
     "eurostat:population":2611,
     "eurostat:population_year":2020,
     "geom:area":0.05586,
-    "geom:area_square_m":377220110.855737,
+    "geom:area_square_m":377220124.927056,
     "geom:bbox":"25.479614,56.769089,25.946807,57.000671",
     "geom:latitude":56.898414,
     "geom:longitude":25.673767,
@@ -290,11 +290,17 @@
         "gn:id":7628382,
         "gp:id":-2346042,
         "hasc:id":"LV.ER",
+        "iso:code":"LV-030",
         "iso:id":"LV-030",
+        "qs:local_id":"7055",
         "wd:id":"Q2079406"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"8046608e9b0763710c181e7b0c5cf3cc",
+    "wof:geomhash":"606324ceda05a61036d1f7974cb831c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +315,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938803,
+    "wof:lastmodified":1695885330,
     "wof:name":"Erglu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

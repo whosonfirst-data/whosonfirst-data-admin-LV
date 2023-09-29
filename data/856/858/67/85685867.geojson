@@ -307,11 +307,17 @@
         "gn:id":7628305,
         "gp:id":-2346029,
         "hasc:id":"LV.AZ",
+        "iso:code":"LV-003",
         "iso:id":"LV-003",
+        "qs:local_id":"6406",
         "wd:id":"Q2485015"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"eda186cfe1ea5944c301ace3945d9066",
+    "wof:geomhash":"5d4ab401a368c45d863f2d4699ac68a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -326,7 +332,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938804,
+    "wof:lastmodified":1695885328,
     "wof:name":"Aizputes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

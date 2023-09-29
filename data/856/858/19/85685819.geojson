@@ -301,11 +301,17 @@
         "gn:id":7628338,
         "gp:id":-2346026,
         "hasc:id":"LV.AN",
+        "iso:code":"LV-004",
         "iso:id":"LV-004",
+        "qs:local_id":"5608",
         "wd:id":"Q865658"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"c407eed6e9f5cc38cd9455ee338da984",
+    "wof:geomhash":"6af32abf999ff56bd02e670afe2d1a92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -320,7 +326,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938806,
+    "wof:lastmodified":1695885328,
     "wof:name":"Aknistes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

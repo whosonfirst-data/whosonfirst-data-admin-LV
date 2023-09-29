@@ -290,11 +290,17 @@
         "gn:id":7628300,
         "gp:id":-2346029,
         "hasc:id":"LV.PT",
+        "iso:code":"LV-071",
         "iso:id":"LV-071",
+        "qs:local_id":"6414",
         "wd:id":"Q1942469"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"07ae9f1b5658ac09b8627f5ec795b253",
+    "wof:geomhash":"f6ae0e439223fea42c119c86d5bc708e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +315,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938786,
+    "wof:lastmodified":1695885329,
     "wof:name":"Pavilostas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

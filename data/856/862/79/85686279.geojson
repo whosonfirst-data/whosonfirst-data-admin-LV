@@ -17,7 +17,7 @@
     "eurostat:population":13895,
     "eurostat:population_year":2020,
     "geom:area":0.25359,
-    "geom:area_square_m":1688898312.186374,
+    "geom:area_square_m":1688898567.251367,
     "geom:bbox":"26.594788,57.225114,27.692582,57.633187",
     "geom:latitude":57.4112,
     "geom:longitude":27.152832,
@@ -323,11 +323,17 @@
         "gn:id":461525,
         "gp:id":-2346019,
         "hasc:id":"LV.AE",
+        "iso:code":"LV-007",
         "iso:id":"LV-007",
+        "qs:local_id":"3602",
         "wd:id":"Q3393445"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"ef3d8b42197935869fe3c4e6c257f59e",
+    "wof:geomhash":"cb47b8eb5416e7d3ceff896ec532fed5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -342,7 +348,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938815,
+    "wof:lastmodified":1695885332,
     "wof:name":"Aluksnes",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

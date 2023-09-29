@@ -17,7 +17,7 @@
     "eurostat:population":7556,
     "eurostat:population_year":2020,
     "geom:area":0.045013,
-    "geom:area_square_m":300250452.368403,
+    "geom:area_square_m":300250467.411771,
     "geom:bbox":"25.22586,57.212052,25.667783,57.469586",
     "geom:latitude":57.354701,
     "geom:longitude":25.474789,
@@ -290,11 +290,17 @@
         "gn:id":7628376,
         "gp:id":-2346042,
         "hasc:id":"LV.PU",
+        "iso:code":"LV-075",
         "iso:id":"LV-075",
+        "qs:local_id":"4273",
         "wd:id":"Q2299231"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"b838388ba72dd28281f956330854be91",
+    "wof:geomhash":"0db050a337db12536a199c6dbced9608",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +315,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938813,
+    "wof:lastmodified":1695885331,
     "wof:name":"Priekulu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

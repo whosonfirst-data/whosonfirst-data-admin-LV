@@ -298,11 +298,17 @@
         "gn:id":7628346,
         "gp:id":-2346042,
         "hasc:id":"LV.CI",
+        "iso:code":"LV-023",
         "iso:id":"LV-023",
+        "qs:local_id":"6849",
         "wd:id":"Q1955102"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"800e66ea80df5252442c49607e8dc1fd",
+    "wof:geomhash":"30c37494622dd310a8e9bcaf421fe274",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -317,7 +323,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938798,
+    "wof:lastmodified":1695885330,
     "wof:name":"Ciblas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

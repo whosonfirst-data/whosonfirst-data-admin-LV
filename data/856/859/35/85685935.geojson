@@ -292,12 +292,18 @@
         "gn:id":455888,
         "gp:id":-2346038,
         "hasc:id":"LV.SD",
+        "iso:code":"LV-088",
         "iso:id":"LV-088",
+        "qs:local_id":"8402",
         "unlc:id":"LV-088",
         "wd:id":"Q2299261"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"99c8f28cd772710868fa06589d8fe5c4",
+    "wof:geomhash":"6fa69d64b45e7fc153e5bc0845dcbe08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938782,
+    "wof:lastmodified":1695885329,
     "wof:name":"Saldus",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -396,11 +396,17 @@
         "eurostat:nuts_2021_id":"0050000",
         "fips:code":"LG06",
         "hasc:id":"LV.DV",
+        "iso:code":"LV-DGV",
         "iso:id":"LV-DGV",
+        "qs:local_id":"0500",
         "wd:id":"Q80021"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"a49797e740fdd28cf97bc35911d422a9",
+    "wof:geomhash":"7e90fdc214b76a0af682dcdf8068e2dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -415,7 +421,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938795,
+    "wof:lastmodified":1695885328,
     "wof:name":"Daugavpils",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

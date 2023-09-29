@@ -17,7 +17,7 @@
     "eurostat:population":5783,
     "eurostat:population_year":2020,
     "geom:area":0.074787,
-    "geom:area_square_m":496359748.160011,
+    "geom:area_square_m":496359821.177743,
     "geom:bbox":"24.893669,57.383519,25.407853,57.674405",
     "geom:latitude":57.537599,
     "geom:longitude":25.191482,
@@ -286,11 +286,17 @@
         "gn:id":7628374,
         "gp:id":-2346042,
         "hasc:id":"LV.VR",
+        "iso:code":"LV-045",
         "iso:id":"LV-045",
+        "qs:local_id":"9602",
         "wd:id":"Q2304840"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"368cd86e02b6fa3c458fa0098426db51",
+    "wof:geomhash":"26fb690e1d5bad67086ad492d3c736fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -305,7 +311,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938811,
+    "wof:lastmodified":1695885332,
     "wof:name":"Kocenu",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

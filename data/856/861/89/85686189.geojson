@@ -17,7 +17,7 @@
     "eurostat:population":3555,
     "eurostat:population_year":2020,
     "geom:area":0.080376,
-    "geom:area_square_m":539854328.527418,
+    "geom:area_square_m":539854191.584927,
     "geom:bbox":"25.449578,56.958878,25.927059,57.280876",
     "geom:latitude":57.099355,
     "geom:longitude":25.704116,
@@ -288,11 +288,17 @@
         "gn:id":7628383,
         "gp:id":-2346042,
         "hasc:id":"LV.VB",
+        "iso:code":"LV-104",
         "iso:id":"LV-104",
+        "qs:local_id":"4293",
         "wd:id":"Q1920815"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"a55018c1d34317dbe3073c10ad004480",
+    "wof:geomhash":"db06b7d22515e70d96f0df21965f8632",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -307,7 +313,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938790,
+    "wof:lastmodified":1695885331,
     "wof:name":"Vecpiebalgas",
     "wof:parent_id":85633279,
     "wof:placetype":"region",

@@ -298,11 +298,17 @@
         "gn:id":7628314,
         "gp:id":-2346037,
         "hasc:id":"LV.EN",
+        "iso:code":"LV-029",
         "iso:id":"LV-029",
+        "qs:local_id":"9051",
         "wd:id":"Q2079455"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LV",
-    "wof:geomhash":"e6b16193a96639f79e685ce35ff636d7",
+    "wof:geomhash":"20460cbd13bd2e0768305d01633bb54c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -317,7 +323,7 @@
     "wof:lang_x_spoken":[
         "lav"
     ],
-    "wof:lastmodified":1690938789,
+    "wof:lastmodified":1695885330,
     "wof:name":"Engures",
     "wof:parent_id":85633279,
     "wof:placetype":"region",
