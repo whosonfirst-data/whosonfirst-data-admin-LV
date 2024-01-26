@@ -12,6 +12,7 @@
     "gn:admin1_code":"10",
     "gn:admin2_code":"560298.0",
     "gn:asciiname":"Zasa",
+    "gn:cc2":"LV",
     "gn:country_code":"LV",
     "gn:dem":119,
     "gn:feature_class":"P",
@@ -44,7 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":453823
+        "gn:id":453823,
+        "wk:page":"Zasa_parish"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            453947
+        ]
     },
     "wof:country":"LV",
     "wof:geomhash":"f2dc055d445398e8032b731705e90b3a",
@@ -57,13 +64,15 @@
         }
     ],
     "wof:id":1276569327,
-    "wof:lastmodified":1566598890,
+    "wof:lastmodified":1706240346,
     "wof:name":"Zasa",
     "wof:parent_id":85685889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360180599
+    ],
     "wof:tags":[]
 },
   "bbox": [

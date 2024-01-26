@@ -12,6 +12,7 @@
     "gn:admin1_code":"69",
     "gn:admin2_code":"440856.0",
     "gn:asciiname":"Lasi",
+    "gn:cc2":"LV",
     "gn:country_code":"LV",
     "gn:dem":132,
     "gn:feature_class":"P",
@@ -46,6 +47,11 @@
     "wof:concordances":{
         "gn:id":454821
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            458269
+        ]
+    },
     "wof:country":"LV",
     "wof:geomhash":"ce8902760eb599aa85a995768fcc8168",
     "wof:hierarchy":[
@@ -57,13 +63,15 @@
         }
     ],
     "wof:id":1277106283,
-    "wof:lastmodified":1566598917,
+    "wof:lastmodified":1706240346,
     "wof:name":"Lasi",
     "wof:parent_id":85685815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327126165
+    ],
     "wof:tags":[]
 },
   "bbox": [

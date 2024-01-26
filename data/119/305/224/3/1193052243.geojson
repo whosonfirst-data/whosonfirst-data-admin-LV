@@ -53,8 +53,13 @@
     "wof:concordances":{
         "gn:id":459392
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            458868
+        ]
+    },
     "wof:country":"LV",
-    "wof:geomhash":"230cef833798a54e94c1c3e0edd5fa0d",
+    "wof:geomhash":"975563c0a1c5f702c36b95b570b5dace",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,20 +69,22 @@
         }
     ],
     "wof:id":1193052243,
-    "wof:lastmodified":1566598970,
+    "wof:lastmodified":1706240345,
     "wof:name":"Kempji",
     "wof:parent_id":85686153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260206357
+    ],
     "wof:tags":[]
 },
   "bbox": [
     25.06868,
-    57.21984000000001,
+    57.21984,
     25.06868,
-    57.21984000000001
+    57.21984
 ],
-  "geometry": {"coordinates":[25.06868,57.21984000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.06868,57.21984],"type":"Point"}
 }

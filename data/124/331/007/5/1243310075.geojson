@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":461330
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7602838
+        ]
+    },
     "wof:country":"LV",
     "wof:geomhash":"e7814529179621fa555f768957aa28ae",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1243310075,
-    "wof:lastmodified":1566599096,
+    "wof:lastmodified":1706240346,
     "wof:name":"Stali",
     "wof:parent_id":85686295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309972361
+    ],
     "wof:tags":[]
 },
   "bbox": [

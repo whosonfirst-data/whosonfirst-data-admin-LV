@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":456559
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            456557
+        ]
+    },
     "wof:country":"LV",
-    "wof:geomhash":"086088fab462f715e03f24f077d7c498",
+    "wof:geomhash":"8b5448dbb3f33ba90e0d1537631963cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,20 +63,22 @@
         }
     ],
     "wof:id":1225974993,
-    "wof:lastmodified":1566599182,
+    "wof:lastmodified":1706240346,
     "wof:name":"Polkorona",
     "wof:parent_id":85685977,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326586301
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    26.75987000000001,
+    26.75987,
     56.43702,
-    26.75987000000001,
+    26.75987,
     56.43702
 ],
-  "geometry": {"coordinates":[26.75987000000001,56.43702],"type":"Point"}
+  "geometry": {"coordinates":[26.75987,56.43702],"type":"Point"}
 }

@@ -9,7 +9,22 @@
     "geom:bbox":"23.942097,56.903319,23.997313,56.939176",
     "geom:latitude":56.92225,
     "geom:longitude":23.973165,
+    "gn:admin1_code":"95",
+    "gn:admin2_code":"807600.0",
+    "gn:asciiname":"Skulte",
+    "gn:country_code":"LV",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":455499,
+    "gn:latitude":56.91922,
+    "gn:longitude":23.95279,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Skulte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
     "iso:country":"LV",
+    "lbl:bbox":"23.93279,56.89922,23.97279,56.93922",
     "lbl:latitude":56.923678,
     "lbl:longitude":23.975884,
     "lbl:max_zoom":18.0,
@@ -69,7 +84,12 @@
         "qs_pg:id":219893
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1349971
+        "gn:id":[
+            455499
+        ],
+        "qs_pg:id":[
+            1349971
+        ]
     },
     "wof:country":"LV",
     "wof:geom_alt":[
@@ -85,13 +105,15 @@
         }
     ],
     "wof:id":101816355,
-    "wof:lastmodified":1637794665,
+    "wof:lastmodified":1706240345,
     "wof:name":"Skulte",
     "wof:parent_id":85686007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259617071
+    ],
     "wof:tags":[]
 },
   "bbox": [
