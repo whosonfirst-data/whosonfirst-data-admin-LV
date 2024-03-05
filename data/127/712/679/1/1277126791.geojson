@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"26.22756,57.60427,26.22756,57.60427",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Birzu\u013ci"
@@ -50,7 +52,7 @@
         "gn:id":460931
     },
     "wof:country":"LV",
-    "wof:geomhash":"bd121102897d294ce164235c556734bf",
+    "wof:geomhash":"396189c35e41996bf974831c316b662b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,20 +62,22 @@
         }
     ],
     "wof:id":1277126791,
-    "wof:lastmodified":1566598899,
+    "wof:lastmodified":1706240346,
     "wof:name":"Cirgali",
     "wof:parent_id":85686295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259629905
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     26.22756,
-    57.60426999999999,
+    57.60427,
     26.22756,
-    57.60426999999999
+    57.60427
 ],
-  "geometry": {"coordinates":[26.22756,57.60426999999999],"type":"Point"}
+  "geometry": {"coordinates":[26.22756,57.60427],"type":"Point"}
 }

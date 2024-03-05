@@ -60,7 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":454907
+        "gn:id":454907,
+        "wk:page":"Tetele"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            864213
+        ]
     },
     "wof:country":"LV",
     "wof:geomhash":"638697cfb868f2cfe44f973dec3fdb04",
@@ -73,13 +79,15 @@
         }
     ],
     "wof:id":1226279185,
-    "wof:lastmodified":1566599169,
+    "wof:lastmodified":1706240346,
     "wof:name":"Tetele",
     "wof:parent_id":85685907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242608957
+    ],
     "wof:tags":[]
 },
   "bbox": [

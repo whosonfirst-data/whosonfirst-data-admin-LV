@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"25.98164,56.29263,25.98164,56.29263",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Myza Zasa",
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":1360180599,
-    "wof:lastmodified":1566599042,
+    "wof:lastmodified":1706240346,
     "wof:name":"Zasa",
     "wof:parent_id":85685889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276569327
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
